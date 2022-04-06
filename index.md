@@ -1,8 +1,8 @@
-This is a simple list of links to my various accounts.
+This is a simple list of links to my various accounts:
 
-[Email daniel@dantasfiles.com](mailto:daniel@dantasfiles.com)
+* [**Email** daniel@dantasfiles.com](mailto:daniel@dantasfiles.com)
 
-[Hire me from LinkedIn](https://www.linkedin.com/in/dantasfiles)
+* [Hire me from **LinkedIn**](https://www.linkedin.com/in/dantasfiles)
 
-[Follow @dantasfiles on Twitter](https://twitter.com/dantasfiles)
+* [Follow @dantasfiles on **Twitter**](https://twitter.com/dantasfiles)
 
