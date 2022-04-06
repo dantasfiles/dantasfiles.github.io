@@ -1,5 +1,5 @@
 ---
-title: Daniel Dantas
+title: Daniel S. Dantas
 ---
 
 # How to contact me:
@@ -8,5 +8,8 @@ title: Daniel Dantas
 
 * [Check out my past work on **LinkedIn**](https://www.linkedin.com/in/dantasfiles)
 
+* [Read my technical writings on **Medium**](https://medium.com/@dantasfiles)
+
 * [Follow @dantasfiles on **Twitter**](https://twitter.com/dantasfiles)
+
 
