@@ -1,4 +1,3 @@
-# Daniel Dantas
 ## How to contact me:
 
 * [**Email** daniel@dantasfiles.com](mailto:daniel@dantasfiles.com)
