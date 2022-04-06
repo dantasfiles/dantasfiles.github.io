@@ -1,4 +1,4 @@
-This is a simple list of links to my various accounts:
+This is a simple list of how you can contact me:
 
 * [**Email** daniel@dantasfiles.com](mailto:daniel@dantasfiles.com)
 
