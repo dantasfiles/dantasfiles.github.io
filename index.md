@@ -1,4 +1,4 @@
-This is a simple list of how you can contact me:
+# How to contact me:
 
 * [**Email** daniel@dantasfiles.com](mailto:daniel@dantasfiles.com)
 
