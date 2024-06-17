@@ -1,5 +1,5 @@
 ---
-title: Daniel S. Dantas
+title: Daniel Dantas
 ---
 
 # How to contact me:
