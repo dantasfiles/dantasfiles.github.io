@@ -1,5 +1,5 @@
 ---
-title: Daniel Dantas (@dantasfiles)
+title: Daniel Dantas (@dantasfiles) 
 ---
 
 # How to contact me:
