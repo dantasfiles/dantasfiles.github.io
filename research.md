@@ -13,4 +13,10 @@ ACM Principles and Practice of Declarative Programming
 D Dantas, David Walker, G Washburn, S Weirich<br>
 ACM Transactions on Programming Languages & Systems
 
+[**A Simple and Expressive Semantic Framework for Policy Composition in Access Control**](https://dl.acm.org/doi/10.1145/1314436.1314439)<br>
+G Bruns, D Dantas, M Huth<br>
+ACM Formal Methods in Security Engineering: From Specifications to Code
+
+
+
 [**← Home**](/)
