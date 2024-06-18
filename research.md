@@ -1,5 +1,6 @@
 ---
 title: Daniel Dantas (@dantasfiles)
 ---
-[← Home](/)
+[**← Home**](/)
+
 #Research
