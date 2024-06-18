@@ -20,3 +20,8 @@ $body-link-color: #000000 !default;
     padding: 0rem 1rem;
   }
 }
+
+.main-content {
+  @include small {
+        padding: 1rem 1rem;
+}
