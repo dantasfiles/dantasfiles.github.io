@@ -12,7 +12,7 @@ title: Daniel Dantas (@dantasfiles)
 
 * [Read my technical writings on **Medium** →](https://medium.com/@dantasfiles)
 
-* [Read my research papers on on **Google Scholar** →](https://scholar.google.com/citations?user=kGsoFNQAAAAJ)
+* [Read my research papers on **Google Scholar** →](https://scholar.google.com/citations?user=kGsoFNQAAAAJ)
 
 * [Follow @dantasfiles on **Twitter** →](https://twitter.com/dantasfiles)
 
