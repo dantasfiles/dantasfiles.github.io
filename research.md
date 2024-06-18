@@ -1,8 +1,6 @@
 ---
-title: [Daniel Dantas (@dantasfiles)](/)
+title: Daniel Dantas (@dantasfiles)
 ---
-[**← Home**](/)
-
 # Research
 
 [**Language Support for Processing Distributed Ad Hoc Data**](https://dl.acm.org/doi/10.1145/1599410.1599440)<br>
@@ -25,8 +23,16 @@ Princeton University Ph.D Thesis
 D Dantas, D Walker<br>
 ACM Principles of Programming Languages
 
+[**PolyAML: A Polymorphic Aspect-oriented Functional Programming Language**](https://dl.acm.org/doi/10.1145/1086365.1086404)<br>
+D Dantas, D Walker, G Washburn, S Weirich<br>
+ACM International Conference on Functional Programming
 
+[**Harmless Advice**](https://homepages.inf.ed.ac.uk/wadler/fool/program/6.html)<br>
+D Dantas, D Walker<br>
+ACM Foundations of Foundations of Object-oriented Languages
 
-
+[**On the Need for System-Level Support for Ad-hoc & Sensor Networks**](https://dl.acm.org/doi/10.1145/509526.509528)<br>
+R Barr, JC Bicket, D Dantas, B Du, TWD Kim, B Zhou, EG Sirer<br>
+ACM Operating Systems Review
 
 [**← Home**](/)
