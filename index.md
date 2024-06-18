@@ -1,6 +1,5 @@
 ---
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-title: Daniel Dantas (@dantasfiles) 
+title: ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Daniel sDantas (@dantasfiles) 
 ---
 
 # How to contact me:
