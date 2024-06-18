@@ -1,6 +1,5 @@
 ---
-title: Daniel Dantas
-description: (@dantasfiles)
+title: Daniel Dantas (@dantasfiles)
 ---
 
 # How to contact me:
@@ -13,7 +12,7 @@ description: (@dantasfiles)
 
 * [Read my technical writings on **Medium** →](https://medium.com/@dantasfiles)
 
-* [Read my research papers on **Google Scholar** →](https://scholar.google.com/citations?user=kGsoFNQAAAAJ)
+* [Read my research papers on on **Google Scholar** →](https://scholar.google.com/citations?user=kGsoFNQAAAAJ)
 
 * [Follow @dantasfiles on **Twitter** →](https://twitter.com/dantasfiles)
 
