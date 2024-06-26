@@ -6,7 +6,7 @@ title: Daniel Dantas (@dantasfiles)
 
 * [**Email** daniel@dantasfiles.com →](mailto:daniel@dantasfiles.com)
 
-* [Check out my past work on **LinkedIn** →](https://www.linkedin.com/in/dantasfiles)
+* [Check out my work experience on **LinkedIn** →](https://www.linkedin.com/in/dantasfiles)
 
 * [Check out my code on **GitHub** →](https://github.com/dantasfiles)
 
