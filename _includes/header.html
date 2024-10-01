@@ -6,19 +6,29 @@
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">🌆 {{ site.title | escape }}</a><br>
     <h2 id="code--cv--research">
-      <a href="https://github.com/dantasfiles&quot;">
-        <strong>💻code</strong>
+      <a rel="me" href="https://www.github.com/u/dantasfiles" target="_blank" title="github">
+        <strong>
+          code @ 
+          <svg class="svg-icon black">
+            <use xlink:href="/newweb/assets/minima-social-icons.svg#github"></use>
+          </svg>
+        </strong>
       </a> | 
       <a rel="me" href="https://www.linkedin.com/in/dantasfiles" target="_blank" title="linkedin">
         <strong>
+          cv @ 
           <svg class="svg-icon black">
             <use xlink:href="/newweb/assets/minima-social-icons.svg#linkedin"></use>
           </svg>
-          cv
         </strong>
       </a> | 
-      <a href="https://scholar.google.com/citations?user=kGsoFNQAAAAJ">
-        <strong>🧪research</strong>
+      <a rel="me" href="https://scholar.google.com/citations?user=kGsoFNQAAAAJ" target="_blank" title="google-scholar">
+        <strong>
+          research @ 
+          <svg class="svg-icon black">
+            <use xlink:href="/newweb/assets/minima-social-icons.svg#google-scholar"></use>
+          </svg>
+        </strong>
       </a>
     </h2>
 
