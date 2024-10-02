@@ -6,6 +6,10 @@
   @include relative-font-size(1.25);
 }
 
+.post-list-heading {
+  border-top: 1px solid $border-color-01;
+}
+
 .post-link-padding {
   margin-bottom: 0px;
 }
