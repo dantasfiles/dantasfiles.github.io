@@ -1,8 +1,8 @@
 @charset "utf-8";
 
 $lm-link-base-color: #b509ac;
-$lm-link-visited-color: #b509ac;
-$lm-site-title-color: black;
+$lm-link-visited-color: $lm-link-base-color;
+$lm-site-title-color: $lm-text-color;
 $color-scheme-auto: false;
 $color-scheme-dark: false;
 @import "minima/skins/auto";
