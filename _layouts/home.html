@@ -28,7 +28,7 @@ layout: base
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3 class="post-link-padding">
           {% if post.redirect contains '://' %}
-          <a class="post-link" href="{{ post.redirect }}" target="_blank">{{ post.title | escape }}</a>
+          <a class="post-link" href="{{ post.redirect }}" target="_blank">{{ post.title }}</a>
           {% else %}
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
