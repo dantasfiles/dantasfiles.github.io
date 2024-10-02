@@ -1,0 +1,5 @@
+---
+title: "Teaching Assistant for Princeton COS 326: Compiling Techniques"
+description: "Understand the design and construction of compilers. Concepts include syntax analysis, semantics, code generation, and optimization. Translation of imperative languages (such as C), functional languages (such as ML), and object-oriented languages (such as Java) will be studied."
+redirect: https://www.cs.princeton.edu/courses/archive/spring04/cos320/details.htm
+---
