@@ -53,7 +53,7 @@ layout: base
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          ● {{ post.description }}
+          <div class="post-description-padding">{{ post.description }}</div>
         {%- endif -%}
       </li>
       {%- endfor -%}
