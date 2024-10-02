@@ -1,5 +1,5 @@
 ---
-title: "Fitbit Data JSON to .csv File Converter"
+title: "Fitbit data JSON to .csv file converter"
 description: "Patched an existing tool, iccir919.github.io/fitbit-json-to-csv, to fix two issues"
 ---
 
