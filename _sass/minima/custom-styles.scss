@@ -5,3 +5,7 @@
 .post-link {
   @include relative-font-size(1.25);
 }
+
+.post-link-padding {
+  margin-bottom: 0px;
+}
