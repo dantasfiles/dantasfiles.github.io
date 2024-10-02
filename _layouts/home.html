@@ -47,13 +47,13 @@ layout: base
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <h3 class="post-link-padding">
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          <ul><li>{{ post.description }}</li></ul>
+          ● {{ post.description }}
         {%- endif -%}
       </li>
       {%- endfor -%}
