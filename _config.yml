@@ -12,3 +12,4 @@ minima:
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=kGsoFNQAAAAJ" }
     - { platform: x,              user_url: "https://x.com/dantasfiles" }
 
+future: true
