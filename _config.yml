@@ -13,3 +13,7 @@ minima:
     - { platform: x,              user_url: "https://x.com/dantasfiles" }
 
 future: true
+
+plugins:
+  - jekyll-sitemap
+
