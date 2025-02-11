@@ -1,5 +1,4 @@
 title: Daniel @ Dantas Files
-# show_excerpts: true
 paginate: 20
 description: "Technology in NJ. Ph.D from 🐯Princeton Computer Science. B.S. from 🐻Cornell Computer Science"
 future: true
@@ -14,11 +13,10 @@ plugins:
   
 remote_theme: jekyll/minima
 
-
+show_excerpts: true
 
 
 minima:
-  show_excerpts: true
   social_links:
     - icon: github
       url: "https://github.com/dantasfiles"
