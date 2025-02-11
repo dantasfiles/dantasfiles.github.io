@@ -31,7 +31,7 @@ layout: base
           <a class="post-link" href="{{ post.redirect }}" target="_blank">{{ post.title }}</a>
           {% else %}
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+            {{ post.title }}
           </a>
           {% endif %}
         </h3>
