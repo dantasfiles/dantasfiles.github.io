@@ -1,11 +1,11 @@
 title: Daniel @ Dantas Files
-show_excerpts: true
+# show_excerpts: true
 paginate: 20
-description: "I enjoy exploring, diagnosing & transforming large, complex software projects. Ph.D from 🐯Princeton Computer Science. B.S. from 🐻Cornell Computer Science"
+description: "Technology in NJ. Ph.D from 🐯Princeton Computer Science. B.S. from 🐻Cornell Computer Science"
 future: true
 author:
   name: Daniel Dantas
-  email: daniel@dantasfiles
+  email: daniel@dantasfiles.com
 
 plugins:
   - jekyll-sitemap
@@ -23,7 +23,10 @@ minima:
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/dantasfiles" }
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=kGsoFNQAAAAJ" }
     - { platform: x,              user_url: "https://x.com/dantasfiles" }
-
-
-
+  social_links:
+    - icon: github
+      url: "https://github.com/dantasfiles"
+  #  - title: Jekyll at X (formerly Twitter)
+  #    icon: x-twitter
+  #    url: "https://x.com/jekyllrb"
 
