@@ -26,7 +26,11 @@ minima:
   social_links:
     - icon: github
       url: "https://github.com/dantasfiles"
-  #  - title: Jekyll at X (formerly Twitter)
-  #    icon: x-twitter
-  #    url: "https://x.com/jekyllrb"
+    - icon: x-twitter
+      url: "https://x.com/dantasfiles"
+    - icon: google-scholar
+      url: "https://scholar.google.com/citations?user=kGsoFNQAAAAJ"
+    - icon: linkedin
+      url: "https://www.linkedin.com/in/dantasfiles"
+      
 
