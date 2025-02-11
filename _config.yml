@@ -2,8 +2,13 @@ title: Daniel Dantas (@dantasfiles)
 show_excerpts: true
 paginate: 20
 description: "I enjoy exploring, diagnosing & transforming large, complex software projects. Ph.D from 🐯Princeton Computer Science. B.S. from 🐻Cornell Computer Science"
+future: true
 
 remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-sitemap
+
 
 minima:
   social_links:
@@ -12,9 +17,6 @@ minima:
     - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=kGsoFNQAAAAJ" }
     - { platform: x,              user_url: "https://x.com/dantasfiles" }
 
-future: true
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
+
+
