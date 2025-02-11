@@ -4,12 +4,12 @@ paginate: 20
 description: "I enjoy exploring, diagnosing & transforming large, complex software projects. Ph.D from 🐯Princeton Computer Science. B.S. from 🐻Cornell Computer Science"
 future: true
 
-remote_theme: jekyll/minima
-
 plugins:
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
+  
+remote_theme: jekyll/minima
+
+
 
 
 minima:
