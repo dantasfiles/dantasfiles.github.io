@@ -18,6 +18,7 @@ remote_theme: jekyll/minima
 
 
 minima:
+  show_excerpts: true
   social_links:
     - icon: github
       url: "https://github.com/dantasfiles"
