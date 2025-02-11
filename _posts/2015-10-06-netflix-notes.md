@@ -1,5 +1,5 @@
 ---
-title: "Created a GitHub pull request to fix an existing Chrome extension"
+title: "<i>Remove notes to avoid MAX_ITEMS error</i> pull request to fix Netflix Notes Chrome extension"
 author: Daniel Dantas
 # redirect: https://github.com/mmorearty/netflix-notes/pull/1
 ---
