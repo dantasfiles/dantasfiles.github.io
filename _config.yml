@@ -1,8 +1,9 @@
-title: Daniel Dantas (@dantasfiles)
+title: Daniel @ Dantas Files
 show_excerpts: true
 paginate: 20
 description: "I enjoy exploring, diagnosing & transforming large, complex software projects. Ph.D from 🐯Princeton Computer Science. B.S. from 🐻Cornell Computer Science"
 future: true
+author: Daniel Dantas
 
 plugins:
   - jekyll-sitemap
