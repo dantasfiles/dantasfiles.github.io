@@ -2,10 +2,6 @@
   @include relative-font-size(2);
 }
 
-.current-page {
-  font-weight: bold;
-}
-
 .post-link {
   @include relative-font-size(1.2);
 }
