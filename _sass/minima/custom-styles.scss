@@ -2,6 +2,10 @@
   @include relative-font-size(2);
 }
 
+.page-content {
+  padding: 0px;
+}
+
 .post-link {
   @include relative-font-size(1.2);
 }
