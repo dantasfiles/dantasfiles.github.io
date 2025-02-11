@@ -4,7 +4,7 @@ author: Daniel Dantas
 # redirect: https://github.com/mmorearty/netflix-notes/pull/1
 ---
 
-## 💻GitHub
+## [💻GitHub](https://github.com/mmorearty/netflix-notes/pull/1)
 
 > The current version of netflix-notes is fantastic but never removes notes. The maximum amount of items an extension can place into [Chrome sync storage](https://developer.chrome.com/docs/extensions/reference/api/storage#property-sync) is [512 items](https://developer.chrome.com/docs/extensions/reference/api/storage#properties_4)--attempting to add any further items will result in a MAX_ITEMS error. As a result, when you've used Netflix Notes for some time and entered small notes for 512 films at various times over the years, attempting to add any further notes will fail with a MAX_ITEMS error, and the extension becomes unusable. The only fix I've determined is to uninstall and reinstall the extension, which loses all existing notes.
 
