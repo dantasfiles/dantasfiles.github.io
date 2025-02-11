@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for Princeton COS 126: Computer Science: An Interdisciplinary Approach"
+title: "Teaching Assistant for <i>Computer Science: An Interdisciplinary Approach</i> (Princeton COS 126)"
 description: "An introduction to computer science in the context of scientific, engineering, and commercial applications. Topics include: programming in Java; hardware and software systems; algorithms and data structures; fundamental principles of computation; and scientific computing, including simulation, optimization, and data analysis."
 author: Daniel Dantas
 # redirect: https://web.archive.org/web/20100621101618/https://whiteboard.cs.princeton.edu/staff.php?course=COS126&semester=spring05
