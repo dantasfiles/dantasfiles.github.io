@@ -10,7 +10,7 @@ author:
 - Jeffrey Vinocur
 ---
 
-# [📰 Article](https://web.archive.org/web/20170617185847/http://www.cs.cornell.edu/ugrad/NewsOther/NewsSpring2000.html#Lockheed%20Winners2000)
+## [📰 Article](https://web.archive.org/web/20170617185847/http://www.cs.cornell.edu/ugrad/NewsOther/NewsSpring2000.html#Lockheed%20Winners2000)
 
 > Five sophomore computer science majors were recently selected as this year's recipients of the [Lockheed Martin](https://www.lockheedmartin.com/) Awards for Outstanding Achievement and Academic Service. The winners of this year's awards are: John Blitzer, Daniel Dantas, Nidhi Kalra, Benjamin Ragheb, and Jeffrey Vinocur.
 
