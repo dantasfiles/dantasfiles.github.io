@@ -1,5 +1,5 @@
 ---
-title: Princeton Computer Science unofficial reading list (Spring '25)
+title: Princeton computer science unofficial reading list (Spring '25)
 description: This is an unofficial list of books that are recommended in Spring 2025 computer science classes at Princeton
 ---
 
