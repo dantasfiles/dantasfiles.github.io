@@ -5,6 +5,7 @@ future: true
 author:
   name: Daniel Dantas
   email: daniel@dantasfiles.com
+  url: https://dantasfiles.com/
 
 plugins:
   - jekyll-sitemap
