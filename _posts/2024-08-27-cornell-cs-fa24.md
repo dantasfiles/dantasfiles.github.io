@@ -6,7 +6,7 @@ hidden: true
 
 ### [Spring '25→](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
 
-See also the **[Cornell AI unofficial reading list (Fall ‘24)](https://dantasfiles.substack.com/p/cornell-artificial-intelligence-unofficial)**
+See also the **[Cornell AI unofficial reading list (Fall ‘24)](https://dantasfiles.com/2024/08/27/cornell-ai-fall24.html)**
 
 This is an unofficial list of books that are recommended in Fall 2024 computer science classes at Cornell\
 The books marked with a ✨ are ones I’ve been interested enough in to read at length
