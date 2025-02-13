@@ -5,6 +5,7 @@ description: This is an unofficial list of books that are recommended in Spring 
 
 ### [←Fall '24](https://dantasfiles.com/2024/09/03/princeton-cs-fa24.html)
 
+This is an unofficial list of books that are recommended in Spring 2025 computer science classes at Princeton\
 The books marked with a ✨ are ones I’ve been interested enough in to read at length
 
 | Freshman level | |
