@@ -3,7 +3,7 @@ title: Cornell CS unofficial reading list (Spr. '25)
 description: An unofficial list of books that are recommended in Spring 2025 computer science classes at Cornell.
 ---
 
-### [← Fall '24](https://dantasfiles.substack.com/p/cornell-computer-science-unofficial)
+### [←Fall '24](https://dantasfiles.com/2024/08/27/cornell-cs-fa24.html)
 
 See also the **[Cornell AI unofficial reading list (Spring ‘25)](https://dantasfiles.substack.com/p/cornell-ai-reading-list-spring-2025)**
 
@@ -66,4 +66,4 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | **[Human-Robot Interaction: Algorithms & Experiments](https://hriclass.com/)** <br> CS 6754 | ● _Computational Human-Robot Interaction_ by Thomaz, Hoffman & Cakmak <br> ● _Artificial Intelligence: A Modern Approach_ by Russell & Norvig <br> ● _[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)_ by Sutton & Barto <br> ● _Probabilistic Robotics_ by Thrun, Burgard & Fox <br> See website for paper list |
 | **[Special Topics in Complexity Theory](https://www.cs.cornell.edu/courses/cs6817/2025sp/)** <br> CS 6817 | ● _Analysis of Boolean Functions_ by Ryan O’Donnell |
 
-### [←Fall ‘24](https://dantasfiles.substack.com/p/cornell-computer-science-unofficial)
+### [←Fall '24](https://dantasfiles.com/2024/08/27/cornell-cs-fa24.html)
