@@ -1,6 +1,7 @@
 ---
-title: Cornell Artificial Intelligence unofficial reading list (Fall '24)
+title: Cornell AI unofficial reading list (Fall '24)
 description: This is an unofficial list of books that are recommended in Fall 2024 courses for the artificial intelligence minor at Cornell
+hidden: true
 ---
 
 # Cornell Artificial Intelligence unofficial reading list (Fall '24)
