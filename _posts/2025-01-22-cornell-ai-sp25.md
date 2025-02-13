@@ -3,7 +3,7 @@ title: Cornell AI unofficial reading list (Spr. '25)
 description: This is an unofficial list of books that are recommended in Spring 2025 courses for the artificial intelligence minor at Cornell.
 ---
 
-### [←Fall ‘24](https://dantasfiles.substack.com/p/cornell-artificial-intelligence-unofficial)
+### [←Fall '24](https://dantasfiles.com/2024/08/27/cornell-ai-fall24.html)
 
 See also the **[Cornell CS unofficial reading list (Spr. '25)](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)**
 
@@ -32,6 +32,6 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | **[Intro. to Deep Learning](https://www.cs.cornell.edu/courses/cs4782/2025sp/)** <br> CS 4782 | ● _[Dive Into Deep Learning](https://d2l.ai/)_ by Zhang, Lipton, Li & Smola <br> ● _[Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)_ by Kevin Murphy <br> ● _[The Elements of Statistical Learning: Data Mining, Inference& Prediction](https://hastie.su.domains/ElemStatLearn/)_ by Hastie, Tibshirani & Friedman <br> ● _Introduction to Linear Algebra_ by Gilbert Strang |
  **[Intro. to Reinforcement Learning](https://wensun.github.io/CS4789_spring_2025.html)** <br> CS 4789 | ● _[Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)_ by Agarwal, Jiang, Kakade & Sun <br> ● _[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)_ by Sutton & Barto |
 
-### [←Fall ‘24](https://dantasfiles.substack.com/p/cornell-artificial-intelligence-unofficial)
+### [←Fall '24](https://dantasfiles.com/2024/08/27/cornell-ai-fall24.html)
 
 * * *
