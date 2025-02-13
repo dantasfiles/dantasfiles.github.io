@@ -1,9 +1,6 @@
 ---
 title: Cornell Artificial Intelligence unofficial reading list (Fall '24)
-subtitle: This is an unofficial list of books that are recommended in Fall 2024 courses for the artificial intelligence minor at Cornell.
-author: Daniel Dantas
-publication: daniel @ dantas files
-date: August 27, 2024
+description: This is an unofficial list of books that are recommended in Fall 2024 courses for the artificial intelligence minor at Cornell
 ---
 
 # Cornell Artificial Intelligence unofficial reading list (Fall '24)
