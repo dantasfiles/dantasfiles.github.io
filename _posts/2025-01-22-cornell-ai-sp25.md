@@ -7,7 +7,7 @@ description: This is an unofficial list of books that are recommended in Spring 
 
 See also the **[Cornell CS unofficial reading list (Spr. '25)](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)**
 
-This is an unofficial list of books that are recommended in Spring 2025 courses for the [artificial intelligence minor at Cornell](https://prod.cis.cornell.edu/undergraduate-opportunities/minors/artificial-intelligence/ai-minor-requirements)\
+This is an unofficial list of books that are recommended in Spring 2025 courses for the **[artificial intelligence minor at Cornell](https://prod.cis.cornell.edu/undergraduate-opportunities/minors/artificial-intelligence/ai-minor-requirements)**\
 The books marked with a ✨ are ones I’ve been interested enough in to read at length 
 
 | Foundations of AI: Machine Learning | |
