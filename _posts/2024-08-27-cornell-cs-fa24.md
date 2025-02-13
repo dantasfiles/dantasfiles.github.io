@@ -1,6 +1,7 @@
 ---
 title: Cornell CS unofficial reading list (Fall '24)
 description: This is an unofficial list of books that are recommended in Fall 2024 computer science classes at Cornell
+hidden: true
 ---
 
 ### [Spring '25→](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
