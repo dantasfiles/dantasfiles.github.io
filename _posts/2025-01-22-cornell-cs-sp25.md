@@ -1,12 +1,13 @@
 ---
 title: Cornell CS unofficial reading list (Spr. '25)
-description: An unofficial list of books that are recommended in Spring 2025 computer science classes at Cornell.
+description: This is an unofficial list of books that are recommended in Spring 2025 computer science classes at Cornell
 ---
 
 ### [←Fall '24](https://dantasfiles.com/2024/08/27/cornell-cs-fa24.html)
 
 See also the **[Cornell AI unofficial reading list (Spring ‘25)](https://dantasfiles.substack.com/p/cornell-ai-reading-list-spring-2025)**
 
+This is an unofficial list of books that are recommended in Spring 2025 computer science classes at Cornell\
 The books marked with a ✨ are ones I’ve been interested enough in to read at length
 
 | Freshman level | |
