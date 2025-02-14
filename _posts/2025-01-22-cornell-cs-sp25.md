@@ -12,7 +12,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Freshman level | |
 | :---: | --- |
-| **[Intro. to Computing: A Design and Development Perspective](https://canvas.cornell.edu/courses/72392)** <br> CS 1110, **[📄my notes](https://dantasfiles.substack.com/p/notes-on-introduction-to-computing)** | ● ✨ ***[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)*** ✨ by Allen B. Downey
+| **[Intro. to Computing: A Design and Development Perspective](https://canvas.cornell.edu/courses/72392)** <br> CS 1110, **[📄my notes](https://dantasfiles.com/2024/12/06/cornell-cs1110-fa24.html)** | ● ✨ ***[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)*** ✨ by Allen B. Downey
 | **[Choices & Consequences in Computing](https://www.cs.cornell.edu/courses/cs1340/2025sp/)** <br> CS 1340 | ● ✨ ***Nothing to Hide: The False Tradeoff between Privacy & Security*** ✨ by Daniel J. Solove <br> ● ✨ ***Dark Matters: On the Surveillance of Blackness*** ✨ by Simone Browne <br> ● _The Algorithmic Foundations of Differential Privacy_ by Dwork & Roth <br> ● ✨ ***The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography*** ✨ by Simon Singh <br> ● ✨ ***Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*** ✨ by James C. Scott <br> ● _Bit by Bit: Social Research in the Digital Age_ by Matthew Salganik <br> ● _Robot Ethics 2.0: From Autonomous Cars to Artificial Intelligence_ by Lin, Jenkins & Abney <br> ● ✨ ***Algorithms of Oppression: How Search Engines Reinforce Racism*** ✨ by Safiya Umoja Noble <br> See website for paper list |
 
 | Sophomore level | |
