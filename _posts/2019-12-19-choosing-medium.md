@@ -8,7 +8,7 @@ While I created a MedTech IoT project, I wanted to write guides about AWS cloud 
 **[Multi-Tenant AWS Amplify](https://medium.com/@dantasfiles/multi-tenant-aws-amplify-cc3252c4def4)**
 > In this series of posts, we explore three methods for creating multi-tenant AWS Amplify mobile apps in React Native
 
-In the past, I had a personal site created with [Wordpress](https://wordpress.org/) at dantasfiles.com. I mostly used it to publicize research results. 
+In the past, I had a personal site created with [Wordpress](https://wordpress.org/) at dantasfiles.com. I mostly used it to publicize [research results](https://scholar.google.com/citations?user=kGsoFNQAAAAJ). 
 
 ![image](https://github.com/user-attachments/assets/83232db2-6c1f-4144-86cf-379d2cd7f299)
 
