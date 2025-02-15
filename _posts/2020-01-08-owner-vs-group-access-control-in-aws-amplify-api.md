@@ -5,6 +5,7 @@ date: 2020-01-08
 description: This post compares the behavior of owner access control with group access control in the AWS Amplify API.
 redirect: https://medium.com/@dantasfiles/owner-vs-group-access-control-in-aws-amplify-api-cc64c75b6218
 tags: amazon-web-services
+author: Daniel Dantas
 ---
 
 This post compares the behavior of owner access control with group access control in the AWS Amplify API.
