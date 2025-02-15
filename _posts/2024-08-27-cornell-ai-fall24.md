@@ -1,13 +1,12 @@
 ---
-title: Cornell AI unofficial reading list (Fall '24)
+title: Cornell AI unofficial reading list (Fall 2024)
 description: This is an unofficial list of books that are recommended in Fall 2024 courses for the artificial intelligence minor at Cornell
 hidden: true
 ---
 
-# Cornell Artificial Intelligence unofficial reading list (Fall '24)
-### [Spring '25→](https://dantasfiles.com/2025/01/22/cornell-ai-sp25.html)
+### [Spring 2025→](https://dantasfiles.com/2025/01/22/cornell-ai-sp25.html)
  
-See also the **[Cornell CS unofficial reading list (Fall '24)](https://dantasfiles.com/2024/08/27/cornell-cs-fa24.html)**
+See also the **[Cornell CS unofficial reading list (Fall 2024)](https://dantasfiles.com/2024/08/27/cornell-cs-fa24.html)**
 
 This is an unofficial list of books that are recommended in Fall 2024 courses for the **[artificial intelligence minor at Cornell](https://prod.cis.cornell.edu/undergraduate-opportunities/minors/artificial-intelligence/ai-minor-requirements)**\
 The books marked with a ✨ are ones I’ve been interested enough in to read all the way through
@@ -32,6 +31,6 @@ The books marked with a ✨ are ones I’ve been interested enough in to read al
 | **[Text Mining History & Literature](https://github.com/wilkens-teaching/info3350-f24)** <br> INFO 3350 | ●  _Introduction to Computation & Programming Using Python: With Application to Computational Modeling & Understanding Data_ by John V. Guttag <br> ● _[Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/)_ by Melanie Walsh <br> ● _[Speech & Language Processing](https://web.stanford.edu/~jurafsky/slp3/)_ by Jurafsky & Martin |
 | **Minds & Machines** <br> COGST 2621 / PHIL 2621 | ● _Mindware: An Introduction to the Philosophy of Cognitive Science_ by Andy Clark <br> ● _The Pattern On The Stone: The Simple Ideas That Make Computers Work_ by W. Daniel Hillis <br> ● _Consciousness: An Introduction_ by Blackmore & Troscianko <br> ● _Who Needs Emotions?: The Brain Meets the Robot_ by Fellous & Arbib <br> ● _Intelligence Unbound: The Future of Uploaded & Machine Minds_ by Blackford & Broderick <br> ● _The Conscious Mind: In Search of a Fundamental Theory_ by David J. Chalmers <br> ● _The Character of Consciousness_ by David J. Chalmers <br> ● _Matter & Consciousness_ by Paul M. Churchland <br> ● _The Feeling Of What Happens: Body & Emotion in the Making of Consciousness_ by Antonio Damasio <br> ● _Brainstorms: Philosophical Essays on Mind & Psychology_ by Daniel C. Dennett <br> ●  _Brainchildren: Essays on Designing Minds_ by Daniel C. Dennett <br> ● _Philosophy of Mind: Classical & Contemporary Readings_ by David J. Chalmers <br> ● _Computing the Mind: How the Mind Really Works_ by Shimon Edelman <br> ● _The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds & Our World_ by Max Fisher <br> ● _Psychosemantics: The Problem of Meaning in the Philosophy of Mind_ by Jerry A. Fodor <br> ● _Artificial Minds_ by Stan Franklin <br> ● _The Information: A History, a Theory, a Flood_ by James Gleick <br> ● _Linguistics: An Introduction to Linguistic Theory_ by Curtiss, et al. <br> ● _Ethics of Artificial Intelligence_ by S. Matthew Liao <br> ● _Vision: A Computational Investigation into the Human Representation & Processing of Visual Information_ by David Marr <br> ● _How the Mind Works_ by Steven Pinker <br> ● _Words & Rules: The Ingredients Of Language_ by Steven Pinker <br> ●  _The Tell-Tale Brain: A Neuroscientist’s Quest for What Makes Us Human_ by V.S. Ramachandran <br> ● _You Look Like a Thing & I Love You: How Artificial Intelligence Works & Why It’s Making the World a Weirder Place_ by Janelle Shane <br> ● _The Mind’s I: Fantasies & Reflections On Self & Soul_ by Hofstadter & Dennett <br> ● ✨ ***[What Is ChatGPT Doing& Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)*** ✨ by Stephen Wolfram |
 
-### [Spring '25→](https://dantasfiles.com/2025/01/22/cornell-ai-sp25.html)
+### [Spring 2025→](https://dantasfiles.com/2025/01/22/cornell-ai-sp25.html)
 
 * * *
