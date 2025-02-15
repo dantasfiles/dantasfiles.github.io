@@ -10,5 +10,9 @@ The notes are still in progress as I have not yet finished reading the book
 
 ## I. Fundamental Algorithms for NLP
 
+### 2. Regular Expressions, Tokenization, Edit Distance
+
+
+
 
 
