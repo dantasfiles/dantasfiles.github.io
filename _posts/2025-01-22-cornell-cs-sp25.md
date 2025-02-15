@@ -1,5 +1,5 @@
 ---
-title: Cornell CS unofficial reading list (Spr. '25)
+title: Cornell CS unofficial reading list (Spring 2025)
 description: This is an unofficial list of books that are recommended in Spring 2025 computer science classes at Cornell
 ---
 
