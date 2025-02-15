@@ -28,7 +28,7 @@ Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via 
   * An interesting observation about the backgrounds of the early pioneers of AI: “ _although many of AI’s founding contributors would go on to explore an eclectic range of fields, including psychology and cognitive science, their backgrounds were almost exclusively centered on mathematics, electrical engineering, and physics itself._ ”
   * Her family moves to [Parsippany, NJ](https://en.wikipedia.org/wiki/Parsippany%E2%80%93Troy_Hills,_New_Jersey). Hooray, NJ!
   * Describes Yann LeCun’s early NJ days at the [Bell Labs Holmdel Complex](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex). I’ve worked in two of the Bell Labs buildings, and they had architectures that were fun to just walk around in.
-  * 
+
 ![derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval2.png: *derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval.jpg: Lee Beaumont, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons](https://github.com/user-attachments/assets/3c7c561e-ffd4-4fc6-972f-37938e9a91a1)
 
 derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval2.png: *derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval.jpg: Lee Beaumont, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
