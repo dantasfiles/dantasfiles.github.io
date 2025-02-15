@@ -2,6 +2,7 @@
 title: "<i>Analyzing Security Advice in Functional Aspect-oriented Programming Languages</i> presented as Ph.D thesis at Princeton Computer Science"
 description: "This thesis extends functional programming languages with aspect-oriented features, primarily to explore aspect-oriented enforcement of security policies."
 # redirect: https://www.cs.princeton.edu/research/techreps/TR-795-07"
+author: Daniel Dantas
 ---
 
 ## [🔗Princeton CS](https://www.cs.princeton.edu/research/techreps/488) | [📄pdf](https://www.cs.princeton.edu/techreports/2007/795.pdf)
