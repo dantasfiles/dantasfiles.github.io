@@ -28,29 +28,29 @@ First, install and open the SofaBaton app. Click **U Series** :
 
 Follow the pairing instructions:
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda705b2e-9458-43a6-9177-263b59bc7abd_1080x1360.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda705b2e-9458-43a6-9177-263b59bc7abd_1080x1360.jpeg)
+![image](https://github.com/user-attachments/assets/37028204-3b51-4477-9684-fa9a9a0688d3)
 
 Click **Add** :
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4ae270f-84ee-4d82-a82c-7b5a14a08779_1080x124.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4ae270f-84ee-4d82-a82c-7b5a14a08779_1080x124.jpeg)
+![image](https://github.com/user-attachments/assets/c95aadac-7058-486d-a802-5cb989e9e053)
 
 Choose **Infrared (IR)** :
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F907ccfe3-9233-4b36-b4b9-a3e704ff694b_1080x1264.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F907ccfe3-9233-4b36-b4b9-a3e704ff694b_1080x1264.jpeg)
+![image](https://github.com/user-attachments/assets/f42b5699-edff-4994-8c99-fea413cfac94)
 
 You can search for your device in the SofaBaton database. However, sometimes the database for a device is a bit off, and sometimes it’s hard to determine which text description in the database maps to which physical button on the original remote. 
 
 So I ended up choosing **Learn from original IR** remote and learning the buttons manually from the original remotes. It took little more time than deciphering the database did, and this way I knew all the button mappings were what I explicitly wanted.
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0563f6ae-8705-4878-9d54-0d05d34a74db_1080x1338.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0563f6ae-8705-4878-9d54-0d05d34a74db_1080x1338.jpeg)
+![image](https://github.com/user-attachments/assets/cf6a53f8-385f-477c-8bdb-f7868f5fd353)
 
 Click **Next** :
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F182b71f9-2164-4094-9549-7a1d15ff650b_1080x1060.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F182b71f9-2164-4094-9549-7a1d15ff650b_1080x1060.jpeg)
+![image](https://github.com/user-attachments/assets/3e85f8f7-56a5-4969-be0e-a31d86a83b54)
 
 You’ll now be on the main learning screen:
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F658b395d-698a-4a2a-bbe1-0dee243917c1_888x1735.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F658b395d-698a-4a2a-bbe1-0dee243917c1_888x1735.jpeg)
+![image](https://github.com/user-attachments/assets/b9f64d67-3348-46de-b93f-5b0aacf63bb3)
 
   * The **⏻TV** button on the SofaBaton remote is learned from the power button on the original television remote.
 
@@ -60,18 +60,15 @@ You’ll now be on the main learning screen:
 
   * All remaining buttons on the SofaBaton remote are learned from the original DVR remote.
 
-
-
-
 The result of all this learning from the television remote, the receiver remote, and the DVR remote is essentially a **DVR** activity:
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feac7c9ee-0e0c-422d-96d5-943fa8bf9ecf_1080x811.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feac7c9ee-0e0c-422d-96d5-943fa8bf9ecf_1080x811.jpeg)
+![image](https://github.com/user-attachments/assets/9fc8ee05-a8f3-46fc-9a83-b324c42dcbf2)
 
 To switch from the Roku to the DVR, I press the **⭲** button on the top right of the SofaBaton remote, which switches the HDMI input on the television to the DVR. 
 
 ## Setting up the Roku
 
-I initially set up the Sofabaton to control the Roku, but eventually deleted that activity. My Roku has an advanced [Voice Remote Pro (2nd edition)](https://www.roku.com/products/accessories/roku-voice-remote-pro-2nd-edition?srsltid=AfmBOoo3_9H9S2sfL-dCAe89t7cQcVEw5IgyTkReHdgRkwbn0wLMqRO_), which can take voice commands, and uses a Wifi connection, so you don’t have to aim the remote like you do with infrared remotes. As such, the Roku remote is far superior in controlling the Roku than a universal remote.
+I initially set up the Sofabaton to control the Roku, but eventually deleted that activity. My Roku has an advanced [Voice Remote Pro (2nd edition)](https://www.roku.com/products/accessories/roku-voice-remote-pro-2nd-edition), which can take voice commands, and uses a Wifi connection, so you don’t have to aim the remote like you do with infrared remotes. As such, the Roku remote is far superior in controlling the Roku than a universal remote.
 
 In addition, with my television, pushing any button on the Roku remote turns on the television if it’s off, and switches the television to the correct HDMI input. So most of the framework of a **Roku** activity is already in place without a universal remote.
 
@@ -85,8 +82,8 @@ To make the batteries last as long as possible, I make the SofaBaton remote scre
 
 Click the menu in the top left, then the **Settings** :
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eee1030-2d47-4a61-b7c0-34eac01f0a54_1080x1630.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5eee1030-2d47-4a61-b7c0-34eac01f0a54_1080x1630.jpeg)
+![image](https://github.com/user-attachments/assets/e7437b0e-99ff-4077-83a2-3f4d90b90271)
 
 The following are the settings I use to make the SofaBaton remote screen as dim as possible and preserve battery life:
 
-[![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66fde5b7-e400-4150-b078-cf75b5ec4bca_1080x622.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66fde5b7-e400-4150-b078-cf75b5ec4bca_1080x622.jpeg)
+![image](https://github.com/user-attachments/assets/dededf74-dd2f-4228-a4bf-4dee120319a6)
