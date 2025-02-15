@@ -1,6 +1,7 @@
 ---
 title: SofaBaton U2 universal remote setup
 description: My Logitech Harmony remote finally broke, and I replaced it with a Sofabaton U2 remote. Here's how I made the change.
+author: Daniel Dantas
 ---
 
 My Logitech Harmony remote finally broke, and I replaced it with a Sofabaton U2 remote. Here's how I made the change.
