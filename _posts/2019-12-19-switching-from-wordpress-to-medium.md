@@ -1,5 +1,5 @@
 ---
-title: Choosing Medium as a blogging platform
+title: Switching from Wordpress to Medium
 author: Daniel Dantas
 ---
 
