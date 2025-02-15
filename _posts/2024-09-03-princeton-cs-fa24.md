@@ -1,10 +1,10 @@
 ---
-title: Princeton CS unofficial reading list (Fall '24)
+title: Princeton CS unofficial reading list (Fall 2024)
 description: This is an unofficial list of books that are recommended in Fall 2024 computer science classes at Princeton
 hidden: true
 ---
 
-### [Spring '25→](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
+### [Spring 2025 →](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
 
 This is an unofficial list of books that are recommended in Fall 2024 computer science classes at Princeton\
 The books marked with a ✨ are ones I’ve been interested enough in to read at length
@@ -47,4 +47,4 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | **[Deep Dive into Large Languages](https://princeton-cos597r.github.io/)** <br> COS 597R | See website for paper list |
 | **[Recent Advances in Wireless Networks](https://kyleatprinceton.github.io/cos597s/)** <br> COS 597S | See website for paper list |
 
-### [Spring '25 →](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
+### [Spring 2025 →](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
