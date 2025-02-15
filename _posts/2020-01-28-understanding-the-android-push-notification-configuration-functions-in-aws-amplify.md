@@ -5,6 +5,7 @@ date: 2020-01-28
 description: "AWS Amplify provides two push notification configuration functions to configure how push notifications are handled by your app: onNotification, and onNotificationOpened."
 redirect: https://medium.com/@dantasfiles/understanding-the-android-push-notification-configuration-functions-in-aws-amplify-ab97d71e048c
 tags: amazon-web-services android
+author: Daniel Dantas
 ---
 
 AWS Amplify provides two push notification configuration functions to configure how push notifications are handled by your app: onNotification, and onNotificationOpened
