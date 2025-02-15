@@ -1,6 +1,6 @@
 ---
 title: "Notes on Fei-Fei Li's <i>The Worlds I See: Curiosity, Exploration & Discovery at the Dawn of AI</i>"
-subtitle: "I read this book because I attended a talk by Prof. Li, and wanted to learn more about her research"
+description: "I read this book because I attended a talk by Prof. Li, and wanted to learn more about her research"
 author: Daniel Dantas
 ---
 
