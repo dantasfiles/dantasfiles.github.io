@@ -6,6 +6,7 @@ description: We explore using Typescript with AWS Amplify API in React Native, w
 redirect: https://medium.com/@dantasfiles/using-typescript-with-aws-amplify-api-3788d722869
 tags: amazon-web-services typescript
 selected: true
+author: Daniel Dantas
 ---
 
 We explore using Typescript with AWS Amplify API in React Native, with a particular focus on the types that AWS Amplify generates into API.ts
