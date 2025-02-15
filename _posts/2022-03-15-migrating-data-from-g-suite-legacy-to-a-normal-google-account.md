@@ -6,4 +6,5 @@ description: "This top-level post describes how to migrate data and email servic
 redirect: https://medium.com/@dantasfiles/migrating-data-from-g-suite-legacy-to-a-normal-google-account-52382ae22f50
 tags: google-workspace
 selected: true
+author: Daniel Dantas
 ---
