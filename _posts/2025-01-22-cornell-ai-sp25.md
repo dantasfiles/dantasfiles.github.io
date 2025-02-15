@@ -1,11 +1,11 @@
 ---
-title: Cornell AI unofficial reading list (Spr. '25)
+title: Cornell AI unofficial reading list (Spring 2025)
 description: This is an unofficial list of books that are recommended in Spring 2025 courses for the artificial intelligence minor at Cornell.
 ---
 
 ### [←Fall '24](https://dantasfiles.com/2024/08/27/cornell-ai-fall24.html)
 
-See also the **[Cornell CS unofficial reading list (Spr. '25)](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)**
+See also the **[Cornell CS unofficial reading list (Spring 2025)](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)**
 
 This is an unofficial list of books that are recommended in Spring 2025 courses for the **[artificial intelligence minor at Cornell](https://prod.cis.cornell.edu/undergraduate-opportunities/minors/artificial-intelligence/ai-minor-requirements)**\
 The books marked with a ✨ are ones I’ve been interested enough in to read at length 
