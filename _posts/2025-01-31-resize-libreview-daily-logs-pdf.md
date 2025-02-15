@@ -1,6 +1,7 @@
 ---
 title: "Resize LibreView’s Daily Logs PDF for easier reading & printing"
 # description: "Patched an existing tool, iccir919.github.io/fitbit-json-to-csv, to fix two issues"
+author: Daniel Dantas
 ---
 
 tldr: The tool is located at https://dantasfiles.com/resize-libreview-daily-logs-pdf/ and the source code at [GitHub: Resize LibreView Daily Logs PDF](https://github.com/dantasfiles/resize-libreview-daily-logs-pdf)
