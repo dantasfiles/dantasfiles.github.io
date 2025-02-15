@@ -9,8 +9,11 @@ I read this book because I attended the talk _[What We See & What We Value: AI w
 ## 1. Pins & Needles in D.C.
 
   * She opens the book with a visit to the [Smithsonian Air & Space Museum](https://airandspace.si.edu/). I think a lot of people, including myself, have felt inspired to learn about STEM topics after a visit to this museum. The other location for me was the [Franklin Institute](https://en.wikipedia.org/wiki/Franklin_Institute) in Philadelphia.
+
 ![Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](https://github.com/user-attachments/assets/537f01d5-befe-422b-8260-b336eefabf29)
+
 Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+
   * Her vision of the ideals of America: “ _the dignity of the individual, the intrinsic value of representation, and the belief that human endeavors are best when guided by the many, rather than the few”_
 
 ## 2. Something to Chase
@@ -25,8 +28,11 @@ Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via 
   * An interesting observation about the backgrounds of the early pioneers of AI: “ _although many of AI’s founding contributors would go on to explore an eclectic range of fields, including psychology and cognitive science, their backgrounds were almost exclusively centered on mathematics, electrical engineering, and physics itself._ ”
   * Her family moves to [Parsippany, NJ](https://en.wikipedia.org/wiki/Parsippany%E2%80%93Troy_Hills,_New_Jersey). Hooray, NJ!
   * Describes Yann LeCun’s early NJ days at the [Bell Labs Holmdel Complex](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex). I’ve worked in two of the Bell Labs buildings, and they had architectures that were fun to just walk around in.
+  * 
 ![derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval2.png: *derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval.jpg: Lee Beaumont, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons](https://github.com/user-attachments/assets/3c7c561e-ffd4-4fc6-972f-37938e9a91a1)
+
 derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval2.png: *derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval.jpg: Lee Beaumont, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
+
   * Her mentor has “ _a sprawling collection of textbooks and reference volumes that created a rainbow of colored spines facing outward from every wall_.”
   * In high school, she loved to read on a diverse array of topics: “ _But none of it was a distraction from my studies. If anything, by helping me to think more holistically, he reminded me that there’s joy to be found in learning_.”
 
