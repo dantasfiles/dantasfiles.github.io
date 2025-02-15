@@ -12,7 +12,7 @@ In the past, I had a personal site created with [Wordpress](https://wordpress.or
 
 ![image](https://github.com/user-attachments/assets/83232db2-6c1f-4144-86cf-379d2cd7f299)
 
-But Wordpress was overkill for the static pages that I was creating. I was also unsure whether I was complying with the [specifications](https://developers.google.com/search/docs) that websites must satisfy these days to ensure visibility and discoverability on search indices. Finally, I was concerned that if I changed the wrong setting or experimented with plugins, I could open up a vulnerability on my site.
+But Wordpress was overkill for the static pages that I was creating. I was also unsure whether I was complying with the [specifications](https://developers.google.com/search/docs) that websites must satisfy these days to ensure visibility and discoverability on search indices. Finally, I was concerned that if I attempted to enable new features by changing settings and experimenting with plugins, I could open up a vulnerability on my site.
 
 So, much like my decision not to run a personal email server, I decided to place my technical guides on a third-party blogging site. I examined the popularity of several sites using [Amazon’s Alexa web traffic analysis](https://en.wikipedia.org/wiki/Alexa_Internet). I could post on a site that was well-visited but not dedicated to technology, like Medium, or on a less-visited, specialty technology site like [DEV](https://dev.to/). 
 
