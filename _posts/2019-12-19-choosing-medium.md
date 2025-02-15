@@ -18,7 +18,7 @@ So, much like my decision not to run a personal email server, I decided to place
 
 Both had similar editing tools, and I didn’t have much preference there. There were plenty of technology articles on Medium, so anything I posted wouldn’t be out of place there.
 
-I decided to go with the well-visited, not dedicated to technology site to get as much reach as possible, and chose Medium.
+I decided to go with the well-visited, not dedicated to technology site, to get as much reach as possible, and chose Medium.
 
 <https://medium.com/@dantasfiles>
 
