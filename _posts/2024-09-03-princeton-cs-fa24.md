@@ -2,6 +2,7 @@
 title: Princeton CS unofficial reading list (Fall 2024)
 description: This is an unofficial list of books that are recommended in Fall 2024 computer science classes at Princeton
 hidden: true
+author: Daniel Dantas
 ---
 
 ### [Spring 2025 →](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
