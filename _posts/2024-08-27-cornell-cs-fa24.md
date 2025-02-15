@@ -1,12 +1,12 @@
 ---
-title: Cornell CS unofficial reading list (Fall '24)
+title: Cornell CS unofficial reading list (Fall 2024)
 description: This is an unofficial list of books that are recommended in Fall 2024 computer science classes at Cornell
 hidden: true
 ---
 
-### [Spring '25→](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
+### [Spring 2025→](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
 
-See also the **[Cornell AI unofficial reading list (Fall ‘24)](https://dantasfiles.com/2024/08/27/cornell-ai-fall24.html)**
+See also the **[Cornell AI unofficial reading list (Fall 2024)](https://dantasfiles.com/2024/08/27/cornell-ai-fall24.html)**
 
 This is an unofficial list of books that are recommended in Fall 2024 computer science classes at Cornell\
 The books marked with a ✨ are ones I’ve been interested enough in to read at length
@@ -69,6 +69,6 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | **[Algorithmic Game Theory](https://www.cs.cornell.edu/courses/cs6840/2024fa/)** <br> CS 6840 | <br> ● _Twenty Lectures on Algorithmic Game Theory_ by Tim Roughgarden <br> ● _[Networks, Crowds& Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/)_ by Easley & Kleinberg <br> ● _Algorithmic Game Theory_ by Nisan, Roughgarden, Tardos & Vazirani |
 | **[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2024fa/)** <br> CS 6850 | ● _[Networks, Crowds & Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/)_ by Easley & Kleinberg <br> ● _Algorithmic Game Theory_ by Nisan, Roughgarden, Tardos & Vazirani |
 
-### [Spring '25→](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
+### [Spring 2025→](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
 
 * * *
