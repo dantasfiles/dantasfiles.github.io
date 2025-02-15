@@ -6,6 +6,7 @@ description: In this post, we set up a React Native app using AWS Amplify to rec
 redirect: https://medium.com/@dantasfiles/setting-up-android-push-notifications-with-aws-amplify-e6334c6356d8
 tags: amazon-web-services android
 selected: true
+author: Daniel Dantas
 ---
 
 In this post, we set up a React Native app using AWS Amplify to receive Android Push Notifications.
