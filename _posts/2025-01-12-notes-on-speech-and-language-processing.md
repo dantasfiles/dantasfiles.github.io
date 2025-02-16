@@ -19,8 +19,10 @@ The notes are still in progress as I have not yet finished reading the book
 - It's fun to have a detailed explanation of regular expressions. In practice, complicated regular expressions can be difficult to get right. Developers often looked up common complicated regular expressions on places like Stack Overflow then modified them to their particular taste. Now they often use LLMs for a first draft. 
 - In Fei-Fei Li's _[The World's I See](https://dantasfiles.com/2023/11/07/notes-on-the-worlds-i-see.html#6-the-north-star)_, one of the themes was the importance of good training data. This book also focuses on explorations of training data, like the Brown corpus, the Switchboard corpus, and the massive Google n-grams corpus
 - There's a link to _[Using uh and um in spontaneous speaking](https://www.sciencedirect.com/science/article/abs/pii/S0010027702000173)_ about how the fillers "uh" and "um" are used differently: "uh" for a short filled pause and "um" for a long filled pause
-- In biology, the line between what is in the same species or not [is malleable and sometimes even political](https://news.yale.edu/2025/01/03/fish-center-key-conservation-fight-not-distinct-species-after-all). In the discussion of what is a language and what is a dialect, I wonder if the same issues appear
-- My grandfathers' primary languages were Portuguese and Spanish, so I got to hear code-switching all the time growing up.
+- In biology, the line between what is in the same species or not [is malleable and sometimes even political](https://news.yale.edu/2025/01/03/fish-center-key-conservation-fight-not-distinct-species-after-all). In the discussion of what is a _language_ and what is a dialect, I wonder if the same issues appear
+- My grandfathers' primary languages were Portuguese and Spanish, so I heard _code-switching_ all the time growing up
+- I've read many older books and have noted the differences in style over time, so it makes sense that researchers have explicitly created corpora from particular time periods
+- 
 - In [Python](https://docs.python.org/3/library/re.html)
   - regular expressions are automatically compiled and cached, but you can manually `compile` and save them 
   - the `search` method checks if a match to the regular expression is found anywhere in the string
