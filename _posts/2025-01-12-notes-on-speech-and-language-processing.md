@@ -23,10 +23,12 @@ The notes are still in progress as I have not yet finished reading the book
 - My grandfathers' primary languages were Portuguese and Spanish, so I heard _code-switching_ all the time growing up
 - I've read many older books and have noted the differences in style over time, so it makes sense that researchers have explicitly created corpora from particular time periods
 - One of the elements in the _datasheet_ is "_Are there copyright or other intellectual property restrictions?_" I think a lot of the law pertaining to training on copyrighted data is still up in the air, so I'd be interested in learning more about this topic
-- Unix command pipelines like `tr` → `sort` → `uniq` may have been more common in the past, but the book points out that, these days, it's preferred to write easily-customizable solutions in scripting languages with mature Unicode support
+- I enjoy reading historical notes, so it was great to see the example of Unix command pipelines like `tr` → `sort` → `uniq`, which have been supplanted by scripting languages with mature Unicode support
 - In compilers, the _tokenization_ stage is also called [lexical analysis](https://en.wikipedia.org/wiki/Lexical_analysis) or lexing
 - The [Natural Language Toolkit (NTLK)](https://www.nltk.org/) for Python is recommended
-
+- It's not super explicit in the book, so I want to spell it out for myself here: _tokenization_ seems to balance the tradeoffs inherent in the choice of vocabulary size and consequent complexity of the model. With too many symbols, the result is model that has to deal with "_a huge vocabulary with large numbers of very rare words_"<br>With too few symbols, the model will be manageable, but many words will be broken into symbols<br>_Bottom-up tokenization_ makes the best out of the tradeoff by resulting in "_most words will be represented as full symbols, and only the very rare words (and unknown words) will have to be represented by their parts_"
+- The statement "_lemmatization algorithms can be complex_" seems an understatement. I wonder how much of it can be learned from the text,  like bottom-up tokenization learns from the text
+- 
 
 
 
