@@ -27,5 +27,7 @@ minima:
       url: "https://scholar.google.com/citations?user=kGsoFNQAAAAJ"
     - icon: linkedin
       url: "https://www.linkedin.com/in/dantasfiles"
+    - icon: letterboxd
+      url: "https://letterboxd.com/dantasfiles/"
       
 
