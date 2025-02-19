@@ -1,5 +1,5 @@
 ---
-title: "Notes on <i>Speech & Language Processing</i> by Jurafsky & Martin"
+title: "Notes on 📕<i>Speech & Language Processing</i> by Jurafsky & Martin"
 description: "An Introduction to Natural Language Processing, Computational Linguistics & Speech Recognition with Language Models"
 author: Daniel Dantas
 ---
