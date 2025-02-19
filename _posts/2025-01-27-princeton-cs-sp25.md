@@ -11,7 +11,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Freshman level | |
 | :---: | --- |
-| **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/spring25/cos126/)**<br>COS / EGR 126 | ● ✨ ***[Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)*** ✨ by Sedgewick & Wayne | 
+| **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/spring25/cos126/)**<br>COS 126 - **[🌆 my notes](https://dantasfiles.com/2025/04/21/notes-on-princeton-cos-126.html)** | ● ✨ ***[Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)*** ✨ by Sedgewick & Wayne | 
 
 | Sophomore level | | 
 | :---: | --- |
