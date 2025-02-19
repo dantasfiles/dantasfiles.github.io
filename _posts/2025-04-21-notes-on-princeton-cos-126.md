@@ -1,14 +1,14 @@
 ---
 title: 'Notes on 🏫<i>Computer Science: An Interdisciplinary Approach</i>'
-description: Princeton COS 126, Spring 2025 edition
+# description: Princeton COS 126, Spring 2025 edition
 author: Daniel Dantas
 ---
 
 I was curious to learn what has been updated since I was a teaching assistant for this course, so I am reading through the lecture notes
 
-The course website for the Spring 2025 semester is located at <https://www.cs.princeton.edu/courses/archive/spr25/cos126/>
+The course website for Princeton COS 126, Spring 2025 semester, is located at <https://www.cs.princeton.edu/courses/archive/spr25/cos126/>
 
-I’ve noted anything that stuck out to me as interesting. The notes are incomplete as I have not yet finished reading the lecture notes
+I’ve noted anything that stuck out to me as interesting. My notes are incomplete as I have not yet finished reading the lecture notes
 
 ## Introduction
   * The _everything_ is correctly in quotes in the statement “ _‘Everything’ can be encoded as a sequence of bits_ ” because continuous things, like real numbers, cannot always be encoded in a _finite_ sequence of bits
