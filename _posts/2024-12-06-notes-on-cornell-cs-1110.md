@@ -4,7 +4,7 @@ title: 'Notes on 🏫<i>Intro. to Computing: A Design & Development Perspective<
 author: Daniel Dantas
 ---
 
-I was curious to learn what has been updated since I took a version of this course (Cornell CS 1110) so I read through the lecture notes. 
+I was curious to learn what has been updated since I took a version of this course, so I read through the lecture notes. 
 
 The course website for Cornell CS 1110, Fall 2024 semester, is located at <https://www.cs.cornell.edu/courses/cs1110/2024fa/>. The lecture videos are Cornell-only, but the slides are public.
 
