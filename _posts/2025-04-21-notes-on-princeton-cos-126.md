@@ -4,7 +4,7 @@ title: 'Notes on 🏫<i>Computer Science: An Interdisciplinary Approach</i>'
 author: Daniel Dantas
 ---
 
-I was curious to learn what has been updated since I was a teaching assistant for this course, so I am reading through the lecture notes
+I was curious to learn what has been updated since I was a [teaching assistant for this course](https://dantasfiles.com/2005/05/30/princeton-cos-126.html), so I am reading through the lecture notes
 
 The course website for Princeton COS 126, Spring 2025 semester, is located at <https://www.cs.princeton.edu/courses/archive/spr25/cos126/>
 
