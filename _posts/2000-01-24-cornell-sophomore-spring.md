@@ -1,6 +1,6 @@
 ---
 title: Sophomore Spring 
-description: "<i>Intro. to Scientific Computation</i>, <i>Data Structures</i>, <i>Intro. to Circuits for Electrical & Computer Engineers</i>, <i>Intro. Integrated Circuits Laboratory</i>, and <i>Chemistry for the Applied Sciences</i>"
+description: "<i>Scientific Computation</i>, <i>Data Structures</i>, <i>Circuits for Electrical & Computer Engineers</i>, <i>Integrated Circuits Laboratory</i>, and <i>Chemistry for the Applied Sciences</i>"
 author: Daniel Dantas
 ---
 
