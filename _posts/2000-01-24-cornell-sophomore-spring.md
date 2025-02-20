@@ -4,7 +4,7 @@ description: "<i>Scientific Computation</i>, <i>Data Structures</i>, <i>Circuits
 author: Daniel Dantas
 ---
 
-### [← Sophomore Fall](https://dantasfiles.com/1999/08/26/cornell-sophomore-fall.html) | [Junior Fall →](https://dantasfiles.com/2000/08/24/cornell-junior-fall.html)
+### [← Sophomore Fall](https://dantasfiles.com/1999/08/26/cornell-sophomore-fall.html) | [Sophomore Summer →](https://dantasfiles.com/2000/05/30/rutgers-sophomore-summer.html)
 
 | Course | [Description](https://ecommons.cornell.edu/items/ee3e3c25-cd12-44cf-89cd-728dfd832304) |
 | :---: | --- |
@@ -14,4 +14,4 @@ author: Daniel Dantas
 | **Intro. Integrated Circuits Laboratory** <br> ELE E 215 | Laboratory course to develop skills with modern instrumentation, and to explore the design & operation of electrical circuits used in computers, amplifiers & signal processing |
 | **Chemistry for the Applied Sciences** <br> CHEM 211 | Important chemical principles & facts are covered with the objective of understanding the role of chemistry in other fields. Emphasis is on topics such as solid-state materials, periodic trends & specific classes of compounds, such as polymers |
 
-### [← Sophomore Fall](https://dantasfiles.com/1999/08/26/cornell-sophomore-fall.html) | [Junior Fall →](https://dantasfiles.com/2000/08/24/cornell-junior-fall.html)
+### [← Sophomore Fall](https://dantasfiles.com/1999/08/26/cornell-sophomore-fall.html) | [Sophomore Summer →](https://dantasfiles.com/2000/05/30/rutgers-sophomore-summer.html)
