@@ -4,11 +4,9 @@ title: 'Notes on 🏫<i>Intro. to Computing: A Design & Development Perspective<
 author: Daniel Dantas
 ---
 
-I was curious to learn what has been updated since I took a version of this course, so I read through the lecture notes. 
+I was curious to learn what had been updated since I took a version of CS 1110, so I read through the [lecture notes for the Fall 2024 semester](https://www.cs.cornell.edu/courses/cs1110/2024fa/). The lecture videos are Cornell-only, but the slides are public.
 
-The course website for Cornell CS 1110, Fall 2024 semester, is located at <https://www.cs.cornell.edu/courses/cs1110/2024fa/>. The lecture videos are Cornell-only, but the slides are public.
-
-I’ve noted anything that stuck out to me as interesting. When I took a version of the course, it used _Java_ , and now it uses _Python_. So some of my comments will be how the course differs between the two programming languages.
+I used these notes to keep track of anything that stuck out to me as interesting. When I took a version of the course, it used _Java_ , and now it uses _Python_. So many of my comments will be how the course differs between the two programming languages.
 
 ## Types & Expressions
   * This is one of the fundamental ideas in programming languages: “ _A type is both a set of values, and the operations on them_ ”
