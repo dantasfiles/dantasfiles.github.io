@@ -1,6 +1,6 @@
 ---
 title: Junior Fall 
-description: "<i>Intro. to Theory of Computing</i>, <i>Systems Programming & Operating Systems</i>, <i>Practicum in Operating Systems</i>, <i>Computer Architecture</i>, and <i>Basic Engineering Probability & Statistics</i>"
+description: "<i>Theory of Computing</i>, <i>Systems Programming & Operating Systems</i>, <i>Computer Architecture</i>, and <i>Basic Engineering Probability & Statistics</i>"
 author: Daniel Dantas
 ---
 
