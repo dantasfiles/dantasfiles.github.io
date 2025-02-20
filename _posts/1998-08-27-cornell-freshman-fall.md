@@ -1,6 +1,6 @@
 ---
 title: Freshman Fall 
-description: "Structure & Interpretation of Computer Programs, Calculus for Engineers, Physics I: Mechanics, and American Literature & Culture"
+description: "<i>Structure & Interpretation of Computer Programs</i>, <i>Calculus for Engineers</i>, <i>Physics I: Mechanics</i>, and <i>American Literature & Culture</i>"
 author: Daniel Dantas
 ---
 
