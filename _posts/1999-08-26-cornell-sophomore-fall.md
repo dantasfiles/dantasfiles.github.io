@@ -1,6 +1,6 @@
 ---
 title: Sophomore Fall 
-description: "<i>Intro. to Digital Systems & Computer Organization</i>, <i>Intro. to Digital Systems</i>, <i>Engineering Mathematics</i>, and <i>Physics III: Optics, Waves & Particles</i>"
+description: "<i>Digital Systems & Computer Organization</i>, <i>Digital Systems</i>, <i>Engineering Mathematics</i>, and <i>Physics III: Optics, Waves & Particles</i>"
 author: Daniel Dantas
 ---
 
