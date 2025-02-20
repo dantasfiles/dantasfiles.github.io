@@ -4,7 +4,7 @@ description: "<i>Independent Reading & Research</i>, <i>Intermediate Computer Sy
 author: Daniel Dantas
 ---
 
-### [← Junior Spring](https://dantasfiles.com/2001/01/22/cornell-junior-spring.html) | Senior Spring →
+### [← Junior Spring](https://dantasfiles.com/2001/01/22/cornell-junior-spring.html) | [Senior Spring →](https://dantasfiles.com/2002/01/22/cornell-senior-spring.html)
 
 | Course | [Description](https://ecommons.cornell.edu/items/e10a1aa3-1375-4a9e-8dee-bdbca04bb429) |
 | :---: | --- |
@@ -13,4 +13,4 @@ author: Daniel Dantas
 | **Signals & Systems I** <br> ECE 301 | Covers: continuous-time signals & linear time-invariant systems, continuous-time convolution & impulse response, Fourier series & transforms of continuous-time signals, the Sampling Theorem, amplitude modulation & time- and frequency-division multiplexing, bilateral Laplace transforms & applications, and discrete-time convolution and z-transforms with applications to discrete-time linear time-invariant systems |
 | **Electromagnetic Fields & Waves** <br> ECE 303 | Maxwell’s equations in differential form; wave equation; plane electromagnetic waves; phase & group velocities; Poynting’s theorem, complex dielectric constant; wave reflection & transmission; guided waves on transmission lines; transient pulse propagation; and elementary dipole antenna; analysis of wireless communication links |
 
-### [← Junior Spring](https://dantasfiles.com/2001/01/22/cornell-junior-spring.html) | Senior Spring →
+### [← Junior Spring](https://dantasfiles.com/2001/01/22/cornell-junior-spring.html) | [Senior Spring →](https://dantasfiles.com/2002/01/22/cornell-senior-spring.html)
