@@ -4,7 +4,7 @@ description: "<i>Intro. to Digital Systems & Computer Organization</i>, <i>Intro
 author: Daniel Dantas
 ---
 
-### [← Freshman Spring](https://dantasfiles.com/1999/01/25/cornell-freshman-spring.html) | Sophomore Spring →
+### [← Freshman Spring](https://dantasfiles.com/1999/01/25/cornell-freshman-spring.html) | [Sophomore Spring →](https://dantasfiles.com/2000/01/24/cornell-sophomore-spring.html)
 
 | Course | [Description](https://ecommons.cornell.edu/items/ee3e3c25-cd12-44cf-89cd-728dfd832304) |
 | :---: | --- |
@@ -13,4 +13,4 @@ author: Daniel Dantas
 | **Engineering Mathematics**<br>MATH 294 | Introduction to partial differential equations, Fourier series & boundary value problems, with applications. Matrix theory & linear algebra, inner product spaces. May include computer use in solving problems |
 | **Physics III: Optics, Waves & Particles**<br>PHYS 214 | Physics of wave phenomena, electromagnetic waves, interference & diffraction effects, wave properties of particles and introduction to quantum physics. Course includes computer use in solving problems and labs | 
 
-### [← Freshman Spring](https://dantasfiles.com/1999/01/25/cornell-freshman-spring.html) | Sophomore Spring →
+### [← Freshman Spring](https://dantasfiles.com/1999/01/25/cornell-freshman-spring.html) | [Sophomore Spring →](https://dantasfiles.com/2000/01/24/cornell-sophomore-spring.html)
