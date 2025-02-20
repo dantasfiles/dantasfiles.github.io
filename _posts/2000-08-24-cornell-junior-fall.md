@@ -4,7 +4,7 @@ description: "<i>Theory of Computing</i>, <i>Systems Programming & Operating Sys
 author: Daniel Dantas
 ---
 
-### [← Sophomore Spring](https://dantasfiles.com/2000/01/24/cornell-sophomore-spring.html) | Junior Spring →
+### [← Sophomore Spring](https://dantasfiles.com/2000/01/24/cornell-sophomore-spring.html) | [Junior Spring →](https://dantasfiles.com/2001/01/22/cornell-junior-spring.html)
 
 | Course | [Description](https://ecommons.cornell.edu/items/ca4d2314-7dfe-4832-8627-c179c013a19e) |
 | :---: | --- |
@@ -14,4 +14,4 @@ author: Daniel Dantas
 | **Computer Architecture** <br> ELE E 475 | Topics include instruction set principles, advanced pipelining, data & control hazards, multi-cycle instructions, dynamic scheduling, out-of-order execution, speculation branch prediction, instruction-level parallelism, and high-performance memory hierarchies. Students will learn the issues & tradeoffs involved in the design of modern microprocessors |
 | **Basic Engineering Probability & Statistics** <br> ENGRD 270 | This course should give students a working knowledge of basic probability & statistics and their application to engineering. Computer analysis of data & simulation are included. Topics include random variables, probability distributions, expectation, estimation, testing, experimental design, quality control & regression |
 
-### [← Sophomore Spring](https://dantasfiles.com/2000/01/24/cornell-sophomore-spring.html) | Junior Spring →
+### [← Sophomore Spring](https://dantasfiles.com/2000/01/24/cornell-sophomore-spring.html) | [Junior Spring →](https://dantasfiles.com/2001/01/22/cornell-junior-spring.html)
