@@ -48,10 +48,10 @@ I don’t know which system works best—it probably depends on the student
 ## Functions
 - Functions can only return a single item. Unlike in languages that have tuples built-in, if you want to return more information from a function, you can create a class to hold the information, or you can use the [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar) of [record classes](https://docs.oracle.com/en/java/javase/23/language/records.html)
 - Java chooses which overloaded function to call based on the arguments and their types, not based on the return type
-- The scope of a variable is until the end of the block in which it is declared
+- The scope of a Java variable is until the end of the block in which it is declared
 
 ## Libraries & Clients
-
+- A [sawtooth function](https://en.wikipedia.org/wiki/Sawtooth_wave) is implemented: `2 * (freq*t - Math.floor(freq*t + 0.5))`
 
 
 
