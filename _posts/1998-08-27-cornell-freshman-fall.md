@@ -4,7 +4,7 @@ description: "Structure & Interpretation of Computer Programs, Calculus for Engi
 author: Daniel Dantas
 ---
 
-### ← Prefreshman Summer | Freshman Spring →
+### [← Prefreshman Summer](https://dantasfiles.com/1998/06/29/cornell-prefreshman-summer.html) | [Freshman Spring →](https://dantasfiles.com/1999/01/25/cornell-freshman-spring.html)
 
 | Course | [Description](https://ecommons.cornell.edu/items/94800b36-a897-4b93-883b-97a72b4515dd) |
 | :---: | --- | 
@@ -13,4 +13,4 @@ author: Daniel Dantas
 | **Physics I: Mechanics**<br>PHYS 112 | Mechanics of particles: kinematics, dynamics, conservation laws, central force fields, periodic motion. Mechanics of many-particle systems: center of mass, rotational mechanics of a rigid body, static equilibrium |
 | **American Literature & Culture**<br>ENGL 158 | First-year writing seminar |
 
-### ← Prefreshman Summer | Freshman Spring →
+### [← Prefreshman Summer](https://dantasfiles.com/1998/06/29/cornell-prefreshman-summer.html) | [Freshman Spring →](https://dantasfiles.com/1999/01/25/cornell-freshman-spring.html)
