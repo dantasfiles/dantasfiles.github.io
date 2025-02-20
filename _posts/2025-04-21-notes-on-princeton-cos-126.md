@@ -4,11 +4,9 @@ title: 'Notes on 🏫<i>Computer Science: An Interdisciplinary Approach</i>'
 author: Daniel Dantas
 ---
 
-I was curious to learn what has been updated since I was a [teaching assistant for this course](https://dantasfiles.com/2005/05/30/princeton-cos-126.html), so I am reading through the lecture notes
+I was curious to learn what has been updated since I was a [teaching assistant for COS 126](https://dantasfiles.com/2005/05/30/princeton-cos-126.html), so I am reading through the [lecture notes for the Spring 2025 semester](https://www.cs.princeton.edu/courses/archive/spr25/cos126/)
 
-The course website for Princeton COS 126, Spring 2025 semester, is located at <https://www.cs.princeton.edu/courses/archive/spr25/cos126/>
-
-I’ve noted anything that stuck out to me as interesting. My notes are incomplete as I have not yet finished reading the lecture notes
+I use these notes to keep track of anything that sticks out to me as interesting. My notes are incomplete as I have not yet finished reading the lecture notes
 
 ## Introduction
   * The _everything_ is correctly in quotes in the statement “ _‘Everything’ can be encoded as a sequence of bits_ ” because continuous things, like real numbers, cannot always be encoded in a _finite_ sequence of bits
@@ -42,6 +40,18 @@ I don’t know which system works best—it probably depends on the student
 ## Loops
 
   * Java’s for-each / enhanced-for statements are not explored, because which limits the power of for statements, but avoids talking about Collections this early in the class.
+
+## Arrays
+- The example `double[] a = new int[10];` is used to demonstrate a compile-time type mismatch error.<br>What's interesting is that arrays of reference types in Java are _covariant_, allowing `Object[] a = new String[10];`. However, this will cause a runtime `ArrayStoreException` if you try to store anything other than a `String` in array `a`.<br>When _generics_ (`List<T>`) were added to Java, they were correctly invariant--`List<Object> l = new ArrayList<String>();` will fail to compile with a type-mismatch error.
+- I was uncertain if the shuffle algorithm presented was correct, because it was different from the [traditional presentation](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#The_modern_algorithm), but [apparently it is indeed correct](https://stackoverflow.com/questions/68064254/correctness-of-fisher-yates-shuffle-executed-backward) so that was cool to learn
+
+## Functions
+- Functions can only return a single item. Unlike in languages that have tuples built-in, if you want to return more information from a function, you can create a class to hold the information, or you can use the [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar) of [record classes](https://docs.oracle.com/en/java/javase/23/language/records.html)
+- Java chooses which overloaded function to call based on the arguments and their types, not based on the return type
+- The scope of a variable is until the end of the block in which it is declared
+
+## Libraries & Clients
+
 
 
 
