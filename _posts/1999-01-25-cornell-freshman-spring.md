@@ -4,7 +4,7 @@ description: "<i>Discrete Structures</i>, <i>Engineering Mathematics</i>, <i>Phy
 author: Daniel Dantas
 ---
 
-### [← Freshman Fall](https://dantasfiles.com/1998/08/27/cornell-freshman-fall.html) | Sophomore Fall →
+### [← Freshman Fall](https://dantasfiles.com/1998/08/27/cornell-freshman-fall.html) | [Sophomore Fall →](https://dantasfiles.com/1999/08/26/cornell-sophomore-fall.html)
 
 | Course | [Description](https://ecommons.cornell.edu/items/94800b36-a897-4b93-883b-97a72b4515dd) |
 | :---: | --- |
@@ -13,4 +13,4 @@ author: Daniel Dantas
 | **Physics II: Heat & Electromagnetism**<br>PHYS 213 | Temperature, heat, thermal energy, electrostatics, behavior of matter in electric fields, DC circuits, magnetic fields, Faraday’s law, Maxwell’s equations, electromagnetic oscillations. Laboratory covers electrical measurements, circuits, and some aspects of heat transfer |
 | **Design Integration: A Portable CD Player**<br>MS&E / T&AM / ENGRI 118 | This course examines the roles of various engineering disciplines on the design of a portable compact disc (CD) player. Students are introduced to elements of mechanical, electrical, materials, environmental, manufacturing, and computer engineering as related to the CD player. Laboratory sessions and demonstrations are used to illustrate the principles of design |
 
-### [← Freshman Fall](https://dantasfiles.com/1998/08/27/cornell-freshman-fall.html) | Sophomore Fall →
+### [← Freshman Fall](https://dantasfiles.com/1998/08/27/cornell-freshman-fall.html) | [Sophomore Fall →](https://dantasfiles.com/1999/08/26/cornell-sophomore-fall.html)
