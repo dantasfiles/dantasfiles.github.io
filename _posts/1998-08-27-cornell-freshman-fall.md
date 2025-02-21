@@ -1,10 +1,10 @@
 ---
-title: Freshman Fall 
+title: 🐻 Freshman Fall 
 description: "<i>Structure & Interpretation of Computer Programs</i>, <i>Calculus for Engineers</i>, <i>Physics I: Mechanics</i>, and <i>American Literature & Culture</i>"
 author: Daniel Dantas
 ---
 
-### [← Prefreshman Summer](https://dantasfiles.com/1998/06/29/cornell-prefreshman-summer.html) | [Freshman Spring →](https://dantasfiles.com/1999/01/25/cornell-freshman-spring.html)
+### [← 🐻 Prefreshman Summer](https://dantasfiles.com/1998/06/29/cornell-prefreshman-summer.html) | [🐻 Freshman Spring →](https://dantasfiles.com/1999/01/25/cornell-freshman-spring.html)
 
 | Course | [Description](https://ecommons.cornell.edu/items/94800b36-a897-4b93-883b-97a72b4515dd) |
 | :---: | --- | 
