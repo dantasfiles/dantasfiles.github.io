@@ -39,4 +39,6 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
   * Generic array creation is not allowed: `new T[n]`. This is because once your code is compiled, type parameters like `T` are [erased](https://docs.oracle.com/javase/tutorial/java/generics/erasure.html) (to enable backwards compatibility and reduce runtime overhead), and cannot be used at runtime. Instead, an explicit cast is necessary: `T[] a = (T[]) new Object[n])`
 
 ### S&Q: Linked Lists
+- Linked list implementations of lists are simpler to resize than array implementations, but are slow when accessing random elements of the list
+- Typical linked list iteration code is `for (Node n = first; n != null; n = n.next) {`
 - 
