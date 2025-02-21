@@ -1,5 +1,5 @@
 ---
-title: Junior Spring 
+title: 🐻 Junior Spring 
 description: "<i>Compilers & Translators</i>, <i>Machine Learning</i>, <i>Analysis of Algorithms</i>, and <i>Applicable Algebra</i>"
 author: Daniel Dantas
 ---
