@@ -1,5 +1,5 @@
 ---
-title: First-Year Grad Fall
+title: 🏫 First-Year Grad Fall
 description: "<i>Information Security</i>, <i>Programming Languages</i>, and <i>Advanced Operating Systems</i>"
 author: Daniel Dantas
 ---
