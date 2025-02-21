@@ -10,14 +10,14 @@ I was curious to learn what has been updated since I took a [version of this cou
 
 I use these notes to keep track of anything that sticks out to me as interesting. My notes are incomplete as I have not yet finished reading the lecture notes
 
-## Introduction
+## 1. Introduction
   * “_Bad programmers worry about the code. Good programmers worry about data structures and their relationships_” by Linus Torvalds is a great quote
 
-## Union-find
+## 1. Union-find
   * The first pass of designing an algorithm can be simple concentric sweeps of the data. Optimize after fully understanding the simpler but slower algorithm.
   * When designing algorithms, consider creating an extra data structure (typically an array / list, or a map / dictionary) that will map items to information the algorithm needs or will generate (e.g. _visited_ , _parent, size_ )
 
-## Analysis of Algorithms
+## 2. Analysis of Algorithms
   * For [3SUM](https://en.wikipedia.org/wiki/3SUM), a first-draft algorithm can be three nested loops. Understand the simpler, slower algorithm, then optimize
   * Algorithms topics focus on system-independent effects, while systems topics focus on system-dependent effects like hardware, systems software, and operating system. I always found the latter super-interesting
   * Reminder that `(n choose k) = n!/k!(n-k)! = (n*…*(n-k+1))/k! `This [definition](https://en.wikipedia.org/wiki/Binomial_coefficient) often comes in useful
@@ -27,7 +27,7 @@ I use these notes to keep track of anything that sticks out to me as interesting
 
 ## Stacks & Queues
 
-### S&Q: Resizable Arrays
+### 3. S&Q: Resizable Arrays
   * Stacks and queues occur in [real life](https://en.wikipedia.org/wiki/Queueing_theory) as well as in computer science
   * The fundamental methods of a stack are _push_ , _pop_ , and _isEmpty_
   * The fundamental methods of a queue are _enqueue_ , _dequeue_ , and _isEmpty_
@@ -38,7 +38,20 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
   * A queue can be implemented with two stacks: a push stack and a pop stack. The items on the push stack are moved into the pop stack as necessary.
   * Generic array creation is not allowed: `new T[n]`. This is because once your code is compiled, type parameters like `T` are [erased](https://docs.oracle.com/javase/tutorial/java/generics/erasure.html) (to enable backwards compatibility and reduce runtime overhead), and cannot be used at runtime. Instead, an explicit cast is necessary: `T[] a = (T[]) new Object[n])`
 
-### S&Q: Linked Lists
-- Linked list implementations of lists are simpler to resize than array implementations, but are slow when accessing random elements of the list
+### 4. S&Q: Linked Lists
+- Linked list implementations of lists are simpler to resize than array implementations, but take up more memory, and are slow when accessing random elements of the list and when accessing list in order (due to [sequential locality](https://en.wikipedia.org/wiki/Locality_of_reference) and caching).
 - Typical linked list iteration code is `for (Node n = first; n != null; n = n.next) {`
-- 
+- Implementations typically need an empty-list case, where first and last pointers are null; and a normal case, where first and last pointers point to nodes
+- To implement the [`Iterable`](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/lang/Iterable.html) interface, your `iterator` method can either use an inner class that implements the `Iterator` interface, or it can just return an iterator on a instance variable of your class
+- A diagram of the Java Collections Framework is located [here](https://docs.oracle.com/javase/tutorial/collections/interfaces/index.html)
+- A table summarizing the Java Collections Framework is located [here](https://docs.oracle.com/javase/tutorial/collections/implementations/index.html), and is copied here as well
+
+| Interfaces	| Hash table Impl.	| Resizable array Impl.	| Tree Impl.	| Linked list Impl.	| Hash table + Linked list Impl. |
+| --- | --- | --- | --- | --- | --- |
+| Set	| HashSet	| | TreeSet	| |	LinkedHashSet |
+| List	| |	ArrayList	| |	LinkedList | |
+| Queue | | | | | |	 	 	 	 	 
+| Deque	| | ArrayDeque | | LinkedList | |	 
+| Map	| HashMap	| | TreeMap | |	LinkedHashMap |
+
+## 5. Elementary Sorts
