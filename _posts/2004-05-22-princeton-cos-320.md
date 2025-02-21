@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for 🐯 <i>Compiling Techniques</i>"
+title: "Teaching Assistant for 🐯<i>Compiling Techniques</i>"
 description: "Understand the design and construction of compilers. Concepts include syntax analysis, semantics, code generation, optimization, and run-time systems. Problems in processing imperative languages, such as C and Pascal, as well as functional languages such as ML, will be examined. A complete compiler for a small language will be implemented in ML."
 # redirect: https://www.cs.princeton.edu/courses/archive/spring04/cos320/details.htm
 author: Daniel Dantas
