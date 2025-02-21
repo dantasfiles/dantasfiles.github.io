@@ -1,5 +1,5 @@
 ---
-title: Sophomore Summer 
+title: '<span style="color:red">♞</span> Sophomore Summer'
 description: "<i>Twentieth-Century Europe</i> and <i>General Psychology</i>"
 author: Daniel Dantas
 ---
