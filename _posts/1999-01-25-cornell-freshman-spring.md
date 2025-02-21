@@ -1,5 +1,5 @@
 ---
-title: Freshman Spring 
+title: 🐻 Freshman Spring 
 description: "<i>Discrete Structures</i>, <i>Engineering Mathematics</i>, <i>Physics II: Heat & Electromagnetism</i>, and <i>Design Integration: A Portable CD Player</i>"
 author: Daniel Dantas
 ---
