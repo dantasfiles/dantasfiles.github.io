@@ -1,5 +1,5 @@
 ---
-title: Sophomore Fall 
+title: 🐻 Sophomore Fall 
 description: "<i>Digital Systems & Computer Organization</i>, <i>Digital Systems</i>, <i>Engineering Mathematics</i>, and <i>Physics III: Optics, Waves & Particles</i>"
 author: Daniel Dantas
 ---
