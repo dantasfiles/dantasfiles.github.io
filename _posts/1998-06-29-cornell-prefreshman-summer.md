@@ -4,7 +4,7 @@ description: "<i>Fundamental Programming Concepts</i>, <i>Calculus for Engineers
 author: Daniel Dantas
 ---
 
-### [Freshman Fall →](https://dantasfiles.com/1998/08/27/cornell-freshman-fall.html)
+### [🐻 Freshman Fall →](https://dantasfiles.com/1998/08/27/cornell-freshman-fall.html)
 
 | Course | [Description](https://ecommons.cornell.edu/items/e1e98bb3-3bc4-48fb-b770-3f2b9fe1ac9c) |
 | :---: | --- |
