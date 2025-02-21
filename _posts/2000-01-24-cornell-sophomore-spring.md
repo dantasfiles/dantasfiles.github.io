@@ -1,5 +1,5 @@
 ---
-title: Sophomore Spring 
+title: 🐻 Sophomore Spring 
 description: "<i>Scientific Computation</i>, <i>Data Structures</i>, <i>Circuits for Electrical & Computer Engineers</i>, <i>Integrated Circuits Laboratory</i>, and <i>Chemistry for the Applied Sciences</i>"
 author: Daniel Dantas
 ---
