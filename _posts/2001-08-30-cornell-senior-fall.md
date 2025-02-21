@@ -1,5 +1,5 @@
 ---
-title: Senior Fall 
+title: 🐻 Senior Fall 
 description: "<i>Independent Reading & Research</i>, <i>Intermediate Computer Systems</i>, <i>Signals & Systems I</i>, and <i>Electromagnetic Fields & Waves</i>"
 author: Daniel Dantas
 ---
