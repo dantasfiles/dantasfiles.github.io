@@ -1,4 +1,8 @@
 
+ul {
+  margin-top: $spacing-unit * -.5;
+}
+
 .site-title {
   @include relative-font-size(2);
 }
