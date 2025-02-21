@@ -1,5 +1,5 @@
 ---
-title: Prefreshman Summer
+title: 🐻 Prefreshman Summer
 description: "<i>Fundamental Programming Concepts</i>, <i>Calculus for Engineers</i>, and <i>Critical Reading & Writing</i>"
 author: Daniel Dantas
 ---
