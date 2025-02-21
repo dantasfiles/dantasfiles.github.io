@@ -1,5 +1,5 @@
 ---
-title: 'Notes on 🏫<i>Computer Science: An Interdisciplinary Approach</i>'
+title: 'Notes on 🐯<i>Computer Science: An Interdisciplinary Approach</i>'
 # description: Princeton COS 126, Spring 2025 edition
 author: Daniel Dantas
 ---
