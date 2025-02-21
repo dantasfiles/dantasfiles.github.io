@@ -1,5 +1,5 @@
 ---
-title: Cornell AI unofficial reading list (Spring 2025)
+title: 🐻 Cornell AI unofficial reading list (Spring 2025)
 description: This is an unofficial list of books that are recommended in Spring 2025 courses for the artificial intelligence minor at Cornell.
 author: Daniel Dantas
 ---
