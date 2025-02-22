@@ -55,3 +55,16 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 | Map	| HashMap	| | TreeMap | |	LinkedHashMap |
 
 ## 5. Elementary Sorts
+- Sorts are defined as requiring a binary relation that is transitive and comparable (a ≤ b and/or b ≤ a). I believe implementing the Java `Comparable` interface requires a [total ordering](https://en.wikipedia.org/wiki/Total_order), where it's recommended that if `a` ≤ `b` and `b` ≤ `a`, then `a.equals(b)`
+- It's claimed that Python uses first-class functions to enable sorting. However, this was [changed in Python 3](https://docs.python.org/3/whatsnew/3.0.html#ordering-comparisons): "_`sorted()` and `list.sort()` no longer accept the cmp argument providing a comparison function. Use the key argument instead_"
+- An example in the notes uses the [raw type](https://docs.oracle.com/javase/tutorial/java/generics/rawTypes.html) `Comparable`. This bypasses generic type checking and relies on runtime exceptions to determine when something goes wrong with the `compareTo` method.
+- The notes use a clever trick of defining each sort algorithm in terms of a common `less` comparison and an `exch` exchange methods to make analyzing running time easier.
+- _Selection sort_ has O(n²) compares, O(n) exchanges, and O(1) extra space
+- The notes refer the fun blog post: _[Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)_. It's very easy to get the fundamental algorithms wrong: a longstanding overflow bug involved using `int mid = (low + high) / 2;` instead of `int mid = low + ((high - low) / 2);`
+- 3-Sum in O(n²) time and O(1) extra space uses 3 pointers. For each i, set j to i+1 and k to end, and iterate j and k inward, marking all sums.
+- _Insertion sort_ has worst-case O(n²) compares and exchanges
+- _Binary insertion sort_ has worst-case O(n log n) compares and O(n²) exchanges
+- _Binary search_ has worst-case O(n log n) compares 
+
+### 6. Mergesort
+
