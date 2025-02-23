@@ -54,23 +54,36 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 | Deque	| | ArrayDeque | | LinkedList | |	 
 | Map	| HashMap	| | TreeMap | |	LinkedHashMap |
 
-## 5. Elementary Sorts
+## Sorts
+
+### 5. Elementary Sorts
 - Sorts are defined as requiring a binary relation that is transitive and comparable (a ≤ b and/or b ≤ a). I believe implementing the Java `Comparable` interface requires a [total ordering](https://en.wikipedia.org/wiki/Total_order), where it's recommended that if `a` ≤ `b` and `b` ≤ `a`, then `a.equals(b)`
 - It's claimed that Python uses first-class functions to enable sorting. However, this was [changed in Python 3](https://docs.python.org/3/whatsnew/3.0.html#ordering-comparisons): "_`sorted()` and `list.sort()` no longer accept the cmp argument providing a comparison function. Use the key argument instead_"
-- An example in the notes uses the [raw type](https://docs.oracle.com/javase/tutorial/java/generics/rawTypes.html) `Comparable`. This bypasses generic type checking and relies on runtime exceptions to determine when something goes wrong with the `compareTo` method.
-- The notes use a clever trick of defining each sort algorithm in terms of a common `less` comparison and an `exch` exchange methods to make analyzing running time easier.
+- An example in the slides uses the [raw type](https://docs.oracle.com/javase/tutorial/java/generics/rawTypes.html) `Comparable`. This bypasses generic type checking and relies on runtime exceptions to determine when something goes wrong with the `compareTo` method.
+- The slides use a clever trick of defining each sort algorithm in terms of a common `less` comparison and an `exch` exchange methods to make analyzing running time easier.
 - _Selection sort_ has O(n²) compares, O(n) exchanges, and O(1) extra space
-- The notes refer the fun blog post: _[Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)_. It's very easy to get the fundamental algorithms wrong: a longstanding overflow bug involved using `int mid = (low + high) / 2;` instead of `int mid = low + ((high - low) / 2);`
+- The slides refer the fun blog post: _[Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/)_. It's very easy to get the fundamental algorithms wrong: a longstanding overflow bug involved using `int mid = (low + high) / 2;` instead of `int mid = low + ((high - low) / 2);`
 - 3-Sum in O(n²) time and O(1) extra space uses 3 pointers. For each i, set j to i+1 and k to end, and iterate j and k inward, marking all sums.
 - _Insertion sort_ has worst-case O(n²) compares and exchanges
 - _Binary insertion sort_ has worst-case O(n log n) compares and O(n²) exchanges
 - _Binary search_ has worst-case O(n log n) compares 
 
 ### 6. Mergesort
-- The notes provide good advice about not allocating a helper array inside a recursive method, because then you have as many arrays in memory as the depth of the recursive call stack. Instead allocate the helper array outside, and then pass it in to the recursive method.
-- Java has two sort methods: [Arrays.parallelSort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#parallelSort(T%5B%5D)), which is a multithreaded merge sort variant, and [Arrays.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#sort(java.lang.Object%5B%5D)), which is single-threaded and uses Python's [TimSort](https://en.wikipedia.org/wiki/Timsort) combination of natural merge sort and insertion sort. `Arrays.parallelSort` is the preferred sort for large arrays, as it calls `Arrays.sort` for small subarrays.
+- The slides provide good advice about not allocating a helper array inside a recursive method, because then you have as many arrays in memory as the depth of the recursive call stack. Instead allocate the helper array outside, and then pass it in to the recursive method.
+- Java has two sort methods: [Arrays.parallelSort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#parallelSort(T%5B%5D)), which is a multithreaded merge sort variant, and [Arrays.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#sort(java.lang.Object%5B%5D)), which is single-threaded and uses Python's [Timsort](https://en.wikipedia.org/wiki/Timsort) combination of natural merge sort and insertion sort. `Arrays.parallelSort` is the preferred sort for large arrays, as it calls `Arrays.sort` for small subarrays. In addition, [Collections.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Collections.html#sort(java.util.List)) sorts a List by creating an array from the List, sorting that array with Timsort, then putting that result back into the List.
 - A clever, [non-recursive variant](https://en.wikipedia.org/wiki/Merge_sort#Bottom-up_implementation) of merge-sort is presented
-- 
+- There's a good chart in the slides that's useful enough to partially replicate here:
 
+| | in-place? | stable? | remarks |
+| --- | --- | --- | --- |
+| selection | yes | | n exchanges |
+| insertion | yes | yes | use for small n or partially sorted |
+| merge | | yes | Θ(n log n) guarantee |
+| timsort | | yes | improves merge sort when pre-existing order |
+| ? | yes | yes | holy sorting grail | 
+
+### 7. Quicksort
+- The slides imply that quicksort is beloved in algorithms courses and used in older languages and libraries, but newer languages and libraries often use some variation of merge / insertion / Timsort.
+- 
 
 
