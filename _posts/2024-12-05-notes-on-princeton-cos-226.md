@@ -68,8 +68,9 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 
 ### 6. Mergesort
 - The notes provide good advice about not allocating a helper array inside a recursive method, because then you have as many arrays in memory as the depth of the recursive call stack. Instead allocate the helper array outside, and then pass it in to the recursive method.
-- Java has two sort methods: [Arrays.parallelSort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#parallelSort(T%5B%5D)), which is a multithreaded merge-sort variant, and [Arrays.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#sort(java.lang.Object%5B%5D)), which is single-threaded and uses Python's [TimSort](https://en.wikipedia.org/wiki/Timsort) combination of merge and insertion sort. `Arrays.parallelSort` is the preferred sort for large arrays, as it calls `Arrays.sort` for small subarrays.
-
+- Java has two sort methods: [Arrays.parallelSort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#parallelSort(T%5B%5D)), which is a multithreaded merge sort variant, and [Arrays.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#sort(java.lang.Object%5B%5D)), which is single-threaded and uses Python's [TimSort](https://en.wikipedia.org/wiki/Timsort) combination of natural merge sort and insertion sort. `Arrays.parallelSort` is the preferred sort for large arrays, as it calls `Arrays.sort` for small subarrays.
+- A clever, [non-recursive variant](https://en.wikipedia.org/wiki/Merge_sort#Bottom-up_implementation) of merge-sort is presented
+- 
 
 
 
