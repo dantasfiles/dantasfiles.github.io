@@ -4,7 +4,7 @@ title: 'Notes on 🐻<i>Intro. to Computing: A Design & Development Perspective<
 author: Daniel Dantas
 ---
 
-I was curious to learn what had been updated since I took a version of CS 1110, so I read through the [lecture slides for the Fall 2024 semester](https://www.cs.cornell.edu/courses/cs1110/2024fa/). The lecture videos are Cornell-only, but the slides are public.
+I was curious to learn what had been updated [since I took a version of CS 1110](https://dantasfiles.com/1998/06/29/cornell-prefreshman-summer.html), so I read through the [lecture slides for the Fall 2024 semester](https://www.cs.cornell.edu/courses/cs1110/2024fa/). The lecture videos are Cornell-only, but the slides are public.
 
 I use these notes to keep track of thoughts I had while I read, and anything that sticks out to me as interesting. When I took a version of the course, it used _Java_ , and now it uses _Python_. So many of my comments will be how the course differs between the two programming languages.
 
