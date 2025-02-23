@@ -4,9 +4,9 @@ title: 'Notes on 🐯<i>Computer Science: An Interdisciplinary Approach</i>'
 author: Daniel Dantas
 ---
 
-I was curious to learn what has been updated since I was a [teaching assistant for COS 126](https://dantasfiles.com/2005/05/30/princeton-cos-126.html), so I am reading through the [lecture notes for the Spring 2025 semester](https://www.cs.princeton.edu/courses/archive/spr25/cos126/)
+I was curious to learn what has been updated since I was a [teaching assistant for COS 126](https://dantasfiles.com/2005/05/30/princeton-cos-126.html), so I am reading through the [lecture slides for the Spring 2025 semester](https://www.cs.princeton.edu/courses/archive/spr25/cos126/)
 
-I use these notes to keep track of anything that sticks out to me as interesting. My notes are incomplete as I have not yet finished reading the lecture notes
+I use these notes to keep track of thoughts I have during reading, and anything that sticks out to me as interesting. My notes are incomplete as I have not yet finished reading the slides
 
 ## Introduction
   * The _everything_ is correctly in quotes in the statement “ _‘Everything’ can be encoded as a sequence of bits_ ” because continuous things, like real numbers, cannot always be encoded in a _finite_ sequence of bits
