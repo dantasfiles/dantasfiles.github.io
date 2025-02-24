@@ -53,5 +53,6 @@ I don’t know which system works best—it probably depends on the student
 ## 3. Libraries & Clients
 - A [sawtooth function](https://en.wikipedia.org/wiki/Sawtooth_wave) is implemented: `2 * (freq*t - Math.floor(freq*t + 0.5))`
 
-
-
+## 4. Recursion
+- Fun use of M.C. Escher's [Circle Limit IV (Heaven and Hell)](https://www.escherinhetpaleis.nl/escher-today/circle-limit-iv-heaven-and-hell/)
+- Dynamic programming can be top-down memoization, or can build the solutions from the bottom-up. Top-down can be simpler to program (just add memoization to existing recursive code), but is usually slower because still involves recursive calls.
