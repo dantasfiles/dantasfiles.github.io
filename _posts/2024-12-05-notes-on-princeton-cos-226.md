@@ -84,7 +84,12 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 | ? | yes | yes | holy sorting grail | 
 
 ### 7. Quicksort
-- The slides imply that quicksort is beloved in algorithms courses and used in older languages and libraries, but newer languages and libraries often use some variation of merge / insertion / Timsort. The reasons seems to be that the latter has greatly improved with techniques like merging runs, and that the latter is easier to parallelize, which is useful with large datasets and multiple cores.
+- The slides imply that quicksort is beloved in algorithms courses and used extensively in older languages and libraries, but newer languages and libraries often add some variation of merge / insertion / Timsort. The reasons seems to be that the latter has greatly improved with techniques like merging runs, and that the latter is easier to parallelize, which is useful with large datasets and multiple cores.
 - A median can be estimated by picking 3 items at random and calculating their median
 - The partition algorithm from quicksort can be used to find an item of a certain rank (e.g. median). This can be done in a while loop without recursion.
-
+- Java has two sort methods: [Arrays.parallelSort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#parallelSort(T%5B%5D)) and [Arrays.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#sort(java.lang.Object%5B%5D)).
+  - For primitive types, they [appear to be identical](https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/Arrays.java) and both use a quicksort variant.
+  - For reference types. `Arrays.parallelSort` is a multithreaded merge sort variant, while `Arrays.sort` is single-threaded and uses Python's [Timsort](https://en.wikipedia.org/wiki/Timsort) combination of natural merge sort and insertion sort.
+  - `Arrays.parallelSort` is the preferred sort for large arrays, as it calls `Arrays.sort` for small subarrays.
+- In addition, [Collections.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Collections.html#sort(java.util.List)) sorts a List by creating an array from the List, sorting that array with Timsort, then putting that result back into the List.
+- The slides give the good advice of using the sorts built into the language libraries unless you're absolutely sure that you need a custom solution. This advice is useful for most algorithms built into language libraries, as the authors of those libraries usually have detailed understanding of the internals of the languages, compilers, and interpreters.
