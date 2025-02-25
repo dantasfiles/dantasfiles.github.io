@@ -73,18 +73,9 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 - Java uses quicksort on primitive types, and merge-sort variants on reference types. 
 - Java has two sort methods: [Arrays.parallelSort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#parallelSort(T%5B%5D)), which, on reference types, is a multithreaded merge sort variant, and [Arrays.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#sort(java.lang.Object%5B%5D)), which is single-threaded and uses Python's [Timsort](https://en.wikipedia.org/wiki/Timsort) combination of natural merge sort and insertion sort. `Arrays.parallelSort` is the preferred sort for large arrays, as it calls `Arrays.sort` for small subarrays. In addition, [Collections.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Collections.html#sort(java.util.List)) sorts a List by creating an array from the List, sorting that array with Timsort, then putting that result back into the List.
 - A clever, [non-recursive variant](https://en.wikipedia.org/wiki/Merge_sort#Bottom-up_implementation) of merge-sort is presented
-- There's a good chart in the slides that's useful enough to partially replicate here:
-
-| | in-place? | stable? | remarks |
-| --- | --- | --- | --- |
-| selection | yes | | n exchanges |
-| insertion | yes | yes | use for small n or partially sorted |
-| merge | | yes | Θ(n log n) guarantee |
-| timsort | | yes | improves merge sort when pre-existing order |
-| ? | yes | yes | holy sorting grail | 
 
 ### 7. Quicksort
-- The slides imply that quicksort is beloved in algorithms courses and used extensively in older languages and libraries, but newer languages and libraries often add some variation of merge / insertion / Timsort. The reasons seems to be that the latter has greatly improved with techniques like merging runs, and that the latter is easier to parallelize, which is useful with large datasets and multiple cores.
+- The slides imply that newer languages and libraries often add some variation of merge / insertion / Timsort. The reasons seems to be that the latter has greatly improved with techniques like merging runs, and that the latter is easier to parallelize, which is useful with large datasets and multiple cores.
 - A median can be estimated by picking 3 items at random and calculating their median
 - The partition algorithm from quicksort can be used to find an item of a certain rank (e.g. median). This can be done in a while loop without recursion.
 - Java has two sort methods: [Arrays.parallelSort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#parallelSort(T%5B%5D)) and [Arrays.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#sort(java.lang.Object%5B%5D)).
@@ -93,3 +84,23 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
   - `Arrays.parallelSort` is the preferred sort for large arrays, as it calls `Arrays.sort` for small subarrays.
 - In addition, [Collections.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Collections.html#sort(java.util.List)) sorts a List by creating an array from the List, sorting that array with Timsort, then putting that result back into the List.
 - The slides give the good advice of using the sorts built into the language libraries unless you're absolutely sure that you need a custom solution. This advice is useful for most algorithms built into language libraries, as the authors of those libraries usually have detailed understanding of the internals of the languages, compilers, and interpreters.
+
+### 8. Priority Queues
+- Java has two priority queues, the non-thread-safe [PriorityQueue](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/PriorityQueue.html), and the thread-safe [PriorityBlockingQueue](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/concurrent/PriorityBlockingQueue.html). For `PriorityQueue`, "_this implementation provides O(log(n)) time for the enqueuing and dequeuing methods (`offer`, `poll`, `remove()` and `add`); linear time for the `remove(Object)` and `contains(Object)` methods; and constant time for the retrieval methods (`peek`, `element`, and `size`)_"
+- Heapsort that uses max-heaps sort from lowest to highest, while heapsorts that use min-heaps sort from highest to lowest
+- There's a good chart in the slides that's useful enough to partially replicate here:
+
+| | in-place? | stable? | remarks |
+| --- | --- | --- | --- |
+| selection | yes | | n exchanges |
+| insertion | yes | yes | use for small n or partially sorted |
+| merge | | yes | Θ(n log n) guarantee |
+| timsort | | yes | improves merge sort when pre-existing order |
+| quick | yes | | Θ(n log n) probabilistic guarantee; fastest in practice |
+| heap | yes | | Θ(n log n) guarantee |
+| ? | yes | yes | holy sorting grail | 
+
+## 9. Elementary Symbol Tables
+- The slides reference a quote on the preference of [failing fast](https://en.wikipedia.org/wiki/Fail-fast_system) over silently accepting inputs that may cause problems later
+- 
+
