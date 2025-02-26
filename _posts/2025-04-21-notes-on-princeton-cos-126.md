@@ -1,5 +1,6 @@
 ---
 title: 'Notes on 🐯<i>Computer Science: An Interdisciplinary Approach</i>'
+description: Incomplete, in-progress
 # description: Princeton COS 126, Spring 2025 edition
 author: Daniel Dantas
 ---
@@ -56,3 +57,10 @@ I don’t know which system works best—it probably depends on the student
 ## 4. Recursion
 - Fun use of M.C. Escher's [Circle Limit IV (Heaven and Hell)](https://www.escherinhetpaleis.nl/escher-today/circle-limit-iv-heaven-and-hell/)
 - Dynamic programming can be top-down memoization, or can build the solutions from the bottom-up. Top-down can be simpler to program (just add memoization to existing recursive code), but is usually slower because still involves recursive calls.
+
+## 4. Performance
+* Algorithms topics focus on system-independent effects, while systems topics focus on system-dependent effects like hardware, systems software, and operating system. I always found the latter super-interesting
+* Reminder that `(n choose k) = n!/k!(n-k)! = (n*…*(n-k+1))/k! `This [definition](https://en.wikipedia.org/wiki/Binomial_coefficient) often comes in useful
+* There used to be confusion over the size of a kilobyte: 10^3 (1,000) or 2^10 (1,024). Now _[kilo](https://en.wikipedia.org/wiki/Kilobyte)_[bytes](https://en.wikipedia.org/wiki/Kilobyte) are 10^3 (1,000) bytes, while _[kibi](https://en.wikipedia.org/wiki/Byte#Multiple-byte_units)_[bytes](https://en.wikipedia.org/wiki/Byte#Multiple-byte_units) are 2^10 (1,024) bytes. The same holds for other prefixes: _mega_ / _mebi_ , _giga_ / _gibi_ …
+* In [Java](https://docs.oracle.com/javase/specs/jls/se23/html/jls-4.html#jls-4.2), _bytes_ are 8 bits, _short_ : 16 bits, _int_ : 32 bits, _long_ : 64 bits, _float_ : 32 bits, _double_ : 64 bits, _char_ : 16 bit [unicode](https://en.wikipedia.org/wiki/UTF-16), _boolean_ s use an unspecified number of bits
+
