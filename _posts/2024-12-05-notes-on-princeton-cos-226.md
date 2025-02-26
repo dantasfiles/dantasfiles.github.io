@@ -54,9 +54,7 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 | Deque	| | ArrayDeque | | LinkedList | |	 
 | Map	| HashMap	| | TreeMap | |	LinkedHashMap |
 
-## Sorts
-
-### 5. Elementary Sorts
+## 5. Elementary Sorts
 - Sorts are defined as requiring a binary relation that is transitive and comparable (a ≤ b and/or b ≤ a). I believe implementing the Java `Comparable` interface requires a [total ordering](https://en.wikipedia.org/wiki/Total_order), where it's recommended that if `a` ≤ `b` and `b` ≤ `a`, then `a.equals(b)`
 - It's claimed that Python uses first-class functions to enable sorting. However, this was [changed in Python 3](https://docs.python.org/3/whatsnew/3.0.html#ordering-comparisons): "_`sorted()` and `list.sort()` no longer accept the cmp argument providing a comparison function. Use the key argument instead_"
 - An example in the slides uses the [raw type](https://docs.oracle.com/javase/tutorial/java/generics/rawTypes.html) `Comparable`. This bypasses generic type checking and relies on runtime exceptions to determine when something goes wrong with the `compareTo` method.
@@ -68,13 +66,13 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 - _Binary insertion sort_ has worst-case O(n log n) compares and O(n²) exchanges
 - _Binary search_ has worst-case O(n log n) compares 
 
-### 6. Mergesort
+## 6. Mergesort
 - The slides provide good advice about not allocating a helper array inside a recursive method, because then you have as many arrays in memory as the depth of the recursive call stack. Instead allocate the helper array outside, and then pass it in to the recursive method.
 - Java uses quicksort on primitive types, and merge-sort variants on reference types. 
 - Java has two sort methods: [Arrays.parallelSort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#parallelSort(T%5B%5D)), which, on reference types, is a multithreaded merge sort variant, and [Arrays.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#sort(java.lang.Object%5B%5D)), which is single-threaded and uses Python's [Timsort](https://en.wikipedia.org/wiki/Timsort) combination of natural merge sort and insertion sort. `Arrays.parallelSort` is the preferred sort for large arrays, as it calls `Arrays.sort` for small subarrays. In addition, [Collections.sort](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Collections.html#sort(java.util.List)) sorts a List by creating an array from the List, sorting that array with Timsort, then putting that result back into the List.
 - A clever, [non-recursive variant](https://en.wikipedia.org/wiki/Merge_sort#Bottom-up_implementation) of merge-sort is presented
 
-### 7. Quicksort
+## 7. Quicksort
 - The slides imply that newer languages and libraries often add some variation of merge / insertion / Timsort. The reasons seems to be that the latter has greatly improved with techniques like merging runs, and that the latter is easier to parallelize, which is useful with large datasets and multiple cores.
 - A median can be estimated by picking 3 items at random and calculating their median
 - The partition algorithm from quicksort can be used to find an item of a certain rank (e.g. median). This can be done in a while loop without recursion.
@@ -106,4 +104,6 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 - Java has [ordered symbol tables](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/SortedMap.html), primarily using [red-black trees](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
 
 ## 9. Binary Search Trees
+- Tree algorithms are naturally written recursively, but can then be transformed into an iterative version for greater speed and less memory usage. A typical iterative, not recursive, tree algorithm pattern is `Node n = root; while (n != null) { ... }`
 
+## 10. Balanced Search Trees
