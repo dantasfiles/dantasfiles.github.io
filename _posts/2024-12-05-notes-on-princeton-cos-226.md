@@ -1,5 +1,6 @@
 ---
 title: Notes on 🐯<i>Algorithms & Data Structures</i>
+description: "In-progress, incomplete"
 # hidden: true
 # subtitle: Princeton COS 226, Spring 2025 edition
 author: Daniel Dantas
@@ -104,10 +105,14 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 - Java has [ordered symbol tables](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/SortedMap.html), primarily using [red-black trees](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
 
 ## 9. Binary Search Trees
-- Tree algorithms are naturally written recursively, but can then be transformed into an iterative version for greater speed and less memory usage. A typical iterative, not recursive, tree algorithm pattern is `Node n = root; while (n != null) { ... }`
+- Tree algorithms are naturally written recursively, but can then be transformed into an iterative version for greater speed and less memory usage. Sometimes you can make the algorithm tail recursive, allowing an easy transition to a while loop. A typical iterative, not recursive, tree algorithm pattern is `Node n = root; while (n != null) { ... }`. If you can't make the algorithm tail-recursive, then you can use an explicit stack to hold the work still to be done
 
 ## 10. Balanced Search Trees
 - [2-3 trees](https://en.wikipedia.org/wiki/2%E2%80%933_tree) were invented by 🐻[John Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft)
 - The progression from 2-3 trees to [left-leaning red-black trees ](https://en.wikipedia.org/wiki/Left-leaning_red%E2%80%93black_tree) to [red-black trees](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree) in the lecture sludes is very well-done. It's more intuitive than when I learned red-black trees
 
 ## 13. Geometric Applications of Binary Search Trees
+- I don't know why this is the case, but when I write tree algorithms in particular, I assume they need to be more complicated then they really are. So I write a complicated first draft, and then simplify as I realize what is going on
+
+
+
