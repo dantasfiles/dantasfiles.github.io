@@ -101,6 +101,9 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 | ? | yes | yes | holy sorting grail | 
 
 ## 9. Elementary Symbol Tables
-- The slides reference a quote on the preference of [failing fast](https://en.wikipedia.org/wiki/Fail-fast_system) over silently accepting inputs that may cause problems later
-- 
+- The slides include a quote recommending [failing fast](https://en.wikipedia.org/wiki/Fail-fast_system) rather than silently accepting inputs that may cause problems later
+- Another way to build a counter is to use the [Map.merge](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Map.html#merge(K,V,java.util.function.BiFunction)) method: `map.merge(key, 0, (count, _) -> count+1)`
+- Java has [ordered symbol tables](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/SortedMap.html), primarily using [red-black trees](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+
+## 9. Binary Search Trees
 
