@@ -107,3 +107,7 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 - Tree algorithms are naturally written recursively, but can then be transformed into an iterative version for greater speed and less memory usage. A typical iterative, not recursive, tree algorithm pattern is `Node n = root; while (n != null) { ... }`
 
 ## 10. Balanced Search Trees
+- [2-3 trees](https://en.wikipedia.org/wiki/2%E2%80%933_tree) were invented by 🐻[John Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft)
+- The progression from 2-3 trees to [left-leaning red-black trees ](https://en.wikipedia.org/wiki/Left-leaning_red%E2%80%93black_tree) to [red-black trees](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree) in the lecture sludes is very well-done. It's more intuitive than when I learned red-black trees
+
+## 13. Geometric Applications of Binary Search Trees
