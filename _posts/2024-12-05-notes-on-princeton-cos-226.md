@@ -123,4 +123,5 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
   - [Arrays.hashCode](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#hashCode(java.lang.Object%5B%5D)) takes an array of primitive or reference values, hashes the values, then combines them into a `hashCode`
   - [Objects.hash](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Objects.html#hash(java.lang.Object...)) is a [varargs](https://docs.oracle.com/javase/8/docs/technotes/guides/language/varargs.html) version of `Arrays.hashCode` that makes it easy to generate `hashCode` methods for a user defined classes by passing in the fields of the class into the method
   - [Arrays.deepHashCode](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#deepHashCode(java.lang.Object%5B%5D)) is a deep version of the shallow `Arrays.hashCode` for situations where the array to be hashed contains arrays
-
+- A `hashCode` in Java is a signed integer, so take particular care when converting it into an array index
+- 
