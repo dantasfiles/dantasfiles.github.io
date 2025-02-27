@@ -113,6 +113,9 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 
 ## 13. Geometric Applications of Binary Search Trees
 - I don't know why this is the case, but when I write tree algorithms in particular, I assume they need to be more complicated then they really are. So I write a complicated first draft, and then simplify as I realize what is going on
+- The algorithms are described at a high-level, because the algorithms and data structures for computational geometry are too complex for a single lecture. The recommended course [was last taught in 2022](https://www.cs.princeton.edu/courses/archive/fall22/cos451/)
+- Looking at the code for the [flocking boids](https://en.wikipedia.org/wiki/Boids), it doesn't appear that the k from the "_move toward the center of mass of k nearest boids_" rule is the same as the k from the "_point away from k nearest boids_" rule
 
+## 14. Hash Tables
 
 
