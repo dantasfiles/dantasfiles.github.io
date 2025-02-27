@@ -117,5 +117,6 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 - Looking at the code for the [flocking boids](https://en.wikipedia.org/wiki/Boids), it doesn't appear that the k from the "_move toward the center of mass of k nearest boids_" rule is the same as the k from the "_point away from k nearest boids_" rule
 
 ## 14. Hash Tables
-
-
+- I was confused by the line "_if used only least significant 32 bits \[of Double.doubleToLongBits()\], all integers between −2^21 and 2^21 would have same hash code (0)_". I [read the documentation](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_math.html) and remembered how, unlike the bit representation of an integer (3 is 0011, 15 is 1111) where the bits flow from least-significant to most-significant as the number rises, floating point numbers work differently.<br>To a very, very rough approximation, floating point numbers are repesented as 1.(_fraction_) x 2^(_biased exponent_). So for the integer 3 (1.1000... * 2^1), the fraction is 1000...., while for 15 (1.1110... * 2^3), the fraction is 1110... So as the integers (represented as floating point numbers) rise, the bits flow from the most-significant to least-significant bit. So now I understand the initial line in the slides
+- The slides reference a cool function called [Objects.hash](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Objects.html#hash(java.lang.Object...)) , [Arrays.hashCode](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#hashCode(java.lang.Object%5B%5D)), and that makes it easy to generate `hashCode` methods for your user defined classes by passing in your fields to the method
+- 
