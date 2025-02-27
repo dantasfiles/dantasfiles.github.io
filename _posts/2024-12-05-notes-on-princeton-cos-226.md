@@ -9,7 +9,7 @@ author: Daniel Dantas
 
 I was curious to learn what has been updated since I took a [version of this course at a 🐻 different university](https://dantasfiles.com/1998/08/27/cornell-freshman-fall.html), so I am reading through the [lecture slides for the Fall 2024 semester](https://www.cs.princeton.edu/courses/archive/fall24/cos226/)
 
-I use these notes to keep track of my thoughts while reading, and anything that sticks out to me as interesting. The notes are incomplete as I have not yet finished reading the slides
+I use these notes to keep track of my thoughts while reading and to record anything that sticks out to me as interesting. The notes are incomplete as I have not yet finished reading the slides
 
 ## 1. Introduction
   * “_Bad programmers worry about the code. Good programmers worry about data structures and their relationships_” by Linus Torvalds is a great quote
