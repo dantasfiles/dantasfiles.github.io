@@ -26,9 +26,7 @@ I use these notes to keep track of my thoughts while reading, and anything that 
   * Modern processors in computers and mobile devices typically handle data in 64-bit (8-byte) blocks
   * In [Java](https://docs.oracle.com/javase/specs/jls/se23/html/jls-4.html#jls-4.2), _bytes_ are 8 bits, _short_ : 16 bits, _int_ : 32 bits, _long_ : 64 bits, _float_ : 32 bits, _double_ : 64 bits, _char_ : 16 bit [unicode](https://en.wikipedia.org/wiki/UTF-16), _boolean_ s use an unspecified number of bits
 
-## Stacks & Queues
-
-### 3. S&Q: Resizable Arrays
+## 3. Stacks & Queues: Resizable Arrays
   * Stacks and queues occur in [real life](https://en.wikipedia.org/wiki/Queueing_theory) as well as in computer science
   * The fundamental methods of a stack are _push_ , _pop_ , and _isEmpty_
   * The fundamental methods of a queue are _enqueue_ , _dequeue_ , and _isEmpty_
@@ -39,7 +37,7 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
   * A queue can be implemented with two stacks: a push stack and a pop stack. The items on the push stack are moved into the pop stack as necessary.
   * Generic array creation is not allowed: `new T[n]`. This is because once your code is compiled, type parameters like `T` are [erased](https://docs.oracle.com/javase/tutorial/java/generics/erasure.html) (to enable backwards compatibility and reduce runtime overhead), and cannot be used at runtime. Instead, an explicit cast is necessary: `T[] a = (T[]) new Object[n])`
 
-### 4. S&Q: Linked Lists
+## 4. Stacks & Queues: Linked Lists
 - Linked list implementations of lists are simpler to resize than array implementations, but take up more memory, and are slow when accessing random elements of the list and when accessing list in order (due to [sequential locality](https://en.wikipedia.org/wiki/Locality_of_reference) and caching).
 - Typical linked list iteration code is `for (Node n = first; n != null; n = n.next) {`
 - Implementations typically need an empty-list case, where first and last pointers are null; and a normal case, where first and last pointers point to nodes
@@ -125,3 +123,5 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
   - [Arrays.deepHashCode](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Arrays.html#deepHashCode(java.lang.Object%5B%5D)) is a deep version of the shallow `Arrays.hashCode` for situations where the array to be hashed contains arrays
 - A `hashCode` in Java is a signed integer, so take particular care when converting it into an array index
 - The great Donald Knuth quote is presented: "_We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%._" If you look up the quote on the internet, some sources say Donald Knuth, some say Donald Knuth quoting Tony Hoare, and some say Donald Knuth quoting Tony Hoare quoting Donald Knuth 🔁
+
+## 15. Graphs and Digraphs I 
