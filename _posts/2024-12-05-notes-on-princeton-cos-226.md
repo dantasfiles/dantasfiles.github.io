@@ -7,7 +7,7 @@ author: Daniel Dantas
 ---
 
 
-I was curious to learn what has been updated since I took a [version of this course at a 🐻 different university](https://dantasfiles.com/1998/08/27/cornell-freshman-fall.html), so I am reading through the [lecture slides for the Fall 2024 semester](https://www.cs.princeton.edu/courses/archive/fall24/cos226/)
+I was curious to learn what has been updated since I took a [version of COS 226 at a 🐻different university](https://dantasfiles.com/1998/08/27/cornell-freshman-fall.html), so I am reading through the [lecture slides for the Fall 2024 semester](https://www.cs.princeton.edu/courses/archive/fall24/cos226/)
 
 I use these notes to keep track of my thoughts while reading and to record anything that sticks out to me as interesting. The notes are incomplete as I have not yet finished reading the slides
 
@@ -45,13 +45,13 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 - A diagram of the Java Collections Framework is located [here](https://docs.oracle.com/javase/tutorial/collections/interfaces/index.html)
 - A table summarizing the Java Collections Framework is located [here](https://docs.oracle.com/javase/tutorial/collections/implementations/index.html), and is copied here as well
 
-| Interfaces	| Hash table Impl.	| Resizable array Impl.	| Tree Impl.	| Linked list Impl.	| Hash table + Linked list Impl. |
-| --- | --- | --- | --- | --- | --- |
-| Set	| HashSet	| | TreeSet	| |	LinkedHashSet |
-| List	| |	ArrayList	| |	LinkedList | |
-| Queue | | | | | |	 	 	 	 	 
-| Deque	| | ArrayDeque | | LinkedList | |	 
-| Map	| HashMap	| | TreeMap | |	LinkedHashMap |
+| Interfaces	| Hash table Impl.	| Resizable array Impl.	| Tree Impl.	| Linked list Impl.	| Hash table + Linked list Impl. | Synchronized Version |
+| --- | --- | --- | --- | --- | --- | --- |
+| [Set](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Set.html)	| ✨[HashSet](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/HashSet.html)✨	| | [TreeSet](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/TreeSet.html) (implements [SortedSet](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/SortedSet.html))	| |	[LinkedHashSet](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/LinkedHashSet.html) | |
+| [List](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/List.html)	| |	✨[ArrayList](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/ArrayList.html)✨	| |	[LinkedList](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/LinkedList.html) | | |
+| [Queue](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Queue.html) | | | | [LinkedList](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/LinkedList.html) | | [BlockingQueue](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/concurrent/BlockingQueue.html) | 
+| [Deque](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Deque.html) (implements [Queue](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Queue.html))	| | [ArrayDeque](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/ArrayDeque.html) | | [LinkedList](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/LinkedList.html) | | |
+| [Map](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Map.html)	| ✨[HashMap](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/HashMap.html)✨	| | [TreeMap](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/TreeMap.html) (implements [SortedMap](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/SortedMap.html)) | |	[LinkedHashMap](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/LinkedHashMap.html) | [ConcurrentMap](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/concurrent/ConcurrentHashMap.html) |
 
 ## 5. Elementary Sorts
 - Sorts are defined as requiring a binary relation that is transitive and comparable (a ≤ b and/or b ≤ a). I believe implementing the Java `Comparable` interface requires a [total ordering](https://en.wikipedia.org/wiki/Total_order), where it's recommended that if `a` ≤ `b` and `b` ≤ `a`, then `a.equals(b)`
@@ -125,3 +125,5 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 - The great Donald Knuth quote is presented: "_We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%._" If you look up the quote on the internet, some sources say Donald Knuth, some say Donald Knuth quoting Tony Hoare, and some say Donald Knuth quoting Tony Hoare quoting Donald Knuth 🔁
 
 ## 15. Graphs and Digraphs I 
+- A _path_ is defined as a "_sequence of vertices connected by edges, with no repeated edges_." This is slightly different from how I originally learned it, which was no repeated vertices (and thus no repeated edges). [Wikipedia](https://en.wikipedia.org/wiki/Path_(graph_theory)#Walk,_trail,_and_path) says both definitions are fine as long as you're clear which you are using
+- The Java implementation of 
