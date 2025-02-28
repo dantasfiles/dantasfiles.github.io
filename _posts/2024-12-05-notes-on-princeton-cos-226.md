@@ -177,16 +177,28 @@ procedure BFS(G, root) is
 | s-t path | yes | yes | Find a path between s and t | 
 | shortest s-t path | yes | | Find a path with the fewest edges between s to t |
 | shorted directed cycle | yes | | Find the shorted cycle in a directed graph |
-| Euler cycle | | yes | Find a cycle that uses each edge exactly once |
-| Hamilton cycle | | | Find a cycle that uses each vertex exactly once |
-| bipartiteness (odd cycle) | yes | yes | |
-| connected components | yes | yes | Find connected components |
-| strong components | | yes | | 
-| planarity | | yes | Draw in the plane with no crossing edges |
-| graph isomorphism | | | Find an isomorphism between two graphs |
-| single-source reachability | yes | yes | | 
-| topological sort | | yes | |
+| [Euler cycle](https://en.wikipedia.org/wiki/Eulerian_path) | | yes | Find a cycle that uses each edge exactly once |
+| [Hamilton cycle](https://en.wikipedia.org/wiki/Hamiltonian_path) | | | Find a cycle that uses each vertex exactly once |
+| [bipartiteness](https://en.wikipedia.org/wiki/Bipartite_graph) (\[no\] odd cycles) | yes | yes | |
+| [connected components](https://en.wikipedia.org/wiki/Component_(graph_theory)) | yes | yes | Find connected components |
+| [strong components](https://en.wikipedia.org/wiki/Strongly_connected_component) | | yes | every vertex is reachable from every other vertex | 
+| [planarity](https://en.wikipedia.org/wiki/Planar_graph) | | yes | Draw in the plane with no crossing edges |
+| [graph isomorphism](https://en.wikipedia.org/wiki/Graph_isomorphism) | | | Find an isomorphism between two graphs |
+| single-source [reachability](https://en.wikipedia.org/wiki/Reachability) | yes | yes | | 
+| [topological sort](https://en.wikipedia.org/wiki/Topological_sorting) | | yes | |
 
-
-
+## 17. Minimum Spanning Trees
+- A general algorithm is presented to find minimum spanning trees: "_T = ∅. Repeat until T is a spanning tree: Find a cut in G. e ← min-weight crossing edge. T ← T ∪ { e }_"
+- The greedy [Wikipedia pseudocode](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) for Kruskal's algorithm is as follow:
+```
+algorithm Kruskal(G) is
+  F:= ∅
+  for each v in G.V do
+    MAKE-SET(v)
+  for each {u, v} in G.E ordered by weight({u, v}), increasing do
+    if FIND-SET(u) ≠ FIND-SET(v) then
+      F := F ∪ { {u, v} }
+      UNION(FIND-SET(u), FIND-SET(v))
+  return F
+```
 
