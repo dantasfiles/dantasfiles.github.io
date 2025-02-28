@@ -168,4 +168,25 @@ procedure BFS(G, root) is
         Q.enqueue(w)
 ```
 - In the above Wikipedia pseudocode, I wouldn't use the term "_explored_," as the vertices are marked when they are discovered as a neighbor of the current vertex, not when the algorithm processes them
-- 
+- In breadth-first search, vertices are marked right away, when they are first discovered as a neighbor and placed in the queue. This makes sure the algorithm doesn't place vertices in the queue multiple times
+- The topological sort algorithm works, because if `a` → `b` in a directed **acyclic** graph, the `b` will always come before the `a` in a depth-first search postorder, so the `a` will come before the `b` when the depth-first search postorder is reversed. As Wikipedia puts it, "_each node v is visited_ \[by the postorder\] _only after all its dependencies are visited_". A reverse postorder is not the same as a preorder, where `a` and `b` can appear in any order depending on the rest of the graph
+- There's several good tables in the slides, which I combine and partially reproduce here:
+
+| graph | Breadth-first Search | Depth-first Search | Problem |
+| --- | --- | --- | --- |
+| s-t path | yes | yes | Find a path between s and t | 
+| shortest s-t path | yes | | Find a path with the fewest edges between s to t |
+| shorted directed cycle | yes | | Find the shorted cycle in a directed graph |
+| Euler cycle | | yes | Find a cycle that uses each edge exactly once |
+| Hamilton cycle | | | Find a cycle that uses each vertex exactly once |
+| bipartiteness (odd cycle) | yes | yes | |
+| connected components | yes | yes | Find connected components |
+| strong components | | yes | | 
+| planarity | | yes | Draw in the plane with no crossing edges |
+| graph isomorphism | | | Find an isomorphism between two graphs |
+| single-source reachability | yes | yes | | 
+| topological sort | | yes | |
+
+
+
+
