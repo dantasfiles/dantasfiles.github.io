@@ -127,7 +127,43 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 ## 15. Graphs and Digraphs I 
 - A _path_ is defined as a "_sequence of vertices connected by edges, with no repeated edges_." This is slightly different from how I originally learned it, which was no repeated vertices (and thus no repeated edges). [Wikipedia](https://en.wikipedia.org/wiki/Path_(graph_theory)#Walk,_trail,_and_path) says both definitions are fine as long as you're clear which you are using
 - The Java implementation of graphs in the slides uses a _bag_ for each vertex to record its adjacent vertices. Bags, which allow duplicate entries, are not in the Java libraries. The difference between a bag and a [Set](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Set.html) is that a bag can contain duplicate items. Replacing the bag with [Set](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Set.html)s disallows having multiple edges between the same two vertices, but I don't think this is a common case. In any case, if that was important, you could create a [Map](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Map.html) for each vertex `a`, that mapped each neighbor vertex `b` to the number of edges between `a` and `b`
-- The standard depth-first search algorithm is presented: "_Mark vertex v. Recursively visit all unmarked vertices w adjacent from v_". For marking vertex v, you can use a `visited` `Set`. Another version I've seen is "_Check if v is unmarked. If it is, mark it and recursively visit all vertices w adjacent from v_". This version translates more easily into an iterative version with an explicit stack
+- The standard depth-first search algorithm is presented: "_Mark vertex v. Recursively visit all unmarked vertices w adjacent from v_". For marking vertex v, you can use a `visited` `Set`
+- The Wikipedia canonical version is similar to the following:
+```
+procedure DFS(G, v) is
+  label v as visited
+  for all directed edges from v to w that are in G.adjacentEdges(v) do
+    if vertex w is not labeled as discovered then
+      recursively call DFS(G, w)
+```
+- The Wikipedia canonical iterative version is similar to the following:
+```
+procedure DFS_iterative(G, v) is
+  let S be a stack
+  S.push(v)
+  while S is not empty do
+    v = S.pop()
+    if v is not labeled as discovered then
+      label v as discovered
+      for all edges from v to w in G.adjacentEdges(v) do
+        if w is not labeled as discovered then
+          S.push(w)
+```
 
 ## 16. Graphs and Digraphs II
-
+- The standard breadth-first search algorithm is presented: "_Add vertex s to FIFO queue and mark s. Repeat until the queue is empty: remove the least recently added vertex v. For each unmarked vertex w adjacent from v: add w to queue and mark_".
+- The Wikipedia canonical version is similar to the following:
+```
+procedure BFS(G, root) is
+  let Q be a queue
+  label root as discovered
+  Q.enqueue(root)
+  while Q is not empty do
+    v := Q.dequeue()
+    for all edges from v to w in G.adjacentEdges(v) do
+      if w is not labeled as discovered then
+        label w as discovered
+        Q.enqueue(w)
+```
+- I've seen a lot of variations of graph algorithms, because you can often tweak when vertices get marked, and when vertices are added to the marked list, and as long as it's consistent, the algorithm usually still works. In addition, a lot of graph algorithms are pretty casual about the terminology of marking as "visited"/"discovered"/"explored". As a result, I have trouble getting the canonical versions of the algorithms (which are presented in these slides, and on Wikipedia) to stick in my memory
+- 
