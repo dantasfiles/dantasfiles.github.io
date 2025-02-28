@@ -189,7 +189,8 @@ procedure BFS(G, root) is
 
 ## 17. Minimum Spanning Trees
 - A general algorithm is presented to find minimum spanning trees: "_T = ∅. Repeat until T is a spanning tree: Find a cut in G. e ← min-weight crossing edge. T ← T ∪ { e }_"
-- The greedy [Wikipedia pseudocode](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) for Kruskal's algorithm is as follow:
+- Kruskal's algorithm is presented: "_Consider edges in ascending order of weight. Add next edge to T unless doing so would create a cycle_." The edges are sorted by weight, and union-find is used to examine and combine vertex sets. O(E log E) time, O(E) space.
+- The  [Wikipedia pseudocode](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) for Kruskal's algorithm is as follows:
 ```
 algorithm Kruskal(G) is
   F:= ∅
@@ -201,4 +202,8 @@ algorithm Kruskal(G) is
       UNION(FIND-SET(u), FIND-SET(v))
   return F
 ```
+- Prim's algorithm is presented: "_Start with vertex 0 and grow tree T. Repeat until V − 1 edges: add to T the min-weight edge with exactly one endpoint in T_." A priority queue is used to keep track of edges leading out of tree. O(E log V) time, O(V) space
 
+## 18. Shortest Paths
+- A general shortest path algorithm is presented: "_For each vertex v: distTo[v] = ∞. For each vertex v: edgeTo[v] = null. distTo[s] = 0. Repeat until distTo[v] values converge: Relax any edge_"
+- The Bellman-Ford algorithm is presented: "_For each vertex v: distTo[v] = ∞. For each vertex v: edgeTo[v] = null. distTo[s] = 0. Repeat V-1 times: Relax each edge_". Negative cycles are not allowed. O(E V) time.
