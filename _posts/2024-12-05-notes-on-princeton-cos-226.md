@@ -126,4 +126,8 @@ Java _[ArrayLists](https://github.com/openjdk/jdk/blob/8f6ccde9829ea0e4fe1c087e6
 
 ## 15. Graphs and Digraphs I 
 - A _path_ is defined as a "_sequence of vertices connected by edges, with no repeated edges_." This is slightly different from how I originally learned it, which was no repeated vertices (and thus no repeated edges). [Wikipedia](https://en.wikipedia.org/wiki/Path_(graph_theory)#Walk,_trail,_and_path) says both definitions are fine as long as you're clear which you are using
-- The Java implementation of 
+- The Java implementation of graphs in the slides uses a _bag_ for each vertex to record its adjacent vertices. Bags, which allow duplicate entries, are not in the Java libraries. The difference between a bag and a [Set](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Set.html) is that a bag can contain duplicate items. Replacing the bag with [Set](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Set.html)s disallows having multiple edges between the same two vertices, but I don't think this is a common case. In any case, if that was important, you could create a [Map](https://docs.oracle.com/en/java/javase/23/docs/api/java.base/java/util/Map.html) for each vertex `a`, that mapped each neighbor vertex `b` to the number of edges between `a` and `b`
+- The standard depth-first search algorithm is presented: "_Mark vertex v. Recursively visit all unmarked vertices w adjacent from v_". For marking vertex v, you can use a `visited` `Set`. Another version I've seen is "_Check if v is unmarked. If it is, mark it and recursively visit all vertices w adjacent from v_". This version translates more easily into an iterative version with an explicit stack
+
+## 16. Graphs and Digraphs II
+
