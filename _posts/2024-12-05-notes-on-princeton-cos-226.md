@@ -189,7 +189,7 @@ procedure BFS(G, root) is
 
 ## 17. Minimum Spanning Trees
 - A general algorithm is presented to find minimum spanning trees: "_T = ∅. Repeat until T is a spanning tree: Find a cut in G. e ← min-weight crossing edge. T ← T ∪ { e }_"
-- Kruskal's algorithm is presented: "_Consider edges in ascending order of weight. Add next edge to T unless doing so would create a cycle_." The edges are sorted by weight, and union-find is used to examine and combine vertex sets. O(E log E) time, O(E) space.
+- The greedy [Kruskal's algorithm](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) is presented: "_Consider edges in ascending order of weight. Add next edge to T unless doing so would create a cycle_." The edges are sorted by weight, and union-find is used to examine and combine vertex sets. O(E log E) time, O(E) space.
 - The  [Wikipedia pseudocode](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) for Kruskal's algorithm is as follows:
 ```
 algorithm Kruskal(G) is
@@ -202,15 +202,16 @@ algorithm Kruskal(G) is
       UNION(FIND-SET(u), FIND-SET(v))
   return F
 ```
-- Prim's algorithm is presented: "_Start with vertex 0 and grow tree T. Repeat until V − 1 edges: add to T the min-weight edge with exactly one endpoint in T_." A priority queue is used to keep track of edges leading out of tree. O(E log V) time, O(V) space
+- The greedy [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm) is presented: "_Start with vertex 0 and grow tree T. Repeat until V − 1 edges: add to T the min-weight edge with exactly one endpoint in T_." A priority queue is used to keep track of edges leading out of tree. O(E log V) time, O(V) space
 
 ## 18. Shortest Paths
 - A general shortest path algorithm is presented: "_For each vertex v: distTo[v] = ∞. For each vertex v: edgeTo[v] = null. distTo[s] = 0. Repeat until distTo[v] values converge: Relax any edge_"
-- The Bellman-Ford algorithm is presented: "_For each vertex v: distTo[v] = ∞. For each vertex v: edgeTo[v] = null. distTo[s] = 0. Repeat V-1 times: Relax each edge_". Negative cycles are not allowed. O(E V) time.
-- Dijkstra's algorithm is presented: "_For each vertex v: distTo[v] = ∞. For each vertex v: edgeTo[v] = null. T = ∅. distTo[s] = 0. Repeat until all vertices are marked: Select unmarked vertex v with the smallest distTo[] value. Mark v. Relax each edge incident from v._" A priority queue is used to track unmarked vertex v with the smallest distTo[] values. Negative weights are not allowed. O(E log V) time, so faster than Bellman-Ford.
+- The dynamic programming [Bellman-Ford algorithm](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm) is presented: "_For each vertex v: distTo[v] = ∞. For each vertex v: edgeTo[v] = null. distTo[s] = 0. Repeat V-1 times: Relax each edge_". Negative cycles are not allowed. O(E V) time.
+- The greedy [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) is presented: "_For each vertex v: distTo[v] = ∞. For each vertex v: edgeTo[v] = null. T = ∅. distTo[s] = 0. Repeat until all vertices are marked: Select unmarked vertex v with the smallest distTo[] value. Mark v. Relax each edge incident from v._" A priority queue is used to track unmarked vertex v with the smallest distTo[] values. Negative weights are not allowed. O(E log V) time, so faster than Bellman-Ford.
 
 ## 19. Dynamic Programming
-
+- Make sure you don't over-optimize, and you store enough information in your dynamic programming algorithm to trace back what path you took
+- Having a dynamic programming solution doesn't necessarily make it fast, like [change-making](https://en.wikipedia.org/wiki/Change-making_problem) and the [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem), which run in [pseudo-polynomial time](https://en.wikipedia.org/wiki/Pseudo-polynomial_time) (polynomial in the numeric value, not the length, of the input)
 
 
 
