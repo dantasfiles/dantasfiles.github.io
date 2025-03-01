@@ -207,3 +207,10 @@ algorithm Kruskal(G) is
 ## 18. Shortest Paths
 - A general shortest path algorithm is presented: "_For each vertex v: distTo[v] = ∞. For each vertex v: edgeTo[v] = null. distTo[s] = 0. Repeat until distTo[v] values converge: Relax any edge_"
 - The Bellman-Ford algorithm is presented: "_For each vertex v: distTo[v] = ∞. For each vertex v: edgeTo[v] = null. distTo[s] = 0. Repeat V-1 times: Relax each edge_". Negative cycles are not allowed. O(E V) time.
+- Dijkstra's algorithm is presented: "_For each vertex v: distTo[v] = ∞. For each vertex v: edgeTo[v] = null. T = ∅. distTo[s] = 0. Repeat until all vertices are marked: Select unmarked vertex v with the smallest distTo[] value. Mark v. Relax each edge incident from v._" A priority queue is used to track unmarked vertex v with the smallest distTo[] values. Negative weights are not allowed. O(E log V) time, so faster than Bellman-Ford.
+
+## 19. Dynamic Programming
+
+
+
+
