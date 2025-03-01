@@ -217,4 +217,9 @@ algorithm Kruskal(G) is
 ## 20. Maxflows & Mincuts
 - The greedy [Floyd-Fulkerson algorithm](https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm) is presented: "_Start with 0 flow. While there exists an augmenting path: Find an augmenting path P. Compute bottleneck capacity of P. Update flow on P by bottleneck capacity_." The [Edmonds-Karp algorithm](https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm) uses breadth-first search to find the shortest path to augment.
 
+## 21. Randomness
+- The [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution) describes the probability of getting a certain number of successes in `n` independent trials where the probability of success is `p`. Its probability mass function is given by `P(X=k) = (n choose k) * p^k * (1-p)^(n-k)`. The expected value is represented by `E(X) = n*p`
+
+
+
 
