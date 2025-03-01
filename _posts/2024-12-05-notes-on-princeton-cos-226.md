@@ -215,6 +215,6 @@ algorithm Kruskal(G) is
 - Make sure the dependency order is dealth with correctly in your algorithm, and that there are no cycles, so the recurrence will terminate
 
 ## 20. Maxflows & Mincuts
-
+- The greedy [Floyd-Fulkerson algorithm](https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm) is presented: "_Start with 0 flow. While there exists an augmenting path: Find an augmenting path P. Compute bottleneck capacity of P. Update flow on P by bottleneck capacity_." The [Edmonds-Karp algorithm](https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm) uses breadth-first search to find the shortest path to augment.
 
 
