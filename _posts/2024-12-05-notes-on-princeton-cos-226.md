@@ -212,6 +212,9 @@ algorithm Kruskal(G) is
 ## 19. Dynamic Programming
 - Make sure you don't over-optimize, and you store enough information in your dynamic programming algorithm to trace back what path you took
 - Having a dynamic programming solution doesn't necessarily make it fast, like [change-making](https://en.wikipedia.org/wiki/Change-making_problem) and the [knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem), which run in [pseudo-polynomial time](https://en.wikipedia.org/wiki/Pseudo-polynomial_time) (polynomial in the numeric value, not the length, of the input)
+- Make sure the dependency order is dealth with correctly in your algorithm, and that there are no cycles, so the recurrence will terminate
+
+## 20. Maxflows & Mincuts
 
 
 
