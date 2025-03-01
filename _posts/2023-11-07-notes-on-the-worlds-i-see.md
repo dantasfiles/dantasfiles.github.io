@@ -10,7 +10,7 @@ I read this book because I attended the talk _[What We See & What We Value: AI w
 
   * She opens the book with a visit to the [Smithsonian Air & Space Museum](https://airandspace.si.edu/). I think a lot of people, including myself, have felt inspired to learn about STEM topics after a visit to this museum. The other location for me was the [Franklin Institute](https://en.wikipedia.org/wiki/Franklin_Institute) in Philadelphia.
 
-![Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](https://github.com/user-attachments/assets/537f01d5-befe-422b-8260-b336eefabf29)
+![Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/ac/National_Air_and_Space_Museum_Entrance.JPG)
 
 Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
