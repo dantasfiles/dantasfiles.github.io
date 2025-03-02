@@ -229,6 +229,15 @@ algorithm Kruskal(G) is
 - A simplified version of the [AdaBoost algorithm](https://en.wikipedia.org/wiki/AdaBoost) is presented: "_Initialize a double\[n\] array called weights and set all values to 1/n. Repeat T times: (Train a decision stump with the input weighted according to weights. Double weight of points incorrectly labelled by the decision stump (force the algorithm to do a better job on misclassified points). Normalize weights (divide each entry by the sum of weights).) To predict on new data use all decision stumps and take majority_"
 
 ## 23. Intractability
+- The Church-Turing thesis is indirectly referenced. It is defined by [Wikipedia](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) as "_a function on the natural numbers can be calculated by an effective method if and only if it is computable by a Turing machine_," and by the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/church-turing/) as "_every effective computation can be carried out by a Turing machine_"
+- Changes or constraints in a problem [can change its computational complexity](https://en.wikipedia.org/wiki/NP-completeness#NP-complete_problems). Also, worst-case complexity may not occur on typical real-world inputs. Finally, intractable problems can have approximation algorithms
+ 
+![Behnam Esfahbod, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/a0/P_np_np-complete_np-hard.svg)
 
+Behnam Esfahbod, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
+- An interesting thought is presented in the slides that, in real life, creating something is harder than verifying something, so it's not surprising if that's the case in the computational world, with [P](https://en.wikipedia.org/wiki/P_(complexity)) != [NP](https://en.wikipedia.org/wiki/NP_(complexity)) 
+- X [reduces](https://en.wikipedia.org/wiki/Reduction_(complexity)) to Y means that if you had an algorithm that solves Y efficiently, then you could use that algorithm to solve X efficiently. Y is harder than X
+- An [NP-complete](https://en.wikipedia.org/wiki/NP-completeness) problem is an NP problem where every other NP problem can be reduced to it--it is harder than other NP problems. All NP-complete problems can be be reduced to each other (in the slides: "_NP-complete problems are different manifestations of the same fundamentally hard problem_"), though some reductions are harder than others. To prove an NP problem is NP-complete, reduce an NP-complete problem to it--it is harder than that NP-complete problem. The usefulness of this procedure is that you then know that your problem is (probably, if P != NP) intractable
+- If there is at least one item in B for each item in A, then |A| <= |B|. One of the proofs in the slides uses this, but stated in a more complex way, so I simplify it for my own thoughts here
 
