@@ -231,10 +231,10 @@ algorithm Kruskal(G) is
 ## 23. Intractability
 - The Church-Turing thesis is indirectly referenced. It is defined by [Wikipedia](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) as "_a function on the natural numbers can be calculated by an effective method if and only if it is computable by a Turing machine_," and by the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/church-turing/) as "_every effective computation can be carried out by a Turing machine_"
 - Changes or constraints in a problem [can change its computational complexity](https://en.wikipedia.org/wiki/NP-completeness#NP-complete_problems). Also, worst-case complexity may not occur on typical real-world inputs. Finally, intractable problems can have approximation algorithms
- 
-![Behnam Esfahbod, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/a0/P_np_np-complete_np-hard.svg)
+- 
+![Behnam Esfahbod, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](https://github.com/user-attachments/assets/cc7fa49a-ec24-45bb-900d-ce12b1a69944)
 
-Behnam Esfahbod, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+<a href="https://commons.wikimedia.org/wiki/File:P_np_np-complete_np-hard.svg">Behnam Esfahbod</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
 
 - An interesting thought is presented in the slides that, in real life, creating something is harder than verifying something, so it's not surprising if that's the case in the computational world, with [P](https://en.wikipedia.org/wiki/P_(complexity)) != [NP](https://en.wikipedia.org/wiki/NP_(complexity)) 
 - X [reduces](https://en.wikipedia.org/wiki/Reduction_(complexity)) to Y means that if you had an algorithm that solves Y efficiently, then you could use that algorithm to solve X efficiently. Y is harder than X
