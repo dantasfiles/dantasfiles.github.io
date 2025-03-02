@@ -31,7 +31,7 @@ I read this book because I attended the talk _[What We See & What We Value: AI w
 
 ![derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval2.png: *derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval.jpg: Lee Beaumont, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons](https://github.com/user-attachments/assets/3c7c561e-ffd4-4fc6-972f-37938e9a91a1)
 
-derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval2.png: *derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval.jpg: Lee Beaumont, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
+<a href="https://commons.wikimedia.org/wiki/File:Bell_Labs_Holmdel.jpg">derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval2.png: *derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval.jpg: Lee Beaumont</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons
 
   * Her mentor has “ _a sprawling collection of textbooks and reference volumes that created a rainbow of colored spines facing outward from every wall_.”
   * In high school, she loved to read on a diverse array of topics: “ _But none of it was a distraction from my studies. If anything, by helping me to think more holistically, he reminded me that there’s joy to be found in learning_.”
