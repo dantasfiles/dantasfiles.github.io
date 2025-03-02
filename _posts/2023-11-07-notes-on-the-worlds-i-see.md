@@ -10,7 +10,7 @@ I read this book because I attended the talk _[What We See & What We Value: AI w
 
   * She opens the book with a visit to the [Smithsonian Air & Space Museum](https://airandspace.si.edu/). I think a lot of people, including myself, have felt inspired to learn about STEM topics after a visit to this museum. The other location for me was the [Franklin Institute](https://en.wikipedia.org/wiki/Franklin_Institute) in Philadelphia.
 
-![Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/a/ac/National_Air_and_Space_Museum_Entrance.JPG)
+![Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](https://github.com/user-attachments/assets/537f01d5-befe-422b-8260-b336eefabf29)
 
 Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
@@ -29,7 +29,7 @@ Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via 
   * Her family moves to [Parsippany, NJ](https://en.wikipedia.org/wiki/Parsippany%E2%80%93Troy_Hills,_New_Jersey). Hooray, NJ!
   * Describes Yann LeCun’s early NJ days at the [Bell Labs Holmdel Complex](https://en.wikipedia.org/wiki/Bell_Labs_Holmdel_Complex). I’ve worked in two of the Bell Labs buildings, and they had architectures that were fun to just walk around in.
 
-![derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval2.png: *derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval.jpg: Lee Beaumont, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/c1/Bell_Labs_Holmdel.jpg)
+![derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval2.png: *derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval.jpg: Lee Beaumont, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons](https://github.com/user-attachments/assets/3c7c561e-ffd4-4fc6-972f-37938e9a91a1)
 
 derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval2.png: *derivative work: MBisanz talkBell_Labs_Holmdel,_The_Oval.jpg: Lee Beaumont, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons
 
