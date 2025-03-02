@@ -219,7 +219,9 @@ algorithm Kruskal(G) is
 
 ## 21. Randomness
 - The [binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution) describes the probability of getting a certain number of successes in `n` independent trials where the probability of success is `p`. Its probability mass function is given by `P(X=k) = (n choose k) * p^k * (1-p)^(n-k)`. The expected value is represented by `E(X) = n*p`
-
+- We would like to determine the number of possible cuts in a graph with V vertices. By how [power sets](https://en.wikipedia.org/wiki/Power_set) work, there are `2^V` possible subsets of V vertices. We remove the empty and the full subset, because a cut has to have at least 1 vertex on each side, giving `2^V - 2` possible subsets. Finally, we divide that number in two, because each cut represents two subsets, giving `2^(V-1) - 1` possible cuts
+- The randomized [Karger's algorithm](https://en.wikipedia.org/wiki/Karger%27s_algorithm) is presented: "_Assign a random weight (uniform between 0 and 1) to each edge. Run Kruskal’s MST algorithm until 2 connected components left. Return cut defined by connected components_"
+- [Naive shuffling](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle#Na%C3%AFve_method) (where each array item can be replaced by any other array item) is biased, as opposed to a [Fisher-Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle).  There are `n^n` possible outcomes of naive shuffling, but `n!` permutations. Since `n!` does not divide `n^n` evenly, the shuffle is biased
 
 
 
