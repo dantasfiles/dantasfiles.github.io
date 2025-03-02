@@ -12,7 +12,7 @@ I read this book because I attended the talk _[What We See & What We Value: AI w
 
 ![Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons](https://github.com/user-attachments/assets/537f01d5-befe-422b-8260-b336eefabf29)
 
-Jawed Karim, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
+<a href="https://commons.wikimedia.org/wiki/File:National_Air_and_Space_Museum_Entrance.JPG">Jawed Karim</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons
 
   * Her vision of the ideals of America: “ _the dignity of the individual, the intrinsic value of representation, and the belief that human endeavors are best when guided by the many, rather than the few”_
 
