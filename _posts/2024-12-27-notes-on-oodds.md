@@ -12,4 +12,6 @@ The notes are still in progress as I have not yet finished reading the book
 
 ## 1. Introduction
 - The book starts off with the great observation: "_One of the joys of working with computers is that it is relatively easy to create new things...The constraints of the real world weigh much less heavily on software developers than on engineers in other disciplines_." This is often expressed in technology social media as "_you can just do things_"
-- 
+
+## 2. Values, Types, and Variables
+
