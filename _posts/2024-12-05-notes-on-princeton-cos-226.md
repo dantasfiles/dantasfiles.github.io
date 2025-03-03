@@ -238,7 +238,7 @@ algorithm Kruskal(G) is
 - An interesting thought is presented in the slides that, in real life, creating something is harder than verifying something, so it's not surprising if that's the case in the computational world, with [P](https://en.wikipedia.org/wiki/P_(complexity)) != [NP](https://en.wikipedia.org/wiki/NP_(complexity)) 
 - X [reduces](https://en.wikipedia.org/wiki/Reduction_(complexity)) to Y means that if you had an algorithm that solves Y efficiently, then you could use that algorithm to solve X efficiently. Y is harder than X
 - An [NP-complete](https://en.wikipedia.org/wiki/NP-completeness) problem is an NP problem where every other NP problem can be reduced to it--it is harder than other NP problems. All NP-complete problems can be be reduced to each other (in the slides: "_NP-complete problems are different manifestations of the same fundamentally hard problem_"), though some reductions are harder than others. To prove an NP problem is NP-complete, reduce an NP-complete problem to it--it is harder than that NP-complete problem. The usefulness of this procedure is that you then know that your problem is (probably, if P != NP) intractable
-- If there is at least one item in B for each item in A, then |A| <= |B|. One of the proofs in the slides uses this, but stated in a more complex way, so I simplify it for my own thoughts here
+- If there is at least one item in B for each item in A, then \|A\| <= \|B\|. One of the proofs in the slides uses this, but stated in a more complex way, so I simplify it for my own thoughts here
 
 ## 24. Algorithm Design
 - Greedy algorithms are described as "_rarely lead to provably optimal solutions but often used anyway in practice, especially for intractable problems_"
