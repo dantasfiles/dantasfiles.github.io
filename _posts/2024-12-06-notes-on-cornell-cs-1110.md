@@ -1,6 +1,6 @@
 ---
 title: 'Notes on 🐻<i>Intro. to Computing: A Design & Development Perspective</i>'
-#description: "Cornell CS 1110, Fall 2024 edition"
+description: "Programming and problem solving using Python"
 author: Daniel Dantas
 ---
 
