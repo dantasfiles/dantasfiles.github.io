@@ -1,8 +1,7 @@
 ---
-title: Notes on 🐯<i>Algorithms & Data Structures</i>
+title: "Notes on 🐯<i>Algorithms & Data Structures</i>"
 description: "Surveys the most important algorithms and data structures in use on computers today. Particular emphasis is given to algorithms and data structures for sorting, searching, and graphs. Advanced topics include randomization, intractability, and multiplicative weights."
 # hidden: true
-# subtitle: Princeton COS 226, Spring 2025 edition
 author: Daniel Dantas
 ---
 
