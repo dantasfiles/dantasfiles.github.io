@@ -2,6 +2,7 @@
 title: 'Notes on 🐯<i>Computer Science: An Interdisciplinary Approach</i>'
 description: Incomplete, in-progress
 # description: Princeton COS 126, Spring 2025 edition
+hidden: true
 author: Daniel Dantas
 ---
 
