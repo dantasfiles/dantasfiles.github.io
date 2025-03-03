@@ -2,7 +2,6 @@
 title: Notes on 📕<i>Algorithms</i> by 🐯Sedgewick & Wayne</i>
 description: "In-progress, incomplete"
 hidden: true
-# subtitle: Princeton COS 226, Spring 2025 edition
 author: Daniel Dantas
 ---
 
