@@ -1,6 +1,6 @@
 ---
 title: Notes on 🐯<i>Algorithms & Data Structures</i>
-description: "In-progress, incomplete"
+description: "Surveys the most important algorithms and data structures in use on computers today. Particular emphasis is given to algorithms and data structures for sorting, searching, and graphs. Advanced topics include randomization, intractability, and multiplicative weights."
 # hidden: true
 # subtitle: Princeton COS 226, Spring 2025 edition
 author: Daniel Dantas
@@ -9,7 +9,7 @@ author: Daniel Dantas
 
 I was curious to learn what has been updated since I took a [version of COS 226 at a 🐻different university](https://dantasfiles.com/1998/08/27/cornell-freshman-fall.html), so I am reading through the [lecture slides for the Fall 2024 semester](https://www.cs.princeton.edu/courses/archive/fall24/cos226/)
 
-I use these notes to keep track of my thoughts while reading and to record anything that sticks out to me as interesting. The notes are incomplete as I have not yet finished reading the slides
+I use these notes to keep track of my thoughts while reading and to record anything that sticks out to me as interesting.
 
 ## 1. Introduction
   * “_Bad programmers worry about the code. Good programmers worry about data structures and their relationships_” by Linus Torvalds is a great quote
@@ -242,4 +242,9 @@ algorithm Kruskal(G) is
 - If there is at least one item in B for each item in A, then |A| <= |B|. One of the proofs in the slides uses this, but stated in a more complex way, so I simplify it for my own thoughts here
 
 ## 24. Algorithm Design
+- Greedy algorithms are described as "_rarely lead to provably optimal solutions but often used anyway in practice, especially for intractable problems_"
+- Dynamic programming is described as "_Break up problem into a series of overlapping subproblems. Build up solutions to larger and larger subproblems_"
+- Divide and conquer is described as "_Break up problem into two or more independent subproblems. Solve each subproblem recursively. Combine solutions to subproblems to form solution to original problem. Turn brute-force Θ(n²) algorithm into Θ(n log n) one_"
+- A randomized algorithm is described as an "_algorithm whose performance (or output) depends on the results of random coin flips_"
+
 
