@@ -7,9 +7,9 @@ p+ul {
   @include relative-font-size(2);
 }
 
-.page-content {
-  padding-top: 16px;
-}
+//.page-content {
+//  padding-top: 16px;
+//}
 
 .post-link {
   @include relative-font-size(1.2);
