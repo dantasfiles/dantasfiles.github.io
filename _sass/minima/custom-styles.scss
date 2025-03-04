@@ -32,10 +32,3 @@ img {
   margin-left: 5px;
 }
 
-.wrapper {
-  @media screen and (min-width: $on-large) {
-    max-width: calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: 0px;
-    padding-left: 0px;
-  }
-}
