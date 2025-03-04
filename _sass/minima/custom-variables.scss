@@ -1,5 +1,5 @@
 // Placeholder to allow overriding predefined variables smoothly.
 
 $link-base-color: #b509ac;
-$link-visited-color: $link-base-color;
+$link-visited-color: darken($link-base-color, 15%);
 // $site-title-color: #111111;
