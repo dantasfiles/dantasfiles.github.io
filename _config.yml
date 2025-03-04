@@ -18,6 +18,7 @@ show_excerpts: true
 
 
 minima:
+  skin: classic
   social_links:
     - icon: github
       url: "https://github.com/dantasfiles"
