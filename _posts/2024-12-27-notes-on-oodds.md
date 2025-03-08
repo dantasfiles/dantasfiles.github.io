@@ -5,7 +5,7 @@ hidden: true
 author: Daniel Dantas
 ---
 
-These are thoughts I had, and things I found interesting, while reading [Object-Oriented Design and Data Structures](https://andrewcmyers.github.io/oodds/)
+I use these notes to track thoughts I had, and things I found interesting, while reading [Object-Oriented Design and Data Structures](https://andrewcmyers.github.io/oodds/)
 
 The notes are still in progress as I have not yet finished reading the book
 
