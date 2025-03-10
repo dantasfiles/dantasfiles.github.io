@@ -21,15 +21,17 @@ I use these notes to keep track of my thoughts while reading and to record anyth
   - Multi-class classification: a label is one of K possibilities
   - Regression: the label space is the real numbers
   - Feature vector: _the input vector of a sample_
-  - Hypothesis: a function such that, given a feature vector and its label from the training data, the function takes the feature vector and returns the label with high probability
   - Feature: a dimension of the feature vector
   - Dense feature vector: _the number of nonzero coordinates in the feature vector is large relative to the number of features_
   - Sparse feature vector: _the feature vector consists of mostly zeros_
-  - Hypothesis class: _the set of possible hypothesis functions_, _the set of hypothesis functions we can possibly learn_
-  - No Free Lunch Theorem: "_every successful ML algorithm must make assumptions. This also means that there is no single ML algorithm that works for every setting_"
-  - Loss function / risk function: "_evaluates a hypothesis on our training data and tells us how bad it is_"
+  - Hypothesis class: _the set of possible hypothesis functions_, _the set of hypothesis functions we can possibly learn_, "_encodes your assumptions about the data set / distribution_"
+  - No Free Lunch Theorem: "_every successful ML algorithm must make assumptions. This also means that there is no single ML algorithm that works for every setting_", "_you must make assumptions in order to learn. no Algorithm Works in all settings_"
+  - Loss function / risk function: "_evaluates a hypothesis on our training data and tells us how bad it is_", "_tells us how good
+a model did on an instance_"
   - Loss: "_the higher the loss, the worse a hypothesis is - a loss of zero means it makes perfect predictions_"
   - Zero-one loss: "_counts how many mistakes a hypothesis function makes on the training set_"
   - Normalized zero-one loss / training error: "_the fraction of misclassified training samples_"
   - Overfitting: _get low error on the training data, but does horribly with samples not in the training data_
-  - 
+  - Weak law of large numbers: "_the empirical average of data drawn from a distribution converges to its mean_"
+  - Feature extraction: Selecting "_part of instances we deem relevant for predicting output_"
+  - Model / program / hypothesis: function from input to "_label / output we would like to predict_"
