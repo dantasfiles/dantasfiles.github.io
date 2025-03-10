@@ -35,3 +35,9 @@ a model did on an instance_"
   - Weak law of large numbers: "_the empirical average of data drawn from a distribution converges to its mean_"
   - Feature extraction: Selecting "_part of instances we deem relevant for predicting output_"
   - Model / program / hypothesis: function from input to "_label / output we would like to predict_"
+
+## K-nearest neighbors and the curse of dimensionality
+- Definitions:
+  - k-NN algorithm: "_or a test input, assign the most common label amongst its k most similar training inputs_"
+  - 
+
