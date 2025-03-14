@@ -9,4 +9,6 @@ layout: post
 
 {{ content }}
 
+<h3><a href="/{{ page.year }}/12/31/fiction-{{ page.year }}.html">Fiction →</a></h3>
+
 <h3> <a href="/{{ page.year | minus: 1 }}/12/31/learn-{{ page.year | minus: 1 }}.html">← {{ page.year | minus: 1 }}</a> {% if page.year != 2025 %}| <a href="/{{ page.year | plus: 1 }}/12/31/learn-{{ page.year | plus: 1 }}.html">{{ page.year | plus: 1 }} →</a>{% endif %}</h3>
