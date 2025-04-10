@@ -19,5 +19,10 @@ The notes are still in progress as I have not yet finished reading the book
 - I believe the only [variable shadowing](https://en.wikipedia.org/wiki/Variable_shadowing#Java) in Java that is disallowed is local variables over other local variables. Everything else is fair game and, as the book points out, the cause of various errors. As far as I know, there's no option to get the Java compiler to be stricter about shadowing and print warnings
 
 ## 4. Java Execution Model: Arrays, Strings, Autoboxing
+- The book points out because Java arrays are subtypes of Objects, you can create an array of Objects, then point the first element of that array at the array itself
+- The book points out that autoboxing uses [Integer.valueOf](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/lang/Integer.html#valueOf(int)): "_This method will always cache values in the range -128 to 127, inclusive, and may cache other values outside of this range_"
+- The book advises that the less the obscure corners of a language are used, the better
+
+## 5. Representing Java Values
 
 
