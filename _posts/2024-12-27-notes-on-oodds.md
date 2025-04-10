@@ -31,5 +31,17 @@ The notes are still in progress as I have not yet finished reading the book
 - The book advises to use the type `double` unless there is a particular reason to use `float`
 
 ## 6. Encapsulation and information hiding
+- **Abstraction** is defined in [Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science)) as "_the process of generalizing concrete details, such as attributes, away from the study of objects and systems to focus attention on details of greater importance_"
+- **Coupling** is defined in [Wikipedia](https://en.wikipedia.org/wiki/Coupling_(computer_programming)) as "_the degree of interdependence between software modules, a measure of how closely connected two routines or modules are, and the strength of the relationships between modules_"
+- **Separation of concerns** is definied in [Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns) as "_a design principle for separating a computer program into distinct sections. Each section addresses a separate concern, a set of information that affects the code of a computer program_"
+- **Information hiding** is defined in [Wikipedia](https://en.wikipedia.org/wiki/Information_hiding) as "_the principle of segregation of the design decisions in a computer program that are most likely to change, thus protecting other parts of the program from extensive modification if the design decision is changed_"
+- **Encapsulation** is definied in [Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) as "_the bundling of data with the mechanisms or methods that operate on the data_"
+- An **abstract data type** is defined in [Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type) as "_a mathematical model for data types, defined by its behavior (semantics) from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations_"
+- The [BigInteger](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/math/BigInteger.html) class represents "_immutable arbitrary-precision integers_"
+- 
+
+
+
+
 
 
