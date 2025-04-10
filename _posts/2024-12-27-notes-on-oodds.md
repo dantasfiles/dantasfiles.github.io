@@ -24,5 +24,12 @@ The notes are still in progress as I have not yet finished reading the book
 - The book advises that the less the obscure corners of a language are used, the better
 
 ## 5. Representing Java Values
+- The book advises that though you can program while only knowing the top-level abstraction that the language provides, it's useful to understand the internals. This advice, and the "don't use obscure corners of a language" advice from the previous chapter, should be complementary, not contraditory
+- The book points out that variables and fields with type `short`, `byte`, and `char` all use 32 bits of memory, like an int, in Java, but that arrays pack the smaller data types together more tightly. It also suggests using a [Bitset](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/BitSet.html) for large lists of boolean values
+- Exponents are biased, according to [Wikipedia](https://en.wikipedia.org/wiki/Exponent_bias), because "_ exponents have to be signed values in order to be able to represent both tiny and huge values, but two's complement, the usual representation for signed values, would make comparison harder_"
+- The book cautions about the subtleties of representing decimals as floating point numbers. One alternative in the [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/lang/Double.html) is "_scaling up so the monetary value is an integer — for example, multiplying by 100 if the value is denominated in cents or multiplying by 1000 if the value is denominated in mills — and then storing that scaled value in an integer type_"
+- The book advises to use the type `double` unless there is a particular reason to use `float`
+
+## 6. Encapsulation and information hiding
 
 
