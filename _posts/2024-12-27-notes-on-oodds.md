@@ -40,6 +40,11 @@ The notes are still in progress as I have not yet finished reading the book
 - The [BigInteger](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/math/BigInteger.html) class represents "_immutable arbitrary-precision integers_"
 
 ## 7. Interfaces and subtyping
+- The book points out that downcasting can be used to get around information hiding -- avoid doing this
+- **Structural subtyping** is defined in [Wikipedia](https://en.wikipedia.org/wiki/Subtyping) as "_the structure of two types determines whether or not one is a subtype of the other_", and **nominal subtyping** as "_only types declared in a certain way may be subtypes of each other_"
+- **Behavioral subtyping** is defined in [Wikipedia](https://en.wikipedia.org/wiki/Behavioral_subtyping) as "_behavioral subtyping is the principle that subclasses should satisfy the expectations of clients accessing subclass objects through references of superclass type, not just as regards syntactic safety (such as the absence of "method-not-found" errors) but also as regards behavioral correctness_"
+- The Java `new` operator requires the class of the created object to be explicitly specified at compile time. Factory methods allow the object creation process to be polymorphic, and the class of the created object to be specified elsewhere, at runtime.
+- 
 
 
 
