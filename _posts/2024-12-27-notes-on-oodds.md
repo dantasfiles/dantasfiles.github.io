@@ -44,9 +44,17 @@ The notes are still in progress as I have not yet finished reading the book
 - **Structural subtyping** is defined in [Wikipedia](https://en.wikipedia.org/wiki/Subtyping) as "_the structure of two types determines whether or not one is a subtype of the other_", and **nominal subtyping** as "_only types declared in a certain way may be subtypes of each other_"
 - **Behavioral subtyping** is defined in [Wikipedia](https://en.wikipedia.org/wiki/Behavioral_subtyping) as "_behavioral subtyping is the principle that subclasses should satisfy the expectations of clients accessing subclass objects through references of superclass type, not just as regards syntactic safety (such as the absence of "method-not-found" errors) but also as regards behavioral correctness_"
 - The Java `new` operator requires the class of the created object to be explicitly specified at compile time. Factory methods allow the object creation process to be polymorphic, and the class of the created object to be specified elsewhere, at runtime.
-- 
 
+## 8. Designing and documenting interfaces
+- The book points out the there are disadvantages from making interfaces too wide and too narrow, but in practice, most problematic interfaces are too wide
+- According to the Java [documentation](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html), abstract classes "_can declare fields that are not static and final, and define public, protected, and private concrete methods_", while interfaces require that  "_all fields are automatically public, static, and final, and all methods that you declare or define (as default methods) are public_"
+- The **principle of least surprise** is defined in [Wikipedia](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) as "_a component of a system should behave in a way that most users will expect it to behave, and therefore not astonish or surprise users_"
+- **Command-query separation** is definied in [Wikipedia](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation) as "_every method should either be a command that performs an action, or a query that returns data to the caller, but not both_"
+- The book advises that it may be desirable to inherit the `Object.equals` method for reference equality if the class is mutable, in order to represent Liebniz equality rather than state equality. It's desirable to implement a state equality `equals` method for immutable classes as it will prevent a client from differentiating different implementions
+- The book advices to treat null values passed in as arguments to a method, or returned from a method as exceptional conditions that must be documented if possible
+- The book advises to be aware of a potential lack of symmetry between `s.equals(t)` and `t.equals(s)` if `S` is a subclass of `T` (or other similar other situations)
 
+## 10. Exceptions
 
 
 
