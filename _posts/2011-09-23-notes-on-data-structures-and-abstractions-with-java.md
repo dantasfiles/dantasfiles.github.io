@@ -9,3 +9,4 @@ I use these notes to track thoughts I had, and things I found interesting, while
 
 The notes are still in progress as I have not yet finished reading the book
 
+## Introduction
