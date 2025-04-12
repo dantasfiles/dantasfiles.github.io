@@ -10,7 +10,7 @@ These are things I found interesting while reading [Principled Programming: Intr
 The notes are still in progress as I have not yet finished reading the book
 
 ## Preface
-- The book is aimed at the level of a first computer class. However, it seems to fit better at a second class level, which is why it is a suggested resource in Cornell's second computer class, [CS 2110](https://www.cs.cornell.edu/courses/cs2110/2025sp/resources.html)
+- The book is aimed at the level of a first computer class. However, it seems to fit better at a second class level, which is why it is a suggested resource in a second computer class, 🐻[CS 2110](https://www.cs.cornell.edu/courses/cs2110/2025sp/resources.html)
 
 ## 1. Introduction
 - The book advises writing it right the first time, not assuming it will be fixed later, and avoiding debugging as much as possible. This is something that I try to do, but I've noticed a lot of other people don't
@@ -20,5 +20,5 @@ The notes are still in progress as I have not yet finished reading the book
 - The book includes the program counter in the definition of _state_, then defines _effect_ as a change in state. This implies that stepping through the code is an effect, which is not how most people think about effects
 
 ## 3. Specifications & Implementations
-- 
+- The book advises to think of specifications in two directions: inwards in defining what the implementation will do, and outwards in defining how the specification will be used by the rest of the program
 - 
