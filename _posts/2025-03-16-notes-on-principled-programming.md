@@ -21,4 +21,12 @@ The notes are still in progress as I have not yet finished reading the book
 
 ## 3. Specifications & Implementations
 - The book advises to think of specifications in two directions: inwards in defining what the implementation will do, and outwards in defining how the specification will be used by the rest of the program
-- 
+- The book bemoans that specifications contained in comments are essential to programming but are not used by the compiler or other tools. Perhaps it's worth exploring ways to change that
+- The book advises that specifications should detail what to do and why you did it (don't assume you'll remember anything later), not how to do it--requirements, not processes
+- Information hiding is defined in [Wikipedia](https://en.wikipedia.org/wiki/Information_hiding) as "_the principle of segregation of the design decisions in a computer program that are most likely to change, thus protecting other parts of the program from extensive modification if the design decision is changed_"
+- The book recommends that programs should explicitly complain when inputs violate preconditions, to avoid bugs where the user of the specification is unaware that bad inputs are being sent 
+- State space is defined in [Wikipedia](https://en.wikipedia.org/wiki/State_space_(computer_science)) as "_a discrete space representing the set of all possible configurations of a system_"
+- A representation invariant is defined in [Wikipedia](https://en.wikipedia.org/wiki/Class_invariant) as "_a set of invariant properties that remain uncompromised regardless of the state of the object_"
+
+## 4. Stepwise Refinement
+
