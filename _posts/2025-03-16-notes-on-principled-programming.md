@@ -18,6 +18,7 @@ The notes are still in progress as I have not yet finished reading the book
 
 ## 2. Prerequisites
 - The book includes the program counter in the definition of _state_, then defines _effect_ as a change in state. This implies that stepping through the code is an effect, which is not how most people think about effects
-- The book contrasts the definitions of the _scope_ of a name of a variable, and the _lifetime_ of a variable. In practice, these two are used interchangeably
+
+## 3. Specifications & Implementations
 - 
 - 
