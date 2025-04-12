@@ -2,7 +2,6 @@
 title: Notes on 📕<i>Principled Programming</i> by 🐻Tim Teitelbaum
 description: "In-progress, incomplete. Introduction to Coding in Any Imperative Language"
 hidden: true
-# subtitle: Princeton COS 226, Spring 2025 edition
 author: Daniel Dantas
 ---
 
@@ -10,5 +9,8 @@ These are things I found interesting while reading [Principled Programming: Intr
 
 The notes are still in progress as I have not yet finished reading the book
 
-
+## 1. Introduction
+- The book advises writing it right the first time, not assuming it will be fixed later, and avoiding debugging as much as possible. This is something that I try to do, but I've noticed a lot of other people don't
+- 
+- 
 
