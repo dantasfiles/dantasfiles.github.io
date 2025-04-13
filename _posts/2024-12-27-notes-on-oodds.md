@@ -54,8 +54,9 @@ The notes are still in progress as I have not yet finished reading the book
 - The book advices to treat null values passed in as arguments to a method, or returned from a method as exceptional conditions that must be documented if possible
 - The book advises to be aware of a potential lack of symmetry between `s.equals(t)` and `t.equals(s)` if `S` is a subclass of `T` (or other similar other situations)
 
-## 10. Exceptions
-
+## 9. Exceptions
+- The purpose of the `finally` block is to perform cleanup even if control is not returned to the code directly after the try-catch loop (the `catch` block returns, or `continue`s or `break`s out of a loop, or the exception is uncaught, or the `catch` block throws another exception...)
+- 
 
 
 
