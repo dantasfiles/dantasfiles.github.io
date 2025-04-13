@@ -19,9 +19,16 @@ The notes are still in progress as I have not yet finished reading the book
 - Encapsulation is definied in [Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) as "_the bundling of data with the mechanisms or methods that operate on the data_"
 - The book recommends designing an abstract data type by only worrying about how the user will use it, and not about the implementation. There can be a tendency to let the underlying algorithms influence the interface, but this recommendation would resist that
 
-## 2. Bag Implementations that Use Arrays
-- 
-- 
+## 2. Bag Implementations That Uses Arrays
+- The `final` keyword in Java on a field ensures that the field cannot be changed after its initial assignment (though the contents of the field can change)
+- There are three ways (at least) to shallow copy arrays: [Object.clone](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/lang/Object.html#clone()), [System.arraycopy](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/lang/System.html#arraycopy(java.lang.Object,int,java.lang.Object,int,int)), and [Arrays.copyOf](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Arrays.html#copyOf(T%5B%5D,int)). The latter two methods are useful for resizing arrays
+- This book has a style where they set a result in various branches and then return the result at the end of the method when all the branches have come back together, instead of returning early when and if necessary. I find the latter style easier to understand
+- The use of `.equals` as an equivalence relation has issues with `null`s
+- The reason doubling is used in array resizing is it lets the `add`s have an amortized O(1) running time (each `add` banks a constant amount of time for copying during a resize)
+
+## 3. A Bag Implementation That Links Data
+
+
 
 - 
 - 
