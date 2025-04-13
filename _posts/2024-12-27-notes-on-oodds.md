@@ -56,7 +56,10 @@ The notes are still in progress as I have not yet finished reading the book
 
 ## 9. Exceptions
 - The purpose of the `finally` block is to perform cleanup even if control is not returned to the code directly after the try-catch loop (the `catch` block returns, or `continue`s or `break`s out of a loop, or the exception is uncaught, or the `catch` block throws another exception...)
-- 
+- The unchecked exception classes are defined in the Java [documentation](https://docs.oracle.com/javase/specs/jls/se7/html/jls-11.html#jls-11.1.1) as "_the run-time exception classes and the error classes", and the checked as "_all exception classes other than the unchecked exception classes_". The book constrasts unchecked as programmer errors, and checked as unusual conditions. If the unusual condition should never occur, the book advises catching it then throwing an unchecked exception like Error
+- A try-with-resources statement is defined in the Java [documentation](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html) as "_a try statement that declares one or more resources...ensures that each resource is closed at the end of the statement_"
+
+## 10. Inheritance and the specialization interface
 
 
 
