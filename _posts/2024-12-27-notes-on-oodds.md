@@ -64,4 +64,9 @@ The notes are still in progress as I have not yet finished reading the book
 - Dynamic dispatch is defined in [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_dispatch) as "_the process of selecting which implementation of a polymorphic operation (method or function) to call at run time_"
 
 ## 11. Modular design and implementation
+- The book advises to assume by default that fields cannot be null, and note in the specifications if they can be null
+- Behavioral subtyping is defined by [Wikipedia](https://en.wikipedia.org/wiki/Behavioral_subtyping) as "_the principle that subclasses should satisfy the expectations of clients accessing subclass objects through references of superclass type, not just as regards syntactic safety (such as the absence of "method-not-found" errors) but also as regards behavioral correctness_"
+- The book advises to use top-down design on the parts where you're worried about matching client expectations and overall structure, and bottom-up on the parts where you're worried about feasibility and performance
+
+## 12. Testing
 
