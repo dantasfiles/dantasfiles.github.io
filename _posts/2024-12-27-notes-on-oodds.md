@@ -60,6 +60,8 @@ The notes are still in progress as I have not yet finished reading the book
 - A try-with-resources statement is defined in the Java [documentation](https://docs.oracle.com/javase/tutorial/essential/exceptions/tryResourceClose.html) as "_a try statement that declares one or more resources...ensures that each resource is closed at the end of the statement_"
 
 ## 10. Inheritance and the specialization interface
+- The book provides a Java inheritance example that forks a game implementation, changes it, then merges changes from the original, that sounds very similar to a source control story. I don't know what insights to take from that yet, but it's interesting
+- Dynamic dispatch is defined in [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_dispatch) as "_the process of selecting which implementation of a polymorphic operation (method or function) to call at run time_"
 
-
+## 11. Modular design and implementation
 
