@@ -21,4 +21,15 @@ The notes are still in progress as I have not yet finished reading the book
 - To print an array, use the [Arrays.toString](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Arrays.html#toString(java.lang.Object%5B%5D)) helper functions
 
 ### 1.2 Data Abstraction
+- Abstract data type is defined in [Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type) as "_a mathematical model for data types, defined by its behavior (semantics) from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations_"
+- Aliasing is defined in [Wikipedia](https://en.wikipedia.org/wiki/Aliasing_(computing)) as "_a situation in which a data location in memory can be accessed through different symbolic names in the program_"
+- Java's parameter-passing strategy is sometimes [called](https://en.wikipedia.org/wiki/Evaluation_strategy#Call_by_sharing) "call by sharing," but I agree with the book that it's pass by value for all practical purposes
+- Generic type is defined by the Java [documentation](https://docs.oracle.com/javase/tutorial/java/generics/types.html) as "_a generic class or interface that is parameterized over types_"
+- There's a nod in the book toward factory method patterns, but then it clarifies that the only advanced Java language topics that are going to be used are generics and iterators
+- Encapsulation is defined in [Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) as "_the bundling of data with the mechanisms or methods that operate on the data. It may also refer to the limiting of direct access to some of that data, such as an object's components_"
+- 
+
+
+
+
 
