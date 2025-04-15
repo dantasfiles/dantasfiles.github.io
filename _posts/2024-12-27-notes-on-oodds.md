@@ -38,6 +38,7 @@ The notes are still in progress as I have not yet finished reading the book
 - **Encapsulation** is definied in [Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) as "_the bundling of data with the mechanisms or methods that operate on the data_"
 - An **abstract data type** is defined in [Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type) as "_a mathematical model for data types, defined by its behavior (semantics) from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations_"
 - The [BigInteger](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/math/BigInteger.html) class represents "_immutable arbitrary-precision integers_"
+<!-- I believe the `add` function in the Rational class doesn't maintain the class invariants -->
 
 ## 7. Interfaces and subtyping
 - The book points out that downcasting can be used to get around information hiding -- avoid doing this
@@ -82,9 +83,18 @@ The notes are still in progress as I have not yet finished reading the book
 - Symbolic execution is defined in [Wikipedia](https://en.wikipedia.org/wiki/Symbolic_execution) as "_a means of analyzing a program to determine what inputs cause each part of a program to execute. An interpreter follows the program, assuming symbolic values for inputs rather than obtaining actual inputs as normal execution of the program would. It thus arrives at expressions in terms of those symbols for expressions and variables in the program, and constraints in terms of those symbols for the possible outcomes of each conditional branch_"
 
 ## 13. Recursion
+<!-- I think there's a bug in the section "_We can view the space of inputs as a table, in which the value of each cell other than the top row and the diagonal is determined by adding the numbers directly above and diagonally to the left_" -->
+<!-- I'm not sure "_ Its value decreases by 1 in both recursive calls, so it can never go below zero._" is true. In C(3,2), min(n-r,r) = min(1,2) = 1. In one recursive call, C(3-1,2-1) = C(2,1), min(n-r,r) = min(1,1) = 1 -->
+- Recursive data type is defined in [Wikipedia](https://x.com/home) as "_a data type for values that may contain other values of the same type_"
+- Sentinel node is defined in [Wikipedia](https://en.wikipedia.org/wiki/Sentinel_node) as "_a specifically designated node used with linked lists and trees as a traversal path terminator_"
+- The book presents the canonical list iteration: `while (n != null) { _do something_; n = n.next; }. A `for` loop version is also presented, but I prefer not to use `for` loops when the length is unspecified
+- Tail call is defined in [Wikipedia](https://en.wikipedia.org/wiki/Tail_call) as "_a subroutine call performed as the final action of a procedure. If the target of a tail is the same subroutine, the subroutine is said to be tail recursive.... Tail calls can be implemented without adding a new stack frame to the call stack.... Tail recursion can be related to the while statement, an explicit iteration_"
+- The book points out that Java does not implement tail call optimization. I believe one reason is that the Java security mechanism does stack inspection
 
-
-
+## 14. Linked Lists
+- The Java documentation describes List implementations as follows: "_ArrayList - Resizable array implementation of the List interface (an unsynchronized Vector). The best all-around implementation of the List interface. LinkedList - Doubly-linked list implementation of the List interface. Provides better performance than the ArrayList implementation if elements are frequently inserted or deleted within the list. Also implements the Deque interface. When accessed through the Queue interface, LinkedList acts as a FIFO queue_
+- 
+- 
 
 
 
