@@ -9,10 +9,10 @@ I use these notes to track thoughts I had, and things I found interesting, while
 
 The notes are still in progress as I have not yet finished reading the book
 
-## 1. Introduction
+## 2. Introduction
 - The book starts off with the great observation: "_One of the joys of working with computers is that it is relatively easy to create new things...The constraints of the real world weigh much less heavily on software developers than on engineers in other disciplines_." This is often expressed in technology social media as "_you can just do things_"
 
-## 2. Values, Types, and Variables
+## 3. Values, Types, and Variables
 - There are [different definitions of a strongly-typed language](https://en.wikipedia.org/wiki/Strong_and_weak_typing), but the one used in this book is "_run-time type errors are not possible_." Wikipedia points to an [article by Luca Cardelli](http://www.lucacardelli.name/Papers/TypefulProg.pdf) with a similar definition: "_the absence of unchecked run-time type errors_"
 - The book observes  that Java, unlike Python, is whitespace-insensitive, but, in practice, everyone uses it in a whitespace-sensitive manner, with line breaks and indenting, for readability
 - The book states "_Local variables are in scope from the point of declaration until the end of the block in which they are declared_" This is different from languages like Python, which have function, not block, scope. In Javascript, variables defined with `var` had function scope, but variables defined with the modern `let` and `const` are more similar to Java.
@@ -69,4 +69,22 @@ The notes are still in progress as I have not yet finished reading the book
 - The book advises to use top-down design on the parts where you're worried about matching client expectations and overall structure, and bottom-up on the parts where you're worried about feasibility and performance
 
 ## 12. Testing
+- Continuous testing is defined in [Wikipedia](https://en.wikipedia.org/wiki/Continuous_testing) as "_the process of executing automated tests as part of the software delivery pipeline to obtain immediate feedback on the business risks associated with a software release candidate_"
+- Regression testing is defined in [Wikipedia](https://en.wikipedia.org/wiki/Regression_testing) as "_re-running functional and non-functional tests to ensure that previously developed and tested software still performs as expected after a change_"
+- Black-box testing is defined in [Wikipedia](https://en.wikipedia.org/wiki/Black-box_testing) as "_a method of software testing that examines the functionality of an application without peering into its internal structures or workings_". It's useful for helping design the specification in the first place
+- Test coverage is defined in [Wikipedia](https://en.wikipedia.org/wiki/Black-box_testing#Test_coverage) as "_the percentage of software requirements that are tested by black-box testing for a system or application_"
+- Glass-box testing is defined in [Wikipedia](https://en.wikipedia.org/wiki/White-box_testing) as "_a method of software testing that tests internal structures or workings of an application, as opposed to its functionality_"
+- Code / test coverage is defined in [Wikipedia](https://en.wikipedia.org/wiki/Code_coverage) as "_a percentage measure of the degree to which the source code of a program is executed when a particular test suite is run_"
+- Fuzzing is defined in [Wikipedia](https://en.wikipedia.org/wiki/Fuzzing) as "_an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program. The program is then monitored for exceptions such as crashes, **failing built-in code assertions**, or potential memory leaks.... Typically, a fuzzer is considered more effective if it achieves a higher degree of code coverage.... A white-box fuzzer leverages program analysis to systematically increase code coverage or to reach certain critical program locations... A gray-box fuzzer leverages instrumentation rather than program analysis to glean information about the program_"
+- Reference implementationis defined in [Wikipedia](https://en.wikipedia.org/wiki/Reference_implementation) as "_a program that implements all requirements from a corresponding specification.... A reference implementation may or may not be production quality_"
+- The book alleges that if there is a bug, there is usually a small counterexample that exposes a bug. So it may be worthwhile searching shallowly but comprehensively, rather than deeply but nonexhaustively
+- The book points out that formal proofs of code correctness are an area of future research
+- Symbolic execution is defined in [Wikipedia](https://en.wikipedia.org/wiki/Symbolic_execution) as "_a means of analyzing a program to determine what inputs cause each part of a program to execute. An interpreter follows the program, assuming symbolic values for inputs rather than obtaining actual inputs as normal execution of the program would. It thus arrives at expressions in terms of those symbols for expressions and variables in the program, and constraints in terms of those symbols for the possible outcomes of each conditional branch_"
+
+## 13. Recursion
+
+
+
+
+
 
