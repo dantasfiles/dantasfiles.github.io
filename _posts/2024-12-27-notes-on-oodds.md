@@ -92,9 +92,11 @@ The notes are still in progress as I have not yet finished reading the book
 - The book points out that Java does not implement tail call optimization. I believe one reason is that the Java security mechanism does stack inspection
 
 ## 14. Linked Lists
-- The Java documentation describes List implementations as follows: "_ArrayList - Resizable array implementation of the List interface (an unsynchronized Vector). The best all-around implementation of the List interface. LinkedList - Doubly-linked list implementation of the List interface. Provides better performance than the ArrayList implementation if elements are frequently inserted or deleted within the list. Also implements the Deque interface. When accessed through the Queue interface, LinkedList acts as a FIFO queue_
-- 
-- 
+- The Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/doc-files/coll-reference.html) describes List implementations as follows: "_ArrayList - Resizable array implementation of the List interface (an unsynchronized Vector). The best all-around implementation of the List interface. ArrayDeque - Efficient, resizable array implementation of the Deque interface. LinkedList - Doubly-linked list implementation of the List interface. Provides better performance than the ArrayList implementation if elements are frequently inserted or deleted within the list. Also implements the Deque interface. When accessed through the Queue interface, LinkedList acts as a FIFO queue_
+<!-- I believe there are bugs in the implementation of `MList`. In the `prepend` method, the `tail` should point to the new node if the list was previously empty. In the `append` and `remove` methods, the `last` pointer doesn't get set correctly --> 
+
+## 15. Parametric polymorphism (generics)
+
 
 
 
