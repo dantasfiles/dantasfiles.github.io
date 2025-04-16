@@ -96,7 +96,8 @@ The notes are still in progress as I have not yet finished reading the book
 <!-- I believe there are bugs in the implementation of `MList`. In the `prepend` method, the `tail` should point to the new node if the list was previously empty. In the `append` and `remove` methods, the `last` pointer doesn't get set correctly --> 
 
 ## 15. Parametric polymorphism (generics)
-
+- Subtype polymorphism is defined in [Wikipedia](https://en.wikipedia.org/wiki/Subtyping) as "_a form of type polymorphism. A subtype is a datatype that is related to another datatype (the supertype) by some notion of substitutability, meaning that program elements (typically subroutines or functions), written to operate on elements of the supertype, can also operate on elements of the subtype_"
+- Parametric polymorphism is defined in [Wikipedia](https://en.wikipedia.org/wiki/Parametric_polymorphism) as "_allows a single piece of code to be given a 'generic' type, using variables in place of actual types, and then instantiated with particular types as needed_"
 
 
 
