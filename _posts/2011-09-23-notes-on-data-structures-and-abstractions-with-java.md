@@ -27,7 +27,13 @@ The notes are still in progress as I have not yet finished reading the book
 - The reason doubling is used in array resizing is it lets the `add`s have an amortized O(1) running time (each `add` banks a constant amount of time for copying during a resize)
 
 ## 3. A Bag Implementation That Links Data
+- Inner / nested class is defined in [Wikipedia](https://en.wikipedia.org/wiki/Inner_class) as "_a class declared entirely within the body of another class or interface_"
+- The book defines a nontraditional list remove method: it replaces the to-be-removed node's data with the first node's data, then pops the first node
+- The book defines a list clear method as continually popping from the list, with O(n) running time. But it seems simpler to set the head reference to null and let the garbage collector do the work
+- The Java [documentation](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html) states "_If a class has no modifier (the default, also known as package-private), it is visible only within its own package_", which the book points out is an alternative to inner classes
+- The Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/doc-files/coll-reference.html) describes List implementations as follows: "_ArrayList - Resizable array implementation of the List interface (an unsynchronized Vector). The best all-around implementation of the List interface. LinkedList - Doubly-linked list implementation of the List interface. Provides better performance than the ArrayList implementation if elements are frequently inserted or deleted within the list_"
 
+## 4. The Efficiency of Algorithms
 
 
 - 
