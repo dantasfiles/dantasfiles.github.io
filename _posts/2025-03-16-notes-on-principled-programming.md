@@ -40,7 +40,13 @@ The notes are still in progress as I have not yet finished reading the book
 - The book suggests coding a loop in the following order: body, termination, initialization, finalization, boundary conditions (first & last iteration). I've never consciously thought about the order--it may be worth trying in the future
 
 ## 5. Online Algorithms
+- Online algorithm is defined in [Wikipedia](https://en.wikipedia.org/wiki/Online_algorithm) as "_process its input piece-by-piece in a serial fashion, i.e., in the order that the input is fed to the algorithm, without having the entire input available from the start_". The keys are that you cannot store the input as it comes in, only update summary values, and you have to make decisions for each input without being able to look at the up-coming input.
+- The book suggests that loop invariants are particularly visible, and crucial to specify correctly, in online algorithms
 
+## 6. Enumeration Patterns
+
+
+- 
 
 
 
