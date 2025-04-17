@@ -109,9 +109,26 @@ The notes are still in progress as I have not yet finished reading the book
 - Method references are definied in the Java [documentation](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html) as "_compact, easy-to-read lambda expressions for methods that already have a name_"
 
 ## 16. Asymptotic Complexity
-- L'Hôpital's rule is defined in Wikipedia as "_a mathematical theorem that allows evaluating limits of indeterminate forms using derivatives_". In certain cases, lim<sub>x→c</sub> f(x) / g(x) = lim<sub>x→c</sub> f'(x) / g'(x)
+- L'Hôpital's rule is defined in [Wikipedia](https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule) as "_a mathematical theorem that allows evaluating limits of indeterminate forms using derivatives_". In certain cases, lim<sub>x→c</sub> f(x) / g(x) = lim<sub>x→c</sub> f'(x) / g'(x)
 
 ## 17. Trees
+- Branching factor is defined in [Wikipedia](https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule) as "_number of children at each node, the outdegree_"
+- Height is defined in [Wikipedia](https://en.wikipedia.org/wiki/Tree_(abstract_data_type)#Terminology) as "_length of the longest downward path to a leaf from that node. The height of the root is the height of the tree_", while depth is "_length of the path to its root_"
+- Binary search tree is defined in [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_tree) as "_rooted binary tree data structure with the key of each internal node being greater than all the keys in the respective node's left subtree and less than the ones in its right subtree_"
+- The Java documentation specifies the difference between the `Comparable` [interface](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/lang/Comparable.html): "_imposes a total ordering on the objects of each class that implements it. This ordering is referred to as the class's natural ordering, and the class's `compareTo` method is referred to as its natural comparison method. Lists (and arrays) of objects that implement this interface can be sorted automatically by Collections.sort (and Arrays.sort)_" and the `Comparator` [interface](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Comparator.html): "_a comparison function, which imposes a total ordering on some collection of objects. Comparators can be passed to a sort method (such as Collections.sort or Arrays.sort) to allow precise control over the sort order_"
+- The book explains that many tree operations are expressed naturally as recursive functions
+- In tree algorithms, there are usually variations in whether null is checked for before making a recursive call on a child, or at the start of each recursive call
+- `TreeMap` is defined in the Java documentation as "_Red-Black tree based `NavigableMap` implementation. The map is sorted according to the natural ordering of its keys, or by a `Comparator` provided at map creation time, depending on which constructor is used_"
+- Randomized algorithm is defined in [Wikipedia](https://en.wikipedia.org/wiki/Randomized_algorithm) as "_typically uses uniformly random bits as an auxiliary input to guide its behavior, in the hope of achieving good performance in the "average case" over all possible choices of random determined by the random bits; thus either the running time, or the output (or both) are random variables_"
+- Fisher–Yates shuffle is defined in [Wikipedia](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle) as "_takes a list of all the elements of the sequence, and continually determines the next element in the shuffled sequence by randomly drawing an element from the list until no elements remain. The algorithm produces an unbiased permutation: every permutation is equally likely_" 
+- The book directs that converting non-tail-recursive tree algorithms to iterative versions can either use parent pointers if available, or a explicit stack
+- Tree sort is defined in [Wikipedia](https://en.wikipedia.org/wiki/Tree_sort) as "_builds a binary search tree from the elements to be sorted, and then traverses the tree (in-order) so that the elements come out in sorted order. Its typical use is sorting elements online_
+- The book explains that range queries can be done by performing an in-order traversal that skips the unneeded parts of the tree
+- Tree traversals are contrasted on [Wikipedia](https://en.wikipedia.org/wiki/Tree_traversal): "pre-order traversal is a topologically sorted one, because a parent node is processed before any of its child nodes is done.... Post-order traversal can be useful to get postfix expression of a binary expression tree.... in-order traversal retrieves the keys in ascending sorted order_"
+
+## 18. Grammars and parsing
+
+
 
 
 
