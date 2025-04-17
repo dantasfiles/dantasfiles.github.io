@@ -87,7 +87,7 @@ The notes are still in progress as I have not yet finished reading the book
 <!-- I'm not sure "_ Its value decreases by 1 in both recursive calls, so it can never go below zero._" is true. In C(3,2), min(n-r,r) = min(1,2) = 1. In one recursive call, C(3-1,2-1) = C(2,1), min(n-r,r) = min(1,1) = 1 -->
 - Recursive data type is defined in [Wikipedia](https://x.com/home) as "_a data type for values that may contain other values of the same type_"
 - Sentinel node is defined in [Wikipedia](https://en.wikipedia.org/wiki/Sentinel_node) as "_a specifically designated node used with linked lists and trees as a traversal path terminator_"
-- The book presents the canonical list iteration: `while (n != null) { _do something_; n = n.next; }. A `for` loop version is also presented, but I prefer not to use `for` loops when the length is unspecified
+- The book presents the canonical list iteration: `while (n != null) { _do something_; n = n.next; }`. A `for` loop version is also presented, but I prefer not to use `for` loops when the length is unspecified
 - Tail call is defined in [Wikipedia](https://en.wikipedia.org/wiki/Tail_call) as "_a subroutine call performed as the final action of a procedure. If the target of a tail is the same subroutine, the subroutine is said to be tail recursive.... Tail calls can be implemented without adding a new stack frame to the call stack.... Tail recursion can be related to the while statement, an explicit iteration_"
 - The book points out that Java does not implement tail call optimization. I believe one reason is that the Java security mechanism does stack inspection
 
@@ -100,7 +100,7 @@ The notes are still in progress as I have not yet finished reading the book
 - Parametric polymorphism is defined in [Wikipedia](https://en.wikipedia.org/wiki/Parametric_polymorphism) as "_allows a single piece of code to be given a 'generic' type, using variables in place of actual types, and then instantiated with particular types as needed_"
 - The books has a clever contrast of subtype polymorphism, where a client can use multiple implementations of an interface, with parametric polymorphism, where an interface can be used by multiple clients in different ways
 - Type inference is defined in the Java [documentation](https://docs.oracle.com/javase/tutorial/java/generics/genTypeInference.html) as "_a Java compiler's ability to look at each method invocation and corresponding declaration to determine the type argument (or arguments) that make the invocation applicable. The inference algorithm determines the types of the arguments and, if available, the type that the result is being assigned, or returned. Finally, the inference algorithm tries to find the most specific type that works with all of the arguments_"
-- The Java [documentation](https://docs.oracle.com/javase/tutorial/java/generics/inheritance.html) discusses generics and subtypes: "_Given two concrete types A and B..., MyClass<A> has no relationship to MyClass<B>, regardless of whether or not A and B are related. The common parent of MyClass<A> and MyClass<B> is Object_"
+- The Java [documentation](https://docs.oracle.com/javase/tutorial/java/generics/inheritance.html) discusses generics and subtypes: "_Given two concrete types A and B..., `MyClass<A>` has no relationship to `MyClass<B>`, regardless of whether or not A and B are related. The common parent of `MyClass<A>` and `MyClass<B>` is `Object`_"
 - Variance is defined in [Wikipedia](https://en.wikipedia.org/wiki/Covariance_and_contravariance_(computer_science)) as "_the category of possible relationships between more complex types and their components' subtypes_"
 - The Java [documentation](https://docs.oracle.com/javase/tutorial/java/generics/wildcardGuidelines.html) discusses wildcards: "_An "in" variable serves up data to the code.... An "out" variable holds data for use elsewhere.... An "in" variable is defined with an upper bounded wildcard, using the `extends` keyword. An "out" variable is defined with a lower bounded wildcard, using the `super` keyword_". This is basically covariance and contravariance
 - Type erasure is defined in the Java [documentation](https://docs.oracle.com/javase/tutorial/java/generics/erasure.html) as "_To implement generics, the Java compiler applies type erasure to: - Replace all type parameters in generic types with their bounds or Object if the type parameters are unbounded. The produced bytecode, therefore, contains only ordinary classes, interfaces, and methods..._"
@@ -109,7 +109,9 @@ The notes are still in progress as I have not yet finished reading the book
 - Method references are definied in the Java [documentation](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html) as "_compact, easy-to-read lambda expressions for methods that already have a name_"
 
 ## 16. Asymptotic Complexity
-- 
+- L'Hôpital's rule is defined in Wikipedia as "_a mathematical theorem that allows evaluating limits of indeterminate forms using derivatives_". In certain cases, lim<sub>x→c</sub> f(x) / g(x) = lim<sub>x→c</sub> f'(x) / g'(x)
+
+## 17. Trees
 
 
 
