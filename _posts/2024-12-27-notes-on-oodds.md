@@ -143,5 +143,6 @@ The notes are still in progress as I have not yet finished reading the book
 - Metasyntax is defined in [Wikipedia](https://en.wikipedia.org/wiki/Metasyntax) as "_syntax used to define the syntax of a programming language or formal language. It describes the allowable structure and composition of phrases and sentences of a metalanguage, which is used to describe either a natural language or a computer programming language_"
 
 ## 19. Hash tables
-
+- Associative array, map, symbol table, or dictionary is defined in Wikipedia as "_abstract data type that stores a collection of (key, value) pairs, such that each possible key appears at most once in the collection_"
+- 
 
