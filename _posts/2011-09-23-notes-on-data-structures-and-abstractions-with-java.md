@@ -34,6 +34,12 @@ The notes are still in progress as I have not yet finished reading the book
 - The Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/doc-files/coll-reference.html) describes List implementations as follows: "_ArrayList - Resizable array implementation of the List interface (an unsynchronized Vector). The best all-around implementation of the List interface. LinkedList - Doubly-linked list implementation of the List interface. Provides better performance than the ArrayList implementation if elements are frequently inserted or deleted within the list_"
 
 ## 4. The Efficiency of Algorithms
+- Complexity is defined in [Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity) as "_amount of resources required to run it. Particular focus is given to computation time (generally measured by the number of needed elementary operations) and memory storage requirements_"
+- Analysis of algorithms is defined in [Wikipedia](https://en.wikipedia.org/wiki/Analysis_of_algorithms) as "_the process of finding the computational complexity of algorithms_"
+- Big O notation is defined by [Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation) as "_mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity_"
+
+## 5. Stacks
+
 
 
 - 
