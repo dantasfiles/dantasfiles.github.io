@@ -140,6 +140,8 @@ The notes are still in progress as I have not yet finished reading the book
 - Recursive-descent parser is defined in [Wikipedia](https://en.wikipedia.org/wiki/Recursive_descent_parser) as "_top-down parser built from a set of mutually recursive procedures (or a non-recursive equivalent) where each such procedure implements one of the nonterminals of the grammar_", and predictive parser as "_a recursive descent parser that does not require backtracking_"
 - Abstract syntax tree is defined in [Wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree) as "_tree representation of the abstract syntactic structure of text (often source code) written in a formal language.... The syntax is 'abstract' in the sense that it does not represent every detail appearing in the real syntax, but rather just the structural or content-related details_"
 - Left recursion is defined in [Wikipedia](https://en.wikipedia.org/wiki/Left_recursion) as "_special case of recursion where a string is recognized as part of a language by the fact that it decomposes into a string from that same language (on the left) and a suffix (on the right).... Left recursion often poses problems for parsers, either because it leads them into infinite recursion (as in the case of most top-down parsers) or because they expect rules in a normal form that forbids it (as in the case of many bottom-up parsers). Therefore, a grammar is often preprocessed to eliminate the left recursion_"
+- Metasyntax is defined in [Wikipedia](https://en.wikipedia.org/wiki/Metasyntax) as "_syntax used to define the syntax of a programming language or formal language. It describes the allowable structure and composition of phrases and sentences of a metalanguage, which is used to describe either a natural language or a computer programming language_"
 
-- 
+## 19. Hash tables
+
 
