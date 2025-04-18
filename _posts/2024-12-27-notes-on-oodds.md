@@ -127,7 +127,14 @@ The notes are still in progress as I have not yet finished reading the book
 - Tree traversals are contrasted on [Wikipedia](https://en.wikipedia.org/wiki/Tree_traversal): "pre-order traversal is a topologically sorted one, because a parent node is processed before any of its child nodes is done.... Post-order traversal can be useful to get postfix expression of a binary expression tree.... in-order traversal retrieves the keys in ascending sorted order_"
 
 ## 18. Grammars and parsing
-
+- Parse tree is defined in [Wikipedia](https://en.wikipedia.org/wiki/Parse_tree) as "_ordered, rooted tree that represents the syntactic structure of a string according to some context-free grammar_"
+- Syntax error is defined in [Wikipedia](https://en.wikipedia.org/wiki/Syntax_error) as "_error in the syntax of a sequence of characters that is intended to be written in a particular programming language_"
+- Formal grammar is defined in [Wikipedia](https://en.wikipedia.org/wiki/Formal_grammar) as "_describes which strings from an alphabet of a formal language are valid according to the language's syntax_"
+- Context-free grammar is defined in [Wikipedia](https://en.wikipedia.org/wiki/Context-free_grammar) as "_formal grammar whose production rules can be applied to a nonterminal symbol regardless of its context_". For example a<sup>n</sup>b<sup>n</sup> is not context-free
+- Symbols are defined in [Wikipedia](https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols) as "_lexical elements used in specifying the production rules constituting a formal grammar_"
+- Lexical tokenization is defined by Wikipedia as "_conversion of a text into (semantically or syntactically) meaningful lexical tokens belonging to categories defined by a 'lexer' program_"
+- Productions is defined in [Wikipedia](https://en.wikipedia.org/wiki/Production_(computer_science)) as "_rewrite rule specifying a symbol substitution that can be recursively performed to generate new symbol sequences_"
+- 
 
 
 
