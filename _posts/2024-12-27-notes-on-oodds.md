@@ -133,11 +133,13 @@ The notes are still in progress as I have not yet finished reading the book
 - Context-free grammar is defined in [Wikipedia](https://en.wikipedia.org/wiki/Context-free_grammar) as "_formal grammar whose production rules can be applied to a nonterminal symbol regardless of its context_". For example a<sup>n</sup>b<sup>n</sup> is not context-free
 - Symbols are defined in [Wikipedia](https://en.wikipedia.org/wiki/Terminal_and_nonterminal_symbols) as "_lexical elements used in specifying the production rules constituting a formal grammar_"
 - Lexical tokenization is defined by Wikipedia as "_conversion of a text into (semantically or syntactically) meaningful lexical tokens belonging to categories defined by a 'lexer' program_"
-- Productions is defined in [Wikipedia](https://en.wikipedia.org/wiki/Production_(computer_science)) as "_rewrite rule specifying a symbol substitution that can be recursively performed to generate new symbol sequences_"
+- Production is defined in [Wikipedia](https://en.wikipedia.org/wiki/Production_(computer_science)) as "_rewrite rule specifying a symbol substitution that can be recursively performed to generate new symbol sequences_"
+- Formal language is defined in [Wikipedia](https://en.wikipedia.org/wiki/Formal_language) as "_words whose letters are taken from an alphabet and are well-formed according to a specific set of rules called a formal grammar_"
+- Recursive grammar is defined in [Wikipedia](https://en.wikipedia.org/wiki/Recursive_grammar) as "_production rules that are recursive, meaning that expanding a non-terminal according to these rules can eventually lead to a string that includes the same non-terminal again_"
+- Ambiguous grammar is defined in [Wikipedia](https://en.wikipedia.org/wiki/Ambiguous_grammar) as "_context-free grammar for which there exists a string that can have more than one leftmost derivation or parse tree_"
+- Recursive-descent parser is defined in [Wikipedia](https://en.wikipedia.org/wiki/Recursive_descent_parser) as "_top-down parser built from a set of mutually recursive procedures (or a non-recursive equivalent) where each such procedure implements one of the nonterminals of the grammar_", and predictive parser as "_a recursive descent parser that does not require backtracking_"
+- Abstract syntax tree is defined in [Wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree) as "_tree representation of the abstract syntactic structure of text (often source code) written in a formal language_"
 - 
-
-
-
 
 - 
 
