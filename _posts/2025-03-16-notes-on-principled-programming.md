@@ -44,8 +44,13 @@ The notes are still in progress as I have not yet finished reading the book
 - The book suggests that loop invariants are particularly visible, and crucial to specify correctly, in online algorithms
 
 ## 6. Enumeration Patterns
-
-
+- Enumeration is defined in [Wikipedia](https://en.wikipedia.org/wiki/Enumeration) as "_complete, ordered listing of all the items in a collection_"
+- The book points out two commonly off-by-one errors: the index associated with the nth object is n-1, and the number of objects between index m and n is m-n+1
+- The `BigInteger` class is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/math/BigInteger.html) as "_immutable arbitrary-precision integers_"
+- In the Python [documentation](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex), "_integers have unlimited precision_"
+- The book presents a typical indeterminate enumeration: `while ( i <= maxi && condition )` then check at end if `i > maxi`
+- The books recommends using `for` loops for determinate enumerations and `while` loops for indeterminate enumerations. This is good advice--I've seen example code use `for` loops for indeterminate enumerations (with and without `break` statements) and it's usually more confusing then it has to be
+- 
 - 
 
 
