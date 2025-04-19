@@ -143,6 +143,14 @@ The notes are still in progress as I have not yet finished reading the book
 - Metasyntax is defined in [Wikipedia](https://en.wikipedia.org/wiki/Metasyntax) as "_syntax used to define the syntax of a programming language or formal language. It describes the allowable structure and composition of phrases and sentences of a metalanguage, which is used to describe either a natural language or a computer programming language_"
 
 ## 19. Hash tables
-- Associative array, map, symbol table, or dictionary is defined in Wikipedia as "_abstract data type that stores a collection of (key, value) pairs, such that each possible key appears at most once in the collection_"
+- Map is defined in [Wikipedia](https://en.wikipedia.org/wiki/Associative_array) as "_abstract data type that stores a collection of (key, value) pairs, such that each possible key appears at most once in the collection_"
+- Partial function is defined in [Wikipedia](https://en.wikipedia.org/wiki/Partial_function) as "_binary relation over two sets that associates to every element of the first set at most one element of the second set_"
+- Lookup table is definied in [Wikipedia](https://en.wikipedia.org/wiki/Lookup_table) as "_array that replaces runtime computation of a mathematical function with a simpler array indexing operation, in a process termed as direct addressing_"
+- Injective function is defined in [Wikipedia](https://en.wikipedia.org/wiki/Injective_function) as "_maps distinct elements of its domain to distinct elements of its codomain_"
+- Hash functions are discussed on [Wikipedia](https://en.wikipedia.org/wiki/Hash_function#Uniformity): "_A good hash function should map the expected inputs as evenly as possible over its output range. That is, every hash value in the output range should be generated with roughly the same probability. The reason for this last requirement is that the cost of hashing-based methods goes up sharply as the number of collisions—pairs of inputs that are mapped to the same hash value—increases_"
+- Separate chaining is defined in [Wikipedia](https://en.wikipedia.org/wiki/Hash_table#Separate_chaining) as "_building a linked list with key–value pair for each search array index_"
+- Open addressing / closed hashing / probing is defined in [Wikipedia](https://en.wikipedia.org/wiki/Open_addressing) as "_searching through alternative locations in the array (the probe sequence) until either the target record is found, or an unused array slot is found, which indicates that there is no such key in the table_"
 - 
+
+
 
