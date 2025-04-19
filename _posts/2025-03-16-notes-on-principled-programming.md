@@ -56,7 +56,11 @@ The notes are still in progress as I have not yet finished reading the book
 - The `BitSet` class is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/BitSet.html) as "_implements a vector of bits that grows as needed_" and may be preferable to using a simpler `boolean` array if space is an issue
 - The difference between row- and column-major order is described in [Wikipedia](https://en.wikipedia.org/wiki/Row-_and_column-major_order) as "_in row-major order, the consecutive elements of a row reside next to each other, whereas the same holds true for consecutive elements of a column in column-major order_
 - The book describes picking two indices from a set as using the lower-triangular region ((2,1),(3,1),(3,2)...). I find it more natural to think of the upper-trangular region ((1,2),(1,3),(2,3)), but the former is easier to code
-- 
+- Aleph-zero is defined in Wikipedia as "_ℵ<sub>0</sub> (aleph-nought, aleph-zero, or aleph-null) is the cardinality of the set of all natural numbers, and is an infinite cardinal. The set of all finite ordinals, called ω or ω<sub>0</sub> (where ω is the lowercase Greek letter omega), also has cardinality 
+ℵ<sub>0</sub>. A set has cardinality ℵ<sub>0</sub> if and only if it is countably infinite, that is, there is a bijection (one-to-one correspondence) between it and the natural numbers_"
+
+## 7. Sequential Search
+
 
 
 
