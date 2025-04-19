@@ -49,8 +49,13 @@ The notes are still in progress as I have not yet finished reading the book
 - The `BigInteger` class is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/math/BigInteger.html) as "_immutable arbitrary-precision integers_"
 - In the Python [documentation](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex), "_integers have unlimited precision_"
 - The book presents a typical indeterminate enumeration: `while ( i <= maxi && condition )` then check at end if `i > maxi`
-- The books recommends using `for` loops for determinate enumerations and `while` loops for indeterminate enumerations. This is good advice--I've seen example code use `for` loops for indeterminate enumerations (with and without `break` statements) and it's usually more confusing then it has to be
-- 
+- The books recommends using `for` loops for determinate enumerations and `while` loops for indeterminate enumerations. This is often good advice--I've seen example code use `for` loops with `break` statements inside that are confusing. However, it means you have to use `Iterator`s instead of for-each loops for indeterminate enumerations, which seems less clean
+- The book points out that to subtract 1 in arithmetic mod N, add N-1 to keep the result positive
+- The book advises that if performing a potentially unnecessary harmless operation takes as long as checking to see whether it should be done, don't bother checking and just simplify the code by doing it. In general, the book advises using making the boundary case special code as small as possible--which seems a variant of the "premature optimization" advice. It's also not great on multi-dimensional arrays, which are presented akwardly later in the chapter
+- The book advises against performing arithmetic on indices, which would seem to make the use of for-each loops preferable
+- The `BitSet` class is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/BitSet.html) as "_implements a vector of bits that grows as needed_" and may be preferable to using a simpler `boolean` array if space is an issue
+- The difference between row- and column-major order is described in [Wikipedia](https://en.wikipedia.org/wiki/Row-_and_column-major_order) as "_in row-major order, the consecutive elements of a row reside next to each other, whereas the same holds true for consecutive elements of a column in column-major order_
+- The book describes picking two indices from a set as using the lower-triangular region ((2,1),(3,1),(3,2)...). I find it more natural to think of the upper-trangular region ((1,2),(1,3),(2,3)), but the former is easier to code
 - 
 
 
