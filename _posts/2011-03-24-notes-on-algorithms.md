@@ -43,6 +43,21 @@ The notes are still in progress as I have not yet finished reading the book
 - The book recommends not using static variables except in certain cases
 
 ## 1.3 Bags, Queues & Stacks
+- Parametric polymorphism is defined in [Wikipedias](https://en.wikipedia.org/wiki/Parametric_polymorphism) as "_allows a single piece of code to be given a "generic" type, using variables in place of actual types, and then instantiated with particular types as needed_"
+- Autoboxing is defined in the Java [documentation](https://docs.oracle.com/javase/tutorial/java/data/autoboxing.html) as "_automatic conversion that the Java compiler makes between the primitive types and their corresponding object wrapper classes... If the conversion goes the other way, this is called unboxing_"
+- `Iterable` is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/lang/Iterable.html) as "_implementing this interface allows an object to be the target of the enhanced for statement (sometimes called the "for-each loop" statement)... `Iterator<T> iterator()` Returns an iterator over elements of type T._"
+- The book explains that stacks are useful for reversing the order of an arbitrary number of inputs
+- The book describes an algorithm for evaluating arithmetic expressions that are fully surrounded by parentheses using an operator and an operand stack (pop from both as necessary and evaluate when hit a right parenthesis)
+- Interpreter is defined in [Wikipedia](https://en.wikipedia.org/wiki/Interpreter_(computing)) as "_computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program_"
+- The restrictions on generics in the Java [documentation](https://docs.oracle.com/javase/tutorial/java/generics/restrictions.html) include "_you cannot create arrays of parameterized types_"
+- `java.util.Arrays.copyOf` is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Arrays.html#copyOf(T%5B%5D,int)) as "_copies the specified array, truncating or padding with nulls (if necessary) so the copy has the specified length_"
+- The book recommends setting references to null when no longer needed, rather than letting them loiter and avoid being garbage collected
+- `java.util.Iterator` is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Iterator.html) as "_`boolean hasNext()` Returns true if the iteration has more elements. `E next()` Returns the next element in the iteration_"
+- The book recommends overriding the default `remove` method for Iterators with a blank one (or throw an `UnsupportedOperationException`), because using the `remove` method can cause all kinds of confusion
+- In the Iterator example in the book, `ReverseArrayIterator` isn't `ReverseArrayIterator<Item>` because it uses the outer class's type parameter, not defines a new one of its own
+- 
+
+
 
 
 
