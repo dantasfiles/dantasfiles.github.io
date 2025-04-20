@@ -55,8 +55,8 @@ The notes are still in progress as I have not yet finished reading the book
 - `java.util.Iterator` is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Iterator.html) as "_`boolean hasNext()` Returns true if the iteration has more elements. `E next()` Returns the next element in the iteration_"
 - The book recommends overriding the default `remove` method for Iterators with a blank one (or throw an `UnsupportedOperationException`), because using the `remove` method can cause all kinds of confusion
 - In the Iterator example in the book, `ReverseArrayIterator` isn't `ReverseArrayIterator<Item>` because it uses the outer class's type parameter, not defines a new one of its own
+- Initializing fields is discussed in the Java [documentation](https://docs.oracle.com/javase/tutorial/java/javaOO/initial.html) as "_you can often provide an initial value for a field in its declaration.... However, this form of initialization has limitations because of its simplicity.... Instance variables can be initialized in constructors, where error handling or other logic can be used_"
 - 
-
 
 
 
