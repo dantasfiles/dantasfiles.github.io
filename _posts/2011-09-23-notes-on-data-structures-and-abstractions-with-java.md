@@ -39,8 +39,9 @@ The notes are still in progress as I have not yet finished reading the book
 - Big O notation is defined by [Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation) as "_mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity_"
 
 ## 5. Stacks
-
-
+- The book points out that pushing items onto, and then popping all items from a stack, reverses the order
+- The book points out that infix operators require precedence to process as expected, but prefix and postfix bake the precedence into the expression `1+2*4 vs. `1 2 4 * +`
+- 
 
 - 
 - 
