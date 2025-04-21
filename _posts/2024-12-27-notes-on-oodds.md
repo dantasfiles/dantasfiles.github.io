@@ -169,4 +169,19 @@ The notes are still in progress as I have not yet finished reading the book
 - java.util.Objects.hash` is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Objects.html#hashCode(java.lang.Object)) as "_Returns a hash code for a sequence of input values. The hash code is generated as if all the input values were placed into an array, and that array were hashed by calling `Arrays.hashCode(Object[])`. This method is useful for implementing `Object.hashCode()` on objects containing multiple fields_"
 
 ## 20. Loop invariants
+- Loop invariant is defined in [Wikipedia](https://en.wikipedia.org/wiki/Loop_invariant) as "_property of a program loop that is true before (and after) each iteration.... Because of the similarity of loops and recursive programs, proving partial correctness of loops with invariants is very similar to proving the correctness of recursive programs via induction. In fact, the loop invariant is often the same as the inductive hypothesis to be proved for a recursive program equivalent to a given loop_"
+- If binary search needs to find the first instance of an item, it iterates on the left half (including the midpoint) if it finds the item. If binary search needs to find any instance of an item, it stops immediately if it finds the item at the midpoint
+- The book advises writing down what the loop invariant is, and using assertions to check it if possible
+- The book points out that postcondition = loop-invariant && !loop-condition
+- Partial correctness is defined in [Wikipedia](https://en.wikipedia.org/wiki/Correctness_(computer_science)) as"_if an answer is returned it will be correct_", while total correctness as "_additionally requires that an answer is eventually returned, i.e. the algorithm terminates_"
+- Loop variant is defined in Wikipedia as "_mathematical function defined on the state space of a computer program whose value is monotonically decreased with respect to a (strict) well-founded relation by the iteration of a while loop under some invariant conditions, thereby ensuring its termination_"
+- The book describes a total correctness proof with four steps: establishment / initialization (loop invariant is true before enter loop), postcondition (if loop invariant is true and loop condition is false, then postcondition is true), preservation / maintenance (if loop invariant and loop condition is true when entering loop body, then the loop invariant is true when exiting loop body), and termination (loop invariant decreases each time in the loop, until the loop guard is false)
+- The book advises that too weak loop invariants usually fail the postcondition proof, while too strong loop invariants usually fail the preservation proof
+
+## 21. Sorting
+
+
+
+
+
 
