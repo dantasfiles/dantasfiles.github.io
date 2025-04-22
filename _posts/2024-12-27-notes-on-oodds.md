@@ -203,3 +203,13 @@ The notes are still in progress as I have not yet finished reading the book
 - The book's algorithm doesn't check for n == k because of its partitioning scheme. This may be an allowed optimization with certain partitioning schemes.
 
 ## 22. Graphs and graph representations
+- Graph is defined in [Wikipedia](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) as "_graph is a structure consisting of a set of objects where some pairs of the objects are in some sense "related". The objects are represented by abstractions called vertices (also called nodes or points) and each of the related pairs of vertices is called an edge... The edges may be directed or undirected.... A weighted graph or a network is a graph in which a number (the weight) is assigned to each edge.... A binary relation R on a set X defines a directed graph. An element x of X is a direct predecessor of an element y of X if and only if xRy_"
+- Garbage collection is defined by [Wikipedia](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) as "_form of automatic memory management. The garbage collector attempts to reclaim memory that was allocated by the program, but is no longer referenced"_
+- Reachability is defined in [Wikipedia](https://en.wikipedia.org/wiki/Reachability) as "_ability to get from one vertex to another within a graph_"
+- The book points out that many variants of graph problems are NP-complete
+- Vertex is defined in [Wikipedia](https://en.wikipedia.org/wiki/Vertex_(graph_theory)) as "_vertex (plural vertices) or node is the fundamental unit of which graphs are formed: an undirected graph consists of a set of vertices and a set of edges (unordered pairs of vertices), while a directed graph consists of a set of vertices and a set of arcs (ordered pairs of vertices).... The degree of a vertex, denoted 𝛿(v) in a graph is the number of edges incident to it... In a directed graph, one can distinguish the outdegree (number of outgoing edges), denoted 𝛿+(v), from the indegree (number of incoming edges), denoted 𝛿−(v); a source vertex is a vertex with indegree zero, while a sink vertex is a vertex with outdegree zero_"
+- Adjacency matrix is defined in [Wikipedia](https://en.wikipedia.org/wiki/Adjacency_matrix) as "_a square matrix used to represent a finite graph. The elements of the matrix indicate whether pairs of vertices are adjacent or not in the graph_"
+- 
+
+
+
