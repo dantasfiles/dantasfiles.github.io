@@ -74,5 +74,8 @@ The notes are still in progress as I have not yet finished reading the book
 - `java.util.Arrays.binarysearch` is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Arrays.html#binarySearch(java.lang.Object%5B%5D,java.lang.Object)) as "_Searches the specified array for the specified object using the binary search algorithm. The array must be sorted into ascending order according to the natural ordering of its elements (as by the `sort(Object[]) method)` prior to making this call... If the array contains multiple elements equal to the specified object, there is no guarantee which one will be found.... Returns: index of the search key, if it is contained in the array; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the array: the index of the first element greater than the key, or a.length if all elements in the array are less than the specified key_"
 
 ## 9. One-Dimensional Array Rearrangements
-
+- The book advises using left and right indices when reversing an array, to make it easier to code and understand. **The book advises against index arithmetic in general**. Then again, the next example uses index arithmetic so 🤷
+- Aliasing is defined in [Wikipedia](https://en.wikipedia.org/wiki/Aliasing_(computing)) as "_data location in memory can be accessed through different symbolic names in the program_"
+- The book advises that when trying to figure out something like a for loop limit, look at how it depends on variables x and y (positively or negatively), then write "x-y+constant" and try to figure out the constant
+- 
 
