@@ -40,8 +40,12 @@ The notes are still in progress as I have not yet finished reading the book
 
 ## 5. Stacks
 - The book points out that pushing items onto, and then popping all items from a stack, reverses the order
-- The book points out that infix operators require precedence to process as expected, but prefix and postfix bake the precedence into the expression `1+2*4 vs. `1 2 4 * +`
-- 
+- The book points out that infix operators require precedence and parentheses to process as expected, but prefix and postfix bake the precedence into the expression `1+2*4 vs. `1 2 4 * +`
+- Shunting yard algorithm is defined in [Wikipedia](https://en.wikipedia.org/wiki/Shunting_yard_algorithm) as "_method for parsing arithmetical or logical expressions, or a combination of both, specified in infix notation... The input is processed one symbol at a time: if a variable or number is found, it is copied directly to the output... If the symbol is an operator, it is pushed onto the operator stack... If the operator's precedence is lower than that of the operators at the top of the stack or the precedences are equal and the operator is left associative, then that operator is popped off the stack and added to the output... Finally, any remaining operators are popped off the stack and added to the output_"
+- The book explains that instead of outputting the result of the shunting yard algorithm as a postfix expression, you can evaluate it on the fly by using an operand stack
+- Frame is defined in the Java [documentation](https://docs.oracle.com/javase/specs/jvms/se24/html/jvms-2.html#jvms-2.6) as "_used to store data and partial results, as well as to perform dynamic linking, return values for methods, and dispatch exceptions_"
+- Java Virtual Machine stack is defined in the Java [documentation](https://docs.oracle.com/javase/specs/jvms/se24/html/jvms-2.html#jvms-2.5.2) as "_stores frames... it holds local variables and partial results, and plays a part in method invocation and return. Because the Java Virtual Machine stack is never manipulated directly except to push and pop frames, frames may be heap allocated. The memory for a Java Virtual Machine stack does not need to be contiguous_"
+- `java.util.ArrayDeque<E>` is defined by the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/doc-files/coll-reference.html) as "_efficient, resizable array implementation of the `Deque` interface_"
 
-- 
-- 
+## 6. Stack Implementations
+
