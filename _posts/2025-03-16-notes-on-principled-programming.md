@@ -66,6 +66,13 @@ The notes are still in progress as I have not yet finished reading the book
 - Sentinel value is defined in [Wikipedia](https://en.wikipedia.org/wiki/Sentinel_value) as "_special value in the context of an algorithm which uses its presence as a condition of termination, typically in a loop or recursive algorithm_"
 
 ## 8. Binary Search
+- The book has a bit of fun with the idea that "looking up a word in the dictionary" is no longer a thing that people physically do
+- Binary search is defined in [Wikipedia](https://en.wikipedia.org/wiki/Binary_search) as "_compares the target value to the middle element of the array. If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the target value, and repeating this until the target value is found. If the search ends with the remaining half being empty, the target is not in the array_"
+- The book points out that a while loop consists of four parts, while a for loop consists of six parts
+- The book's algorithm finds the leftmost instance of the key by searching left is the middle element is the key. This a stronger result then the specification of find-an-index, and an optimization of stopping if the middle element contains the key could have been used
+- Sometimes indices like j, left, and right are inclusive and sometimes they are exclusive. The choice sometimes makes the algorithm easier or harder. Be very careful and document which is which to avoid off-by-one errors
+- `java.util.Arrays.binarysearch` is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Arrays.html#binarySearch(java.lang.Object%5B%5D,java.lang.Object)) as "_Searches the specified array for the specified object using the binary search algorithm. The array must be sorted into ascending order according to the natural ordering of its elements (as by the `sort(Object[]) method)` prior to making this call... If the array contains multiple elements equal to the specified object, there is no guarantee which one will be found.... Returns: index of the search key, if it is contained in the array; otherwise, (-(insertion point) - 1). The insertion point is defined as the point at which the key would be inserted into the array: the index of the first element greater than the key, or a.length if all elements in the array are less than the specified key_"
 
+## 9. One-Dimensional Array Rearrangements
 
 
