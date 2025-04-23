@@ -76,6 +76,16 @@ The notes are still in progress as I have not yet finished reading the book
 ## 9. One-Dimensional Array Rearrangements
 - The book advises using left and right indices when reversing an array, to make it easier to code and understand. **The book advises against index arithmetic in general**. Then again, the next example uses index arithmetic so 🤷
 - Aliasing is defined in [Wikipedia](https://en.wikipedia.org/wiki/Aliasing_(computing)) as "_data location in memory can be accessed through different symbolic names in the program_"
-- The book advises that when trying to figure out something like a for loop limit, look at how it depends on variables x and y (positively or negatively), then write "x-y+constant" and try to figure out the constant
+- The book advises that when trying to figure out something like a for loop limit, look at how it depends on variables x and y (positively or negatively), then write "+x -y +constant" and try to figure out the constant
+- The book has a clever in-place algorithm that has a rotation using 3 reverses (-a-> -b->) -1-> (**<-a-** -b->) -2-> (<-a- **<-b-**) -3-> **(-b-> -a->)**
+- The book points out that locality affects the choice of algorithm. Jumping around a large array may not be the best choice. In addition, the amount of extra space needed affects the choice of algorithm
+- Dutch national flag problem is defined by [Wikipedia](https://en.wikipedia.org/wiki/Dutch_national_flag_problem) as "_Given balls of these three colors arranged randomly in a line (it does not matter how many balls there are), the task is to arrange them such that all balls of the same color are together and their collective color groups are in the correct order. The solution to this problem is of interest for designing sorting algorithms; in particular, variants of the quicksort algorithm that must be robust to repeated elements may use a three-way partitioning function that groups items less than a given key (red), equal to the key (white) and greater than the key (blue)... One algorithm is to have the top group grow down from the top of the array, the bottom group grow up from the bottom, and keep the middle group just above the bottom. The algorithm indexes three locations, the bottom of the top group, the top of the bottom group, and the top of the middle group. Elements that are yet to be sorted fall between the middle and the top group_". See also the [Wikipedia](https://en.wikipedia.org/wiki/Quicksort#Repeated_elements) page for repeated elements in quicksort: "_To solve the Lomuto partition scheme problem (sometimes called the Dutch national flag problem), an alternative linear-time partition routine can be used that separates the values into three groups: values less than the pivot, values equal to the pivot, and values greater than the pivot_"
+- If there are 3 choices for an item, having an unknown area that can shrink from the left and from the right is useful
+- The book notes that the partition value does not have to be in the array
+- Merge is defined in [Wikipedia](https://en.wikipedia.org/wiki/Merge_algorithm) as "_take multiple sorted lists as input and produce a single list as output, containing all the elements of the inputs lists in sorted order_". It typically has 3 steps: merge a and b into c, move remaining elements of a into c, and move remaining elements of b into c (only one of the last two steps will actually be executed)
+
+## 10. Counting
+- 
+- 
 - 
 
