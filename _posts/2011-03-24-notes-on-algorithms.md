@@ -69,7 +69,7 @@ The notes are still in progress as I have not yet finished reading the book
 - Fail-fast iterator is defined in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/ArrayList.html) as "_if the list is structurally modified at any time after the iterator is created, in any way except through the iterator's own remove or add methods, the iterator will throw a `ConcurrentModificationException`. Thus, in the face of concurrent modification, the iterator fails quickly and cleanly, rather than risking arbitrary, non-deterministic behavior at an undetermined time in the future_"
 
 ## 1.4 Analysis of Algorithms
-
+- The book points out that analyzing software is much less involved that analyzing the physical sciences and engineering world
 
 
 
