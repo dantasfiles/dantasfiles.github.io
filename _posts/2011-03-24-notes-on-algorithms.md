@@ -70,8 +70,9 @@ The notes are still in progress as I have not yet finished reading the book
 
 ## 1.4 Analysis of Algorithms
 - The book points out that analyzing software is much less involved that analyzing the physical sciences and engineering world
-
-
-
+- Log–log plot is defined in [Wikipedia](https://en.wikipedia.org/wiki/Log%E2%80%93log_plot) as "_two-dimensional graph of numerical data that uses logarithmic scales on both the horizontal and vertical axes. Power functions – relationships of the form y=ax<super>k</super> – appear as straight lines in a log–log graph, with the exponent corresponding to the slope, and the coefficient corresponding to the intercept_"
+- Power law is defined in [Wikipedia](https://en.wikipedia.org/wiki/Power_law) as "_functional relationship between two quantities, where a relative change in one quantity results in a relative change in the other quantity proportional to the change raised to a constant exponent: one quantity varies as a power of another_"
+- Combination is defined in [Wikipedia](https://en.wikipedia.org/wiki/Combination) as "_selection of items from a set that has distinct members, such that the order of selection does not matter (unlike permutations)_" (n k) = n!/k!(n-k)!
+- Asymptotic analysis is defined in Wikipedia as "_method of describing limiting behavior.... Formally, given functions f (x) and g(x), we define a binary relation f(x) ~ g(x) (as x→∞) if and only if... lim<sub>x→∞</sub> f(x)/g(x) = 1_"
 
 
