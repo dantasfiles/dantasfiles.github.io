@@ -94,6 +94,18 @@ The notes are still in progress as I have not yet finished reading the book
 - The book contrasts Big O notation and asymptotic equivalence (~). They are contrasted in [Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Family_of_Bachmann%E2%80%93Landau_notations) as "_Big O: |f| is asymptotically bounded above by g (up to constant factor k). lim sup<sub>n→∞</sub> |f(n)|/g(n) < ∞_" vs. "_Asymptotic equivalence: f is equal to g asymptotically. lim<sub>n→∞</sub> f(n)/g(n) = 1_"
 
 ### 1.5 Case Study: Union-Find
+- Equivalence relation is defined in [Wikipedia](https://en.wikipedia.org/wiki/Equivalence_relation) as "_binary relation that is reflexive, symmetric, and transitive.... Each equivalence relation provides a partition of the underlying set into disjoint equivalence classes_"
+- Dynamic connectivity structure is defined in [Wikipedia](https://en.wikipedia.org/wiki/Dynamic_connectivity) as "_dynamically maintains information about the connected components of a graph_"
+- Union–find data structure is defined in [Wikipedia](https://en.wikipedia.org/wiki/Disjoint-set_data_structure) as "_stores a collection of disjoint (non-overlapping) sets. Equivalently, it stores a partition of a set into disjoint subsets. It provides operations for adding new sets, merging sets (replacing them with their union), and finding a representative member of a set. The last operation makes it possible to determine efficiently whether any two elements belong to the same set or to different sets. While there are several ways of implementing disjoint-set data structures, in practice they are often identified with a particular implementation known as a disjoint-set forest. This specialized type of forest performs union and find operations in near-constant amortized time.... Each node in a disjoint-set forest consists of a pointer and some auxiliary information, either a size or a rank (but not both). The pointers are used to make parent pointer trees, where each node that is not the root of a tree points to its parent. To distinguish root nodes from others, their parent pointers have invalid values, such as a circular reference to the node or a sentinel value. Each tree represents a set stored in the forest, with the members of the set being the nodes in the tree. Root nodes provide set representatives: Two nodes are in the same set if and only if the roots of the trees containing the nodes are equal. Nodes in the forest can be stored in any way convenient to the application, but a common technique is to store them in an array. In this case, parents can be indicated by their array index_"
+- The book describes an proof by induction by showing the property is true at the start, and that each operation preserves the property
+- Various tree terms are defined in [Wikipedia](https://en.wikipedia.org/wiki/Tree_(abstract_data_type)#Terminology) as "_The height of a node is the length of the longest downward path to a leaf from that node. The height of the root is the height of the tree. The depth of a node is the length of the path to its root (i.e., its root path).... Size of a tree: Number of nodes in the tree_"
+- Path compression during find operations is defined in [Wikipedia](https://en.wikipedia.org/wiki/Disjoint-set_data_structure#Finding_set_representatives) as "_makes every node between the query node and the root point to the root_"
+- Cell-probe model of computation is defined in [Wikipedia](https://en.wikipedia.org/wiki/Cell-probe_model) as "_similar to the random-access machine, except all operations are free except memory access. This model is useful for proving lower bounds of algorithms for data structure problems_"
+- The book points out that deleting items efficiently from a data structure is often a harder problem than query and addition operations
+
+## 2. Sorting
+
+
+
 
 - 
-
