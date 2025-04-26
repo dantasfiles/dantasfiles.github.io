@@ -79,8 +79,9 @@ The notes are still in progress as I have not yet finished reading the book
 - Shellsort is defined in [Wikipedia](https://en.wikipedia.org/wiki/Shellsort) as "_can be understood as...a generalization of...sorting by insertion (insertion sort). The method starts by sorting pairs of elements far apart from each other, then progressively reducing the gap between elements to be compared. By starting with far-apart elements, it can move some out-of-place elements into the position faster than a simple nearest-neighbor exchange.... effectively finishing with an ordinary insertion sort_"
 
 ## 9. Faster Sorting Methods
-
-
+- Merge sort is defined in [Wikipedia](https://en.wikipedia.org/wiki/Merge_sort) as "_Divide the unsorted list into n sub-lists, each containing one element (a list of one element is considered sorted). Repeatedly merge sublists to produce new sorted sublists until there is only one sublist remaining. This will be the sorted list_"
+- Divide-and-conquer algorithm is defined in [Wikipedia](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm) as "_recursively breaks down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem_"
+- 
 
 - 
 
