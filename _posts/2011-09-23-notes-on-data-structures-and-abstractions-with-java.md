@@ -71,5 +71,17 @@ The notes are still in progress as I have not yet finished reading the book
 - The book points out that to convert a recursive function to an iterative one with an explicit stack, you should push the first recursive call onto the stack, and then set up a while loop that pops a recursive call off the stack and processes it. The processing can push new recursive calls onto the stack as necessary. The book points out that the resulting code is often not that clean. 
 
 ## 8. An Introduction to Sorting
+- `Comparable<T>` is defined in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/lang/Comparable.html) as "_This interface imposes a total ordering on the objects of each class that implements it. This ordering is referred to as the class's natural ordering, and the class's compareTo method is referred to as its natural comparison method. Lists (and arrays) of objects that implement this interface can be sorted automatically by `Collections.sort` (and `Arrays.sort`)_"
+- Lower bounded wildcards with Comparable are discussed in the Java [documentation](https://docs.oracle.com/javase/tutorial/extra/generics/morefun.html): "_It isn't necessary that T be comparable to exactly itself. All that's required is that T be comparable to one of its supertypes... This reasoning applies to almost any usage of Comparable that is intended to work for arbitrary types: You always want to use Comparable<? super T>. In general, if you have an API that only uses a type parameter T as an argument, its uses should take advantage of lower bounded wildcards (? super T). Conversely, if the API only returns T, you'll give your clients more flexibility by using upper bounded wildcards (? extends T)_"
+- 
+
+
+
+
+
+
+
+
+
 
 
