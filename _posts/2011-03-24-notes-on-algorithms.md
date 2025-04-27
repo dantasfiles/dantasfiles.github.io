@@ -104,8 +104,15 @@ The notes are still in progress as I have not yet finished reading the book
 - The book points out that deleting items efficiently from a data structure is often a harder problem than query and addition operations
 
 ## 2. Sorting
+### 2.1 Elementary Sorts
+- `Comparable<T>` is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/lang/Comparable.html) as "_imposes a total ordering on the objects of each class that implements it. This ordering is referred to as the class's natural ordering, and the class's compareTo method is referred to as its natural comparison method. Lists (and arrays) of objects that implement this interface can be sorted automatically by Collections.sort (and Arrays.sort)_"
+- Selection sort is defined in [Wikipedia](https://en.wikipedia.org/wiki/Selection_sort) as "_proceeds by finding the smallest (or largest, depending on sorting order) element in the unsorted sublist, exchanging (swapping) it with the leftmost unsorted element (putting it in sorted order), and moving the sublist boundaries one element to the right.... While selection sort is preferable to insertion sort in terms of number of writes (n-1 swaps versus up to n(n-1)/2 swaps, with each swap being two writes).... This can be important if writes are significantly more expensive than reads, such as with EEPROM or Flash memory, where every write lessens the lifespan of the memory_"
+- Insertion sort is defined in [Wikipedia](https://en.wikipedia.org/wiki/Insertion_sort) as "_ Adaptive, i.e., efficient for data sets that are already substantially sorted.... At each array-position, it checks the value there against the largest value in the sorted list (which happens to be next to it, in the previous array-position checked). If larger, it leaves the element in place and moves to the next. If smaller, it finds the correct position within the sorted list, shifts all the larger values up to make a space, and inserts into that correct position_"
+- Law of large numbers is defined in [Wikipedia](https://en.wikipedia.org/wiki/Law_of_large_numbers) as "_average of the results obtained from a large number of independent random samples converges to the true value, if it exists. More formally...given a sample of independent and identically distributed values, the sample mean converges to the true mean_"
+- Shellsort is defined in [Wikipedia](https://en.wikipedia.org/wiki/Shellsort) as "_starts by sorting pairs of elements far apart from each other, then progressively reducing the gap between elements to be compared. By starting with far-apart elements, it can move some out-of-place elements into the position faster than a simple nearest-neighbor exchange.... an optimization of insertion sort that allows the exchange of items that are far apart.... the last gap is always 1 to finish the sort (effectively finishing with an ordinary insertion sort)... since it can be implemented using little code and does not use the call stack, some implementations of the qsort function in the C standard library targeted at embedded systems use it instead of quicksort_"
+- The book points out that large gap subsequences are short, and small gap subsequences are partially sorted, both of which are strengths of insertion sort
+<!-- I think the while loop to choose h makes one too many steps and will end up larger than N/3 instead of smaller than it -->
+- The book points out that as computers have gotten faster, small improvements in algorithms make less difference in practice
 
+### 2.2 Mergesort
 
-
-
-- 
