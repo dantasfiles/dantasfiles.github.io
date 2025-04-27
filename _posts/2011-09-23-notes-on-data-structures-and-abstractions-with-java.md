@@ -95,6 +95,8 @@ The notes are still in progress as I have not yet finished reading the book
 
 ## 10. Queues, Dequeues & Priority Queues
 - Queue is defined in [Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)) as "_collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence_"
+- Poisson distribution is defined in [Wikipedia](https://en.wikipedia.org/wiki/Poisson_distribution) as "_discrete probability distribution that expresses the probability of a given number of events occurring in a fixed interval of time if these events occur with a known constant mean rate and independently of the time since the last event_
+
 - 
 - Double-ended queue / deque is defined in Wikipedia as "_generalizes a queue, for which elements can be added to or removed from either the front (head) or back (tail)_"
 
