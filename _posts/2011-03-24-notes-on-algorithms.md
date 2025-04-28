@@ -115,4 +115,5 @@ The notes are still in progress as I have not yet finished reading the book
 - The book points out that as computers have gotten faster, small improvements in algorithms make less difference in practice
 
 ### 2.2 Mergesort
-
+- Merge sort is defined in [Wikipedia](https://en.wikipedia.org/wiki/Merge_sort) as "_Divide the unsorted list into n sub-lists, each containing one element (a list of one element is considered sorted). Repeatedly merge sublists to produce new sorted sublists until there is only one sublist remaining. This will be the sorted list_"
+- 
