@@ -97,10 +97,9 @@ The notes are still in progress as I have not yet finished reading the book
 - Queue is defined in [Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type)) as "_collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence_"
 - Poisson distribution is defined in [Wikipedia](https://en.wikipedia.org/wiki/Poisson_distribution) as "_discrete probability distribution that expresses the probability of a given number of events occurring in a fixed interval of time if these events occur with a known constant mean rate and independently of the time since the last event_
 - Double-ended queue / deque is defined in Wikipedia as "_generalizes a queue, for which elements can be added to or removed from either the front (head) or back (tail)_". The book points out that a deque is a queue and a stack
-- Queues are described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/doc-files/coll-reference.html) as "_`ArrayDeque` - Efficient, resizable array implementation of the Deque interface.
-`LinkedList` - Doubly-linked list implementation of the List interface. Provides better performance than the ArrayList implementation if elements are frequently inserted or deleted within the list. Also implements the Deque interface. When accessed through the Queue interface, LinkedList acts as a FIFO queue. `PriorityQueue` - Heap implementation of an unbounded priority queue_"
+- Queues are described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/doc-files/coll-reference.html) as "_`ArrayDeque` - Efficient, resizable array implementation of the Deque interface. `LinkedList` - Doubly-linked list implementation of the List interface. Provides better performance than the ArrayList implementation if elements are frequently inserted or deleted within the list. Also implements the Deque interface. When accessed through the Queue interface, LinkedList acts as a FIFO queue_"
 - The book contains a good diagram about how the stack, queue, and deque operations relate to each other
-- The Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Deque.html) has a summary of Deque methods. You can see that queues enqueue to the tail, and dequeue from the head, while stacks push to and pop from the head. Neither queues nor stacks get or remove from the tail--that is a deque-only operation
+- The Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/Deque.html) has a summary of Deque methods. You can see that queue operations enqueue to the tail of the deque, and dequeue from the head, while stack operations push to and pop from the head of the deque. Neither queue nor stack operations get or remove from the tail of the deque--that is a deque-specific operation.
 
 | | First Element (Head) | | Last Element (Tail) | |
 | --- | --- | --- | --- | --- |
@@ -123,3 +122,11 @@ The notes are still in progress as I have not yet finished reading the book
 | push(e) | addFirst(e) | 
 | pop() | removeFirst() | 
 | peek() | peekFirst() |
+
+- The book presents a fun example of typing and pressing backspace as an example of where you need a deque, because you are adding characters to the tail, but also removing them from the tail when backspacing, then reading them from the head at the end
+- Priority queue is defined in [Wikipedia](https://en.wikipedia.org/wiki/Priority_queue) as "_each element has an associated priority, which determines its order of service...serves highest priority items first_"
+- `java.util.PriorityQueue<E>` is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/PriorityQueue.html) as "_The elements of the priority queue are ordered according to their natural ordering, or by a Comparator provided at queue construction time, depending on which constructor is used.... The head of this queue is the least element with respect to the specified ordering_"
+- The book says that the elements of `PriorityQueue` must be `Comparable`, but I'm not sure that is true, you can pass in a `Comparator` to the constructor
+
+## 11. Queue, Dequeue & Priority Queue Implementations
+- 
