@@ -129,4 +129,4 @@ The notes are still in progress as I have not yet finished reading the book
 - The book says that the elements of `PriorityQueue` must be `Comparable`, but I'm not sure that is true, you can pass in a `Comparator` to the constructor
 
 ## 11. Queue, Dequeue & Priority Queue Implementations
-- 
+- `java.util.LinkedList` is described in the Java [documentation](https://docs.oracle.com/en/java/javase/24/docs/api/java.base/java/util/LinkedList.html) as "_Doubly-linked list implementation of the List and Deque interfaces.... All of the operations perform as could be expected for a doubly-linked list. Operations that index into the list will traverse the list from the beginning or the end, whichever is closer to the specified index_"
