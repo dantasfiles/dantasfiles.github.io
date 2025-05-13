@@ -20,7 +20,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Junior level | |
 | :---: | --- |
-| **Contemporary Logic Design** <br> COS 306 | ● _Digital Design with RTL Design, VHDL, and Verilog_ by Frank Vahid |
+| **Contemporary Logic Design** <br> COS 306 | ● _Digital Design with RTL Design, VHDL & Verilog_ by Frank Vahid |
 | **Advanced Programming Techniques** <br> COS 333 | ● ✨ ***The Practice of Programming*** ✨ by Kernighan & Pike |
 | **Computer Architecture & Organization**<br> COS 375 | ● ✨ ***Computer Organization & Design: The Hardware Software Interface*** ✨ by Patterson & Hennessy |
 
@@ -29,6 +29,8 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | **[Computer Graphics](https://cos426.cs.princeton.edu/)** <br> COS 426 | ● _Computer Graphics with Open GL_ by Hearn, Baker & Carithers |
 | **Design of Very Large-Scale Integrated (VLSI) Systems** <br> COS 462 | ● _Digital Integrated Circuits_ by Rabaey, Chandrakasan & Nikolic |
 
-
+| Graduate level | |
+| :---: | --- |
+| **Domain-specific Computer Systems Architecture** <br> COS 597V | ●  _Computer Architecture: A Quantitative Approach_ by Hennessy & Patterson |
 
 ### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
