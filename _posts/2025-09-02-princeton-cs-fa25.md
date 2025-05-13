@@ -21,5 +21,6 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | Junior level | |
 | :---: | --- |
 | **Advanced Programming Techniques** <br> COS 333 | ● ✨ ***The Practice of Programming*** ✨ by Kernighan & Pike |
+| **Computer Architecture & Organization**<br> COS 375 | ● ✨ ***Computer Organization & Design: The Hardware Software Interface*** ✨ by Patterson & Hennessy |
 
 ### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
