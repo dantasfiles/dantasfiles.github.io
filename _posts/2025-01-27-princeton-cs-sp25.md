@@ -5,7 +5,7 @@ author: Daniel Dantas
 hidden: true
 ---
 
-### [←Fall 2024](https://dantasfiles.com/2024/09/03/princeton-cs-fa24.html)
+### [←Fall 2024](https://dantasfiles.com/2024/09/03/princeton-cs-fa24.html) | [Fall 2025→](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
 
 This is an unofficial list of books that are recommended in Spring 2025 computer science classes at Princeton\
 The books marked with a ✨ are ones I’ve been interested enough in to read at length
@@ -45,4 +45,4 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | **[Machine Behavior](https://manoelhortaribeiro.github.io/teaching/spring2025_machine_behavior)** <br> COS 598B | See website for paper list |
 | **[Cryptographic Proof Systems](https://sites.google.com/view/alex-lombardi/home/cos-598d-spring-2025-princeton)** <br> COS 598D | ●  _[Foundations of Cryptography](https://www.wisdom.weizmann.ac.il/~/oded/foc-book.html)_ by Oded Goldreich <br> See website for paper list |
 
-### [←Fall 2024](https://dantasfiles.com/2024/09/03/princeton-cs-fa24.html)
+### [←Fall 2024](https://dantasfiles.com/2024/09/03/princeton-cs-fa24.html) | [Fall 2025→](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
