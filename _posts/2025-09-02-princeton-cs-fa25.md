@@ -23,4 +23,10 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | **Advanced Programming Techniques** <br> COS 333 | ● ✨ ***The Practice of Programming*** ✨ by Kernighan & Pike |
 | **Computer Architecture & Organization**<br> COS 375 | ● ✨ ***Computer Organization & Design: The Hardware Software Interface*** ✨ by Patterson & Hennessy |
 
+| Senior level | |
+| :---: | --- | 
+| **[Computer Graphics](https://cos426.cs.princeton.edu/)** <br> COS 426 | <br> ●  _Computer Graphics with Open GL_ by Hearn, Baker & Carithers |
+
+
+
 ### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
