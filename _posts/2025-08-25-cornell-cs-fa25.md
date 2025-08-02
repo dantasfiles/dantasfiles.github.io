@@ -32,9 +32,10 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | | **Virtual & Augmented Reality** <br> CS 5650 | ● _Augmented Reality: Principles & Practice_ by Schmalstieg & Hollerer <br> ● _[Virtual Reality](https://lavalle.pl/vr/)_ by Steven M. LaValle |
 | **Optimization Methods** <br> CS 5727 | ● _Introduction to Operations Research_ by Hillier & Lieberman <br> ● _Linear Programming: Foundations & Extensions_ by Robert J. Vanderbei <br> ● _Introduction to Mathematical Optimization_ by Matteo Fischetti |
 | **Applied Machine Learning** <br> CS 5785 | ●  _[Dive into Deep Learning](https://d2l.ai/)_ by Zhang, Lipton, Li & Smola <br> ● _Machine Learning_ by Tom Mitchell <br> ● _[Probabilistic Machine Learning](https://probml.github.io/pml-book/)_ by Kevin Murphy <br> ● _Pattern Recognition & Machine Learning_ by Christopher M. Bishop |
+| **Deep Learning** <br> CS 5787 | ●  _[Dive into Deep Learning](https://d2l.ai/)_ by Zhang, Lipton, Li & Smola <br> ● _[Deep Learning](https://www.deeplearningbook.org/)_ by Goodfellow, Bengio & Courville |
 
 | Doctoral level | |
 | :---: | --- | 
-| | |
+| **Non-Ideal Algorithmic Fairness** <br> CS 6125 |  ● _[Fairness & Machine Learning: Limitations & Opportunities](https://fairmlbook.org/)_ by Barocas, Hardt & Narayanan |
 
 ### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
