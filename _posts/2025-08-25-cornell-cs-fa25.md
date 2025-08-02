@@ -29,6 +29,8 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | Masters level | | 
 | :---: | --- |
 | [**Developing and Designing Interactive Devices**](https://canvas.cornell.edu/courses/80789/) <br> CS 5424 | ● _Practical Electronics for Inventors_ by Scherz & Monk |
+| | **Virtual & Augmented Reality** <br> CS 5650 | ● _Augmented Reality: Principles & Practice_ by Schmalstieg & Hollerer <br> ● _[Virtual Reality](https://lavalle.pl/vr/)_ by Steven M. LaValle |
+| **Optimization Methods** <br> CS 5727 | ● _Introduction to Operations Research_ by Hillier & Lieberman <br> ● _Linear Programming: Foundations & Extensions_ by Robert J. Vanderbei <br> ● _Introduction to Mathematical Optimization_ by Matteo Fischetti |
 
 | Doctoral level | |
 | :---: | --- | 
