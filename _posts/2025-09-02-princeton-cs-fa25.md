@@ -29,6 +29,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | Senior level | |
 | :---: | --- | 
 | **Computer Graphics** <br> COS 426 | ● _Computer Graphics with Open GL_ by Hearn, Baker & Carithers |
+| **Computer Networks** <br> COS 461 | ● _Computer Networking: A Top-Down Approach_ by Kurose & Ross | 
 | **Design of Very Large-Scale Integrated (VLSI) Systems** <br> COS 462 | ● _Digital Integrated Circuits_ by Rabaey, Chandrakasan & Nikolic |
 
 | Graduate level | |
