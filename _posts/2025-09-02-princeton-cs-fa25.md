@@ -21,6 +21,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | Junior level | |
 | :---: | --- |
 | **Contemporary Logic Design** <br> COS 306 | ● _Digital Design with RTL Design, VHDL & Verilog_ by Frank Vahid |
+| [**Functional Programming**](https://www.cs.princeton.edu/courses/archive/fall25/cos326/) <br> COS 326 | ● ✨ ***[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)*** ✨ by Michael Clarkson <br> ● _[Real World OCaml: Functional Programming for the Masses](https://dev.realworldocaml.org/)_ by Madhavapeddy & Minsky |
 | **Advanced Programming Techniques** <br> COS 333 | ● ✨ ***The Practice of Programming*** ✨ by Kernighan & Pike |
 | **Computer Architecture & Organization**<br> COS 375 | ● ✨ ***Computer Organization & Design: The Hardware Software Interface*** ✨ by Patterson & Hennessy |
 
