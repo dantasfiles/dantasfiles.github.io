@@ -15,7 +15,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Sophomore level | |
 | :---: | --- |
-| | |
+| **[C++ Programming](https://www.cs.cornell.edu/courses/cs2024/2025fa/)** <br> CS 2024 | |
 
 | Junior level | |
 | :---: | --- |
