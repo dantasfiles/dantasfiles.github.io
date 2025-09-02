@@ -27,6 +27,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 
 | Senior level | |
 | :---: | --- |
+| **[Programming Languages & Logics](https://www.cs.cornell.edu/courses/cs4110/2025fa/)** <br> CS 4110 | |
 | **Numerical Analysis & Differential Equations** <br> CS 4210 | ● _An Introduction to Numerical Analysis_ by Suli & Mayers |
 | **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2025fa/)** <br> CS 4414 | ● _Computer Systems: A Programmer's Perspective_ by Bryant & O'Hallaron <br> ● _A Tour of C++_ by Bjarne Stroustrup |
 
