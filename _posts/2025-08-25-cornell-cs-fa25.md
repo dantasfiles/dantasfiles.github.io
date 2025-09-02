@@ -11,7 +11,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Freshman level | |
 | :---: | --- |
-| **[Intro. to Computing: A Design and Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2025fa/)** <br> CS 1110 | |
+| **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2025fa/)** <br> CS 1110 | |
 
 | Sophomore level | |
 | :---: | --- |
