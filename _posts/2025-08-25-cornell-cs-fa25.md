@@ -22,6 +22,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | Junior level | |
 | :---: | --- |
 | **[Data Structures & Functional Programming](https://www.cs.cornell.edu/courses/cs3110/2025fa/)** <br> CS 3110 | ● ✨ ***[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)*** ✨ by Michael Clarkson |
+| **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2025fa/)** <br> CS 3410 | |
 
 | Senior level | |
 | :---: | --- |
