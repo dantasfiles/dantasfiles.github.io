@@ -5,7 +5,7 @@ author: Daniel Dantas
 hidden: true
 ---
 
-### [← Fall 2024](https://dantasfiles.com/2024/08/27/cornell-cs-fa24.html)
+### [← Fall 2024](https://dantasfiles.com/2024/08/27/cornell-cs-fa24.html) | [Fall 2025 →](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html) 
 
 See also the **[Cornell AI unofficial reading list (Spring 2025)](https://dantasfiles.com/2025/01/22/cornell-ai-sp25.html)**
 
@@ -69,4 +69,4 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | **[Human-Robot Interaction: Algorithms & Experiments](https://hriclass.com/)** <br> CS 6754 | ● _Computational Human-Robot Interaction_ by Thomaz, Hoffman & Cakmak <br> ● _Artificial Intelligence: A Modern Approach_ by Russell & Norvig <br> ● _[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)_ by Sutton & Barto <br> ● _Probabilistic Robotics_ by Thrun, Burgard & Fox <br> See website for paper list |
 | **[Special Topics in Complexity Theory](https://www.cs.cornell.edu/courses/cs6817/2025sp/)** <br> CS 6817 | ● _Analysis of Boolean Functions_ by Ryan O’Donnell |
 
-### [←Fall 2024](https://dantasfiles.com/2024/08/27/cornell-cs-fa24.html)
+### [← Fall 2024](https://dantasfiles.com/2024/08/27/cornell-cs-fa24.html) | [Fall 2025 →](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html) 
