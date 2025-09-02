@@ -7,7 +7,7 @@ author: Daniel Dantas
 ### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
 
 This is an unofficial list of books that are recommended in Fall 2025 computer science classes at Cornell\
-The books marked with a ✨ are ones I’ve been interested enough in to read at length
+The books marked with a ✨ are ones I've been interested enough in to read at length
 
 | Freshman level | |
 | :---: | --- |
@@ -16,6 +16,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | Sophomore level | |
 | :---: | --- |
 | **[C++ Programming](https://www.cs.cornell.edu/courses/cs2024/2025fa/)** <br> CS 2024 | |
+| **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2025fa/)** <br> CS 2110 | ● ✨ ***[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)*** ✨ by Myers & Kozen <br> ● _[Principled Programming: Introduction to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html)_ by Tim Teitelbaum <br> ● _Data Structures & Algorithms in Java: A Project-Based Approach_ by Dan S. Myers |
 
 | Junior level | |
 | :---: | --- |
