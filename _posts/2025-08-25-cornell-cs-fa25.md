@@ -17,7 +17,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | :---: | --- |
 | **[C++ Programming](https://www.cs.cornell.edu/courses/cs2024/2025fa/)** <br> CS 2024 | |
 | **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2025fa/)** <br> CS 2110 | ● ✨ ***[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)*** ✨ by Myers & Kozen <br> ● _[Principled Programming: Introduction to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html)_ by Tim Teitelbaum <br> ● _Data Structures & Algorithms in Java: A Project-Based Approach_ by Dan S. Myers |
-| **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2025fa/)** <br> CS 2112 | | 
+| **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2025fa/)** <br> CS 2112 | ● ✨ ***[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)*** ✨ by Myers & Kozen <br> ● _Data Structures & Abstractions with Java_ by Carrano & Henry <br> ● _Data Structures & Problem Solving Using Java_ by Mark Allen Weiss <br> ● _Program Development in Java: Abstraction, Specification & Object-Oriented Design_ by Liskov & Guttag <br> ● _Java Precisely_ by Peter Sestoft <br> ● _Design Patterns: Elements of Reusable Object-Oriented Software_ by Gamma, Helm, Johnson & Vlissides <br> ● _Java in a Nutshell: A Desktop Quick Reference_ by Evans, Clark & Flanagan <br> ●  _Effective Java: Best Practices for the Java Platform_ by Joshua Block | 
 
 | Junior level | |
 | :---: | --- |
