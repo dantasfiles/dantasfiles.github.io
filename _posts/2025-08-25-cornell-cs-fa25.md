@@ -4,7 +4,7 @@ description: This is an unofficial list of books that are recommended in Fall 20
 author: Daniel Dantas
 ---
 
-### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
+<!-- ### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html) -->
 
 This is an unofficial list of books that are recommended in Fall 2025 computer science classes at Cornell\
 The books marked with a ✨ are ones I've been interested enough in to read at length
@@ -42,4 +42,4 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | :---: | --- | 
 | **Non-Ideal Algorithmic Fairness** <br> CS 6125 |  ● _[Fairness & Machine Learning: Limitations & Opportunities](https://fairmlbook.org/)_ by Barocas, Hardt & Narayanan |
 
-### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
+<!-- ### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html) -->
