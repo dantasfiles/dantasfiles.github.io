@@ -57,7 +57,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | **[Machine Learning Theory](https://www.cs.cornell.edu/courses/cs6783/2025fa/)** <br> CS 6783 | • _[Statistical Learning Theory & Sequential Prediction](https://www.cs.cornell.edu/~sridharan/research.html#books)_ by Rakhlin & Sridharan <br> • _Prediction, Learning & Games_ by Cesa-Bianchi & Lugosi <br> • _[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)_ by Shalev-Shwartz & Ben-David <br> • _[Introduction to Online Convex Optimization](https://sites.google.com/view/intro-oco/)_ by Elad Hazan <br> • _[A Gentle Introduction to Concentration Inequalities](https://www.cs.cornell.edu/~sridharan/research.html#lecturenotes)_ by Karthik Sridharan |
 | **[Advanced Topics in Machine Learning](https://www.cs.cornell.edu/courses/cs6784/2025fa/)** <br> CS 6784 | See website for paper list | 
 | **[Algorithmic Game Theory](https://www.cs.cornell.edu/courses/cs6840/2025fa/)** <br> CS 6840 | ◦ _Twenty Lectures on Algorithmic Game Theory_ by Tim Roughgarden <br> ◦ _[Networks, Crowds& Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/)_ by Easley & Kleinberg <br> ◦ _Algorithmic Game Theory_ by Nisan, Roughgarden, Tardos & Vazirani |
-| **[Introduction to Kleene Algebra](https://www.cs.cornell.edu/courses/cs6861/2025fa/)** | | 
+| **[Introduction to Kleene Algebra](https://www.cs.cornell.edu/courses/cs6861/2025fa/)** <br> CS 6840 | | 
 
 
 ### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
