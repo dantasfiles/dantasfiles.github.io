@@ -31,6 +31,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | **[Numerical Analysis & Differential Equations](https://math.cornell.edu/textbooks)** <br> CS 4210 | ● _An Introduction to Numerical Analysis_ by Suli & Mayers |
 | **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2025fa/)** <br> CS 4414 | ● _Computer Systems: A Programmer's Perspective_ by Bryant & O'Hallaron <br> ● _A Tour of C++_ by Bjarne Stroustrup |
 | **[Intro. to Computer Graphics](https://www.cs.cornell.edu/courses/cs4620/2025fa/)** <br> CS 4620 | ●  _Fundamentals of Computer Graphics_ by Marschner & Shirley  |
+| **[Foundations of Robotics](https://www.cs.cornell.edu/courses/cs5750/2025fa/)** <br> CS 4750 | ● _Probabilistic Robotics_ by Thrun, Burgard & Fox <br> ● _[Planning Algorithms](https://lavalle.pl/planning/)_ by Steven M. LaValle <br> ● _Artificial Intelligence: A Modern Approach_ by Russell & Norvig <br> ● _Modelling & Control of Robot Manipulators_ by Sciavicco & Siciliano <br> ● _Modern Robotics: Mechanics, Planning & Control_ by Lynch & Park |
 
 | Masters level | | 
 | :---: | --- |
