@@ -48,7 +48,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 
 | Doctoral level | |
 | :---: | --- | 
-| **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2025fa/)** <br> CS 6117 | • _Categories for Types_ by Roy F. Creole <br> • [_Basic Category Theory_](https://arxiv.org/abs/1612.09375) by Tom Leinster <br> • _Category Theory_ by Steve Awodey  <br> ◦ [_Category Theory in Context_](https://math.jhu.edu/~eriehl/) by Emily Riehl <br> ◦ _Categorical Logic and Type Theory_ by B. Jacobs <br> • _Practical Foundations for Programming Languages_ by Robert Harper <br> ◦ _Types & Programming Languages_ by Benjamin C. Pierce |
+| **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2025fa/)** <br> CS 6117 | • _Categories for Types_ by Roy F. Creole <br> • [_Basic Category Theory_](https://arxiv.org/abs/1612.09375) by Tom Leinster <br> • _Category Theory_ by Steve Awodey  <br> ◦ [_Category Theory in Context_](https://math.jhu.edu/~eriehl/) by Emily Riehl <br> ◦ _Categorical Logic and Type Theory_ by B. Jacobs <br> • ✨ ***Practical Foundations for Programming Languages*** ✨ by Robert Harper <br> ◦ _Types & Programming Languages_ by Benjamin C. Pierce |
 | **[Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2025fa/)** <br> CS 6120 | See website for paper list | 
 | **Non-Ideal Algorithmic Fairness** <br> CS 6125 |  • _[Fairness & Machine Learning: Limitations & Opportunities](https://fairmlbook.org/)_ by Barocas, Hardt & Narayanan |
 
