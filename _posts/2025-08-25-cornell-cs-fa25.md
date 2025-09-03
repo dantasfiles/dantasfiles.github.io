@@ -38,7 +38,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | Masters level | | 
 | :---: | --- |
 | **[Software Testing](https://www.cs.cornell.edu/courses/cs5154/2025fa/)** <br> CS 5154 | ● _Introduction to Software Testing_ by Ammann & Offutt <br> ● [_Introduction to Programming Using Java_](https://math.hws.edu/javanotes/index.html) by David J. Eck | 
-| **[Crowdsourcing and Human Computation](https://www.cs.cornell.edu/courses/cs5306/2025fa/)** | |
+| **[Crowdsourcing & Human Computation](https://www.cs.cornell.edu/courses/cs5306/2025fa/)** | |
 | [**Developing & Designing Interactive Devices**](https://canvas.cornell.edu/courses/80789/) <br> CS 5424 | ● _Practical Electronics for Inventors_ by Scherz & Monk |
 | **Virtual & Augmented Reality** <br> CS 5650 | ● _Augmented Reality: Principles & Practice_ by Schmalstieg & Hollerer <br> ● _[Virtual Reality](https://lavalle.pl/vr/)_ by Steven M. LaValle |
 | **Optimization Methods** <br> CS 5727 | ● _Introduction to Operations Research_ by Hillier & Lieberman <br> ● _Linear Programming: Foundations & Extensions_ by Robert J. Vanderbei <br> ● _Introduction to Mathematical Optimization_ by Matteo Fischetti |
