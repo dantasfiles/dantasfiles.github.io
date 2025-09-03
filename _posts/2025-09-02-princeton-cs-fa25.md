@@ -31,7 +31,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | Senior level | |
 | :---: | --- | 
 | **[Distributed Systems](https://www.cs.princeton.edu/courses/archive/fall25/cos418/)** <br> COS 418 | ◦ *The Go Programming Language* by Donovan & Kernighan <br> ◦ *Distributed Systems: Principles & Paradigms* by Tanenbaum & van Steen <br> ◦ *Guide to Reliable Distributed Systems: Building High-Assurance Applications & Cloud-Hosted Services* by Kenneth P. Birman |
-| **Computer Graphics** <br> COS 426 | ● _Computer Graphics with Open GL_ by Hearn, Baker & Carithers |
+| **[Computer Graphics](https://cos426.cs.princeton.edu/)** <br> COS 426 | ● _Computer Graphics with Open GL_ by Hearn, Baker & Carithers |
 | **Computer Networks** <br> COS 461 | ● _Computer Networking: A Top-Down Approach_ by Kurose & Ross | 
 | **Design of Very Large-Scale Integrated (VLSI) Systems** <br> COS 462 | ● _Digital Integrated Circuits_ by Rabaey, Chandrakasan & Nikolic |
 
