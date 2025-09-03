@@ -21,7 +21,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Junior level | |
 | :---: | --- |
-| **[Mathematics for Numerical Computing & Machine Learning](https://cos302.notion.site/f25)** <br> COS 302 | • ✨ ***[Mathematics for Machine Learning](https://mml-book.github.io/)*** ✨ by Deisenroth, Faisal & Ong | 
+| **[Mathematics for Numerical Computing & Machine Learning](https://cos302.notion.site/f25)** <br> COS 302 | • ✨[***Mathematics for Machine Learning***](https://mml-book.github.io/)✨ by Deisenroth, Faisal & Ong | 
 | **Computing & Optimization for the Physical & Social Sciences** <br> COS 323 | ● _Algorithms_ by Dasgupta, Papadimitriou & Vazirani <br> ● _Linear Programming: Foundations & Extensions_ by Robert J. Vanderbei <br> ● _[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)_ by Boyd & Vandenberghe <br> ● _An Introduction to Optimization: With Applications to Machine Learning_ by Chong, Lu & Zak <br>|
 | **Contemporary Logic Design** <br> COS 306 | ● _Digital Design with RTL Design, VHDL & Verilog_ by Frank Vahid |
 | [**Functional Programming**](https://www.cs.princeton.edu/courses/archive/fall25/cos326/) <br> COS 326 | ● ✨ ***[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)*** ✨ by Michael Clarkson <br> ● _[Real World OCaml: Functional Programming for the Masses](https://dev.realworldocaml.org/)_ by Madhavapeddy & Minsky |
