@@ -17,6 +17,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | :---: | --- |
 | **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall25/cos217/info.php)** <br> COS 217 | • _C Programming: A Modern Approach_ by K.N. King <br> • _ARM 64-Bit Assembly Language_ by Pyeatt & Ughetta <br> ◦  ✨ ***The Practice of Programming***✨ by Kernighan & Pike <br> ◦ _Linux Pocket Guide_ by Daniel J. Barrett | 
 | **[Algorithms & Data Structures](https://www.cs.princeton.edu/courses/archive/fall25/cos226/)** <br> COS 226 | • _[Algorithms](https://algs4.cs.princeton.edu/home/)_ by Sedgewick & Wayne |
+| **[Reasoning About Computation](https://www.cs.princeton.edu/courses/archive/fall25/cos240/)** <br> COS 240 | • _Mathematics for Computer Science_ by Lehman, Leighton & Meyer |
 
 | Junior level | |
 | :---: | --- |
