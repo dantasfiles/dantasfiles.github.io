@@ -30,6 +30,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | **[Programming Languages & Logics](https://www.cs.cornell.edu/courses/cs4110/2025fa/)** <br> CS 4110 | ● ✨ ***[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)*** ✨ by Michael Clarkson <br> ● _[Real World OCaml: Functional Programming for the Masses](https://dev.realworldocaml.org/)_ by Madhavapeddy & Minsky <br> ● _The Formal Semantics of Programming Languages_ by Glynn Winskel <br> ● _Types & Programming Languages_ by Benjamin C. Pierce <br> ● [_Programming Languages: Application & Interpretation_](https://www.plai.org/) by Shriram Krishnamurthi <br> ● [_Software Foundations_](https://www.cis.upenn.edu/~bcpierce/sf/) by Pierce et al. |
 | **[Numerical Analysis & Differential Equations](https://math.cornell.edu/textbooks)** <br> CS 4210 | ● _An Introduction to Numerical Analysis_ by Suli & Mayers |
 | **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2025fa/)** <br> CS 4414 | ● _Computer Systems: A Programmer's Perspective_ by Bryant & O'Hallaron <br> ● _A Tour of C++_ by Bjarne Stroustrup |
+| **[Intro. to Computer Graphics](https://www.cs.cornell.edu/courses/cs4620/2025fa/)** <br> CS 4620 | ●  _Fundamentals of Computer Graphics_ by Marschner & Shirley  |
 
 | Masters level | | 
 | :---: | --- |
