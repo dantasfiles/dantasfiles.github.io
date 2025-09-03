@@ -37,7 +37,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Graduate level | |
 | :---: | --- |
-| **[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall25/cos516/)** | • _The Calculus of Computation: Decision Procedures with Applications to Verification_ by Bradley & Manna <br> See website for paper list |
+| **[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall25/cos516/)** <br> COS 516| • _The Calculus of Computation: Decision Procedures with Applications to Verification_ by Bradley & Manna <br> See website for paper list |
 | **Domain-specific Computer Systems Architecture** <br> COS 597V | • _Computer Architecture: A Quantitative Approach_ by Hennessy & Patterson |
 
 ### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
