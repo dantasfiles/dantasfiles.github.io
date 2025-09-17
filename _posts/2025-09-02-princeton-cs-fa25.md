@@ -1,6 +1,6 @@
 ---
 title: 🐯 Princeton CS unofficial reading list (Fall 2025)
-description: This is an unofficial list of books that are recommended in Spring 2025 computer science classes at Princeton
+description: This is an unofficial list of books that are recommended in Fall 2025 computer science classes at Princeton
 author: Daniel Dantas
 ---
 
