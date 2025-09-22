@@ -47,5 +47,10 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | **[Probabilistic Topics in RL](https://ben-eysenbach.github.io/inference-action-f25/)** <br> COS 597R | • _[Deep Learning](https://www.deeplearningbook.org/)_ by Goodfellow, Bengio & Courville <br> • _[Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)_ by Kevin P. Murphy <br> • _[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)_ by Sutton & Barto <br> See website for paper list | 
 | **Domain-specific Computer Systems Architecture** <br> COS 597V | • _Computer Architecture: A Quantitative Approach_ by Hennessy & Patterson | 
 
+| B.S.E. Basic Math and Science | |
+| :---: | --- |
+| **Calculus I** <br> MAT 103 | ◦ _Thomas' Calculus: Early Transcendentals, Single Variable_ by Hass, Heil, Bogacki & Weir |
+
+
 
 ### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
