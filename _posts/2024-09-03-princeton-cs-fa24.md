@@ -32,7 +32,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | Senior level | |
 | :---: | --- | 
 | **[Computer Graphics](https://cos426.cs.princeton.edu/)** <br> COS 426 | <br> ●  _Computer Graphics with Open GL_ by Hearn, Baker & Carithers |
-| **[Cryptography](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton)** <br> COS 433 | <br> ●  _Introduction to Modern Cryptography_ by Katz & Lindell <br> ●  _[Foundations of Cryptography](https://www.wisdom.weizmann.ac.il/~/oded/foc-book.html)_ by Oded Goldreich <br> ●  _Tutorials on the Foundations of Cryptography: Dedicated to Oded Goldreich_ by Yehuda Lindell |
+| **[Cryptography](https://sites.google.com/view/alex-lombardi/home/cos-433533-fall-2024-princeton)** <br> COS 433 | ●  _Introduction to Modern Cryptography_ by Katz & Lindell <br> ●  _[Foundations of Cryptography](https://www.wisdom.weizmann.ac.il/~/oded/foc-book.html)_ by Oded Goldreich <br> ●  _Tutorials on the Foundations of Cryptography: Dedicated to Oded Goldreich_ by Yehuda Lindell |
 | **[Principles of Blockchains](https://web3.princeton.edu/principles-of-blockchains/)** <br> COS 470 | <br> ● ✨ ***[Bitcoin & Cryptocurrency Technologies: A Comprehensive Introduction](https://bitcoinbook.cs.princeton.edu/)*** ✨ by Narayanan, Bonneau, Felten, Miller & Goldfeder |
 
 | Graduate level | |
