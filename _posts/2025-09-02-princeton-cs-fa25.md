@@ -50,6 +50,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | B.S.E. Basic Math and Science | |
 | :---: | --- |
 | **Calculus I** <br> MAT 103 | ◦ _Thomas' Calculus: Early Transcendentals, Single Variable_ by Hass, Heil, Bogacki & Weir |
+| **Calculus II** <br> MAT 104 | ◦ _Thomas' Calculus: Early Transcendentals, Single Variable_ by Hass, Heil, Bogacki & Weir |
 
 
 
