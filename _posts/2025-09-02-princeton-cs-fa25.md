@@ -49,8 +49,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | B.S.E. Basic Math and Science | |
 | :---: | --- |
-| **Calculus I** <br> MAT 103 | ◦ _Thomas' Calculus: Early Transcendentals, Single Variable_ by Hass, Heil, Bogacki & Weir |
-| **Calculus II** <br> MAT 104 | ◦ _Thomas' Calculus: Early Transcendentals, Single Variable_ by Hass, Heil, Bogacki & Weir |
+| **Calculus I** / **II** <br> MAT 103 / 104 | ◦ _Thomas' Calculus: Early Transcendentals, Single Variable_ by Hass, Heil, Bogacki & Weir |
 | **Multivariable Calculus** <br> MAT 201 | ◦ _Thomas' Calculus: Multivariable_ by Hass, Heil, Bogacki & Weir |
 | **Linear Algebra with Applications** <br> MAT 202 | ◦ _Linear Algebra with Applications_ by Otto Bretscher | 
 | **General Chemistry: Applications in Modern Technology** <br> CHM 207 | • _Chemical Principles_ by Zumdahl & DeCoste | 
