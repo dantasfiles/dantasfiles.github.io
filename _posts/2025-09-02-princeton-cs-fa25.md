@@ -39,6 +39,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Graduate level | |
 | :---: | --- |
+| **[Fundamentals of Deep Learning](https://princetonuniversity.github.io/princeton-cos514-fall25.github.io/)** <br> COS 514 | • _[Theory of Deep Learning](https://www.cs.princeton.edu/~arora/TheoryDL.pdf)_ by Sanjeev Arora |
 | **[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall25/cos516/)** <br> COS 516 | See website for paper list <br> • _The Calculus of Computation: Decision Procedures with Applications to Verification_ by Bradley & Manna |
 | **[Adv. Computer Systems](https://www.cs.princeton.edu/courses/archive/fall25/cos418/518.html)** <br> COS 518 | See website for paper list |
 | **[Adv. Algorithm Design](https://www.cs.princeton.edu/~hy2/teaching/fall25-cos521/)** <br> COS 521 | ◦ _Algorithmic Game Theory_ by Nisan, Roughgarden, Tardos & Vazirani <br> ◦ _Randomized Algorithms_ by Motwani & Raghavan <br> ◦ _Online Computation & Competitive Analysis_ by Borodin & El-Yaniv <br> ◦ _The Probabilistic Method_ by Alon & Spencer <br> ◦ _Approximation Algorithms_ by Vijay V. Vazirani <br> ◦ _[The Design of Approximation Algorithms](https://designofapproxalgs.com/)_ by Williamson & Shmoys <br> ◦ _Spectral Graph Theory_ by Fan R.K. Chung |
