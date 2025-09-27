@@ -63,7 +63,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | :---: | --- |
 | **[Calculus for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 1910 | • _Calculus_ by Rogawski, Adams & Franzosa |
 | **[Multivariable Calculus for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 1920 | • _Calculus_ by Rogawski, Adams & Franzosa |
-| **[Linear Algebra for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 2940 | • **Linear Algebra and Its Applications** by Lay, Lay & McDonald | 
+| **[Linear Algebra for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 2940 | • *Linear Algebra and Its Applications* by Lay, Lay & McDonald | 
 
 
 
