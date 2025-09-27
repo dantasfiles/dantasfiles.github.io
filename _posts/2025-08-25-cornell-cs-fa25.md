@@ -59,5 +59,14 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | **[Algorithmic Game Theory](https://www.cs.cornell.edu/courses/cs6840/2025fa/)** <br> CS 6840 | ◦ _Twenty Lectures on Algorithmic Game Theory_ by Tim Roughgarden <br> ◦ _[Networks, Crowds & Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/)_ by Easley & Kleinberg <br> ◦ _Algorithmic Game Theory_ by Nisan, Roughgarden, Tardos & Vazirani |
 | **[Introduction to Kleene Algebra](https://www.cs.cornell.edu/courses/cs6861/2025fa/)** <br> CS 6840 | | 
 
+| Cornell Engineering requirements | |
+| :---: | --- |
+| **[Calculus for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 1910 | • _Calculus_ by Rogawski, Adams & Franzosa |
+| **[Multivariable Calculus for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 1920 | • _Calculus_ by Rogawski, Adams & Franzosa |
+| **[Linear Algebra for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 2940 | • **Linear Algebra and Its Applications** by Lay, Lay & McDonald | 
+
+
+
+
 
 ### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html)
