@@ -63,7 +63,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | **[Advanced Topics in Machine Learning](https://www.cs.cornell.edu/courses/cs6784/2025fa/)** <br> CS 6784 | See website for paper list | 
 | **[Quantum Cryptography](https://spooner.cc/qcrypt-fall25/)** <br> CS 6832 | |
 | **[Algorithmic Game Theory](https://www.cs.cornell.edu/courses/cs6840/2025fa/)** <br> CS 6840 | ◦ _Twenty Lectures on Algorithmic Game Theory_ by Tim Roughgarden <br> ◦ _[Networks, Crowds & Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/)_ by Easley & Kleinberg <br> ◦ _Algorithmic Game Theory_ by Nisan, Roughgarden, Tardos & Vazirani |
-| **[Introduction to Kleene Algebra](https://www.cs.cornell.edu/courses/cs6861/2025fa/)** <br> CS 6840 | | 
+| **[Introduction to Kleene Algebra](https://www.cs.cornell.edu/courses/cs6861/2025fa/)** <br> CS 6861 | | 
 
 | Cornell Engineering requirements | |
 | :---: | --- |
