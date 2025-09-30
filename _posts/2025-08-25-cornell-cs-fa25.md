@@ -38,6 +38,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 
 | Masters level | | 
 | :---: | --- |
+| **[Algorithms & Data Structures for Applications](https://github.com/ajhconway/cs5112-fall2025)** <br> CS 5112 | ◦ _Algorithm Design_ by Kleinberg & Tardos | 
 | **[Software Testing](https://www.cs.cornell.edu/courses/cs5154/2025fa/)** <br> CS 5154 | • _Introduction to Software Testing_ by Ammann & Offutt <br> • [_Introduction to Programming Using Java_](https://math.hws.edu/javanotes/index.html) by David J. Eck | 
 | **[Crowdsourcing & Human Computation](https://www.cs.cornell.edu/courses/cs5306/2025fa/)** <br> CS 5306 | |
 | **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2025fa/)** <br> CS 5414 | • _Distributed Systems_ by Sape Mullender <br> See website for paper list |
