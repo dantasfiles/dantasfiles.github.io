@@ -50,6 +50,10 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | **[Probabilistic Topics in RL](https://ben-eysenbach.github.io/inference-action-f25/)** <br> COS 597R | See website for paper list <br> • _[Deep Learning](https://www.deeplearningbook.org/)_ by Goodfellow, Bengio & Courville <br> • _[Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)_ by Kevin P. Murphy <br> • _[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)_ by Sutton & Barto | 
 | **Domain-specific Computer Systems Architecture** <br> COS 597V | • _Computer Architecture: A Quantitative Approach_ by Hennessy & Patterson | 
 
+| Other technology courses | |
+| --- | --- |
+| **Economics of the Internet and Artificial Intelligence: The Digital Revolution** <br> ECO 326 | • _AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference_ by Narayanan & Kapoor <br> • [_Networks, Crowds, and Markets: Reasoning about a Highly Connected World_](https://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley & Kleinberg <br> ◦ The Attention Deficit: Unintended Consequences of Digital Connectivity by Swati Bhatt <br> ◦ _How Digital Communication Technology Shapes Markets: Redefining Competition, Building Cooperation_ by Swati Bhatt |
+
 | B.S.E. Basic Math and Science | |
 | :---: | --- |
 | **Calculus I** / **II** <br> MAT 103 / 104 | ◦ _Thomas' Calculus: Early Transcendentals, Single Variable_ by Hass, Heil, Bogacki & Weir |
