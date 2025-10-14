@@ -52,7 +52,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Other technology courses | |
 | :---: | --- |
-| **Economics of the Internet and Artificial Intelligence: The Digital Revolution** <br> ECO 326 | • _AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference_ by Narayanan & Kapoor <br> • [_Networks, Crowds, and Markets: Reasoning about a Highly Connected World_](https://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley & Kleinberg <br> ◦ The Attention Deficit: Unintended Consequences of Digital Connectivity by Swati Bhatt <br> ◦ _How Digital Communication Technology Shapes Markets: Redefining Competition, Building Cooperation_ by Swati Bhatt |
+| **Economics of the Internet & Artificial Intelligence: The Digital Revolution** <br> ECO 326 | • _AI Snake Oil: What Artificial Intelligence Can Do, What It Can't & How to Tell the Difference_ by Narayanan & Kapoor <br> • [_Networks, Crowds & Markets: Reasoning about a Highly Connected World_](https://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley & Kleinberg <br> ◦ _The Attention Deficit: Unintended Consequences of Digital Connectivity_ by Swati Bhatt <br> ◦ _How Digital Communication Technology Shapes Markets: Redefining Competition, Building Cooperation_ by Swati Bhatt |
 
 | B.S.E. Basic Math and Science | |
 | :---: | --- |
