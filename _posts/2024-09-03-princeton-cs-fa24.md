@@ -13,7 +13,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | Freshman level | |
 | :---: | --- | 
 | **[Computers in Our World](https://www.cs.princeton.edu/courses/archive/fall24/cos109/)** <br> COS / EGR 109 | ● _Understanding the Digital World: What You Need to Know about Computers, the Internet, Privacy & Security_ by Brian Kernighan | 
-| **Computer Science: An Interdisciplinary Approach** <br> COS 126 - **[🌆 my notes](https://dantasfiles.com/2025/04/21/notes-on-princeton-cos-126.html)** | ● _[Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/)_ ✨ by Sedgewick & Wayne |
+| **Computer Science: An Interdisciplinary Approach** <br> COS 126 - **[🌆 my notes](https://dantasfiles.com/2025/04/21/notes-on-princeton-cos-126.html)** | ● _[Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/)_ by Sedgewick & Wayne |
 
 | Sophomore level | |
 | :---: | --- |
