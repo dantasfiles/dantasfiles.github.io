@@ -11,7 +11,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Freshman level | |
 | :---: | --- |
-| **[CS: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall25/cos126/)** <br> COS 126 | • *[Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)* by Sedgewick & Wayne | 
+| **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall25/cos126/)** <br> COS 126 | • *[Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)* by Sedgewick & Wayne | 
 
 | Sophomore level | | 
 | :---: | --- |
