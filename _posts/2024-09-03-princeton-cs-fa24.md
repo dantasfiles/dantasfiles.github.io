@@ -18,7 +18,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | Sophomore level | |
 | :---: | --- |
 | **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall24/cos217/)** <br> COS 217 | ● _C Programming: A Modern Approach_ by K.N. King <br> ● _ARM 64-Bit Assembly Language_ by Pyeatt & Ughetta <br> ● ✨ ***The Practice of Programming*** ✨ by Kernighan & Pike <br> ● _Linux Pocket Guide: Essential Commands_ by Daniel J. Barrett
-| **[Algorithms & Data Structures](https://www.cs.princeton.edu/courses/archive/fall24/cos226/)** <br> COS 226 - **[🌆 my notes](https://dantasfiles.com/2024/12/05/notes-on-princeton-cos-226.html)** | ● _[Algorithms](https://algs4.cs.princeton.edu/home/)_ by Sedgewick & Wayne |
+| **[Algorithms & Data Structures](https://www.cs.princeton.edu/courses/archive/fall24/cos226/)** <br> COS 226 - **[🌆 my notes](https://dantasfiles.com/2024/12/05/notes-on-princeton-cos-226.html)** | ● ✨[***Algorithms***](https://algs4.cs.princeton.edu/home/)✨ by Sedgewick & Wayne |
 | **[Reasoning About Computation](https://www.cs.princeton.edu/courses/archive/fall24/cos240/)** <br> COS 240 | ● _Mathematics for Computer Science_ by Lehman, Leighton & Meyer |
 
 | Junior level | |
