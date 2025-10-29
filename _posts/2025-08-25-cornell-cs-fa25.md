@@ -48,7 +48,7 @@ The books marked with a ✨ are ones I've been interested enough in to read at l
 | **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** <br> CS 5470 | See website for paper list |
 | **[Intro. to Computer Vision](https://www.cs.cornell.edu/courses/cs5670/2025fa/)** <br> CS 5670 | • [_Foundations of Computer Vision_](https://visionbook.mit.edu/) by Torralba, Isola & Freeman <br> ◦ _[Computer Vision: Algorithms & Applications](https://szeliski.org/Book/)_ by Richard Szeliski <br> ◦ _[Deep Learning](https://www.deeplearningbook.org/)_ by Goodfellow, Bengio & Courville <br> ◦ _Multiple View Geometry in Computer Vision_ by Hartley & Zisserman <br> ◦ _Computer Vision: A Modern Approach_ by Forsyth & Ponce |
 | **[Frontiers of Computer Vision](https://www.cs.cornell.edu/courses/cs5672/2025fa/)** <br> CS 5672 | • [_Foundations of Computer Vision_](https://visionbook.mit.edu/) by Torralba, Isola & Freeman <br> • _[Computer Vision: Algorithms & Applications](https://szeliski.org/Book/)_ by Richard Szeliski | 
-| **[Applied Machine Learning](https://github.com/kuleshov/cornell-cs5785-2025-applied-ml)** <br> CS 5785 | | 
+| **[Applied Machine Learning](https://canvas.cornell.edu/courses/80405)** <br> CS 5785 | • [_Applied Machine Learning_](https://kuleshov-group.github.io/aml-book/) by Kuleshov, Kallus & Belongie <br> ◦ _[The Elements of Statistical Learning: Data Mining, Inference & Prediction](https://hastie.su.domains/ElemStatLearn/)_ by Hastie, Tibshirani & Friedman <br> ◦ [_Machine Learning: A Probabilistic Perspective_](https://probml.github.io/pml-book/) by Kevin Murphy <br> ◦ _Pattern Recognition & Machine Learning_ by Christopher M. Bishop | 
 
 | Doctoral level | |
 | :---: | --- | 
