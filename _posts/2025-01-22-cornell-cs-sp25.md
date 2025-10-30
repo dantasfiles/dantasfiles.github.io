@@ -20,7 +20,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | Sophomore level | |
 | :---: | --- |
 | **[UNIX Tools & Scripting](https://www.cs.cornell.edu/courses/cs2043/2025sp/)** <br> CS 2043 | |
-| **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2025sp/)** <br> CS 2110 | ● _Data Structures & Abstractions with Java_ by Carrano & Henry <br> ● ✨ ***[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)*** ✨ by Myers & Kozen <br> ● _[Principled Programming: Introduction to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html)_ by Tim Teitelbaum |
+| **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2025sp/)** <br> CS 2110 | ● _Data Structures & Abstractions with Java_ by Carrano & Henry <br> ● ✨ ***[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)*** ✨ by Myers & Kozen <br> ● ✨[***Principled Programming: Introduction to Coding in Any Imperative Language***](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html)✨ by Tim Teitelbaum |
 
 | Junior level | |
 | :---: | --- |
