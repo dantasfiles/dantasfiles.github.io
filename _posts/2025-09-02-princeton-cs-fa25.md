@@ -7,7 +7,7 @@ author: Daniel Dantas
 ### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
 
 This is an unofficial list of books that are recommended in Fall 2025 computer science classes at Princeton\
-The books marked with a ✨ are ones I’ve been interested enough in to read at length
+I've read sections of many of these, but the books marked with a ✨ are ones I’ve been interested enough in to read at length
 
 | Freshman level | |
 | :---: | --- |
