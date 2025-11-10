@@ -9,4 +9,8 @@ author: Daniel Dantas
 This is an unofficial list of books that are recommended in Spring 2026 computer science classes at Cornell\
 I've read sections of many of these, but the books marked with a **bold** ✨ are ones I've been interested enough in to read at length
 
+| Junior level | |
+| :---: | --- |
+| **Embedded Systems** <br> CS 3420 | ◦ _Hard Real-Time Computing Systems: Predictable Scheduling Algorithms and Applications_ by Giorgio Buttazzo |
+
 ### [← Fall 2025](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html)
