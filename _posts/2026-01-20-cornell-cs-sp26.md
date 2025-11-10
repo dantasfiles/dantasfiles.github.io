@@ -11,6 +11,6 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Junior level | |
 | :---: | --- |
-| **Embedded Systems** <br> CS 3420 | ◦ _Hard Real-Time Computing Systems: Predictable Scheduling Algorithms and Applications_ by Giorgio Buttazzo |
+| **Embedded Systems** <br> CS 3420 | ◦ _Hard Real-Time Computing Systems: Predictable Scheduling Algorithms & Applications_ by Giorgio Buttazzo |
 
 ### [← Fall 2025](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html)
