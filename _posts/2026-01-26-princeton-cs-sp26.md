@@ -1,4 +1,4 @@
---
+---
 title: 🐯 Princeton CS unofficial reading list (Spring 2026)
 description: This is an unofficial list of books that are recommended in Spring 2026 computer science classes at Princeton
 author: Daniel Dantas
