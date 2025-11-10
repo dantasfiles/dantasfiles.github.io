@@ -11,6 +11,6 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Freshman level | |
 | :---: | --- |
-| **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall25/cos126/)** <br> COS 126 | • *[Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)* by Sedgewick & Wayne | 
+| **Computer Science: An Interdisciplinary Approach** <br> COS 126 | • *[Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)* by Sedgewick & Wayne | 
 
 ### [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
