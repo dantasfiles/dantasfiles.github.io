@@ -5,7 +5,7 @@ author: Daniel Dantas
 hidden: true
 ---
 
-### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html) | [Spring 2026](https://dantasfiles.com/2026/01/20/cornell-cs-sp26.html)
+### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html) | [Spring 2026→](https://dantasfiles.com/2026/01/20/cornell-cs-sp26.html)
 
 This is an unofficial list of books that are recommended in Fall 2025 computer science classes at Cornell\
 I've read sections of many of these, but the books marked with a **bold** ✨ are ones I've been interested enough in to read at length
@@ -72,4 +72,4 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | **[Multivariable Calculus for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 1920 | • _Calculus_ by Rogawski, Adams & Franzosa |
 | **[Linear Algebra for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 2940 | • *Linear Algebra and Its Applications* by Lay, Lay & McDonald | 
 
-### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html) | [Spring 2026](https://dantasfiles.com/2026/01/20/cornell-cs-sp26.html)
+### [← Spring 2025](https://dantasfiles.com/2025/01/22/cornell-cs-sp25.html) | [Spring 2026→](https://dantasfiles.com/2026/01/20/cornell-cs-sp26.html)
