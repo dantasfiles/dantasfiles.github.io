@@ -4,7 +4,7 @@ description: This is an unofficial list of books that are recommended in Fall 20
 author: Daniel Dantas
 ---
 
-### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
+### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html) | [Spring 2026→](https://dantasfiles.com/2026/01/26/princeton-cs-sp26.html)
 
 This is an unofficial list of books that are recommended in Fall 2025 computer science classes at Princeton\
 I've read sections of many of these, but the books marked with a **bold** ✨ are ones I’ve been interested enough in to read at length
@@ -62,6 +62,4 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | **Linear Algebra with Applications** <br> MAT 202 | ◦ _Linear Algebra with Applications_ by Otto Bretscher | 
 | **General Chemistry: Applications in Modern Technology** <br> CHM 207 | • _Chemical Principles_ by Zumdahl & DeCoste | 
 
-
-
-### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html)
+### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html) | [Spring 2026→](https://dantasfiles.com/2026/01/26/princeton-cs-sp26.html)
