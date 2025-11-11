@@ -11,6 +11,6 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Junior level | |
 | :---: | --- |
-| **Embedded Systems** <br> CS 3420 | ◦ _Hard Real-Time Computing Systems: Predictable Scheduling Algorithms & Applications_ by Giorgio Buttazzo |
+| **Embedded Systems** <br> CS 3420 | ◦ _Hard Real-Time Computing Systems: Predictable Scheduling Algorithms & Applications_ by Giorgio Buttazzo <details> <summary>Papers:</summary><ul><li>[_Cooperating Sequential Processes_](https://www.cs.utexas.edu/~EWD/ewd01xx/EWD123.PDF) by E.W. Dijkstra</li></ul></details>|
 
 ### [← Fall 2025](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html)
