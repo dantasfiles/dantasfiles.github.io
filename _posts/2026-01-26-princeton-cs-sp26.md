@@ -25,4 +25,8 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | :---: | --- |
 | **Parallel Computing: Principles, Systems & Programming** <br> COS 476 | • _Computer Architecture: A Quantitative Approach_ by Hennessy, Patterson & Kozyrakis <br> ◦ _Parallel Computer Architecture: A Hardware/Software Approach_ by Culler, Singh & Gupta <br> ◦ _Programming Massively Parallel Processors: A Hands-on Approach_ by Hwu, Kirk & Hajj |
 
+| Graduate level | |
+| :---: | --- | 
+| [**Empirical Research Methods for CS**](https://manoelhortaribeiro.github.io/teaching/spring2026_empirical_methods) <br> COS 598D | | 
+
 ### [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
