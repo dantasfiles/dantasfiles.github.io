@@ -21,4 +21,8 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | :---: | --- |
 | **Adv. Programming Techniques** <br> COS 333 | • ✨***The Practice of Programming***✨ by Kernighan & Pike | 
 
+| Senior level | |
+| :---: | --- |
+| **Parallel Computing: Principles, Systems, and Programming** <br> COS 476 | • _Computer Architecture: A Quantitative Approach_ by Hennessy, Patterson & Kozyrakis <br> ◦ _Parallel Computer Architecture: A Hardware/Software Approach_ by Culler, Singh & Gupta <br> ◦ _Programming Massively Parallel Processors: A Hands-on Approach_ by Hwu, Kirk & Hajj |
+
 ### [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
