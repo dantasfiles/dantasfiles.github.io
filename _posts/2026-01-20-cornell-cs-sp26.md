@@ -15,7 +15,6 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Masters level | | 
 | :---: | --- |
-| [**Machine Learning Hardware & Systems**](https://abdelfattah-class.github.io/ece5545/) <br> CS 5775 |
-• _Efficient Processing of Deep Neural Networks_ by Sze, Chen, Yang & Emer <br> ◦ _Computer Architecture: A Quantitative Approach_ by Hennessy, Patterson & Kozyrakis <br> See website for paper list |
+| [**Machine Learning Hardware & Systems**](https://abdelfattah-class.github.io/ece5545/) <br> CS 5775 | • _Efficient Processing of Deep Neural Networks_ by Sze, Chen, Yang & Emer <br> ◦ _Computer Architecture: A Quantitative Approach_ by Hennessy, Patterson & Kozyrakis <br> See website for paper list |
 
 ### [← Fall 2025](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html)
