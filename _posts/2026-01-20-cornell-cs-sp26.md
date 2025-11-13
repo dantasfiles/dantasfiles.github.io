@@ -11,10 +11,11 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Junior level | |
 | :---: | --- |
-| **Embedded Systems** <br> CS 3420 | ◦ _Hard Real-Time Computing Systems: Predictable Scheduling Algorithms & Applications_ by Giorgio Buttazzo <details> ◦ E.W. Dijkstra, [_Cooperating Sequential Processes_](https://www.cs.utexas.edu/~EWD/ewd01xx/EWD123.PDF), EWD-123, 1968<br>◦ C.A.R. Hoare, [_Monitors: An Operating System Structuring Concept_](http://i.stanford.edu/TR/CS-TR-73-401.html), STAN-CS-73-401, 1973<br> ◦ C.L. Liu and J.W. Layland, [_Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment_](https://dl.acm.org/doi/10.1145/321738.321743), J. of the ACM, Vol. 20, No. 1, 1973 </details> |
+| **Embedded Systems** <br> CS 3420 | ◦ _Hard Real-Time Computing Systems: Predictable Scheduling Algorithms & Applications_ by Giorgio Buttazzo <br> See website for paper list |
 
 | Masters level | | 
 | :---: | --- |
-| [**Machine Learning Hardware & Systems**](https://abdelfattah-class.github.io/ece5545/) <br> CS 5775 | • _Efficient Processing of Deep Neural Networks_ by Sze, Chen, Yang & Emer |
+| [**Machine Learning Hardware & Systems**](https://abdelfattah-class.github.io/ece5545/) <br> CS 5775 |
+• _Efficient Processing of Deep Neural Networks_ by Sze, Chen, Yang & Emer <br> ◦ _Computer Architecture: A Quantitative Approach_ by Hennessy, Patterson & Kozyrakis <br> See website for paper list |
 
 ### [← Fall 2025](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html)
