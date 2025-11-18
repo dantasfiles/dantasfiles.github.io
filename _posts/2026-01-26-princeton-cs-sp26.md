@@ -23,6 +23,7 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Senior level | |
 | :---: | --- |
+| **Innovating Across Technology, Business, and Marketplaces** <br> COS 448 | • _In the Plex: How Google Thinks, Works & Shapes Our Lives_ by Steven Levy <br> • _The Everything Store: Jeff Bezos & the Age of Amazon_ by Brad Stone <br> ◦ _The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers_ by Ben Horowitz <br> ◦ _Venture Deals: Be Smarter Than Your Lawyer & Venture Capitalist_ by Feld & Mendelson |
 | **Parallel Computing: Principles, Systems & Programming** <br> COS 476 | • _Computer Architecture: A Quantitative Approach_ by Hennessy, Patterson & Kozyrakis <br> ◦ _Parallel Computer Architecture: A Hardware/Software Approach_ by Culler, Singh & Gupta <br> ◦ _Programming Massively Parallel Processors: A Hands-on Approach_ by Hwu, Kirk & Hajj |
 
 | Graduate level | |
