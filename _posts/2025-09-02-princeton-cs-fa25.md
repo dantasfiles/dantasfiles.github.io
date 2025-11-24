@@ -30,6 +30,7 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | **[Great Ideas in Theoretical CS](https://www.cs.princeton.edu/courses/archive/fall25/cos330/)** <br> COS 330 | ◦ _Introduction to Algorithms_ by Cormen, Leiserson, Rivest & Stein <br> ◦ _[Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/)_ by Jeff Erikson |
 | **[Adv. Programming Techniques](https://www.cs.princeton.edu/courses/archive/fall25/cos333/)** <br> COS 333 | • ✨***The Practice of Programming***✨ by Kernighan & Pike<br> ◦ _Python in a Nutshell: A Desktop Quick Reference_ by Martelli, Ravenscroft, Hoden & McGuire<br> ◦  _Flask Web Development: Developing Web Applications with Python_ by Miguel Grinberg<br> ◦ _JavaScript: The Definitive Guide: Master the World’s Most-Used Programming Language_ by David Flanagan <br> ◦ _Beginning Software Engineering_ by Rod Stephens | 
 | **[Introduction to Robotics](https://github.com/Princeton-Introduction-to-Robotics/F2025)** <br> COS 346 | | 
+| **[Artificial Intelligence, Law & Public Policy](https://www.polarislab.org/ai-law-2025/index.html)** <br> COS 352 | See website for paper list | 
 | **Computer Architecture & Organization** <br> COS 375 | • ✨***Computer Organization & Design: The Hardware Software Interface***✨ by Patterson & Hennessy | 
 
 | Senior level | |
