@@ -42,6 +42,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 | :---: | --- |
 | **[Advanced Computer Systems](https://www.cs.princeton.edu/courses/archive/spring25/cos418/518.html)** <br> COS 518 | See website for paper list |
 | **[Great Moments in Computing](https://mrm.scholar.princeton.edu/document/21)** <br> COS / ECE 583 | See website for paper list |
+| **[AI Safety & Alignment](https://princeton-polaris-lab.github.io/ai-safety-course/)** <br> COS 598A | See website for paper list |
 | **[Machine Behavior](https://manoelhortaribeiro.github.io/teaching/spring2025_machine_behavior)** <br> COS 598B | See website for paper list |
 | **[Cryptographic Proof Systems](https://sites.google.com/view/alex-lombardi/home/cos-598d-spring-2025-princeton)** <br> COS 598D | ●  _[Foundations of Cryptography](https://www.wisdom.weizmann.ac.il/~/oded/foc-book.html)_ by Oded Goldreich <br> See website for paper list |
 
