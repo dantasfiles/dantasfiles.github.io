@@ -14,7 +14,7 @@ The books marked with a ✨ are ones I’ve been interested enough in to read at
 
 | Freshman Level | | 
 | :---: | --- |
-| **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2024fa/)** <br> CS 1110, **[🌆my notes](https://dantasfiles.com/2024/12/06/notes-on-cornell-cs-1110.html)** | |
+| **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2024fa/)** <br> CS 1110 | |
 | **Intro. to Computing: An Engineering & Science Perspective** <br> CS 1112 | ● ✨ ***[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)*** ✨ by Allen B. Downey |
 
 | Sophomore Level | |
