@@ -22,7 +22,7 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Senior level | | 
 | :---: | --- |
-| **Intro. to Compilers** <br> CS 4120 | • [Course notes](https://www.cs.cornell.edu/courses/cs4120/2026sp/notes/) <br> ◦ *Modern Compiler Implementation in Java* by Andrew Appel <br> ◦ *Compilers: Principles, Techniques, and Tools* by Aho, Sethi & Ullman <br> ◦ *Engineering a Compiler* by Cooper & Torczon <br> ◦ *Adv. Compiler Design & Implementation* by Steven S. Muchnick <br> ◦ [*The Java Language Specification*](https://docs.oracle.com/javase/specs/jls/se25/html/index.html) by Gosling, Joy, Steele, Bracha, Buckley, Smith & Bierman | 
+| **Intro. to Compilers** <br> CS 4120 | • [Course notes](https://www.cs.cornell.edu/courses/cs4120/2026sp/notes/) <br> ◦ *Modern Compiler Implementation in Java* by Andrew Appel <br> ◦ *Compilers: Principles, Techniques, and Tools* by Aho, Sethi & Ullman <br> ◦ *Engineering a Compiler* by Cooper & Torczon <br> ◦ *Adv. Compiler Design & Implementation* by Steven S. Muchnick <br> ◦ [*The Java Language Specification*](https://docs.oracle.com/javase/specs/jls/se25/html/index.html) by Gosling, Joy, Steele, Bracha, Buckley, Smith & Bierman <br> ◦ *Linkers & Loaders* by John R. Levine <br> ◦ ✨***Design Patterns: Elements of Reusable Object-Oriented Software***✨ by Gamma, Helm, Johnson & Vlissides | 
 
 | Masters level | | 
 | :---: | --- |
