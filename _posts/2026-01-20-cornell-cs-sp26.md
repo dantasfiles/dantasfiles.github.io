@@ -16,8 +16,8 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Junior level | |
 | :---: | --- |
-| [**Computer System Organization & Programming**](https://www.cs.cornell.edu/courses/cs3410/2026sp/) <br> CS 3410 | ● [Course notes](https://www.cs.cornell.edu/courses/cs3410/2026sp/schedule.html) |
-| [**Foundations of AI Reasoning & Decision-Making**](https://www.cs.cornell.edu/courses/cs3700/2026sp/) <br> CS 3700 | ● *Artificial Intelligence: A Modern Approach* by Russell & Norvig |
+| [**Computer System Organization & Programming**](https://www.cs.cornell.edu/courses/cs3410/2026sp/) <br> CS 3410 | • [Course notes](https://www.cs.cornell.edu/courses/cs3410/2026sp/schedule.html) |
+| [**Foundations of AI Reasoning & Decision-Making**](https://www.cs.cornell.edu/courses/cs3700/2026sp/) <br> CS 3700 | • *Artificial Intelligence: A Modern Approach* by Russell & Norvig |
 | **[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026sp/)** <br> CS 3780 | • [*Probabilistic Machine Learning: An Intro.*](https://probml.github.io/pml-book/book1.html) by Kevin Murphy <br> • [*The Elements of Statistical Learning: Data Mining, Inference & Prediction*](https://hastie.su.domains/ElemStatLearn/) by Hastie, Tibshirani & Friedman <br> ◦ [*An Intro. to Statistical Learning*](https://www.statlearning.com/) by James, Witten, Hastie & Tibshirani <br> ◦ [*Patterns, Predictions & Actions: Foundations of Machine Learning*](https://mlstory.org/) by Hardt & Recht <br> ◦ [*Fairness & Machine Learning: Limitations & Opportunities*](https://fairmlbook.org/) by Barocas, Hardt & Narayanan <br> ◦ [*Linear Algebra Review & Reference*](https://cs229.stanford.edu/section/cs229-linalg.pdf) by Kolter & Do <br> ◦ _Intro. to Linear Algebra_ by Gilbert Strang <br> ● _Linear Algebra & Learning from Data_ by Gilbert Strang <br> ● _[Machine Learning](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)_ by Tom M. Mitchell |
 
 | Masters level | | 
