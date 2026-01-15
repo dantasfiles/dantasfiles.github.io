@@ -12,7 +12,7 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | Sophomore level | | 
 | :---: | --- | 
 | [**UNIX Tools & Scripting**](https://www.cs.cornell.edu/courses/cs2043/2026sp/) <br> CS 2043 | | 
-| [**Object-Oriented Programming & Data Structures**](https://courses.cis.cornell.edu/courses/cs2110/2026sp/about/syllabus/) <br> CS 2110 | • [Object-Oriented Programming & Data Structures](https://courses.cis.cornell.edu/courses/cs2110/2026sp/lectures/lec01/) by Matthew Eichhorn <br> ◦ ✨[***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/)✨ by Myers & Kozen <br> ◦ ✨[***Principled Programming: Intro. to Coding in Any Imperative Language***](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html)✨ by Tim Teitelbaum <br> ◦ _Data Structures & Algorithms in Java: A Project-Based Approach_ by Dan S. Myers |
+| [**Object-Oriented Programming & Data Structures**](https://www.cs.cornell.edu/courses/cs2110/2026sp/) <br> CS 2110 | • [Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026sp/lectures/lec01/) by Matthew Eichhorn <br> ◦ ✨[***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/)✨ by Myers & Kozen <br> ◦ ✨[***Principled Programming: Intro. to Coding in Any Imperative Language***](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html)✨ by Tim Teitelbaum <br> ◦ _Data Structures & Algorithms in Java: A Project-Based Approach_ by Dan S. Myers |
 
 <!-- | Junior level | |
 | :---: | --- |
