@@ -17,6 +17,7 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | Junior level | |
 | :---: | --- |
 | [**Computer System Organization & Programming**](https://www.cs.cornell.edu/courses/cs3410/2026sp/) <br> CS 3410 | ● [*Computer System Organization & Programming*](https://www.cs.cornell.edu/courses/cs3410/2026sp/schedule.html) by Adrian Sampson |
+| [**Foundations of AI Reasoning & Decision-Making**](https://www.cs.cornell.edu/courses/cs3700/2026sp/) <br> CS 3700 | ● *Artificial Intelligence: A Modern Approach* by Russell & Norvig
 
 | Masters level | | 
 | :---: | --- |
