@@ -33,6 +33,6 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | B.S.E. Basic Math and Science | |
 | :---: | --- |
-| **Calculus I** & **II** <br> MAT 103 & 104 | ◦ _Thomas' Calculus: Early Transcendentals, Single Variable_ by Hass, Heil, Bogacki & Weir |
+| **Calculus I** / **II** <br> MAT 103 / 104 | ◦ *Thomas' Calculus: Early Transcendentals* by Hass, Heil, Bogacki & Weir |
 
 ### [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
