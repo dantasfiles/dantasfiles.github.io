@@ -31,4 +31,8 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | :---: | --- | 
 | [**Empirical Research Methods for CS**](https://humans.cs.princeton.edu/teaching/spring2026_empirical_methods.html) <br> COS 598D | | 
 
+| B.S.E. Basic Math and Science | |
+| :---: | --- |
+| **Calculus I** & **II** <br> MAT 103 & 104 | ◦ _Thomas' Calculus: Early Transcendentals, Single Variable_ by Hass, Heil, Bogacki & Weir |
+
 ### [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
