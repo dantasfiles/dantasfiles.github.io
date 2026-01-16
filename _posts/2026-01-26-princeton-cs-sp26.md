@@ -35,6 +35,7 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | :---: | --- |
 | **Calculus I** / **II** <br> MAT 103 / 104 | • *Thomas' Calculus: Early Transcendentals* by Hass, Heil, Bogacki & Weir |
 | **Multivariable Calculus** <br> MAT 201 | • *Thomas' Calculus: Multivariable* by Hass, Heil, Bogacki & Weir |
+| **Linear Algebra with Applications** <br> MAT 202 | ◦ *Linear Algebra with Applications* by Otto Bretscher | 
 
 
 ### [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
