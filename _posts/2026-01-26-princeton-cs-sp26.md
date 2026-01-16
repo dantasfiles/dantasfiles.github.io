@@ -29,6 +29,6 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Graduate level | |
 | :---: | --- | 
-| [**Empirical Research Methods for CS**](https://manoelhortaribeiro.github.io/teaching/spring2026*empirical*methods) <br> COS 598D | | 
+| [**Empirical Research Methods for CS**](https://humans.cs.princeton.edu/teaching/spring2026_empirical_methods.html) <br> COS 598D | | 
 
 ### [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
