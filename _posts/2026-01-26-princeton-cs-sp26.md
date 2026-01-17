@@ -31,6 +31,10 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | :---: | --- | 
 | [**Empirical Research Methods for CS**](https://humans.cs.princeton.edu/teaching/spring2026_empirical_methods.html) <br> COS 598D | | 
 
+| Other technology-related courses | |
+| :---: | --- |
+| **Black Mirror: Race, Technology & Justice** <br> CDH 339 | • *Ruined by Design: How Designers Destroyed the World & What We Can Do to Fix It* by Mike Monteiro <br> ◦ *Data Feminism* by D'Ignazio & Klein <br> ◦ *Design Justice: Community-Led Practices to Build the Worlds We Need* by Sasha Costanza-Chock <br> • *Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI* by Karen Hao | 
+
 | B.S.E. Basic Math and Science | |
 | :---: | --- |
 | **Calculus I** / **II** <br> MAT 103 / 104 | • *Thomas' Calculus: Early Transcendentals* by Hass, Heil, Bogacki & Weir |
