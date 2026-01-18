@@ -37,9 +37,9 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | [**Machine Learning Hardware & Systems**](https://abdelfattah-class.github.io/ece5545/) <br> CS 5775 | • *Efficient Processing of Deep Neural Networks* by Sze, Chen, Yang & Emer <br> ◦ *Computer Architecture: A Quantitative Approach* by Hennessy, Patterson & Kozyrakis <br> See website for paper list |
 | [**Intro. to Generative Models**](https://www.cs.cornell.edu/courses/cs5788/2026sp/) <br> CS 5788 | ◦ [*Probabilistic Machine Learning: Adv. Topics*](https://probml.github.io/pml-book/book2.html) by Kevin P. Murphy <br> ◦ [*Deep Learning*](https://www.deeplearningbook.org/) by Goodfellow, Bengio & Courville <br> ◦ *Information Theory, Inference & Learning Algorithms* by David J.C. MacKay <br> ◦ [*Foundations of Computer Vision*](https://visionbook.mit.edu/) by Torralba, Isola & Freeman | 
 
-<!-- | Cornell Engineering requirements | |
+| Cornell Engineering requirements | |
 | :---: | --- |
 | **[Calculus for Engineers](https://math.cornell.edu/textbooks)** / **[Multivariable Calculus for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 1910 / 1920 | • *Calculus* by Rogawski, Adams & Franzosa |
-| **[Linear Algebra for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 2940 | • *Linear Algebra and Its Applications* by Lay, Lay & McDonald | -->
+| **[Linear Algebra for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 2940 | • *Linear Algebra and Its Applications* by Lay, Lay & McDonald |
 
 ### [← Fall 2025](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html)
