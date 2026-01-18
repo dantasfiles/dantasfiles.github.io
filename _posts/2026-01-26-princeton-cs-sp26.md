@@ -11,11 +11,11 @@ I've read sections of many of these, but the items marked with a **bold** ✨ ar
 
 | Freshman level | |
 | :---: | --- |
-| [**Computer Science: An Interdisciplinary Approach**](https://www.cs.princeton.edu/courses/archive/spr26/cos126/) <br> COS 126 | 📕 *[Computer Science: An Interdisciplinary Approach](https://introcs.cs.princeton.edu/java/home/)* by Sedgewick & Wayne <br> 📕[*Computer Science: An Interdisciplinary Approach*](https://introcs.cs.princeton.edu/java/home/) by Sedgewick & Wayne| 
+| [**Computer Science: An Interdisciplinary Approach**](https://www.cs.princeton.edu/courses/archive/spr26/cos126/) <br> COS 126 | 📕[*Computer Science: An Interdisciplinary Approach*](https://introcs.cs.princeton.edu/java/home/) by Sedgewick & Wayne| 
 
 | Sophomore level | | 
 | :---: | --- |
-| **Algorithms & Data Structures** <br> COS 226 | • ✨[***Algorithms***](https://algs4.cs.princeton.edu/home/)✨ by Sedgewick & Wayne |
+| **Algorithms & Data Structures** <br> COS 226 | ✨📕[***Algorithms***](https://algs4.cs.princeton.edu/home/)✨ by Sedgewick & Wayne <br> 📕✨[***Algorithms***](https://algs4.cs.princeton.edu/home/)✨ by Sedgewick & Wayne |
 
 | Junior level | |
 | :---: | --- |
