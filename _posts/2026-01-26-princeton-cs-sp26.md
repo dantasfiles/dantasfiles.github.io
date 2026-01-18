@@ -19,7 +19,7 @@ I've read sections of many of these, but the items marked with a **bold** ✨ ar
 
 | Junior level | |
 | :---: | --- |
-| **[Adv. Programming Techniques](https://www.cs.princeton.edu/courses/archive/spr26/cos333/)** <br> COS 333 | 📕✨***The Practice of Programming***✨ by Kernighan & Pike<br> 📕_Python in a Nutshell: A Desktop Quick Reference_ by Martelli, Ravenscroft, Hoden & McGuire<br> ◦  *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg<br> ◦ *JavaScript: The Definitive Guide: Master the World’s Most-Used Programming Language* by David Flanagan <br> ◦ *Beginning Software Engineering* by Rod Stephens | 
+| **[Adv. Programming Techniques](https://www.cs.princeton.edu/courses/archive/spr26/cos333/)** <br> COS 333 | 📕✨***The Practice of Programming***✨ by Kernighan & Pike<br> 📕 *Python in a Nutshell: A Desktop Quick Reference* by Martelli, Ravenscroft, Hoden & McGuire<br> 📕 *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg<br> 📕*JavaScript: The Definitive Guide: Master the World’s Most-Used Programming Language* by David Flanagan <br> ◦ *Beginning Software Engineering* by Rod Stephens | 
 
 | Senior level | |
 | :---: | --- |
