@@ -39,7 +39,7 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Cornell Engineering requirements | |
 | :---: | --- |
-| **[Calculus for Engineers](https://math.cornell.edu/textbooks)** / **[Multivariable Calculus for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 1910 / 1920 | • *Calculus* by Rogawski, Adams & Franzosa |
-| **[Linear Algebra for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 2940 | • *Linear Algebra and Its Applications* by Lay, Lay & McDonald |
+| **[Calculus for Engineers](https://math.cornell.edu/textbooks)** / **[Multivariable Calculus for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 1910 / 1920 | 📕 *Calculus* by Rogawski, Adams & Franzosa |
+| **[Linear Algebra for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 2940 | 📕 *Linear Algebra and Its Applications* by Lay, Lay & McDonald |
 
 ### [← Fall 2025](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html)
