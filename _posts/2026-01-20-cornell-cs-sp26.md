@@ -45,8 +45,8 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | [**Intro. to Generative Models**](https://www.cs.cornell.edu/courses/cs5788/2026sp/) <br> CS 5788 | 📕 [*Probabilistic Machine Learning: Adv. Topics*](https://probml.github.io/pml-book/book2.html) by Kevin P. Murphy <br> 📕 [*Deep Learning*](https://www.deeplearningbook.org/) by Goodfellow, Bengio & Courville <br> 📕 *Information Theory, Inference & Learning Algorithms* by David J.C. MacKay <br> 📕 [*Foundations of Computer Vision*](https://visionbook.mit.edu/) by Torralba, Isola & Freeman | 
 
 | Doctoral level | |
-| :---: | |
-| **[Numerical Methods for Data Science](https://www.cs.cornell.edu/courses/cs6241/2026sp/)** <br> CS 6241 | |
+| :---: | --- |
+| **[Runtime Verification](https://www.cs.cornell.edu/courses/cs6156/2026sp/)** <br> CS 6156 | |
 
 | Cornell Engineering requirements | |
 | :---: | --- |
