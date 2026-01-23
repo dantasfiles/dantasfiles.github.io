@@ -15,7 +15,7 @@ I've read sections of many of these, but the items marked with a **bold** ✨ ar
 
 | Sophomore level | | 
 | :---: | --- |
-| [**Algorithms & Data Structures**](https://www.cs.princeton.edu/courses/archive/spring26/cos226/) <br> COS 226 | 📕✨[***Algorithms***](https://algs4.cs.princeton.edu/home/)✨ by Sedgewick & Wayne |
+| [**Algorithms & Data Structures**](https://www.cs.princeton.edu/courses/archive/spring26/cos226/) <br> COS 226 | 📔 [Course notes](https://www.cs.princeton.edu/courses/archive/spring26/cos226/lectures.php) <br> 📕✨[***Algorithms***](https://algs4.cs.princeton.edu/home/)✨ by Sedgewick & Wayne |
 
 | Junior level | |
 | :---: | --- |
