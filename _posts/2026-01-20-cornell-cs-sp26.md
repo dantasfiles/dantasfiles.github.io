@@ -16,6 +16,7 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Junior level | |
 | :---: | --- |
+| **Data Structures & Functional Programming** <br> CS 3110 | 🔗✨[***OCaml Programming: Correct + Efficient + Beautiful***](https://cs3110.github.io/textbook/)✨ by Michael Clarkson |
 | [**Intro. to**](https://www.cs.cornell.edu/courses/cs3152/2026sp/) & [**Adv. Topics in**](https://www.cs.cornell.edu/courses/cs5152/) **Computer Game Architecture** <br> CS 3152 & 4152 | 📕 *Game Design Workshop: A Playcentric Approach to Creating Innovative Games* by Tracy Fullerton <br> 📕 *Rules of Play: Game Design Fundamentals* by Tekinbas & Zimmerman <br> 📕 *The Game Design Reader: A Rules of Play Anthology* by Tekinbas & Zimmerman <br> 📕 *The Art of Game Design: A Book of Lenses* by Jesse Schell <br> 📕 *Challenges for Games Designers: Non-Digital Exercises for Video Game Designers* by Brathwaite & Schreiber <br> 📕 *A Theory of Fun for Game Design* by Raph Koster <br> 📕 *Intro. to Game Development* by Steve Rabin <br> 📕 *Andrew Rollings and Ernest Adams on Game Design* by Rollings & Adams <br> 📄 [*The Art of Computer Game Design*](https://www.digitpress.com/library/books/book_art_of_computer_game_design.pdf) by Chris Crawford <br> 📄 [*User Interface Design for Games*](http://www.eecs.umich.edu/~soar/Classes/494/talks/User-interfaces.pdf) by David Kieras |
 | [**Computer System Organization & Programming**](https://www.cs.cornell.edu/courses/cs3410/2026sp/) <br> CS 3410 | 📔 [Course notes](https://www.cs.cornell.edu/courses/cs3410/2026sp/schedule.html) |
 | [**Embedded Systems**](https://ocw.ece.cornell.edu/ece-3140-course-details/) <br> CS 3420 (ECE) | 📄 [*Cooperating sequential processes*](https://www.cs.utexas.edu/~EWD/index01xx.html) by E.W. Dijkstra <br> 📄 [*Monitors: An Operating System Structuring Concept*](https://dl.acm.org/doi/10.1145/355620.361161) by C.A.R. Hoare <br> 📄 [*Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment*](https://dl.acm.org/doi/10.1145/321738.321743) by Liu & Layland <br> 📕 *Hard Real-Time Computing Systems: Predictable Scheduling Algorithms & Applications* by Giorgio C Buttazzo |
@@ -49,8 +50,8 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | Doctoral level | |
 | :---: | --- |
 | [**Runtime Verification**](https://www.cs.cornell.edu/courses/cs6156/2026sp/) <br> CS 6156 | |
-| [**Adv. Machine Learning Systems**](https://www.cs.cornell.edu/courses/cs6787/2026sp/) <br> CS 6787 | ... | 
 | [**Computation for Content Creation**](https://www.cs.cornell.edu/courses/cs6682/2026sp/) <br> CS 6682 | | 
+| [**Adv. Machine Learning Systems**](https://www.cs.cornell.edu/courses/cs6787/2026sp/) <br> CS 6787 | ... | 
 | [**Theory of Computing**](https://www.cs.cornell.edu/courses/cs6810/2026sp/) <br> CS 6810 | 📕 [*Computational Complexity: A Modern Approach*](https://theory.cs.princeton.edu/complexity/) by Arora & Barak <br> 📕 [*Computational Complexity: A Conceptual Perspective*](https://www.wisdom.weizmann.ac.il/~oded/cc-drafts.html) by Oded Goldreich <br> 📕 *Mathematics and Computation: A Theory Revolutionizing Technology & Science* by Avi Wigderson | 
 
 | Cornell Engineering requirements | |
