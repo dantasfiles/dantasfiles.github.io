@@ -50,6 +50,7 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 | :---: | --- |
 | [**Runtime Verification**](https://www.cs.cornell.edu/courses/cs6156/2026sp/) <br> CS 6156 | |
 | [**Adv. Machine Learning Systems**](https://www.cs.cornell.edu/courses/cs6787/2026sp/) <br> CS 6787 | ... | 
+| [**Computation for Content Creation**](https://www.cs.cornell.edu/courses/cs6682/2026sp/) <br> CS 6682 | | 
 | [**Theory of Computing**](https://www.cs.cornell.edu/courses/cs6810/2026sp/) <br> CS 6810 | 📕 [*Computational Complexity: A Modern Approach*](https://theory.cs.princeton.edu/complexity/) by Arora & Barak <br> 📕 [*Computational Complexity: A Conceptual Perspective*](https://www.wisdom.weizmann.ac.il/~oded/cc-drafts.html) by Oded Goldreich <br> 📕 *Mathematics and Computation: A Theory Revolutionizing Technology & Science* by Avi Wigderson | 
 
 | Cornell Engineering requirements | |
