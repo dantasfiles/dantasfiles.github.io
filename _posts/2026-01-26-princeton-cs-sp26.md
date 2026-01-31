@@ -39,7 +39,8 @@ I've read sections of many of these, but the items marked with a **bold** ✨ ar
 | Graduate level | |
 | :---: | --- | 
 | [**Systems & Machine Learning**](https://www.cs.princeton.edu/courses/archive/spring26/cos568/) <br> COS 568 | | 
-| [**Empirical Research Methods for CS**](https://humans.cs.princeton.edu/teaching/spring2026_empirical_methods.html) <br> COS 598D | | 
+| [**Empirical Research Methods for CS**](https://humans.cs.princeton.edu/teaching/spring2026_empirical_methods.html) <br> COS 598D | See website for paper list | 
+| [**Machine Learning for Structural Biology**](https://www.cs.princeton.edu/courses/archive/spring26/cos598L/) | See website for paper list | 
 
 | B.S.E. Basic Math and Science | |
 | :---: | --- |
