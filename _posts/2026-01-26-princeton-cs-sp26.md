@@ -47,8 +47,8 @@ I've read sections of many of these, but the items marked with a **bold** ✨ ar
 
 | B.S.E. Basic Math and Science | |
 | :---: | --- |
-| [**Calculus I**](https://princeton.ecampus.com/course-list.asp?c=7244013) / [**II**](https://princeton.ecampus.com/course-list.asp?c=7244017) <br> MAT 103 / 104 | 📕 *Thomas' Calculus: Early Transcendentals* by Hass, Heil, Bogacki & Weir |
-| [**Multivariable Calculus**](https://princeton.ecampus.com/course-list.asp?c=7244023) <br> MAT 201 | 📕 *Thomas' Calculus: Multivariable* by Hass, Heil, Bogacki & Weir |
+| [**Calculus I**](https://princeton.ecampus.com/course-list.asp?c=7244013) / [**II**](https://princeton.ecampus.com/course-list.asp?c=7244017) <br> MAT 103 / 104 | 📕 *Thomas' Calculus: Early Transcendentals* by Hass et. al |
+| [**Multivariable Calculus**](https://princeton.ecampus.com/course-list.asp?c=7244023) <br> MAT 201 | 📕 *Thomas' Calculus: Multivariable* by Hass et. al |
 | [**Linear Algebra with Applications**](https://princeton.ecampus.com/course-list.asp?c=7244028) <br> MAT 202 | 📕 *Linear Algebra with Applications* by Otto Bretscher | 
 | [**Honors Linear Algebra**](https://princeton.ecampus.com/course-list.asp?c=7244043) <br> MAT 217 | 📕 [*Linear Algebra Done Right*](https://linear.axler.net/) by Sheldon Axler |
 
