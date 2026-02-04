@@ -51,7 +51,7 @@ I've read sections of many of these, but the items marked with a **bold** ✨ ar
 | **Multivariable Calculus** <br> MAT 201 | 📕 *Thomas' Calculus: Multivariable* by Hass et. al |
 | **Linear Algebra with Applications** <br> MAT 202 | 📕 *Linear Algebra with Applications* by Otto Bretscher | 
 | **Adv. Linear Algebra with Applications** <br> MAT 202 | 📕 *Linear Algebra: Ideas & Applications* by Richard C. Penney |
-| [**Honors Linear Algebra**](https://princeton.ecampus.com/course-list.asp?c=7244043) <br> MAT 217 | 📕 [*Linear Algebra Done Right*](https://linear.axler.net/) by Sheldon Axler |
+| **Honors Linear Algebra** <br> MAT 217 | 📕 [*Linear Algebra Done Right*](https://linear.axler.net/) by Sheldon Axler |
 
 <!-- | Other technology-related courses | |
 | :---: | --- |
