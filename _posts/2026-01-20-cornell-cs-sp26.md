@@ -9,6 +9,10 @@ author: Daniel Dantas
 This is an unofficial list of books that are recommended in Spring 2026 computer science classes at Cornell\
 I've read sections of many of these, but the books marked with a **bold** ✨ are ones I've found interesting enough to read at length
 
+| Freshman level | |
+| :---: | --- |
+| [**Intro. to Computing: A Design & Development Perspective**](https://canvas.cornell.edu/courses/72392) <br> CS 1110 | 📔 [Course notes](https://canvas.cornell.edu/courses/72392/pages/schedule) <br> 📕✨[***Think Python: How to Think Like a Computer Scientist***](https://allendowney.github.io/ThinkPython/)✨ by Allen B. Downey |
+
 | Sophomore level | | 
 | :---: | --- | 
 | [**UNIX Tools & Scripting**](https://www.cs.cornell.edu/courses/cs2043/2026sp/) <br> CS 2043 | | 
