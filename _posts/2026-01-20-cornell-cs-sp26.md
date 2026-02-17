@@ -60,9 +60,9 @@ I've read sections of many of these, but the books marked with a **bold** ✔️
 | [**Adv. Machine Learning Systems**](https://www.cs.cornell.edu/courses/cs6787/2026sp/) <br> CS 6787 | ... | 
 | [**Theory of Computing**](https://www.cs.cornell.edu/courses/cs6810/2026sp/) <br> CS 6810 | 📕 [*Computational Complexity: A Modern Approach*](https://theory.cs.princeton.edu/complexity/) by Arora & Barak <br> 📕 [*Computational Complexity: A Conceptual Perspective*](https://www.wisdom.weizmann.ac.il/~oded/cc-drafts.html) by Oded Goldreich <br> 📕 *Mathematics and Computation: A Theory Revolutionizing Technology & Science* by Avi Wigderson | 
 
-| Cornell Engineering requirements | |
+<!-- | Cornell Engineering requirements | |
 | :---: | --- |
 | **[Calculus for Engineers](https://math.cornell.edu/textbooks)** / **[Multivariable Calculus for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 1910 / 1920 | 📕 *Calculus* by Rogawski, Adams & Franzosa |
-| **[Linear Algebra for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 2940 | 📕 *Linear Algebra and Its Applications* by Lay, Lay & McDonald |
+| **[Linear Algebra for Engineers](https://math.cornell.edu/textbooks)** <br> MATH 2940 | 📕 *Linear Algebra and Its Applications* by Lay, Lay & McDonald | -->
 
 ### [← Fall 2025](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html)
