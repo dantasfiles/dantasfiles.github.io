@@ -46,7 +46,7 @@ I've read sections of many of these, but the items marked with a **bold** ✔️
 | [**Formal methods with & for Machine Learning**](https://www.cs.princeton.edu/courses/archive/spring26/cos598B/) <br> COS 598B | |
 | [**Sum-of-Squares Proofs & Efficient Algorithms**](https://www.cs.princeton.edu/~kothari/spring26.html) <br> COS 598C | |
 | [**Empirical Research Methods for CS**](https://humans.cs.princeton.edu/teaching/spring2026_empirical_methods.html) <br> COS 598D | 📄 See website for paper list | 
-| [**Machine Learning for Structural Biology**](https://www.cs.princeton.edu/courses/archive/spring26/cos598L/) | 📄 See website for paper list | 
+| [**Machine Learning for Structural Biology**](https://www.cs.princeton.edu/courses/archive/spring26/cos598L/) <br> COS 598L | 📄 See website for paper list | 
 
 <!-- | B.S.E. Basic Math and Science | |
 | :---: | --- |
