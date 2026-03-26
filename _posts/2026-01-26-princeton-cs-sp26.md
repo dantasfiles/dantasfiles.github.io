@@ -11,7 +11,7 @@ I've read sections of many of these, but the items marked with a **bold** ✔️
 
 | Freshman level | |
 | :---: | --- |
-| [**Computer Science: An Interdisciplinary Approach**](https://www.cs.princeton.edu/courses/archive/spring26/cos126/) <br> COS 126 | 📔 [Course notes](https://www.cs.princeton.edu/courses/archive/spr26/cos126/schedule/) <br> 📕 [*Computer Science: An Interdisciplinary Approach*](https://introcs.cs.princeton.edu/java/home/) by Sedgewick & Wayne| 
+| [**Computer Science: An Interdisciplinary Approach**](https://www.cs.princeton.edu/courses/archive/spring26/cos126/) <br> COS 126 | <!-- 📔 [Course notes](https://www.cs.princeton.edu/courses/archive/spr26/cos126/schedule/) <br> 📕 --> • [*Computer Science: An Interdisciplinary Approach*](https://introcs.cs.princeton.edu/java/home/) by Sedgewick & Wayne| 
 
 | Sophomore level | | 
 | :---: | --- |
