@@ -8,7 +8,7 @@ hidden: true
 ### [←Spring 2025](https://dantasfiles.com/2025/01/27/princeton-cs-sp25.html) | [Spring 2026→](https://dantasfiles.com/2026/01/26/princeton-cs-sp26.html)
 
 This is an unofficial list of books that are recommended in Fall 2025 computer science classes at Princeton\
-I've read sections of many of these, but the books marked with a **bold** ✨ are ones I’ve been interested enough in to read at length
+I've read sections of many of these, but the books marked with a **bold** ✔️ are ones I’ve been interested enough in to read at length
 
 | Freshman level | |
 | :---: | --- |
@@ -16,8 +16,8 @@ I've read sections of many of these, but the books marked with a **bold** ✨ ar
 
 | Sophomore level | | 
 | :---: | --- |
-| **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall25/cos217/)** <br> COS 217 | • _C Programming: A Modern Approach_ by K.N. King <br> • _ARM 64-Bit Assembly Language_ by Pyeatt & Ughetta <br> ◦  ✨***The Practice of Programming***✨ by Kernighan & Pike <br> ◦ _Linux Pocket Guide_ by Daniel J. Barrett | 
-| **[Algorithms & Data Structures](https://www.cs.princeton.edu/courses/archive/fall25/cos226/)** <br> COS 226 | • ✨[***Algorithms***](https://algs4.cs.princeton.edu/home/)✨ by Sedgewick & Wayne |
+| **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall25/cos217/)** <br> COS 217 | • _C Programming: A Modern Approach_ by K.N. King <br> • _ARM 64-Bit Assembly Language_ by Pyeatt & Ughetta <br> ◦✔️***The Practice of Programming*** by Kernighan & Pike <br> ◦ _Linux Pocket Guide_ by Daniel J. Barrett | 
+| **[Algorithms & Data Structures](https://www.cs.princeton.edu/courses/archive/fall25/cos226/)** <br> COS 226 | • ✔️[***Algorithms***](https://algs4.cs.princeton.edu/home/) by Sedgewick & Wayne |
 | **[Reasoning About Computation](https://www.cs.princeton.edu/courses/archive/fall25/cos240/)** <br> COS 240 | • _Mathematics for Computer Science_ by Lehman, Leighton & Meyer |
 
 | Junior level | |
