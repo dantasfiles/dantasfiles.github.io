@@ -52,6 +52,7 @@ I've read sections of many of these, but the books marked with a **bold** ✔️
 | **[Neural Sensing, Modeling & Understanding](https://kyleatprinceton.github.io/cos597e-f25/)** <br> COS 597E | See website for paper list |
 | **[Probabilistic Topics in RL](https://ben-eysenbach.github.io/inference-action-f25/)** <br> COS 597R | See website for paper list <br> • _[Deep Learning](https://www.deeplearningbook.org/)_ by Goodfellow, Bengio & Courville <br> • _[Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)_ by Kevin P. Murphy <br> • _[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)_ by Sutton & Barto | 
 | **Domain-specific Computer Systems Architecture** <br> COS 597V | • _Computer Architecture: A Quantitative Approach_ by Hennessy & Patterson | 
+
 <!-- 
 | Other technology courses | |
 | :---: | --- |
