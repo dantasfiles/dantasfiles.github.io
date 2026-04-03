@@ -5,7 +5,7 @@ author: Daniel Dantas
 hidden: true
 ---
 
-### [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
+### <!-- [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html) | --> [Fall 2026→](https://dantasfiles.com/2026/09/02/princeton-cs-fa26.html)
 
 This is an unofficial reading list from Spring 2026 computer science classes at Princeton\
 I've read sections of many of these, but the items marked with a **bold** ✔️ are ones I've found interesting enough to read at length
@@ -62,4 +62,4 @@ I've read sections of many of these, but the items marked with a **bold** ✔️
 | **Ethics & Technology: Engineering in the Real World** <br> EGR 260 | ◦ *Engineering Ethics: Contemporary & Enduring Debates* by Deborah G. Johnson <br> ◦ *Blind Spots: Why We Fail to Do What's Right & What to Do about It* by Bazerman & Tenbrunsel <br> ◦ *Giving Voice to Values: How to Speak Your Mind When You Know What's Right* by Mary C. Gentile <br> ◦ *The Essential Engineer: Why Science Alone Will Not Solve Our Global Problems* by Henry Petroski <br> ◦ *To Engineer Is Human: The Role of Failure in Successful Design* by Henry Petroski |
 | **Black Mirror: Race, Technology & Justice** <br> CDH 339 | • *Ruined by Design: How Designers Destroyed the World & What We Can Do to Fix It* by Mike Monteiro <br> ◦ *Data Feminism* by D'Ignazio & Klein <br> ◦ *Design Justice: Community-Led Practices to Build the Worlds We Need* by Sasha Costanza-Chock <br> • *Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI* by Karen Hao | -->
 
-### [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html)
+### <!-- [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html) | --> [Fall 2026→](https://dantasfiles.com/2026/09/02/princeton-cs-fa26.html)
