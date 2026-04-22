@@ -15,6 +15,6 @@ I've read sections of many of these, but the items marked with a **bold** ✔️
 
 | Junior level | |
 | :---: | --- |
-| **Computing & Optimization for the Physical & Social Sciences** <br> COS 323 | ◦ _An Introduction to Optimization: With Applications to Machine Learning_ by Chong, Lu & Zak <br> ◦ _[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)_ by Boyd & Vandenberghe <br> ◦ _Linear Programming: Foundations and Extensions_ by Robert J. Vanderbei <br> ◦ _Algorithms_ by Dasgupta, Papadimitriou & Vazirani |
+| **Computing & Optimization for the Physical & Social Sciences** <br> COS 323 | ◦ _An Introduction to Optimization: With Applications to Machine Learning_ by Chong, Lu & Zak <br> ◦ _[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)_ by Boyd & Vandenberghe <br> ◦ _Linear Programming: Foundations & Extensions_ by Robert J. Vanderbei <br> ◦ _Algorithms_ by Dasgupta, Papadimitriou & Vazirani |
 
 ### [←Spring 2026](https://dantasfiles.com/2026/01/26/princeton-cs-sp26.html)
