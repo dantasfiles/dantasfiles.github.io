@@ -19,6 +19,6 @@ I've read sections of many of these, but the items marked with a **bold** ✔️
 
 | Senior level | |
 | :---: | --- |
-| **Design of Very Large-Scale Integrated (VLSI) Systems** <br> COS 462 | • _Digital Integrated Circuits: A Design Perspective_ by Rabaey, Chandrakasan & Nikolic |
+| **Design of VLSI Systems** <br> COS 462 | • _Digital Integrated Circuits: A Design Perspective_ by Rabaey, Chandrakasan & Nikolic |
 
 ### [←Spring 2026](https://dantasfiles.com/2026/01/26/princeton-cs-sp26.html)
