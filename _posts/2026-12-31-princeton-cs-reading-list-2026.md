@@ -14,7 +14,7 @@ I've read sections of many of these, but the items marked with a **bold** ✔️
 | Sophomore level | | 
 | :---: | --- |
 | [**Intro. to Programming Systems**](https://www.cs.princeton.edu/courses/archive/spring26/cos217/) <br> COS 217 (sp26) | <!-- 📔 [Course notes](https://www.cs.princeton.edu/courses/archive/spring26/cos217/classes.php) <br> 📕 --> • *C Programming: A Modern Approach* by K.N. King <br> • *ARM 64-Bit Assembly Language* by Pyeatt & Ughetta <br> ✔️ ***The Practice of Programming*** by Kernighan & Pike <br> ◦ *Linux Pocket Guide: Essential Commands* by Daniel J. Barrett <br> ✔️ [***UNIX Tutorial for Beginners***](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank <br> ✔️ [***A Guided Tour of Emacs***](https://www.gnu.org/software/emacs/tour/) <br> ◦ [*Debugging with GDB: The GNU Source-Level Debugger*](https://sourceware.org/gdb/current/onlinedocs/gdb.html/) <br> ◦ [*The GNU Make Manual*](https://www.gnu.org/software/make/manual/make.html) | 
-| [**Algorithms & Data Structures**](https://princeton.ecampus.com/course-list.asp?c=|7668418) <br> COS 226 (fa26) | ✔️ [***Algorithms***](https://algs4.cs.princeton.edu/home/) by Sedgewick & Wayne |
+| [**Algorithms & Data Structures**](https://princeton.ecampus.com/course-list.asp?c=7668418) <br> COS 226 (fa26) | ✔️ [***Algorithms***](https://algs4.cs.princeton.edu/home/) by Sedgewick & Wayne |
 | [**Reasoning About Computation**](https://www.cs.princeton.edu/courses/archive/spring26/cos240/) <br> COS 240 (sp26) | |
 
 | Junior level | |
