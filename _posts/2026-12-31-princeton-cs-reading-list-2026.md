@@ -4,7 +4,7 @@ description: This is an unofficial reading list from 2026 computer science class
 author: Daniel Dantas
 ---
 
-This is an unofficial reading list from 2026 computer science classes at Princeton\
+This is an unofficial reading list from 2026 computer science classes at 🐯 Princeton\
 I've read sections of many of these, but the items marked with a **bold** ✔️ are ones I've found interesting enough to read at length
 
 | Sophomore level | | 
