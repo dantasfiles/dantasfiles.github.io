@@ -2,6 +2,7 @@
 title: 🐯 Princeton CS unofficial reading list 2026
 description: This is an unofficial reading list from 2026 computer science classes at Princeton
 author: Daniel Dantas
+hidden: true
 ---
 
 This is an unofficial reading list from 2026 computer science classes at Princeton\
