@@ -7,13 +7,15 @@ author: Daniel Dantas
 This is an unofficial reading list from 2026 computer science classes at Princeton\
 I've read sections of many of these, but the items marked with a **bold** ✔️ are ones I've found interesting enough to read at length
 
-| Sophomore level | | 
-| :---: | --- |
-| [**Algorithms & Data Structures**](https://princeton.ecampus.com/course-list.asp?c=7668418) <br> COS 226 (fa26) | ✔️ [***Algorithms***](https://algs4.cs.princeton.edu/home/) by Sedgewick & Wayne |
+## Sophomore level
+### [**Algorithms & Data Structures**](https://princeton.ecampus.com/course-list.asp?c=7668418) (COS 226, fa26)
+- ✔️ [***Algorithms***](https://algs4.cs.princeton.edu/home/) by Sedgewick & Wayne
 
-| Junior level | |
-| :---: | --- |
-| [**Principles of Computer System Design**](https://www.cs.princeton.edu/courses/archive/spring26/cos316/) <br> COS 316 (sp26) | <!-- 📔 [Course notes](https://www.cs.princeton.edu/courses/archive/spring26/cos316/lectures.html) <br> 📕 --> ◦ [*Principles of Computer System Design: An Intro.*](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/pages/online-textbook/) by Saltzer & Kaashoek <br> ◦ [*BBR: Congestion-Based Congestion Control: Measuring Bottleneck Bandwidth & Round-Trip Propagation Time*](https://queue.acm.org/detail.cfm?id=3022184) by Cardwell et al. | 
+## Junior level
+### [**Principles of Computer System Design**](https://www.cs.princeton.edu/courses/archive/spring26/cos316/) (COS 316, sp26)
+- [*Principles of Computer System Design: An Intro.*](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/pages/online-textbook/) by Saltzer & Kaashoek
+- [*BBR: Congestion-Based Congestion Control: Measuring Bottleneck Bandwidth & Round-Trip Propagation Time*](https://queue.acm.org/detail.cfm?id=3022184) by Cardwell et al.
+
 | [**Compiling Techniques**](https://www.cs.princeton.edu/courses/archive/spring26/cos320/) <br> COS 320 (sp26) | ◦ [*Real World OCaml: Functional Programming for the Masses*](https://dev.realworldocaml.org/) by Madhavapeddy & Minsky <br> ◦ [*The OCaml System*](https://ocaml.org/manual/5.4/index.html) <br> ◦ [*The OCaml API*](https://ocaml.org/manual/5.4/api/) <br> ◦ *Modern Compiler Implementation in ML* by Andrew W. Appel |
 | [**Computing & Optimization for the Physical & Social Sciences**](https://princeton.ecampus.com/course-list.asp?c=7669090) <br> COS 323 (fa26) | ◦ _An Introduction to Optimization: With Applications to Machine Learning_ by Chong, Lu & Zak <br> ◦ _[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)_ by Boyd & Vandenberghe <br> ◦ _Linear Programming: Foundations & Extensions_ by Robert J. Vanderbei <br> ◦ _Algorithms_ by Dasgupta, Papadimitriou & Vazirani |
 | [**Computer Architecture & Organization**](https://princeton.ecampus.com/course-list.asp?c=7668426) <br> COS 375 (fa26) | ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy | 
