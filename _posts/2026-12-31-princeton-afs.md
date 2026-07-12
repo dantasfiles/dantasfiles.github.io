@@ -7,4 +7,4 @@ hidden: true
 
 | Senior level | |
 | :---: | --- |
-| [**Art, Apartheid & South Africa**](https://princeton.ecampus.com/course-list.asp?c=7668162) <br> ART 471 (fa26) | ✔️ ***Disgrace*** by J. M. Coetzee | 
+| [**Art, Apartheid & South Africa**](https://princeton.ecampus.com/course-list.asp?c=7668162) <br> AFS 411 (fa26) | ✔️ ***Disgrace*** by J. M. Coetzee | 
