@@ -6,7 +6,7 @@ hidden: true
 ---
 
 | Sophomore level | |
-| :---: | | 
+| :---: | --- | 
 | **The Art & Archaeology of the Ancient Near East & Egypt** <br> AFS 202 (fa26) | • *Art of Mesopotamia* by Zainab Bahrani | 
 
 | Senior level | |
