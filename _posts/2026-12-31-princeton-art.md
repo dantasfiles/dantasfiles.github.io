@@ -1,9 +1,13 @@
 ---
 title: 🐯 Princeton ART unofficial reading list
-description: This is an unofficial reading list from 2026 arts & archaeology classes at Princeton
+description: This is an unofficial reading list from 2026 art & archaeology classes at Princeton
 author: Daniel Dantas
 hidden: true
 ---
+
+| Sophomore level | |
+| :---: | --- | 
+| [**The Art & Archaeology of the Ancient Near East & Egypt**](https://princeton.ecampus.com/course-list.asp?c=7668238) <br> AFS 202 (fa26) | • *Art of Mesopotamia* by Zainab Bahrani | 
 
 | Senior level | |
 | :---: | --- |
