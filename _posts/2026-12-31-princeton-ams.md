@@ -17,6 +17,6 @@ hidden: true
 
 | Junior level | |
 | :---: | --- | 
-| [**American Literature: 1930-Present**](https://princeton.ecampus.com/course-list.asp?c=7668639) <br> AMS 340 (fa26) | ✔️ ***The Road*** by Cormac McCarthy <br> • *American Pastoral* by Philip Roth <br> ✔️ ***Maus: A Survivor's Tale*** by Art Spiegelman <br> ✔️ ***Beloved*** by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) |
+| [**American Literature: 1930-Present**](https://princeton.ecampus.com/course-list.asp?c=7668639) <br> AMS 340 (fa26) | ✔️ ***The Road*** by Cormac McCarthy <br> • *American Pastoral* by Philip Roth <br> ✔️ ***Maus: A Survivor's Tale*** by Art Spiegelman <br> ✔️ ***Beloved*** by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <br> • *Housekeeping* by Marilynne Robinson <br> • *The Crying of Lot 49* by Thomas Pynchon <br> • *Lolita* by Vladimir Nabokov <br> • *As I Lay Dying* by William Faulkner <br> • *The Nickel Boys* by Colson Whitehead |
 | [**Curatorial Time: Historic American Art & its 21st Century Audiences**](https://princeton.ecampus.com/course-list.asp?c=7668170) <br> AMS 362 (fa26) | • *Princeton University Art Museum: Handbook of the Collections* by James Christen Steward <br> • *Whitney Museum of American Art: Handbook of the Collection* by Dana Miller <br> • *Toward Joy: New Frameworks for American Art* by Stephanie Sparling Williams |
 
