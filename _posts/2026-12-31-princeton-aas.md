@@ -17,5 +17,5 @@ hidden: true
 | Senior level | |
 | :---: | --- |
 | [**Art, Apartheid & South Africa**](https://princeton.ecampus.com/course-list.asp?c=7668162) <br> AAS 411 (fa26) | ✔️ ***Disgrace*** by J. M. Coetzee | 
-| [**World After Empire**](https://princeton.ecampus.com/course-list.asp?c=7668794) <br> AAS 416 (fa26) | ✔️ ***The Wretched of the Earth*** by Frantz Fanon <br> • *Worldmaking after Empire: The Rise & Fall of Self-Determination* by Adom Getachew <br> *Return to the Source: Selected Texts of Amilcar Cabral* <br> • *Gandhi: 'Hind Swaraj' and Other Writings* <br> • *A Small Place* by Jamaica Kincaid <br> • *Discourse on Colonialism* by Aimé Césaire <br> • *The Colonizer and the Colonized* by Albert Memmi |
+| [**World After Empire**](https://princeton.ecampus.com/course-list.asp?c=7668794) <br> AAS 416 (fa26) | ✔️ ***The Wretched of the Earth*** by Frantz Fanon <br> • *Worldmaking after Empire: The Rise & Fall of Self-Determination* by Adom Getachew <br> • *Return to the Source: Selected Texts of Amilcar Cabral* <br> • *Gandhi: 'Hind Swaraj' and Other Writings* <br> • *A Small Place* by Jamaica Kincaid <br> • *Discourse on Colonialism* by Aimé Césaire <br> • *The Colonizer and the Colonized* by Albert Memmi |
 
