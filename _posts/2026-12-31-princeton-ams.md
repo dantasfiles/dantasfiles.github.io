@@ -13,3 +13,8 @@ hidden: true
 | :---: | --- |
 | [**Intro. to Law & Public Policy in African American History**](https://princeton.ecampus.com/course-list.asp?c=7668151) <br> AMS 231 (fa26) | • *Reconsidering Reparations: Why Climate Justice & Constructive Politics Are Needed in the Wake of Slavery & Colonialism* by Olúfẹ́mi O. Táíwò <br> • *Racecraft: The Soul of Inequality* in American Life by Fields & Fields <br> • *When Affirmative Action Was White: An Untold History of Racial Inequality in 20th-Century America* by Ira Katznelson <br> • *America, U.S.A.: How Race Shadows the Nation's Anniversaries* by Eddie S. Glaude Jr. |  
 | [**Jews Across the Americas**](https://princeton.ecampus.com/course-list.asp?c=7668167) <br> AMS 257 (fa26) | • *Like a Bride* by Rosa Nissán <br> • *Like a Mother* by Rosa Nissán <br> • *God of Vengeance* by Donald Margulies <br> • *The Implacable Urge to Defame: Cartoon Jews in the American Press, 1877-1935* by Matthew Baigell <br> • *Jews Across the Americas: A Sourcebook, 1492–Present* by Brodsky & Leibman | 
+
+| Junior level | |
+| :---: | --- | 
+| [**Curatorial Time: Historic American Art & its 21st Century Audiences**](https://princeton.ecampus.com/course-list.asp?c=7668170) <br> AMS 362 (fa26) | • *Princeton University Art Museum: Handbook of the Collections* by James Christen Steward <br> • *Whitney Museum of American Art: Handbook of the Collection* by Dana Miller <br> • *Toward Joy: New Frameworks for American Art* by Stephanie Sparling Williams |
+
