@@ -2,7 +2,6 @@
 title: 🐯 Princeton AAS unofficial reading list
 description: This is an unofficial reading list from 2026 African American Studies classes at Princeton
 author: Daniel Dantas
-hidden: true
 ---
 
 | Sophomore level | |
