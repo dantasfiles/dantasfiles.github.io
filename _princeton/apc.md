@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton APC unofficial reading list
-description: This is an unofficial reading list from 2026 applied & computational mathematics classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Applied & Computational Mathematics unofficial reading list
 ---
 
 | Junior level | |
