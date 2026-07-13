@@ -9,6 +9,7 @@ hidden: true
 | :---: | --- |
 | [**The Souls of Black Folk - Reading W.E.B. Du Bois**](https://princeton.ecampus.com/course-list.asp?c=7668152) <br> ENG 245 (fa26) | • *The Autobiography of W.E.B. Du Bois* <br> • *Writings: The Suppression of the African Slave-Trade / The Souls of Black Folk / Dusk of Dawn / Essays & Articles* by W.E.B. Du Bois <br> • [*Darkwater: Voices from Within the Veil*](https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater) by W.E.B. Du Bois <br> • *Black Reconstruction in America, 1860-1880* by W.E.B. Du Bois <br> • *The World & Africa* by W.E.B. Du Bois |
 | [**The Makeover**](https://princeton.ecampus.com/course-list.asp?c=7668630) <br> ENG 296 (fa26) | • *A Gesture Life* by Chang-rae Lee <br> ◦ *Ornamentalism* by Anne Anlin Cheng <br> ◦ *Ordinary Disasters: How I Stopped Being a Model Minority* by Anne Anlin Cheng |
+| [**Girls & Dolls**](https://princeton.ecampus.com/course-list.asp?c=7668631) <br> ENG 297 (fa26) | • *The Lonely Doll* by Dare Wright <br> • *What Maisie Knew* by Henry James <br> • [*The Age of Innocence*](https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence) by Edith Wharton <br> • *The Membranes* by Chi Ta-wei <br> • *The Bluest Eye* by Toni Morrison <br> • *Nightwood* by Djuna Barnes <br> ◦ *Ornamentalism* by Anne Anlin Cheng <br> ◦ *Ordinary Disasters: How I Stopped Being a Model Minority* by Anne Anlin Cheng | 
 
 | Junior level | |
 | :---: | --- | 
