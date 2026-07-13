@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton CDH unofficial reading list
-description: This is an unofficial reading list from 2026 computational/data humanities classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Computational / Data Humanities unofficial reading list
 ---
 
 | Junior level | |
