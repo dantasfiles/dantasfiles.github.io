@@ -19,6 +19,7 @@ hidden: true
 | **Origami Engineering** <br> CEE 345 (fa26) | • *How to Fold It: The Mathematics of Linkages, Origami & Polyhedra* by Joseph O'Rourke | 
 | **Matrix Structural Analysis & Intro. to Finite-Element Methods** <br> CEE 361 (fa26) | ◦ *An Intro. To Matrix Structural Analysis & Finite Element Methods* by Prevost & Bagrianski | 
 | **Design of Reinforced Concrete Structures** <br> CEE 366 (fa26) | • *Design of Concrete Structures* by Darwin & Dolan |
+| **Autonomous Fabrication & Robotics** <br> CEE 374 (fa26) | ◦ *Robotics: Theory & Industrial Applications* by Ross et al. | 
 
 | Graduate level | |
 | :---: | --- |
