@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton HUM unofficial reading list
-description: This is an unofficial reading list from 2026 humanistic studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Humanistic Studies unofficial reading list
 ---
 
 | Sophomore level | |
