@@ -13,6 +13,7 @@ hidden: true
 | Junior level | |
 | :---: | --- | 
 | [**Everyday Writing in the Roman World**](https://princeton.ecampus.com/course-list.asp?c=7702556) <br> HIS 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
+| [**The Heike as History & Art**](https://princeton.ecampus.com/course-list.asp?c=7668486) <br> EAS 318 (fa26) | • *The Tale of the Heike* <br> • *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler |
 
 | Senior level | |
 | :---: | --- | 
