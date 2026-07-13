@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton NAI unofficial reading list
-description: This is an unofficial reading list from 2026 Native American & Indigenous classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Native American & Indigenous unofficial reading list
 ---
 
 | Freshman level | |
