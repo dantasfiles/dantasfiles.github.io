@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton AFS unofficial reading list
-description: This is an unofficial reading list from 2026 African studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton African Studies unofficial reading list
 ---
 
 | Sophomore level | |
