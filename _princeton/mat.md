@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton MAT unofficial reading list
-description: This is an unofficial reading list from 2026 mathematics classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Mathematics unofficial reading list
 ---
 
 | Junior level | |
