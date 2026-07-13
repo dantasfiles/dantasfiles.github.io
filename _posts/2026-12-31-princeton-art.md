@@ -13,6 +13,7 @@ hidden: true
 | Junior level | |
 | :---: | --- | 
 | [**Curatorial Time: Historic American Art & its 21st Century Audiences**](https://princeton.ecampus.com/course-list.asp?c=7668170) <br> ART 362 (fa26) | • *Princeton University Art Museum: Handbook of the Collections* by James Christen Steward <br> • *Whitney Museum of American Art: Handbook of the Collection* by Dana Miller <br> • *Toward Joy: New Frameworks for American Art* by Stephanie Sparling Williams |
+| [**Everyday Writing in the Roman World**](https://princeton.ecampus.com/course-list.asp?c=7702556) <br> ART 366 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
 
 | Senior level | |
 | :---: | --- |
