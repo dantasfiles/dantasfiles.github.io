@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton SOC unofficial reading list
-description: This is an unofficial reading list from 2026 sociology classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Sociology unofficial reading list
 ---
 
 | Sophomore level | |
