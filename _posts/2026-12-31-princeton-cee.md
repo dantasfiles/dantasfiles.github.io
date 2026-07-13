@@ -24,6 +24,7 @@ hidden: true
 | Senior level | |
 | :---: | --- |
 | **Risk Analysis** <br> CEE 460 (fa26) | • *Probability Concepts in Engineering: Emphasis on Applications to CEE* by Ang & Tang <br> ◦ *An Intro. to Statistical Modeling of Extreme Values* by Stuart Coles | 
+| **Intro. to Water Pollution Technology** <br> CEE 471 (fa26) | ◦ *Water Quality: Characteristics, Modeling and Modification* by Tchobanoglous & Schoeder | 
 
 | Graduate level | |
 | :---: | --- |
