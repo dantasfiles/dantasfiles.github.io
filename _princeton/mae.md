@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton MAE unofficial reading list
-description: This is an unofficial reading list from 2026 mechanical & aerospace engineering classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Mechanical & Aerospace Engineering unofficial reading list
 ---
 
 | Freshman level | |
