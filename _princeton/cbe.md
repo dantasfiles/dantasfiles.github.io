@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton CBE unofficial reading list
-description: This is an unofficial reading list from 2026 chemical & biological engineering classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Chemical & Biological Engineering unofficial reading list
 ---
 
 | Sophomore level | |
