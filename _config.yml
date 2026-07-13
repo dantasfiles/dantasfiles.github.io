@@ -19,6 +19,7 @@ show_excerpts: true
 collections:
   princeton:
     output: true
+    layout: post
 
 minima:
   skin: classic
