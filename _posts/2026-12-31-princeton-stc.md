@@ -8,6 +8,7 @@ hidden: true
 | Junior level | |
 | :---: | --- |
 | **Origami Engineering** <br> STC 345 (fa26) | • *How to Fold It: The Mathematics of Linkages, Origami & Polyhedra* by Joseph O'Rourke | 
+| **Autonomous Fabrication & Robotics** <br> STC 374 (fa26) | ◦ *Robotics: Theory & Industrial Applications* by Ross et al. | 
 
 | Senior level | |
 | :---: | --- |
