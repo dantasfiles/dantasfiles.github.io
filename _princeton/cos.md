@@ -1,11 +1,6 @@
 ---
-title: 🐯 Princeton CS unofficial reading list
-description: This is an unofficial reading list from 2026 computer science classes at Princeton
-author: Daniel Dantas
+title: 🐯 Princeton Computer Science unofficial reading list
 ---
-
-This is an unofficial reading list from 2026 computer science classes at Princeton\
-I've read sections of many of these, but the items marked with a **bold** ✔️ are ones I've found interesting enough to read at length
 
 | Sophomore level | | 
 | :---: | --- |
@@ -41,15 +36,3 @@ I've read sections of many of these, but the items marked with a **bold** ✔️
 | [**Empirical Research Methods for CS**](https://humans.cs.princeton.edu/teaching/spring2026_empirical_methods.html) <br> COS 598D (sp26) | See website for paper list | 
 | [**Machine Learning for Structural Biology**](https://www.cs.princeton.edu/courses/archive/spring26/cos598L/) <br> COS 598L (sp26) | See website for paper list | 
 
-<!-- | B.S.E. Basic Math and Science | |
-| :---: | --- |
-| **Calculus I** / **II** <br> MAT 103 / 104 | 📕 *Thomas' Calculus: Early Transcendentals* by Hass et al. |
-| **Multivariable Calculus** <br> MAT 201 | 📕 *Thomas' Calculus: Multivariable* by Hass et al. |
-| **Linear Algebra with Applications** <br> MAT 202 | 📕 *Linear Algebra with Applications* by Otto Bretscher | 
-| **Adv. Linear Algebra with Applications** <br> MAT 204 | 📕 *Linear Algebra: Ideas & Applications* by Richard C. Penney |
-| **Honors Linear Algebra** <br> MAT 217 | 📕 [*Linear Algebra Done Right*](https://linear.axler.net/) by Sheldon Axler | -->
-
-<!-- | Other technology-related courses | |
-| :---: | --- |
-| **Ethics & Technology: Engineering in the Real World** <br> EGR 260 | ◦ *Engineering Ethics: Contemporary & Enduring Debates* by Deborah G. Johnson <br> ◦ *Blind Spots: Why We Fail to Do What's Right & What to Do about It* by Bazerman & Tenbrunsel <br> ◦ *Giving Voice to Values: How to Speak Your Mind When You Know What's Right* by Mary C. Gentile <br> ◦ *The Essential Engineer: Why Science Alone Will Not Solve Our Global Problems* by Henry Petroski <br> ◦ *To Engineer Is Human: The Role of Failure in Successful Design* by Henry Petroski |
-| **Black Mirror: Race, Technology & Justice** <br> CDH 339 | • *Ruined by Design: How Designers Destroyed the World & What We Can Do to Fix It* by Mike Monteiro <br> ◦ *Data Feminism* by D'Ignazio & Klein <br> ◦ *Design Justice: Community-Led Practices to Build the Worlds We Need* by Sasha Costanza-Chock <br> • *Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI* by Karen Hao | -->
