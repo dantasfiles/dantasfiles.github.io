@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton CHM unofficial reading list
-description: This is an unofficial reading list from 2026 chemistry classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Chemistry unofficial reading list
 ---
 
 | Sophomore level | |
