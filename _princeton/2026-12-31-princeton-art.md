@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton ART unofficial reading list
-description: This is an unofficial reading list from 2026 art & archaeology classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Art & Archaeology unofficial reading list
 ---
 
 | Sophomore level | |
