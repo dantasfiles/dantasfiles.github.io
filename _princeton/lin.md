@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton LIN unofficial reading list
-description: This is an unofficial reading list from 2026 linguistics classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Linguistics unofficial reading list
 ---
 
 | Sophomore level | |
