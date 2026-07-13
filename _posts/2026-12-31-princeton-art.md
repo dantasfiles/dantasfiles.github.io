@@ -21,4 +21,4 @@ hidden: true
 
 | Graduate level | |
 | :---: | --- |
-| [**Science & Its Fictions in the Long 19th Century**](https://princeton.ecampus.com/course-list.asp?c=7669505) <br> ART 577 (fa26) | ✔️ [***Frankenstein***](https://standardebooks.org/ebooks/mary-shelley/frankenstein) by Mary Shelley <br> ✔️ ***Journey to the Center of the Earth*** by Jules Verne <br> • *The Island of Doctor Moreau* by H.G. Wells|
+| [**Science & Its Fictions in the Long 19th Century**](https://princeton.ecampus.com/course-list.asp?c=7669505) <br> ART 577 (fa26) | ✔️ [***Frankenstein***](https://standardebooks.org/ebooks/mary-shelley/frankenstein) by Mary Shelley <br> ✔️ ***Journey to the Center of the Earth*** by Jules Verne <br> • *The Island of Doctor Moreau* by H.G. Wells |
