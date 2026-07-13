@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton BCS unofficial reading list
-description: This is an unofficial reading list from 2026 Bosnian-Croatian-Serbian classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Bosnian-Croatian-Serbian unofficial reading list
 ---
 
 | Freshman level | |
