@@ -12,6 +12,7 @@ hidden: true
 | Junior level | |
 | :---: | --- | 
 | [**Ethnography, Evidence & Experience**](https://princeton.ecampus.com/course-list.asp?c=7668176) <br> ANT 300 (fa26) | • *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale <br> • *Crooked Cats: Beastly Encounters in the Anthropocene* by Nayanika Mathur <br> • *Returning to Reims* by Didier Eribon |
+| [**Food, Health & Justice**](https://princeton.ecampus.com/course-list.asp?c=7668178) <br> ANT 311 (fa26) | • *Food Justice Undone: Lessons for Building a Better Movement* by Hanna Garth |
 
 | Senior level | |
 | :---: | --- |
