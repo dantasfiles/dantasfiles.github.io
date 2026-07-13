@@ -11,3 +11,6 @@ hidden: true
 | **Intensive Elementary Chinese** <br> CHI 103 (fa26) | • *A Trip to China: An Intermediate Reader of Modern Chinese* by Chou | 
 | **Intermediate Chinese I** <br> CHI 105 (fa26) | • *A New China: An Intermediate Reader of Modern Chinese* by Chou et al. |
 
+| Junior level | |
+| :---: | --- |
+| **3rd-Year Modern Chinese I** <br> CHI 303 (fa26) | *Eyes on China: An Intermediate-Adv. Reader of Modern Chinese by Chou et al. |
