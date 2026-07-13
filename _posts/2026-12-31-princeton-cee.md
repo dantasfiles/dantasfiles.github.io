@@ -15,11 +15,15 @@ hidden: true
 
 | Junior level | |
 | :---: | --- |
-| **Applied Statistical Methods in the Natural & Built Environment** <br> CEE 323 (fa26) | • *Applied Statistics for Civil & Environmental Engineers* by Kottegoda & Rosso |
+| **Applied Statistical Methods in the Natural & Built Environment** <br> CEE 323 (fa26) | • *Applied Statistics for CEE* by Kottegoda & Rosso |
 | **Origami Engineering** <br> CEE 345 (fa26) | • *How to Fold It: The Mathematics of Linkages, Origami & Polyhedra* by Joseph O'Rourke | 
 | **Matrix Structural Analysis & Intro. to Finite-Element Methods** <br> CEE 361 (fa26) | ◦ *An Intro. To Matrix Structural Analysis & Finite Element Methods* by Prevost & Bagrianski | 
 | **Design of Reinforced Concrete Structures** <br> CEE 366 (fa26) | • *Design of Concrete Structures* by Darwin & Dolan |
 | **Autonomous Fabrication & Robotics** <br> CEE 374 (fa26) | ◦ *Robotics: Theory & Industrial Applications* by Ross et al. | 
+
+| Senior level | |
+| :---: | --- |
+| **Risk Analysis** <br> CEE 460 (fa26) | • *Probability Concepts in Engineering: Emphasis on Applications to CEE* by Ang & Tang <br> ◦ *An Intro. to Statistical Modeling of Extreme Values* by Stuart Coles | 
 
 | Graduate level | |
 | :---: | --- |
