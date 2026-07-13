@@ -5,6 +5,10 @@ author: Daniel Dantas
 hidden: true
 ---
 
+| Freshman level | |
+| :---: | --- | 
+| **Engineering in the Modern World** <br> EGR 102A (fa26) | • *The Innovators, Trade: The Engineering Pioneers Who Transformed America* by David P. Billington <br> • *From Insight to Innovation: Engineering Ideas That Transformed America in the 20th Century* by Billington & Littman <br> ◦ *Power, Speed & Form: Engineers & the Making of the 20th Century* by Billington & Billington | 
+
 | Sophomore level | |
 | :---: | --- |
 | [**Designing Sustainable Systems: Experiential Learning on Campus Energy**](https://princeton.ecampus.com/course-list.asp?c=7668621) <br> EGR 208 (fa26) | • *Cradle to Cradle: Remaking the Way We Make Things* by McDonough & Braungart <br> • *Biomimicry: Innovation Inspired by Nature* by Janine M. Benyus <br> • *Thinking in Systems* by Donella H. Meadows | 
