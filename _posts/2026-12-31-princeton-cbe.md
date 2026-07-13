@@ -5,6 +5,10 @@ author: Daniel Dantas
 hidden: true
 ---
 
+| Sophomore level | |
+| :---: | --- |
+| **Introduction to Cellular & Molecular Biology** <br> CBE 214 (fa26) | • *Essential Cell Biology* by Alberts et al. | 
+
 | Graduate level | |
 | :---: | --- | 
 | [**Mathematical Methods of Engineering Analysis I**](https://princeton.ecampus.com/course-list.asp?c=7714723) <br> CBE 509 (fa26) | • *Mathematical Methods for Physics & Engineering* by Riley et al. <br> • *Mathematical Methods for Physicists* by Arfken et al. |
