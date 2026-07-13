@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton URB unofficial reading list
-description: This is an unofficial reading list from 2026 urban studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Urban Studies unofficial reading list
 ---
 
 | Sophomore level | |
