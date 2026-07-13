@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton CHI unofficial reading list
-description: This is an unofficial reading list from 2026 Chinese classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Chinese unofficial reading list
 ---
 
 | Freshman level | |
