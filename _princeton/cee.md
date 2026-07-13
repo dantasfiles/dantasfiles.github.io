@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton CEE unofficial reading list
-description: This is an unofficial reading list from 2026 civil & environmental engineering classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Civil & Environmental Engineering unofficial reading list
 ---
 
 | Freshman level | |
