@@ -22,6 +22,5 @@ hidden: true
 | [**Intro. to Statistical Mechanics**](https://princeton.ecampus.com/course-list.asp?c=7668374) <br> CHM 503 (fa26) | • *Intro. to Modern Statistical Mechanics* by David Chandler <br> ◦ *Random Heterogeneous Materials: Microstructure & Macroscopic Properties* by Salvatore Torquato |
 | **Adv. Inorganic Chem.** <br> CHM 522 (fa26) | ◦ *Chemical Applications of Group Theory* by F. Albert Cotton <br> ◦ *Molecular Symmetry & Group Theory* by Robert L. Carter | 
 | **Inorganic Chem.: Modern Electrochem.** <br> CHM 524 (fa26) | • *Electrochemical Methods: Fundamentals & Applications* by Bard et al. | 
-| **Synthetic Organic Chem.** <br> CHM 530 (fa26) | ◦ *Advanced Organic Chem.: Part B: Reaction & Synthesis*
-by Carey & Sundberg <br> ◦ *Modern Physical Organic Chem.* by Anslyn & Dougherty <br> ◦ *Strategic Applications of Named Reactions in Organic Synthesis* by Kurti & Czako |
+| **Synthetic Organic Chem.** <br> CHM 530 (fa26) | ◦ *Advanced Organic Chem.: Part B: Reaction & Synthesis* by Carey & Sundberg <br> ◦ *Modern Physical Organic Chem.* by Anslyn & Dougherty <br> ◦ *Strategic Applications of Named Reactions in Organic Synthesis* by Kurti & Czako |
 
