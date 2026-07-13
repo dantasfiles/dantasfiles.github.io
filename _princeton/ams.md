@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton AMS unofficial reading list
-description: This is an unofficial reading list from 2026 American Studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton American Studies unofficial reading list
 ---
 
 | Freshman level | |
