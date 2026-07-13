@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton LAS unofficial reading list
-description: This is an unofficial reading list from 2026 Latin American studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Latin American Studies unofficial reading list
 ---
 
 | Sophomore level | |
