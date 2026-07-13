@@ -14,3 +14,7 @@ hidden: true
 | Junior level | |
 | :---: | --- |
 | **3rd-Year** / **Intensive 3rd-Year Modern Chinese I** <br> CHI 303 / 305 (fa26) | • *Eyes on China: An Intermediate-Adv. Reader of Modern Chinese* by Chou et al. |
+
+| Senior level | |
+| :---: | --- |
+| **Intensive Fourth-Year Modern Chinese I** <br> CHI 405 (fa26) | *Anything Goes: An Adv. Reader of Modern Chinese* by Chou et al. | 
