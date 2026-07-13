@@ -17,4 +17,4 @@ hidden: true
 
 | Senior level | |
 | :---: | --- |
-| **Intensive Fourth-Year Modern Chinese I** <br> CHI 405 (fa26) | *Anything Goes: An Adv. Reader of Modern Chinese* by Chou et al. | 
+| **Intensive 4th-Year Modern Chinese I** <br> CHI 405 (fa26) | *Anything Goes: An Adv. Reader of Modern Chinese* by Chou et al. | 
