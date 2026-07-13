@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton POL unofficial reading list
+title: 🐯 Princeton Politics unofficial reading list
 description: This is an unofficial reading list from 2026 politics classes at Princeton
 author: Daniel Dantas
 hidden: true
