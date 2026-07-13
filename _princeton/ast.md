@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton AST unofficial reading list
-description: This is an unofficial reading list from 2026 astrophysical sciences classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Astrophysical Sciences unofficial reading list
 ---
 
 | Graduate level | |
