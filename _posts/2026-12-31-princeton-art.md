@@ -19,3 +19,6 @@ hidden: true
 | [**19th-Century European Art: Painting & Literature in 19th C. France and England**](https://princeton.ecampus.com/course-list.asp?c=7668251) <br> ART 450 (fa26) | • [*The Picture of Dorian Gray*](https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray) by Oscar Wilde <br> • [The Masterpiece](https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly) by Émile Zola <br> • *The Unknown Masterpiece* by Honoré de Balzac <br> • *Like Death* by Guy de Maupassant <br> • [*Villette*](https://standardebooks.org/ebooks/charlotte-bronte/villette) by Charlotte Brontë |
 | [**Art, Apartheid & South Africa**](https://princeton.ecampus.com/course-list.asp?c=7668162) <br> ART 471 (fa26) | ✔️ ***Disgrace*** by J. M. Coetzee | 
 
+| Graduate level | |
+| :---: | --- |
+| [**Science & Its Fictions in the Long 19th Century**](https://princeton.ecampus.com/course-list.asp?c=7669505) <br> ART 577 (fa26) | ✔️ [***Frankenstein***](https://standardebooks.org/ebooks/mary-shelley/frankenstein) by Mary Shelley <br> ✔️ ***Journey to the Center of the Earth*** by Jules Verne <br> • *The Island of Doctor Moreau* by H.G. Wells|
