@@ -23,4 +23,5 @@ hidden: true
 | **Adv. Inorganic Chem.** <br> CHM 522 (fa26) | ◦ *Chemical Applications of Group Theory* by F. Albert Cotton <br> ◦ *Molecular Symmetry & Group Theory* by Robert L. Carter | 
 | **Inorganic Chem.: Modern Electrochem.** <br> CHM 524 (fa26) | • *Electrochemical Methods: Fundamentals & Applications* by Bard et al. | 
 | **Synthetic Organic Chem.** <br> CHM 530 (fa26) | ◦ *Advanced Organic Chem.: Part B: Reaction & Synthesis* by Carey & Sundberg <br> ◦ *Modern Physical Organic Chem.* by Anslyn & Dougherty <br> ◦ *Strategic Applications of Named Reactions in Organic Synthesis* by Kurti & Czako |
+| **Mechanistic & Physical Organic Chem.** <br> CHM 532 (fa26) | • *Modern Physical Organic Chem.* by Anslyn & Dougherty | 
 
