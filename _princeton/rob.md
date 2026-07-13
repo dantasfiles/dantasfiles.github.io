@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton ROB unofficial reading list
-description: This is an unofficial reading list from 2026 robotics classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Robotics unofficial reading list
 ---
 
 | Junior level | |
