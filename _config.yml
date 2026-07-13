@@ -16,6 +16,9 @@ remote_theme: jekyll/minima
 
 show_excerpts: true
 
+collections:
+  princeton:
+    output: true
 
 minima:
   skin: classic
