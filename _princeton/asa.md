@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton ASA unofficial reading list
+title: 🐯 Princeton Asian American Studies unofficial reading list
 description: This is an unofficial reading list from 2026 Asian American studies classes at Princeton
 author: Daniel Dantas
 hidden: true
