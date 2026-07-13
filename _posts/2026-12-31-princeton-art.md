@@ -16,5 +16,6 @@ hidden: true
 
 | Senior level | |
 | :---: | --- |
+| [**19th-Century European Art: Painting & Literature in 19th C. France and England**](https://princeton.ecampus.com/course-list.asp?c=7668251) <br> ART 450 (fa26) | • [*The Picture of Dorian Gray*](https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray) by Oscar Wilde |
 | [**Art, Apartheid & South Africa**](https://princeton.ecampus.com/course-list.asp?c=7668162) <br> ART 471 (fa26) | ✔️ ***Disgrace*** by J. M. Coetzee | 
 
