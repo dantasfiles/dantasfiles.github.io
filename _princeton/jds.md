@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton JDS unofficial reading list
+title: 🐯 Princeton Judaic Studies unofficial reading list
 description: This is an unofficial reading list from 2026 Judaic studies classes at Princeton
 author: Daniel Dantas
 hidden: true
