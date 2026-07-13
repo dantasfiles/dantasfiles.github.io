@@ -7,6 +7,7 @@ hidden: true
 
 | Junior level | |
 | :---: | --- |
+| **Matrix Structural Analysis & Intro. to Finite-Element Methods** <br> MSE 331 (fa26) | ◦ *An Intro. To Matrix Structural Analysis & Finite Element Methods* by Prevost & Bagrianski | 
 | **Origami Engineering** <br> MSE 345 (fa26) | • *How to Fold It: The Mathematics of Linkages, Origami & Polyhedra* by Joseph O'Rourke | 
 
 | Graduate level | |
