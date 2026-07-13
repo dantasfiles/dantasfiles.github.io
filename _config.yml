@@ -21,6 +21,13 @@ collections:
     output: true
     layout: post
 
+defaults:
+  - scope:
+      path: ""          # Matches all files in the targeted type
+      type: "princeton"   # Must match your collection name
+    values:
+      layout: "page"  # The name of your layout file without .html
+
 minima:
   skin: classic
   social_links:
