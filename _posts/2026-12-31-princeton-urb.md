@@ -12,3 +12,7 @@ hidden: true
 | Junior level | |
 | :---: | --- |
 | [**Food, Health & Justice**](https://princeton.ecampus.com/course-list.asp?c=7668178) <br> URB 312 (fa26) | • *Food Justice Undone: Lessons for Building a Better Movement* by Hanna Garth |
+
+| Senior level | |
+| :---: | --- |
+| **Intro. to Water Pollution Technology** <br> URB 471 (fa26) | ◦ *Water Quality: Characteristics, Modeling & Modification* by Tchobanoglous & Schoeder | 
