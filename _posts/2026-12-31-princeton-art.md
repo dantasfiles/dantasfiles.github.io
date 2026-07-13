@@ -8,6 +8,7 @@ hidden: true
 | Sophomore level | |
 | :---: | --- | 
 | [**The Art & Archaeology of the Ancient Near East & Egypt**](https://princeton.ecampus.com/course-list.asp?c=7668238) <br> ART 200 (fa26) | • *Art of Mesopotamia* by Zainab Bahrani | 
+| [**Art & Archaeology of Ancient Mesoamerica**](https://princeton.ecampus.com/course-list.asp?c=7668243) <br> ART 267 (fa26) | • *The Art of Mesoamerica: From Olmec to Aztec* by Mary Ellen Miller | 
 
 | Junior level | |
 | :---: | --- | 
