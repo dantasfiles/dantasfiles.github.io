@@ -7,7 +7,7 @@ hidden: true
 
 | Sophomore level | |
 | :---: | --- |
-| **General Chemistry I** <br> CHM 201 (fa26) | • *Chemical Principles* by Zumdahl & DeCoste | 
+| **General Chemistry I** / **Applications in Modern Technology** <br> CHM 201 / 207 (fa26) | • *Chemical Principles* by Zumdahl & DeCoste | 
 
 | Graduate level | |
 | :---: | --- | 
