@@ -11,7 +11,7 @@ hidden: true
 
 | Junior level | |
 | :---: | --- |
-| **Applied Statistical Methods in the Natural & Built Environment** <br> ENV 323 (fa26) | • **Applied Statistics for Civil & Environmental Engineers** by Kottegoda & Rosso |
+| **Applied Statistical Methods in the Natural & Built Environment** <br> ENV 323 (fa26) | • *Applied Statistics for Civil & Environmental Engineers* by Kottegoda & Rosso |
 
 | Senior level | |
 | :---: | --- |
