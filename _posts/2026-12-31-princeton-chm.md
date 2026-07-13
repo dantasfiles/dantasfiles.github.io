@@ -11,7 +11,7 @@ hidden: true
 
 | Junior level | |
 | :---: | --- |
-| **Organic Chemistry I: Biological Emphasis** <br> CHM 301 | • *The Organic Chem Lab Survival Manual: A Student's Guide to Techniques* by James W. Zubrick <br> • *Organic Chemistry* by Klein & Starkey <br> ◦ *Organic Chemistry, Student Solution Manual and Study Guide* by Klein & Starkey | 
+| **Organic Chemistry I: Biological Emphasis** <br> CHM 301 | • *The Organic Chem Lab Survival Manual: A Student's Guide to Techniques* by James W. Zubrick <br> • *Organic Chemistry* by Klein & Starkey <br> ◦ *Organic Chemistry: Student Study Guide and Solutions Manual* by Klein & Starkey | 
 
 | Graduate level | |
 | :---: | --- | 
