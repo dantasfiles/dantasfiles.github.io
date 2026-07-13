@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton LAO unofficial reading list
-description: This is an unofficial reading list from 2026 Latino studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Latino Studies unofficial reading list
 ---
 
 | Freshman level | |
