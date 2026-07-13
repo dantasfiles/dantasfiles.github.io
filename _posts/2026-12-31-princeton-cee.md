@@ -13,6 +13,10 @@ hidden: true
 | :---: | --- |
 | **Mechanics of Solids** <br> CEE 205 (fa26) | • *Mechanics of Materials* by R.C. Hibbeler |
 
+| Junior level | |
+| :---: | --- |
+| **Applied Statistical Methods in the Natural & Built Environment** <br> CEE 323 (fa26) | • **Applied Statistics for Civil & Environmental Engineers** by Kottegoda & Rosso |
+
 | Graduate level | |
 | :---: | --- |
 | [**Membrane Separations for Energy & the Environment**](https://princeton.ecampus.com/course-list.asp?c=7668625) <br> CEE 504 (fa26) | • *Membrane Technology & Applications* by Richard W. Baker |
