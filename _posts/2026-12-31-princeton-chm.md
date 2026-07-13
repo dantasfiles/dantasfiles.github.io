@@ -12,7 +12,7 @@ hidden: true
 | Junior level | |
 | :---: | --- |
 | **Organic Chem. I: Biological Emphasis** <br> CHM 301 (fa26) | • *The Organic Chem Lab Survival Manual: A Student's Guide to Techniques* by James W. Zubrick <br> • *Organic Chem.* by Klein & Starkey <br> ◦ *Organic Chem.: Student Study Guide & Solutions Manual* by Klein & Starkey | 
-| **The Quantum World** <br> CHM 305 (fa26) | • *Quantum Chemistry* by Donald A. McQuarrie <br> ◦ *Intro. to Quantum Mechanics* by Griffiths & Schroeter |
+| **The Quantum World** <br> CHM 305 (fa26) | • *Quantum Chem.* by Donald A. McQuarrie <br> ◦ *Intro. to Quantum Mechanics* by Griffiths & Schroeter |
 | **Organic Chem.: Bioengineering Emphasis** <br> CHM 337 (fa26) | • *The Organic Chem Lab Survival Manual: A Student's Guide to Techniques* by James W. Zubrick <br> • *Biochem.* by Berg et al. <br> • *Organic Chem.* by Klein & Starkey |
 | **Biochem.** <br> CHM 345 (fa26) | • *Lehninger Principles of Biochem.* by Nelson & Cox | 
 | **Analytical Methods & Experimental Design** <br> CHM 373 (fa26) | • *An Intro. to Error Analysis: The Study of Uncertainties in Physical Measurements* by John R. Taylor <br> • *Principles of Instrumental Analysis* by Skoog et al.|
