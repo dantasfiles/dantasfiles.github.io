@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton STC unofficial reading list
-description: This is an unofficial reading list from 2026 science & technology center classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Science & Technology Center unofficial reading list
 ---
 
 | Junior level | |
