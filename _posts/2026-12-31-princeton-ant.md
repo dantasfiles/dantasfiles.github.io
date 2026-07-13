@@ -13,6 +13,7 @@ hidden: true
 | :---: | --- | 
 | [**Ethnography, Evidence & Experience**](https://princeton.ecampus.com/course-list.asp?c=7668176) <br> ANT 300 (fa26) | • *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale <br> • *Crooked Cats: Beastly Encounters in the Anthropocene* by Nayanika Mathur <br> • *Returning to Reims* by Didier Eribon |
 | [**Food, Health & Justice**](https://princeton.ecampus.com/course-list.asp?c=7668178) <br> ANT 311 (fa26) | • *Food Justice Undone: Lessons for Building a Better Movement* by Hanna Garth |
+| [**Queer Becomings**](https://princeton.ecampus.com/course-list.asp?c=7668181) <br> ANT 337 (fa26) | • *The Struggle to Be Gay—in Mexico, for Example* by Roger N. Lancaster <br> • *Gay Fathers, Their Children & the Making of Kinship* by Aaron Goodfellow <br> • *Butch Queens Up in Pumps: Gender, Performance & Ballroom Culture in Detroit* by Marlon M. Bailey |
 
 | Senior level | |
 | :---: | --- |
