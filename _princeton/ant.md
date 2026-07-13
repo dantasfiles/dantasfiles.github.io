@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton ANT unofficial reading list
-description: This is an unofficial reading list from 2026 anthropology classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Anthropology unofficial reading list
 ---
 
 | Sophomore level | |
