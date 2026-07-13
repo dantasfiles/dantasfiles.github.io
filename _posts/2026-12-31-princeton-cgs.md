@@ -7,6 +7,6 @@ hidden: true
 
 | Sophomore level | |
 | :---: | --- |
-| **Intro. to Language and Linguistics** <br> CGS 205 (fa26) | • *Language Files: Materials for an Introduction to Language and Linguistics* |
+| **Intro. to Language and Linguistics** <br> CGS 205 (fa26) | • *Language Files: Materials for an Intro. to Language & Linguistics* |
 
 
