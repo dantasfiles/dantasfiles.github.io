@@ -16,3 +16,7 @@ hidden: true
 | Senior level | |
 | :---: | --- |
 | [**Visible Evidence: Wildlife Films & Multispecies Documentary**](https://princeton.ecampus.com/course-list.asp?c=7668186) <br> ENV 456 (fa26) | • *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor | 
+
+| Graduate level | |
+| :---: | --- |
+| **Ecohydrology** <br> ENV 587 (fa26) | • *Ecohydrology: Dynamics of Life and Water in the Critical Zone* by Porporato & Yin | 
