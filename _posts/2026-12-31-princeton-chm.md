@@ -11,7 +11,8 @@ hidden: true
 
 | Junior level | |
 | :---: | --- |
-| **Organic Chemistry I: Biological Emphasis** <br> CHM 301 | • *The Organic Chem Lab Survival Manual: A Student's Guide to Techniques* by James W. Zubrick <br> • *Organic Chemistry* by Klein & Starkey <br> ◦ *Organic Chemistry: Student Study Guide and Solutions Manual* by Klein & Starkey | 
+| **Organic Chemistry I: Biological Emphasis** <br> CHM 301 (fa26) | • *The Organic Chem Lab Survival Manual: A Student's Guide to Techniques* by James W. Zubrick <br> • *Organic Chemistry* by Klein & Starkey <br> ◦ *Organic Chemistry: Student Study Guide & Solutions Manual* by Klein & Starkey | 
+| **The Quantum World** <br> CHM 305 (fa26) | • *Quantum Chemistry* by Donald A. McQuarrie <br> ◦ *Intro. to Quantum Mechanics* by Griffiths & Schroeter |
 
 | Graduate level | |
 | :---: | --- | 
