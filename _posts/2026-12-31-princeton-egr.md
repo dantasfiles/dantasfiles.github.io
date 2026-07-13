@@ -7,7 +7,7 @@ hidden: true
 
 | Freshman level | |
 | :---: | --- | 
-| **Engineering in the Modern World** <br> EGR 102A (fa26) | • *The Innovators, Trade: The Engineering Pioneers Who Transformed America* by David P. Billington <br> • *From Insight to Innovation: Engineering Ideas That Transformed America in the 20th Century* by Billington & Littman <br> ◦ *Power, Speed & Form: Engineers & the Making of the 20th Century* by Billington & Billington | 
+| **Engineering in the Modern World** <br> EGR 102 (fa26) | • *The Innovators, Trade: The Engineering Pioneers Who Transformed America* by David P. Billington <br> • *From Insight to Innovation: Engineering Ideas That Transformed America in the 20th Century* by Billington & Littman <br> ◦ *Power, Speed & Form: Engineers & the Making of the 20th Century* by Billington & Billington | 
 
 | Sophomore level | |
 | :---: | --- |
