@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton MSE unofficial reading list
-description: This is an unofficial reading list from 2026 material science & engineering classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Material Science & Engineering unofficial reading list
 ---
 
 | Junior level | |
