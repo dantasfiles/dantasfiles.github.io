@@ -4,3 +4,9 @@ description: This is an unofficial reading list from 2026 cognitive science clas
 author: Daniel Dantas
 hidden: true
 ---
+
+| Sophomore level | |
+| :---: | --- |
+| **Intro. to Language and Linguistics** <br> CGS 205 (fa26) | • *Language Files: Materials for an Introduction to Language and Linguistics* |
+
+
