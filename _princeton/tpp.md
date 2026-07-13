@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton TPP unofficial reading list
-description: This is an unofficial reading list from 2026 teacher preparation classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Teacher Preparation unofficial reading list
 ---
 
 | Junior level | |
