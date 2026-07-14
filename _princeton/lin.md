@@ -5,3 +5,5 @@ title: 🐯 Princeton Linguistics unofficial reading list
 | Sophomore level | |
 | :---: | --- |
 | **Intro. to Language and Linguistics** <br> LIN 205 (fa26) | • *Language Files: Materials for an Intro. to Language & Linguistics* |
+| **The Trojan War: A Linguistic Intro.** <br> LIN 259 (fa26) | • *How Dead Languages Work* by Coulter H. George <br> • *The Trojan War: A Very Short Intro.* by Eric H. Cline |
+
