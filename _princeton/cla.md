@@ -14,3 +14,8 @@ title: 🐯 Princeton Classics unofficial reading list
 | :---: | --- |
 | **The Trojan War: A Linguistic Intro.** <br> CLA 307 (fa26) | • *How Dead Languages Work* by Coulter H. George <br> • *The Trojan War: A Very Short Intro.* by Eric H. Cline |
 | **Ancient History: Everyday Writing in the Roman World** <br> CLA 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
+
+| Senior level | | 
+| :---: | --- |
+| Between Selves: Living Letters from Antiquity to the Present <br> CLA 415 (fa26) | • *Letter to the Father* by Franz Kafka <br> • *The Letters of Abelard and Heloise* <br> • *The Fire Next Time* by James Baldwin <br> • *Heroides*
+by Ovid <br> • *The Ides of March* by Thornton Wilder <br> • *The Correspondent* by Virginia Evans <br> • *Selected Letters* by Seneca |
