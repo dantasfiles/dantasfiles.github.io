@@ -12,4 +12,4 @@ title: 🐯 Princeton Classics unofficial reading list
 | Junior level | |
 | :---: | --- |
 | **The Trojan War: A Linguistic Intro.** <br> CLA 307 (fa26) | • *How Dead Languages Work* by Coulter H. George <br> • *The Trojan War: A Very Short Intro.* by Eric H. Cline |
-| **Everyday Writing in the Roman World** <br> CLA 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
+| **Ancient History: Everyday Writing in the Roman World** <br> CLA 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
