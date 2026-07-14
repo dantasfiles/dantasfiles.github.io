@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton CHV unofficial reading list
-description: This is an unofficial reading list from 2026 Center for Human Values classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Center for Human Values unofficial reading list
 ---
 
 | Junior level | |
