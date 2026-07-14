@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton GEO unofficial reading list
-description: This is an unofficial reading list from 2026 geosciences classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Geosciences unofficial reading list
 ---
 
 | Junior level | |
