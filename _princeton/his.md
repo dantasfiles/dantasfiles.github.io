@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton HIS unofficial reading list
-description: This is an unofficial reading list from 2026 history classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton History unofficial reading list
 ---
 
 | Sophomore level | |
