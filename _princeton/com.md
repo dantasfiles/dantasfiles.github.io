@@ -24,7 +24,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list
 
 | Graduate level | | 
 | :---: | --- |
-| **Comparative Literature Graduate Pedagogy Seminar** <br> COM 500 (fa26) | • *First Day to Final Grade: A Graduate Student's Guide to Teaching* by Curzan & Lisa Damour <br> • *Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do* by Claude M. Steele <br> ◦ *Deschooling Society* by Ivan Illich <br> ◦ *Teaching to Transgress: Education as the Practice of Freedom* by bell hooks |
+| **Comparative Literature Graduate Pedagogy Seminar** <br> COM 500 (fa26) | • *First Day to Final Grade: A Graduate Student's Guide to Teaching* by Curzan & Damour <br> • *Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do* by Claude M. Steele <br> ◦ *Deschooling Society* by Ivan Illich <br> ◦ *Teaching to Transgress: Education as the Practice of Freedom* by bell hooks |
 
 
 
