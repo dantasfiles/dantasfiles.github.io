@@ -4,6 +4,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list
 
 | Sophomore level | |
 | :---: | --- |
+| **Who Are You Really? Authenticity in Life, Literature & the Internet** COM 200 (fa26) | • *The Reluctant Fundamentalist* by Mohsin Hamid |
 | **How to Read** <br> COM 231 (fa26) | • *A History of Reading* by Alberto Manguel <br> • *Confessions* by Augustine <br> • *Dictee* by Theresa Hak Kyung Cha <br> • *Labyrinths* by Jorge Luis Borges <br> ◦ *What We Talk About When We Talk About Books: The History & Future of Reading* by Leah Price |
 
 | Senior level | |
