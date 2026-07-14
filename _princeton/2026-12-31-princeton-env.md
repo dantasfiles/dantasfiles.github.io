@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton ENV unofficial reading list
-description: This is an unofficial reading list from 2026 environmental studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Environmental Studies unofficial reading list
 ---
 
 | Sophomore level | |
