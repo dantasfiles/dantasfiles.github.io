@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton CLA unofficial reading list
-description: This is an unofficial reading list from 2026 classics classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Classics unofficial reading list
 ---
 
 | Sophomore level | |
