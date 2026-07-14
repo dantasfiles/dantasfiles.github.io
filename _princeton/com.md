@@ -11,6 +11,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list
 | :---: | --- |
 | **Intro. to Comparative Literature** <br> COM 300 (fa26) | • *The Epic of Gilgamesh* by Andrew George |
 | **The Modern Period** <br> COM 318 (fa26) | • *A Room of One's Own* by Virginia Woolf <br> • *The Fourth World* by Diamela Eltit <br> • *The Parable of the Sower* by Octavia E. Butler <br> ◦ *The Burrow* by Franz Kafka <br> • *Kiss of the Spider Woman* by Manuel Puig |
+| **Art, Memory & Human Rights in Latin America** <br> COM 336 (fa26) | • *Liliana's Invincible Summer: A Sister's Search for Justice* by Cristina Rivera Garza <br> • *Operation Massacre* by Rodolfo Walsh <br> • *Massacre in Mexico* by Elena Poniatowska <br> • *Knitting the Fog* by Claudia D. Hernández |
 
 | Senior level | |
 | :---: | --- |
