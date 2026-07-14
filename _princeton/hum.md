@@ -10,7 +10,8 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 
 | Senior level | |
 | :---: | --- |
-| [**19th-Century European Art: Painting & Literature in 19th C. France and England**](https://princeton.ecampus.com/course-list.asp?c=7668251) <br> HUM 451 (fa26) | • [*The Picture of Dorian Gray*](https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray) by Oscar Wilde <br> • [The Masterpiece](https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly) by Émile Zola <br> • *The Unknown Masterpiece* by Honoré de Balzac <br> • *Like Death* by Guy de Maupassant <br> • [*Villette*](https://standardebooks.org/ebooks/charlotte-bronte/villette) by Charlotte Brontë |
+| **Between Selves: Living Letters from Antiquity to the Present** <br> HUM 416 (fa26) | • *Letter to the Father* by Franz Kafka <br> • *The Letters of Abelard and Heloise* <br> • *The Fire Next Time* by James Baldwin <br> • *Heroides* by Ovid <br> • *The Ides of March* by Thornton Wilder <br> • *The Correspondent* by Virginia Evans <br> • *Selected Letters* by Seneca |
+| **19th-Century European Art: Painting & Literature in 19th C. France and England** <br> HUM 451 (fa26) | • [*The Picture of Dorian Gray*](https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray) by Oscar Wilde <br> • [The Masterpiece](https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly) by Émile Zola <br> • *The Unknown Masterpiece* by Honoré de Balzac <br> • *Like Death* by Guy de Maupassant <br> • [*Villette*](https://standardebooks.org/ebooks/charlotte-bronte/villette) by Charlotte Brontë |
 
 | Graduate level | |
 | :---: | --- |
