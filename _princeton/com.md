@@ -10,6 +10,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list
 | Junior level | |
 | :---: | --- |
 | **Intro. to Comparative Literature** <br> COM 300 (fa26) | • *The Epic of Gilgamesh* by Andrew George |
+| **The Modern Period** <br> COM 318 (fa26) | • *A Room of One's Own* by Virginia Woolf <br> • *The Fourth World* by Diamela Eltit <br> • *The Parable of the Sower* by Octavia E. Butler <br> ◦ *The Burrow* by Franz Kafka <br> • *Kiss of the Spider Woman* by Manuel Puig |
 
 | Senior level | |
 | :---: | --- |
