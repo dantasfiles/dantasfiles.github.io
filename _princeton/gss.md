@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton GSS unofficial reading list
-description: This is an unofficial reading list from 2026 gender & sexuality studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list
 ---
 
 | Sophomore level | |
