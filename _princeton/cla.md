@@ -10,5 +10,6 @@ title: 🐯 Princeton Classics unofficial reading list
 | **Pompeii** <br> CLA 250 (fa26) | • *The Complete Pompeii* by Joanne Berry <br> • *The Fires of Vesuvius: Pompeii Lost & Found* by Mary Beard <br> ◦ *The World of Pompeii* by Dobbins & Foss <br> • *Pompeii & Herculaneum: A Sourcebook* by Cooley & Cooley |
 
 | Junior level | |
-| :---: | --- | 
-| [**Everyday Writing in the Roman World**](https://princeton.ecampus.com/course-list.asp?c=7702556) <br> CLA 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
+| :---: | --- |
+| **The Trojan War: A Linguistic Intro.** <br> CLA 307 (fa26) | • *How Dead Languages Work* by Coulter H. George <br> • *The Trojan War: A Very Short Intro.* by Eric H. Cline |
+| **Everyday Writing in the Roman World** <br> CLA 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
