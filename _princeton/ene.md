@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton ENE unofficial reading list
-description: This is an unofficial reading list from 2026 energy studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Energy Studies unofficial reading list
 ---
 
 | Sophomore level | |
