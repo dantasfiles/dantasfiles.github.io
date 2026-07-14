@@ -9,4 +9,4 @@ title: 🐯 Princeton Classic Greek unofficial reading list
 
 | Senior level | |
 | :---: | --- |
-| **Greek Literature: The Greek Chorus** <br> CLG 405 (fa26) | ◦ *Euripides: Bacchae* by Allan & Swift <br> ◦ *Aristophanes: Frogs* by Kenneth Dover <br> ◦ *New Selected Odes of Pindar* by Dickey & Hamilton <br> ◦ *The Agamemnon of Aeschylus: Translated into English Rhyming Verse with Explanatory Notes* by Gilbert Murray <br> ◦ *Greek Lyric Poetry: A Selection of Early Greek Lyric, Elegiac & Iambic Poetry* by David A. Campbell <br> ◦ *Pindar: Pythian Eleven* by P. J. Finglass |
+| **Greek Literature: The Greek Chorus** <br> CLG 405 (fa26) | ◦ *Euripides: Bacchae* by Allan & Swift <br> ◦ *Aristophanes: Frogs* by Kenneth Dover <br> ◦ *New Selected Odes of Pindar* by Dickey & Hamilton <br> ◦ *The Agamemnon of Aeschylus: Translated into English Rhyming Verse with Explanatory Notes* by Gilbert Murray <br> ◦ *Greek Lyric Poetry: A Selection of Early Greek Lyric, Elegiac & Iambic Poetry* by David A. Campbell <br> ◦ *Pindar: Pythian Eleven* by P.J. Finglass |
