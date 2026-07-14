@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton EGR unofficial reading list
-description: This is an unofficial reading list from 2026 engineering classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Engineering unofficial reading list
 ---
 
 | Freshman level | |
