@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton ECS unofficial reading list
-description: This is an unofficial reading list from 2026 European cultural studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton European Cultural Studies unofficial reading list
 ---
 
 | Senior level | |
