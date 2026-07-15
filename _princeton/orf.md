@@ -9,4 +9,4 @@ title: 🐯 Princeton Operations Research & Financial Engineering unofficial rea
 | Junior level | |
 | :---: | --- |
 | **Optimization** <br> ORF 307 (fa26) | ◦ *Intro. to Linear Optimization* by Bertsimas & Tsitsiklis <br> ◦ *Linear Programming: Foundations and Extensions* by Robert J. Vanderbei |
-| **Probability & Stochastic Systems** <br> ORF 309 (fa26) | ◦ *Fundamentals of Probability: With Stochastic Processes* by Saeed Ghahramani <br> *Intro. To Probability* by Bertsekas & Tsitsiklis <br> ◦ *Intro. to Probability Models* by Sheldon M. Ross | 
+| **Probability & Stochastic Systems** <br> ORF 309 (fa26) | ◦ *Fundamentals of Probability: With Stochastic Processes* by Saeed Ghahramani <br> ◦ *Intro. To Probability* by Bertsekas & Tsitsiklis <br> ◦ *Intro. to Probability Models* by Sheldon M. Ross | 
