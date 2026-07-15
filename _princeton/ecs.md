@@ -5,6 +5,7 @@ title: 🐯 Princeton European Cultural Studies unofficial reading list
 | Junior level | |
 | :---: | --- |
 | **The Modern Period** <br> ECS 319 (fa26) | • *A Room of One's Own* by Virginia Woolf <br> • *The Fourth World* by Diamela Eltit <br> • *The Parable of the Sower* by Octavia E. Butler <br> ◦ *The Burrow* by Franz Kafka <br> • *Kiss of the Spider Woman* by Manuel Puig |
+| **Revisiting Paris** <br> ECS 327 (fa26) | • *Kiffe Kiffe demain* by Faïza Guène <br> • *Cannibale* by Didier Daeninckx <br> • *Dora Bruder* by Patrick Modiano |
 
 | Senior level | |
 | :---: | --- |
