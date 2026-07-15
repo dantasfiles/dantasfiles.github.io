@@ -8,4 +8,4 @@ title: 🐯 Princeton Ecology & Evolutionary Biology unofficial reading list
 
 | Junior level | |
 | :---: | --- |
-| **Conservation Biology** <br> EEB 308 (fa26) | • *Fundamentals of Conservation Biology* by Hunter et al.| 
+| **Conservation Biology** <br> EEB 308 (fa26) | • *Fundamentals of Conservation Biology* by Hunter et al. | 
