@@ -5,6 +5,7 @@ title: 🐯 Princeton Engineering unofficial reading list
 | Freshman level | |
 | :---: | --- | 
 | **Engineering in the Modern World** <br> EGR 102 (fa26) | • *The Innovators, Trade: The Engineering Pioneers Who Transformed America* by David P. Billington <br> • *From Insight to Innovation: Engineering Ideas That Transformed America in the 20th Century* by Billington & Littman <br> ◦ *Power, Speed & Form: Engineers & the Making of the 20th Century* by Billington & Billington | 
+| **Foundations of Engineering: The Mathematics of Shape & Motion** <br> EGR 152 (fa26) | ◦ *Thomas' Calculus: Early Transcendentals* by Hass et al. | 
 
 | Sophomore level | |
 | :---: | --- |
