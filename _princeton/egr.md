@@ -15,6 +15,7 @@ title: 🐯 Princeton Engineering unofficial reading list
 | Senior level | |
 | :---: | --- |
 | **High-Tech Entrepreneurship** <br> EGR 491 (fa26) | • *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danner |
+| **Entrepreneurship: Ventures of Impact** <br> EGR 495 (fa26) | • *Effectual Entrepreneurship* by Sarasvathy & Wheatley | 
 
 | Graduate level | |
 | :---: | --- |
