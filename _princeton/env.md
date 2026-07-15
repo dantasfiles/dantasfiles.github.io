@@ -10,6 +10,7 @@ title: 🐯 Princeton Environmental Studies unofficial reading list
 | :---: | --- |
 | **Environmental Economics** <br> ENV 319 (fa26) | ◦ *Economics and the Environment* by Goodstein & Polasky | 
 | **Applied Statistical Methods in the Natural & Built Environment** <br> ENV 323 (fa26) | • *Applied Statistics for Civil & Environmental Engineers* by Kottegoda & Rosso |
+| **Conservation Biology** <br> ENV 365 (fa26) | • *Fundamentals of Conservation Biology* by Hunter et al. | 
 
 | Senior level | |
 | :---: | --- |
