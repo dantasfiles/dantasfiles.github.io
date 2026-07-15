@@ -26,7 +26,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list
 | :---: | --- |
 | **Comp. Lit. Graduate Pedagogy** <br> COM 500 (fa26) | • *First Day to Final Grade: A Graduate Student's Guide to Teaching* by Curzan & Damour <br> • *Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do* by Claude M. Steele <br> ◦ *Deschooling Society* by Ivan Illich <br> ◦ *Teaching to Transgress: Education as the Practice of Freedom* by bell hooks |
 | **Intro. to Comp. Lit.** <br> COM 521 (fa26) | ◦ *Berlin Childhood around 1900* by Walter Benjamin <br> ◦ [*Republic*](https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/text/republic) by Plato <br> ◦ *Poetics* by Aristotle <br> ◦ *Kafka: Toward a Minor Literature* by Deleuze & Guattari |
-| **Contemporary Critical Theories: Marx's Capital** <br> COM 535 (fa26) | • [*Capital: A Critique of Political Economy: Volume One: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx |
+| **Contemporary Critical Theories: Marx's Capital** <br> COM 535 (fa26) | • [*Capital: A Critique of Political Economy: Vol. 1: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx |
 
 
 
