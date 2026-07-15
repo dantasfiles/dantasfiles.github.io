@@ -11,4 +11,6 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list
 | [**Girls & Dolls**](https://princeton.ecampus.com/course-list.asp?c=7668631) <br> GSS 294 (fa26) | • *The Lonely Doll* by Dare Wright <br> • *What Maisie Knew* by Henry James <br> • [*The Age of Innocence*](https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence) by Edith Wharton <br> • *The Membranes* by Chi Ta-wei <br> • *The Bluest Eye* by Toni Morrison <br> • *Nightwood* by Djuna Barnes <br> ◦ *Ornamentalism* by Anne Anlin Cheng <br> ◦ *Ordinary Disasters: How I Stopped Being a Model Minority* by Anne Anlin Cheng |
 | [**Gender, Sexuality & Migration**](https://princeton.ecampus.com/course-list.asp?c=7668766) <br> GSS 297 | • *Sex Trafficking: Inside the Business of Modern Slavery* by Siddharth Kara <br> • *Intimate Migrations: Gender, Family & Illegality among Transnational Mexicans* by Deborah A. Boehm <br> • *High-Tech Housewives: Indian IT Workers, Gendered Labor & Transmigration* by Amy Bhatt <br> • *The Trafficker Next Door: How Household Employers Exploit Domestic Workers* by Rhacel Salazar Parreñas <br> • *The Qualities of a Citizen: Women, Immigration & Citizenship, 1870-1965* by Martha Gardner |
 
-
+| Graduate level | | 
+| :---: | --- |
+| **Contemporary Critical Theories: Marx's Capital** <br> GSS 535 (fa26) | • [*Capital: A Critique of Political Economy: Volume One: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx |
