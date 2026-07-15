@@ -13,6 +13,10 @@ title: 🐯 Princeton Engineering unofficial reading list
 | **Designing Sustainable Systems: Experiential Learning on Campus Energy** <br> EGR 208 (fa26) | • *Cradle to Cradle: Remaking the Way We Make Things* by McDonough & Braungart <br> • *Biomimicry: Innovation Inspired by Nature* by Janine M. Benyus <br> • *Thinking in Systems* by Donella H. Meadows | 
 | **Fundamentals of Statistics** <br> EGR 245 (fa26) | ◦ *Probability and Statistics for Engineering & the Sciences* by Jay Devore | 
 
+| Junior level | |
+| :---: | --- |
+| **Optimization** <br> EGR 307 (fa26) | ◦ *Introduction to Linear Optimization* by Bertsimas & Tsitsiklis <br> ◦ *Linear Programming: Foundations and Extensions* by Robert J. Vanderbei |
+
 | Senior level | |
 | :---: | --- |
 | **High-Tech Entrepreneurship** <br> EGR 491 (fa26) | • *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danner |
