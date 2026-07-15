@@ -9,6 +9,7 @@ title: 🐯 Princeton Engineering unofficial reading list
 
 | Sophomore level | |
 | :---: | --- |
+| **Creativity, Innovation & Design** <br> EGR 200 (fa26) | • *A Whack on the Side of the Head: How You Can Be More Creative* by Roger von Oech <br> • *Experiencing Design: The Innovator's Journey* by Liedtka et al. | 
 | **Designing Sustainable Systems: Experiential Learning on Campus Energy** <br> EGR 208 (fa26) | • *Cradle to Cradle: Remaking the Way We Make Things* by McDonough & Braungart <br> • *Biomimicry: Innovation Inspired by Nature* by Janine M. Benyus <br> • *Thinking in Systems* by Donella H. Meadows | 
 
 | Senior level | |
