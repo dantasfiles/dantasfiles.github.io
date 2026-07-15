@@ -15,4 +15,10 @@ title: 🐯 Princeton Economics unofficial reading list
 | Graduate level | | 
 | :---: | --- |
 | **Microeconomic Theory I** <br> ECO 501 (fa26) | ◦ *Microeconomic Foundations II: Imperfect Competition, Information & Strategic Interaction* by David M. Kreps <br> ◦ *An Intro. to Game Theory* by Martin J. Osborne |
-| **Macroeconomic Theory I** <br> ECO 503 (fa26) | ◦ *Recursive Methods in Economic Dynamics* by Stokey et al.|
+| **Macroeconomic Theory I** <br> ECO 503 (fa26) | ◦ *Recursive Methods in Economic Dynamics* by Stokey et al. |
+| **Econometric Theory I** <br> ECO 517 (fa26) | ◦ *Econometrics* by Fumio Hayashi <br> ◦ *Econometrics* by Bruce Hansen | 
+
+
+
+
+
