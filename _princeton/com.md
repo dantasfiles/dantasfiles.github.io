@@ -41,4 +41,4 @@ I've listed the books that I've found interesting enough to read
 
 | Reading Selection List | |
 | :---: | --- |
-| Fiction | ✔️ ***Things Fall Apart*** by Chinua Achebe | 
+| ✔️ Completed Fiction | ***Things Fall Apart*** by Chinua Achebe | 
