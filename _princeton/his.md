@@ -9,7 +9,8 @@ title: 🐯 Princeton History unofficial reading list
 | [**The Modern Black Freedom Movement: From Civil Rights to Black Power**](https://princeton.ecampus.com/course-list.asp?c=7668778) <br> HIS 269 (fa26) | • *The March on Washington: Jobs, Freedom & the Forgotten History of Civil Rights* by William P. Jones <br> • *Want to Start a Revolution?: Radical Women in the Black Freedom Struggle* by Gore et. al <br> • *Bloody Lowndes: Civil Rights & Black Power in Alabama's Black Belt* by Hasan Kwame Jeffries | 
 
 | Junior level | |
-| :---: | --- | 
+| :---: | --- |
+| **20th-Century Japan** <br> HIS 322 (fa26) | • *Peasants, Rebels, Women & Outcastes: The Underside of Modern Japan* by Mikiso Hane <br> • *Japan at War: An Oral History* by Cook & Cook <br> • *Embracing Defeat: Japan in the Wake of World War II* by John W. Dower <br> • *Molding Japanese Minds: The State in Everyday Life* by Sheldon Garon <br> • *A Modern History of Japan: From Tokugawa Times to the Present* by Andrew Gordon <br> • *Naomi* by Junichiro Tanizaki |
 | [**Everyday Writing in the Roman World**](https://princeton.ecampus.com/course-list.asp?c=7702556) <br> HIS 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
 | [**The Heike as History & Art**](https://princeton.ecampus.com/course-list.asp?c=7668486) <br> EAS 318 (fa26) | • *The Tale of the Heike* <br> • *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler |
 
