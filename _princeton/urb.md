@@ -10,6 +10,7 @@ title: 🐯 Princeton Urban Studies unofficial reading list
 | Junior level | |
 | :---: | --- |
 | **Food, Health & Justice** <br> URB 312 (fa26) | • *Food Justice Undone: Lessons for Building a Better Movement* by Hanna Garth |
+| **20th-Century Japan** <br> URB 324 (fa26) | • *Peasants, Rebels, Women & Outcastes: The Underside of Modern Japan* by Mikiso Hane <br> • *Japan at War: An Oral History* by Cook & Cook <br> • *Embracing Defeat: Japan in the Wake of World War II* by John W. Dower <br> • *Molding Japanese Minds: The State in Everyday Life* by Sheldon Garon <br> • *A Modern History of Japan: From Tokugawa Times to the Present* by Andrew Gordon <br> • *Naomi* by Junichiro Tanizaki |
 
 | Senior level | |
 | :---: | --- |
