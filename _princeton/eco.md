@@ -10,3 +10,4 @@ title: 🐯 Princeton Economics unofficial reading list
 | :---: | ---|
 | **Macroeconomics** <br> ECO 301 (fa26) | • *Macroeconomics* by Abel et al. |
 | **Econometrics** <br> ECO 302 (fa26) | • *Intro. to Econometrics* by Stock & Watson | 
+| **Microeconomic Theory: A Mathematical Approach** <br> ECO 310 (fa26) | ◦ *A Short Course in Intermediate Microeconomics w/ Calculus* by Serrano & Feldman | 
