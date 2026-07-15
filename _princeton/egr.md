@@ -15,7 +15,8 @@ title: 🐯 Princeton Engineering unofficial reading list
 
 | Junior level | |
 | :---: | --- |
-| **Optimization** <br> EGR 307 (fa26) | ◦ *Introduction to Linear Optimization* by Bertsimas & Tsitsiklis <br> ◦ *Linear Programming: Foundations and Extensions* by Robert J. Vanderbei |
+| **Optimization** <br> EGR 307 (fa26) | ◦ *Intro. to Linear Optimization* by Bertsimas & Tsitsiklis <br> ◦ *Linear Programming: Foundations and Extensions* by Robert J. Vanderbei |
+| **Probability & Stochastic Systems** <br> EGR 309 (fa26) | ◦ *Fundamentals of Probability: With Stochastic Processes* by Saeed Ghahramani <br> *Intro. To Probability* by Bertsekas & Tsitsiklis <br> ◦ *Intro. to Probability Models* by Sheldon M. Ross | 
 
 | Senior level | |
 | :---: | --- |
