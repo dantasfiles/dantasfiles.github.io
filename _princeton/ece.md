@@ -16,5 +16,5 @@ title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list
 
 | Graduate level | | 
 | :---: | --- |
-| **Energy & the Environment: Critical Assessment of Energy, Sustainability & Climate** <br> ECE 537 (fa26) | • *The Simple Physics of Energy Use* by Peter Rez <br> • *Fundamentals of Materials for Energy & Environmental Sustainability* by Ginley and Cahen <br> • *Critical Materials* by Alexander King <br> ◦ *Energy Survival Guide: Insight and Outlook* by Jo Hermans <br> ◦ **The Physics of Energy** by Jaffe & Taylor <br> • [*Sustainable Energy – Without the Hot Air*](https://www.withouthotair.com/) by David MacKay |
+| **Energy & the Environment: Critical Assessment of Energy, Sustainability & Climate** <br> ECE 537 (fa26) | • *The Simple Physics of Energy Use* by Peter Rez <br> • *Fundamentals of Materials for Energy & Environmental Sustainability* by Ginley and Cahen <br> • *Critical Materials* by Alexander King <br> ◦ *Energy Survival Guide: Insight and Outlook* by Jo Hermans <br> ◦ *The Physics of Energy* by Jaffe & Taylor <br> • [*Sustainable Energy – Without the Hot Air*](https://www.withouthotair.com/) by David MacKay |
 
