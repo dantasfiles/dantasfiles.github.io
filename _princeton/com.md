@@ -36,12 +36,6 @@ title: 🐯 Princeton Comparative Literature unofficial reading list
 | **Contemporary Critical Theories: Marx's Capital** <br> COM 535 (fa26) | • [*Capital: A Critique of Political Economy: Vol. 1: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx |
 | **Modernism: Surprised by Passion** <br> COM 567 (fa26) | • *Death in Venice and Other Stories* by Thomas Mann <br> • *A Lost Lady* by Willa Cather <br> • [*The Ambassadors*](https://standardebooks.org/ebooks/henry-james/the-ambassadors) by Henry James <br> • [*The Mill on the Floss*](https://standardebooks.org/ebooks/george-eliot/the-mill-on-the-floss) by George Eliot <br> • *Sentimental Education* by Gustave Flaubert <br> • *The Good Soldier* by Ford Madox Ford <br> • [*Sons and Lovers*](https://standardebooks.org/ebooks/d-h-lawrence/sons-and-lovers) by D.H. Lawrence <br> • [*Swann's Way: In Search of Lost Time, Vol. 1*](https://standardebooks.org/ebooks/marcel-proust/in-search-of-lost-time/c-k-scott-moncrieff/text/book-1) by Marcel Proust <br> • *Cheri* & *The Last of Cheri* by Colette <br> • [*The Age of Innocence*](https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence) by Edith Wharton |
 
-<!-- The Department of Comparative Literature has a suggested reading list at https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list
+The Department of Comparative Literature also has a suggested reading list at https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list
 
-I've listed the books that I've found interesting enough to read
-
-| Reading Selection List | |
-| :---: | --- |
-| ✔️ **Completed Fiction** | • ***Things Fall Apart*** by Chinua Achebe | 
-| [✔️ **Completed Film & Other Visual Media**](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/) | • ***The Last Emperor*** by Bernardo Bertolucci <br> ***Apocalypse Now*** by Francis Ford Coppola|
--->
+I've added the films there to a Letterboxd list at https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/
