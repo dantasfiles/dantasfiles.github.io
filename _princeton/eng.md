@@ -13,6 +13,7 @@ title: 🐯 Princeton English unofficial reading list
 | :---: | --- | 
 | **Milton** <br> ENG 325 (fa26) | • *To Reign in Hell* by Steven Brust <br> • *The Complete Poetry and Essential Prose of John Milton* by Kerrigan et al. |
 | **American Literature: 1930-Present** <br> ENG 368 (fa26) | ✔️ ***The Road*** by Cormac McCarthy <br> • *American Pastoral* by Philip Roth <br> ✔️ ***Maus: A Survivor's Tale*** by Art Spiegelman <br> ✔️ ***Beloved*** by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <br> • *Housekeeping* by Marilynne Robinson <br> • *The Crying of Lot 49* by Thomas Pynchon <br> • *Lolita* by Vladimir Nabokov <br> • *As I Lay Dying* by William Faulkner <br> • *The Nickel Boys* by Colson Whitehead |
+| **The Bible as Literature** <br> ENG 390 (fa26) | • *The Literary Guide to the Bible* by Alter & Kermode <br> • *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version* |
 
 | Senior level | |
 | :---: | --- |
