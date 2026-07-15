@@ -9,4 +9,4 @@ title: 🐯 Princeton Economics unofficial reading list
 | Junior level | |
 | :---: | ---|
 | **Macroeconomics** <br> ECO 301 (fa26) | • *Macroeconomics* by Abel et al. |
-| **Econometrics** <rb> ECO 302 (fa26) | • *Intro. to Econometrics* by Stock & Watson | 
+| **Econometrics** <br> ECO 302 (fa26) | • *Intro. to Econometrics* by Stock & Watson | 
