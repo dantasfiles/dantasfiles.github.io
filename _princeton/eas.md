@@ -12,6 +12,7 @@ title: 🐯 Princeton East Asian Studies unofficial reading list
 | :---: | --- |
 | **Junior Seminar** <br> EAS 300 (fa26) | • *A History of East Asia: From the Origins of Civilization to the 21st Century* by Charles Holcombe <br> • *The Craft of Research* by Wayne C. Booth |
 | **The Heike as History & Art** <br> EAS 318 (fa26) | • *The Tale of the Heike* <br> • *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler |
+| **20th-Century Japan** <br> EAS 324 (fa26) | • *Peasants, Rebels, Women & Outcastes: The Underside of Modern Japan* by Mikiso Hane <br> • *Japan at War: An Oral History* by Cook & Cook <br> • *Embracing Defeat: Japan in the Wake of World War II* by John W. Dower <br> • *Molding Japanese Minds: The State in Everyday Life* by Sheldon Garon <br> • *A Modern History of Japan: From Tokugawa Times to the Present* by Andrew Gordon <br> • *Naomi* by Junichiro Tanizaki |
 | **Chinese Poetry** <br> EAS 331 (fa26) | • *An Intro. to Chinese Poetry: From the Canon of Poetry to the Lyrics of the Song Dynasty* by Michael A. Fuller |
 | **Postwar Japanese Narrative: Modern to Postmodern** <br> EAS 344 (fa26) | • *Fires on the Plain* by Shohei Ooka <br> • *Confessions of a Mask* by Yukio Mishima <br> • *Kafka on the Shore* by Haruki Murakami <br> • *The Setting Sun* by Osamu Dazai | 
 
