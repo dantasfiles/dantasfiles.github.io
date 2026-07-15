@@ -10,3 +10,4 @@ title: 🐯 Princeton East Asian Studies unofficial reading list
 | :---: | --- |
 | **The Heike as History & Art** <br> EAS 318 (fa26) | • *The Tale of the Heike* <br> • *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler |
 | **Chinese Poetry** <br> EAS 331 (fa26) | • *An Intro. to Chinese Poetry: From the Canon of Poetry to the Lyrics of the Song Dynasty* by Michael A. Fuller |
+| **Postwar Japanese Narrative: Modern to Postmodern** <br> EAS 344 (fa26) | • *Fires on the Plain* by Shohei Ooka <br> • *Confessions of a Mask* by Yukio Mishima <br> • *Kafka on the Shore* by Haruki Murakami <br> • *The Setting Sun* by Osamu Dazai | 
