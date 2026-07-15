@@ -4,4 +4,5 @@ title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list
 
 | Junior level | |
 | :---: | --- |
+| **Machine Learning for Predictive Data Analytics** <br> ECE 364 (fa26) | • *Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples & Case Studies* by John D. Kelleher | 
 | **Computer Architecture & Organization** <br> COS 375 (fa26) | ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy | 
