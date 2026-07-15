@@ -17,3 +17,7 @@ title: 🐯 Princeton English unofficial reading list
 | :---: | --- |
 | **Forms of Literature: Postcolonialism** <br> ENG 402 (fa26) | • *Wide Sargasso Sea* by Jean Rhys <br> • [*A Passage to India*](https://standardebooks.org/ebooks/e-m-forster/a-passage-to-india) by E.M. Foster <br> • *A Tempest* by Aime Cesaire <br> • *Nervous Conditions* by Tsitsi Dangarembga <br> • *Waiting for the Barbarians* by J. M. Coetzee <br> • *No Telephone to Heaven* by Michelle Cliff |
 | **Between Selves: Living Letters from Antiquity to the Present** <br> ENG 410 (fa26) | • *Letter to the Father* by Franz Kafka <br> • *The Letters of Abelard and Heloise* <br> • *The Fire Next Time* by James Baldwin <br> • *Heroides* by Ovid <br> • *The Ides of March* by Thornton Wilder <br> • *The Correspondent* by Virginia Evans <br> • *Selected Letters* by Seneca |
+
+| Graduate level | |
+| :---: | --- |
+| **Contemporary Critical Theories: Marx's Capital** <br> ENG 528 (fa26) | • [*Capital: A Critique of Political Economy: Volume One: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx |
