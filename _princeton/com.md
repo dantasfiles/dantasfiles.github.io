@@ -9,7 +9,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list
 
 | Junior level | |
 | :---: | --- |
-| **Intro. to Comparative Literature** <br> COM 300 (fa26) | • *The Epic of Gilgamesh* by Andrew George |
+| **Intro. to Comp. Lit.** <br> COM 300 (fa26) | • *The Epic of Gilgamesh* by Andrew George |
 | **The Modern Period** <br> COM 318 (fa26) | • *A Room of One's Own* by Virginia Woolf <br> • *The Fourth World* by Diamela Eltit <br> • *The Parable of the Sower* by Octavia E. Butler <br> ◦ *The Burrow* by Franz Kafka <br> • *Kiss of the Spider Woman* by Manuel Puig |
 | **Art, Memory & Human Rights in Latin America** <br> COM 336 (fa26) | • *Liliana's Invincible Summer: A Sister's Search for Justice* by Cristina Rivera Garza <br> • *Operation Massacre* by Rodolfo Walsh <br> • *Massacre in Mexico* by Elena Poniatowska <br> • *Knitting the Fog* by Claudia D. Hernández |
 | **Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** <br> COM 351 (fa26) | • [*Fathers and Sons*](https://standardebooks.org/ebooks/ivan-turgenev/fathers-and-children/constance-garnett) by Ivan Turgenev <br> • [*Notes from Underground*](https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett) by Fyodor Dostoyevsky <br> • *The Princess Casamassima* by Henry James <br> • [*A Doll's House*](https://standardebooks.org/ebooks/henrik-ibsen/a-dolls-house/r-farquharson-sharp) by Henrik Ibsen <br> • [*The Secret Agent*](https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent) by Joseph Conrad |
@@ -24,7 +24,8 @@ title: 🐯 Princeton Comparative Literature unofficial reading list
 
 | Graduate level | | 
 | :---: | --- |
-| **Comparative Literature Graduate Pedagogy Seminar** <br> COM 500 (fa26) | • *First Day to Final Grade: A Graduate Student's Guide to Teaching* by Curzan & Damour <br> • *Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do* by Claude M. Steele <br> ◦ *Deschooling Society* by Ivan Illich <br> ◦ *Teaching to Transgress: Education as the Practice of Freedom* by bell hooks |
+| **Comp. Lit. Graduate Pedagogy** <br> COM 500 (fa26) | • *First Day to Final Grade: A Graduate Student's Guide to Teaching* by Curzan & Damour <br> • *Whistling Vivaldi: How Stereotypes Affect Us and What We Can Do* by Claude M. Steele <br> ◦ *Deschooling Society* by Ivan Illich <br> ◦ *Teaching to Transgress: Education as the Practice of Freedom* by bell hooks |
+| **Intro. to Comp. Lit.** <br> COM 521 (fa26) | ◦ *Berlin Childhood around 1900* by Walter Benjamin <br> ◦ [*Republic*](https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett/text/republic) by Plato <br> ◦ *Poetics* by Aristotle <br> ◦ *Kafka: Toward a Minor Literature* by Deleuze & Guattari | 
 
 
 
