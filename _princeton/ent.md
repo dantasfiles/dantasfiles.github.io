@@ -10,3 +10,4 @@ title: 🐯 Princeton Entrepreneurship unofficial reading list
 | :---: | --- |
 | **High-Tech Entrepreneurship** <br> ENT 491 (fa26) | • *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danner |
 | **Entrepreneurship: Ventures of Impact** <br> EGR 495 (fa26) | • *Effectual Entrepreneurship* by Sarasvathy & Wheatley | 
+| **Entrepreneurial Leadership** <br> ENT 497 (fa26) | • *How Will You Measure Your Life?* by Clayton M. Christensen <br> • *Startup Leadership: How Savvy Entrepreneurs Turn Their Ideas Into Successful Enterprises* by Derek Lidow | 
