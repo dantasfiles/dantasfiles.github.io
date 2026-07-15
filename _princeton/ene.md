@@ -11,6 +11,7 @@ title: 🐯 Princeton Energy Studies unofficial reading list
 | Senior level | |
 | :---: | --- |
 | **Solid-State Physics I** <br> ENE 441 (fa26) | • *Solid State Physics* by Ashcroft & Mermin |
+| **Energy & Commodities Markets** <br> ENE 445 (fa26) | ◦ *Optimization Models in Electricity Markets* by Anthony Papavasiliou <br> ◦ *The Economist Guide to Commodities: Producers, Players & Prices; Markets, Consumers & Trends* by Caroline Bain <br> ◦ *Commodity Price Dynamics: A Structural Approach* by Craig Pirrong <br> ◦ *Valuation & Risk Management in Energy Markets* by Glen Swindle <br> ◦ *Energy & Power Risk Management: New Developments in Modeling, Pricing & Hedging* by Eydeland & Wolyniec |
 
 | Graduate level | |
 | :---: | --- |
