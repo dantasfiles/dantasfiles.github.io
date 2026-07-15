@@ -15,6 +15,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list
 | **Art, Memory & Human Rights in Latin America** <br> COM 336 (fa26) | • *Liliana's Invincible Summer: A Sister's Search for Justice* by Cristina Rivera Garza <br> • *Operation Massacre* by Rodolfo Walsh <br> • *Massacre in Mexico* by Elena Poniatowska <br> • *Knitting the Fog* by Claudia D. Hernández |
 | **Postwar Japanese Narrative: Modern to Postmodern** <br> COM 344 (fa26) | • *Fires on the Plain* by Shohei Ooka <br> • *Confessions of a Mask* by Yukio Mishima <br> • *Kafka on the Shore* by Haruki Murakami <br> • *The Setting Sun* by Osamu Dazai | 
 | **Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** <br> COM 351 (fa26) | • [*Fathers and Sons*](https://standardebooks.org/ebooks/ivan-turgenev/fathers-and-children/constance-garnett) by Ivan Turgenev <br> • [*Notes from Underground*](https://standardebooks.org/ebooks/fyodor-dostoevsky/notes-from-underground/constance-garnett) by Fyodor Dostoyevsky <br> • *The Princess Casamassima* by Henry James <br> • [*A Doll's House*](https://standardebooks.org/ebooks/henrik-ibsen/a-dolls-house/r-farquharson-sharp) by Henrik Ibsen <br> • [*The Secret Agent*](https://standardebooks.org/ebooks/joseph-conrad/the-secret-agent) by Joseph Conrad |
+| **Milton** <br> COM 371 (fa26) | • *To Reign in Hell* by Steven Brust <br> • *The Complete Poetry and Essential Prose of John Milton* by Kerrigan et al. |
 
 | Senior level | |
 | :---: | --- |
