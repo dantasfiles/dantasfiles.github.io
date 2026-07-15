@@ -13,5 +13,5 @@ title: 🐯 Princeton Latin American Studies unofficial reading list
 
 | Graduate level | |
 | :---: | --- |
-| **Contemporary Critical Theories: Marx's Capital** <br> ENG 535 (fa26) | • [*Capital: A Critique of Political Economy: Volume One: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx |
+| **Contemporary Critical Theories: Marx's Capital** <br> ENG 535 (fa26) | • [*Capital: A Critique of Political Economy: Vol. 1: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx |
 
