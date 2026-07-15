@@ -43,4 +43,4 @@ I've listed the books that I've found interesting enough to read
 | Reading Selection List | |
 | :---: | --- |
 | ✔️ **Completed Fiction** | • ***Things Fall Apart*** by Chinua Achebe | 
-| [✔️ **Completed Film & Other Visual Media**](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/) | • ***The Last Emperor*** by Bernardo Bertolucci |
+| [✔️ **Completed Film & Other Visual Media**](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/) | • ***The Last Emperor*** by Bernardo Bertolucci <br> ***Apocalypse Now*** by Francis Ford Coppola|
