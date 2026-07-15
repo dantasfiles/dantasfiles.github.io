@@ -6,6 +6,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list
 | :---: | --- |
 | **Who Are You Really? Authenticity in Life, Literature & the Internet** <br> COM 200 (fa26) | • *The Reluctant Fundamentalist* by Mohsin Hamid |
 | **How to Read** <br> COM 231 (fa26) | • *A History of Reading* by Alberto Manguel <br> • *Confessions* by Augustine <br> • *Dictee* by Theresa Hak Kyung Cha <br> • *Labyrinths* by Jorge Luis Borges <br> ◦ *What We Talk About When We Talk About Books: The History & Future of Reading* by Leah Price |
+| **East Asian Humanities I: The Classical Foundations** <br> COM 233 (fa26) | • [*Analects*](https://standardebooks.org/ebooks/confucius/analects/james-legge) by Confucius <br> • *Zen Sourcebook: Traditional Documents from China, Korea & Japan* by Addiss et al. <br> • *The Complete Writings* by Zhuāngzï <br> • *The Tale of Genji* by Murasaki Shikibu <br> ◦ *A History of East Asia: From the Origins of Civilization to the 21st Century* by Charles Holcombe |
 | **Revisiting Paris** <br> COM 258 (fa26) | • *Kiffe Kiffe demain* by Faïza Guène <br> • *Cannibale* by Didier Daeninckx <br> • *Dora Bruder* by Patrick Modiano |
 
 | Junior level | |
