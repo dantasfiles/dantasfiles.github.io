@@ -8,6 +8,7 @@ title: 🐯 Princeton European Cultural Studies unofficial reading list
 | **Wandering Utopias: Writing & Rewriting Reality** <br> ECS 309 (fa26) | • *Vendredi ou la vie sauvage* by Michel Tournier | 
 | **The Modern Period** <br> ECS 319 (fa26) | • *A Room of One's Own* by Virginia Woolf <br> • *The Fourth World* by Diamela Eltit <br> • *The Parable of the Sower* by Octavia E. Butler <br> ◦ *The Burrow* by Franz Kafka <br> • *Kiss of the Spider Woman* by Manuel Puig |
 | **Revisiting Paris** <br> ECS 327 (fa26) | • *Kiffe Kiffe demain* by Faïza Guène <br> • *Cannibale* by Didier Daeninckx <br> • *Dora Bruder* by Patrick Modiano |
+| **East European Literature** <br> ECS 354 (fa26) | • *The Death of a Soldier Told by His Sister* by Olesya Khromeychuk <br> • *Chernobyl Prayer: A Chronicle of the Future* by Svetlana Alexievich <br> • *The Radetzky March* by Joseph Roth <br> • *The Bridge on the Drina* by Ivo Andric <br> • *Ferdydurke* by Witold Gombrowicz <br> • *The Street of Crocodiles* by Bruno Schulz <br> • *Kaddish for an Unborn Child* by Imre Kertész <br> • *The Appointment* by Herta Müller <br> • *The Door* by Magda Szabo <br> • *The Trial* by Franz Kafka <br> • *Satantango* by László Krasznahorkai | 
 | **Romanticism & the Age of Revolutions** <br> ECS 368 (fa26) | • *Confessions of an English Opium Eater* by Thomas De Quincey <br> • *The Longman Anthology of British Literature, Volume 2A: The Romantics & Their Contemporaries* by David Damrosch et al. |
 
 | Senior level | |
