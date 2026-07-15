@@ -16,7 +16,8 @@ title: 🐯 Princeton Engineering unofficial reading list
 | :---: | --- |
 | **High-Tech Entrepreneurship** <br> EGR 491 (fa26) | • *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danner |
 | **Entrepreneurship: Ventures of Impact** <br> EGR 495 (fa26) | • *Effectual Entrepreneurship* by Sarasvathy & Wheatley | 
+| **Entrepreneurial Leadership** <br> EGR 497 (fa26) | • *How Will You Measure Your Life?* by Clayton M. Christensen <br> • *Startup Leadership: How Savvy Entrepreneurs Turn Their Ideas Into Successful Enterprises* by Derek Lidow | 
 
 | Graduate level | |
 | :---: | --- |
-| **Technical Leadership in Engineering** <br> EGR 531 (fa26) | ◦ *The 8 Dimensions of Leadership: DiSC Strategies for Becoming a Better Leader* by Sugerman et al. <br> ◦ *Grit: The Power of Passion and Perseverance* by Angela Duckworth <br> ✔️ ***Designing Your Life: How to Build a Well-Lived, Joyful Life*** by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas)) <br> ◦ *Managing Scientists: Leadership Strategies in Scientific Research* by Alice M. Sapienza <br> ◦ *Leadership by Engineers & Scientists: Professional Skills Needed to Succeed in a Changing World* by Dennis W. Hess|
+| **Technical Leadership in Engineering** <br> EGR 531 (fa26) | ◦ *The 8 Dimensions of Leadership: DiSC Strategies for Becoming a Better Leader* by Sugerman et al. <br> ◦ *Grit: The Power of Passion and Perseverance* by Angela Duckworth <br> ✔️ ***Designing Your Life: How to Build a Well-Lived, Joyful Life*** by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas)) <br> ◦ *Managing Scientists: Leadership Strategies in Scientific Research* by Alice M. Sapienza <br> ◦ *Leadership by Engineers & Scientists: Professional Skills Needed to Succeed in a Changing World* by Dennis W. Hess |
