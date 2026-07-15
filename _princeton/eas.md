@@ -16,6 +16,6 @@ title: 🐯 Princeton East Asian Studies unofficial reading list
 | **Postwar Japanese Narrative: Modern to Postmodern** <br> EAS 344 (fa26) | • *Fires on the Plain* by Shohei Ooka <br> • *Confessions of a Mask* by Yukio Mishima <br> • *Kafka on the Shore* by Haruki Murakami <br> • *The Setting Sun* by Osamu Dazai | 
 
 | Graduate level | |
-| :---: | |
+| :---: | --- |
 | **Readings in Japanese Academic Style** <br> EAS 563 (fa26) | • *A Practical Guide for Scholarly Reading in Japanese* by Nazikian et al. | 
 
