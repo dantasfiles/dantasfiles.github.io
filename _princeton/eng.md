@@ -12,9 +12,10 @@ title: 🐯 Princeton English unofficial reading list
 | Junior level | |
 | :---: | --- | 
 | **The Nature of Old English: Select Old English Literature** <br> ENG 315 (fa26) | • *A Choice of Anglo-Saxon Verse* by Richard Hamer <br> • *The Unstill Ones* by Miller Oberman <br> ◦ *The Wordhord: Daily Life in Old English* by Hana Videen <br> ◦ *Intro. to Old English* by Peter S. Baker | 
-| **Shakespeare: Toward Hamlet** <br> ENG 318 (fa26) | • *The Complete Pelican Shakespeare* by Orgel & Braunmuller  | 
+| **Shakespeare: Toward Hamlet** <br> ENG 318 (fa26) | • *The Complete Pelican Shakespeare* by Orgel & Braunmuller | 
 | **Milton** <br> ENG 325 (fa26) | • *To Reign in Hell* by Steven Brust <br> • *The Complete Poetry and Essential Prose of John Milton* by Kerrigan et al. |
 | **Romanticism & the Age of Revolutions** <br> ENG 330 (fa26) | • *Confessions of an English Opium Eater* by Thomas De Quincey <br> • *The Longman Anthology of British Literature, Volume 2A: The Romantics & Their Contemporaries* by David Damrosch et al. |
+| **19th-Century Fiction** <br> ENG 345 (fa26) | • *Emma* by Jane Austen <br> • *Jane Eyre* by Charlotte Bronte <br> • *Vanity Fair* by William Makepeace Thackeray <br> • *Middlemarch: A Study of Provincial Life* by George Eliot | 
 | **American Literature: 1930-Present** <br> ENG 368 (fa26) | ✔️ ***The Road*** by Cormac McCarthy <br> • *American Pastoral* by Philip Roth <br> ✔️ ***Maus: A Survivor's Tale*** by Art Spiegelman <br> ✔️ ***Beloved*** by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <br> • *Housekeeping* by Marilynne Robinson <br> • *The Crying of Lot 49* by Thomas Pynchon <br> • *Lolita* by Vladimir Nabokov <br> • *As I Lay Dying* by William Faulkner <br> • *The Nickel Boys* by Colson Whitehead |
 | **The Bible as Literature** <br> ENG 390 (fa26) | • *The Literary Guide to the Bible* by Alter & Kermode <br> • *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version* |
 
