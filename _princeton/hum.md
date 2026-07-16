@@ -21,6 +21,7 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 
 | Graduate level | |
 | :---: | --- |
+| **20th-Century French Narrative Prose: Reading Proust** <br> HUM 524 (fa26) | • *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust | 
 | **Modern Art: Science & Its Fictions in the Long 19th Century** <br> HUM 577 (fa26) | ✔️ [***Frankenstein***](https://standardebooks.org/ebooks/mary-shelley/frankenstein) by Mary Shelley <br> ✔️ [***Journey to the Center of the Earth***](https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson) by Jules Verne <br> ✔️ [***The Island of Doctor Moreau***](https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau) by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) |
 
 
