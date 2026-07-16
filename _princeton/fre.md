@@ -18,3 +18,7 @@ title: 🐯 Princeton French unofficial reading list
 | Junior level | |
 | :---: | --- |
 | **Wandering Utopias: Writing & Rewriting Reality** <br> FRE 306 (fa26) | • *Vendredi ou la vie sauvage* by Michel Tournier | 
+
+| Graduate level | |
+| :---: | --- |
+| **20th-Century French Narrative Prose: Reading Proust** <br> FRE 524 (fa26) | • *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust | 
