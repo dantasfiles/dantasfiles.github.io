@@ -11,7 +11,8 @@ title: 🐯 Princeton French unofficial reading list
 
 | Sophomore level | |
 | :---: | --- |
-| **Francophone Language & Cultures through the Supernatural** <br> FRE 207 (fa26) | • *Le Roi Se Meurt* by Eugène Ionesco <br> • *Les Contes d'Amadou Koumba* by Birago Diop <br> • *La Cantatrice Chauve: Anti-Piece / La Lecon: Drame Comique* by Eugene Ionesco <br> • *Les Aventures de Tintin: Les Sept Boules de Cristal: Tome 13* by Herge <br> • *Astérix: Astérix le Gaulois: n°1* by Goscinny & Uderzo <br> ◦ *Contrastes: Grammaire du Français Courant* by Denise Rochat <br> ◦ *Grammaire Progressive du Français: Niveau Avancé* by Boularès & Frérot <br> • *Hadriana Dans Tous Mes Rêves* by René Depestre <br> • *Pluie et Vent sur Télumée Miracle* by Simone Schwarz-Bart <br> • *Une Tempete* by Aime Cesaire  | 
+| **Francophone Language & Cultures through the Supernatural** <br> FRE 207 (fa26) | • *Le Roi Se Meurt* by Eugène Ionesco <br> • *Les Contes d'Amadou Koumba* by Birago Diop <br> • *La Cantatrice Chauve: Anti-Piece / La Lecon: Drame Comique* by Eugene Ionesco <br> • *Les Aventures de Tintin: Les Sept Boules de Cristal: Tome 13* by Herge <br> • *Astérix: Astérix le Gaulois: n°1* by Goscinny & Uderzo <br> ◦ *Contrastes: Grammaire du Français Courant* by Denise Rochat <br> ◦ *Grammaire Progressive du Français: Niveau Avancé* by Boularès & Frérot <br> • *Hadriana Dans Tous Mes Rêves* by René Depestre <br> • *Pluie et Vent sur Télumée Miracle* by Simone Schwarz-Bart <br> • *Une Tempete* by Aime Cesaire |
+| **French Theater Workshop** <br> FRE 211 (fa26) | • *Le Malade Imaginaire* by Molière <br> • *Un Fil à la Patte* by Georges Feydeau | 
 | **Revisiting Paris** <br> FRE 217 (fa26) | • *Kiffe Kiffe demain* by Faïza Guène <br> • *Cannibale* by Didier Daeninckx <br> • *Dora Bruder* by Patrick Modiano |
 
 | Junior level | |
