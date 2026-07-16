@@ -4,7 +4,7 @@ title: 🐯 Princeton French unofficial reading list
 
 | Freshman level | |
 | :---: | --- |
-| **Beginner's French I** <br> FRE 101 (fa26) | • *Motifs: An Introduction to French* by Jansma & Kassen |
+| **Beginner's French I** / **II** <br> FRE 101 / 102 (fa26) | • *Motifs: An Introduction to French* by Jansma & Kassen |
 
 | Sophomore level | |
 | :---: | --- |
