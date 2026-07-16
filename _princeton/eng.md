@@ -17,6 +17,7 @@ title: 🐯 Princeton English unofficial reading list
 | **Romanticism & the Age of Revolutions** <br> ENG 330 (fa26) | • *Confessions of an English Opium Eater* by Thomas De Quincey <br> • *The Longman Anthology of British Literature, Volume 2A: The Romantics & Their Contemporaries* by David Damrosch et al. |
 | **19th-Century Fiction** <br> ENG 345 (fa26) | • *Emma* by Jane Austen <br> • *Jane Eyre* by Charlotte Bronte <br> • *Vanity Fair* by William Makepeace Thackeray <br> • *Middlemarch: A Study of Provincial Life* by George Eliot | 
 | **American Literature: 1930-Present** <br> ENG 368 (fa26) | ✔️ ***The Road*** by Cormac McCarthy <br> • *American Pastoral* by Philip Roth <br> ✔️ ***Maus: A Survivor's Tale*** by Art Spiegelman <br> ✔️ ***Beloved*** by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <br> • *Housekeeping* by Marilynne Robinson <br> • *The Crying of Lot 49* by Thomas Pynchon <br> • *Lolita* by Vladimir Nabokov <br> • *As I Lay Dying* by William Faulkner <br> • *The Nickel Boys* by Colson Whitehead |
+| **Irish Literature: James Joyce** <br> ENG 385 (fa26) | • *Dubliners* by James Joyce <br> • *A Portrait of the Artist as a Young Man* by James Joyce <br> • *Ulysses* by James Joyce | 
 | **The Bible as Literature** <br> ENG 390 (fa26) | • *The Literary Guide to the Bible* by Alter & Kermode <br> • *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version* |
 
 | Senior level | |
