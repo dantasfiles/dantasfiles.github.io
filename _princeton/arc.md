@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Architecture unofficial reading list
+title: 🐯 Princeton Architecture unofficial reading list 2026
 ---
 
 | Sophomore level | |
