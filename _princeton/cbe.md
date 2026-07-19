@@ -5,7 +5,7 @@ title: 🐯 Princeton Chemical & Biological Engineering unofficial reading list
 | Sophomore level | |
 | :---: | --- |
 | **Introduction to Cellular & Molecular Biology** <br> CBE 214 (fa26) | • *Essential Cell Biology* by Alberts et al. | 
-| **Ethics & Technology: Engineering in the Real World** <br> CBE 260 | ◦ *Engineering Ethics: Contemporary & Enduring Debates* by Deborah G. Johnson <br> ◦ *Blind Spots: Why We Fail to Do What's Right & What to Do about It* by Bazerman & Tenbrunsel <br> ◦ *Giving Voice to Values: How to Speak Your Mind When You Know What's Right* by Mary C. Gentile <br> ◦ *The Essential Engineer: Why Science Alone Will Not Solve Our Global Problems* by Henry Petroski <br> ◦ *To Engineer Is Human: The Role of Failure in Successful Design* by Henry Petroski |
+| **Ethics & Technology: Engineering in the Real World** <br> CBE 260 (sp26) | ◦ *Engineering Ethics: Contemporary & Enduring Debates* by Deborah G. Johnson <br> ◦ *Blind Spots: Why We Fail to Do What's Right & What to Do about It* by Bazerman & Tenbrunsel <br> ◦ *Giving Voice to Values: How to Speak Your Mind When You Know What's Right* by Mary C. Gentile <br> ◦ *The Essential Engineer: Why Science Alone Will Not Solve Our Global Problems* by Henry Petroski <br> ◦ *To Engineer Is Human: The Role of Failure in Successful Design* by Henry Petroski |
 
 | Graduate level | |
 | :---: | --- | 
