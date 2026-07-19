@@ -12,6 +12,7 @@ title: 🐯 Princeton Engineering unofficial reading list
 | **Creativity, Innovation & Design** <br> EGR 200 (fa26) | • *A Whack on the Side of the Head: How You Can Be More Creative* by Roger von Oech <br> • *Experiencing Design: The Innovator's Journey* by Liedtka et al. | 
 | **Designing Sustainable Systems: Experiential Learning on Campus Energy** <br> EGR 208 (fa26) | • *Cradle to Cradle: Remaking the Way We Make Things* by McDonough & Braungart <br> • *Biomimicry: Innovation Inspired by Nature* by Janine M. Benyus <br> • *Thinking in Systems* by Donella H. Meadows | 
 | **Fundamentals of Statistics** <br> EGR 245 (fa26) | ◦ *Probability and Statistics for Engineering & the Sciences* by Jay Devore | 
+| **Ethics & Technology: Engineering in the Real World** <br> EGR 260 (sp26) | ◦ *Engineering Ethics: Contemporary & Enduring Debates* by Deborah G. Johnson <br> ◦ *Blind Spots: Why We Fail to Do What's Right & What to Do about It* by Bazerman & Tenbrunsel <br> ◦ *Giving Voice to Values: How to Speak Your Mind When You Know What's Right* by Mary C. Gentile <br> ◦ *The Essential Engineer: Why Science Alone Will Not Solve Our Global Problems* by Henry Petroski <br> ◦ *To Engineer Is Human: The Role of Failure in Successful Design* by Henry Petroski |
 
 | Junior level | |
 | :---: | --- |
