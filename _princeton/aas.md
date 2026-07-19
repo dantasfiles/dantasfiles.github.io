@@ -17,6 +17,6 @@ title: 🐯 Princeton African American Studies unofficial reading list
 
 | Senior level | |
 | :---: | --- |
-| **Art, Apartheid & South Africa** <br> AAS 411 (fa26) | ✔️ ***Disgrace*** by J. M. Coetzee | 
+| **Art, Apartheid & South Africa** <br> AAS 411 / [ART](https://dantasfiles.com/princeton/art) 471 / [AFS](https://dantasfiles.com/princeton/afs) 411 (fa26) | ✔️ ***Disgrace*** by J. M. Coetzee | 
 | **World After Empire** <br> AAS 416 (fa26) | ✔️ ***The Wretched of the Earth*** by Frantz Fanon <br> • *Worldmaking after Empire: The Rise & Fall of Self-Determination* by Adom Getachew <br> • *Return to the Source: Selected Texts of Amilcar Cabral* <br> • *Gandhi: 'Hind Swaraj' and Other Writings* <br> • *A Small Place* by Jamaica Kincaid <br> • *Discourse on Colonialism* by Aimé Césaire <br> • *The Colonizer and the Colonized* by Albert Memmi <br> • [*Darkwater: Voices from Within the Veil*](https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater) by W.E.B. Du Bois |
 
