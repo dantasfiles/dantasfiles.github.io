@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Art & Archaeology unofficial reading list
+title: 🐯 Princeton Art & Archaeology unofficial reading list 2026
 ---
 
 | Sophomore level | |
