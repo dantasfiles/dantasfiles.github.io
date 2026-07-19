@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton American Studies unofficial reading list
+title: 🐯 Princeton American Studies unofficial reading list 2026
 ---
 
 | Freshman level | |
