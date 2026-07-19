@@ -10,6 +10,7 @@ title: 🐯 Princeton Operations Research & Financial Engineering unofficial rea
 | :---: | --- |
 | **Optimization** <br> ORF 307 (fa26) | ◦ *Intro. to Linear Optimization* by Bertsimas & Tsitsiklis <br> ◦ *Linear Programming: Foundations and Extensions* by Robert J. Vanderbei |
 | **Probability & Stochastic Systems** <br> ORF 309 (fa26) | ◦ *Fundamentals of Probability: With Stochastic Processes* by Saeed Ghahramani <br> ◦ *Intro. To Probability* by Bertsekas & Tsitsiklis <br> ◦ *Intro. to Probability Models* by Sheldon M. Ross | 
+| **Computing & Optimization for the Physical & Social Sciences** <br> ORF 323 (fa26) | ◦ *An Introduction to Optimization: With Applications to Machine Learning* by Chong, Lu & Zak <br> ◦ *[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)* by Boyd & Vandenberghe <br> ◦ *Linear Programming: Foundations & Extensions* by Robert J. Vanderbei <br> ◦ _Algorithms_ by Dasgupta, Papadimitriou & Vazirani |
 
 | Senior level | |
 | :---: | --- |
