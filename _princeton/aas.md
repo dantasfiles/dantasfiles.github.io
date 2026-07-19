@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton African American Studies unofficial reading list
+title: 🐯 Princeton African American Studies unofficial reading list 2026
 ---
 
 | Sophomore level | |
