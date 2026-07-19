@@ -15,9 +15,9 @@ title: 🐯 Princeton Art & Archaeology unofficial reading list
 
 | Senior level | |
 | :---: | --- |
-| [**The Heike as History & Art**](https://princeton.ecampus.com/course-list.asp?c=7668486) <br> ART 403 (fa26) | • *The Tale of the Heike* <br> • *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler |
-| [**19th-Century European Art: Painting & Literature in 19th C. France and England**](https://princeton.ecampus.com/course-list.asp?c=7668251) <br> ART 450 (fa26) | • [*The Picture of Dorian Gray*](https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray) by Oscar Wilde <br> • [The Masterpiece](https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly) by Émile Zola <br> • *The Unknown Masterpiece* by Honoré de Balzac <br> • *Like Death* by Guy de Maupassant <br> • [*Villette*](https://standardebooks.org/ebooks/charlotte-bronte/villette) by Charlotte Brontë |
-| [**Art, Apartheid & South Africa**](https://princeton.ecampus.com/course-list.asp?c=7668162) <br> ART 471 (fa26) | ✔️ ***Disgrace*** by J. M. Coetzee | 
+| **The Heike as History & Art** <br> ART 403 (fa26) | • *The Tale of the Heike* <br> • *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler |
+| **19th-Century European Art: Painting & Literature in 19th C. France and England** <br> ART 450 / [ECS](https://dantasfiles.com/princeton/ecs) 450 / [HUM](https://dantasfiles.com/princeton/hum) 451 / [COM](https://dantasfiles.com/princeton/com) 450 (fa26) | • [*The Picture of Dorian Gray*](https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray) by Oscar Wilde <br> • [The Masterpiece](https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly) by Émile Zola <br> • *The Unknown Masterpiece* by Honoré de Balzac <br> • *Like Death* by Guy de Maupassant <br> • [*Villette*](https://standardebooks.org/ebooks/charlotte-bronte/villette) by Charlotte Brontë |
+| **Art, Apartheid & South Africa** <br> [AAS](https://dantasfiles.com/princeton/aas) 411 / ART 471 / [AFS](https://dantasfiles.com/princeton/afs) 411 (fa26) | ✔️ ***Disgrace*** by J. M. Coetzee | 
 
 | Graduate level | |
 | :---: | --- |
