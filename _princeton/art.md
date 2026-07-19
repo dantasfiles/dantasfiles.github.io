@@ -4,8 +4,8 @@ title: 🐯 Princeton Art & Archaeology unofficial reading list
 
 | Sophomore level | |
 | :---: | --- | 
-| [**The Art & Archaeology of the Ancient Near East & Egypt**](https://princeton.ecampus.com/course-list.asp?c=7668238) <br> ART 200 (fa26) | • *Art of Mesopotamia* by Zainab Bahrani | 
-| [**Art & Archaeology of Ancient Mesoamerica**](https://princeton.ecampus.com/course-list.asp?c=7668243) <br> ART 267 (fa26) | • *The Art of Mesoamerica: From Olmec to Aztec* by Mary Ellen Miller | 
+| **The Art & Archaeology of the Ancient Near East & Egypt** <br> ART 200 / [NES](https://dantasfiles.com/princeton/nes) 205 / [AFS](https://dantasfiles.com/princeton/afs) 202 (fa26) | • *Art of Mesopotamia* by Zainab Bahrani | 
+| **Art & Archaeology of Ancient Mesoamerica** <br> ART 267 / [LAS](https://dantasfiles.com/princeton/las) 267 / [ANT](https://dantasfiles.com/princeton/ant) 366 (fa26) | • *The Art of Mesoamerica: From Olmec to Aztec* by Mary Ellen Miller | 
 
 | Junior level | |
 | :---: | --- | 
