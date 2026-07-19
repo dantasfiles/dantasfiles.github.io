@@ -21,14 +21,14 @@ title: 🐯 Princeton Civil & Environmental Engineering unofficial reading list 
 | Senior level | |
 | :---: | --- |
 | **Risk Analysis** <br> CEE 460 (fa26) | • *Probability Concepts in Engineering: Emphasis on Applications to CEE* by Ang & Tang <br> ◦ *An Intro. to Statistical Modeling of Extreme Values* by Stuart Coles | 
-| **Intro. to Water Pollution Technology** <br> CEE 471 (fa26) | ◦ *Water Quality: Characteristics, Modeling & Modification* by Tchobanoglous & Schoeder | 
+| **Intro. to Water Pollution Technology** <br> CEE 471 / [GEO](https://dantasfiles.com/princeton/geo) 471 / [URB](https://dantasfiles.com/princeton/urb) 471 (fa26) | ◦ *Water Quality: Characteristics, Modeling & Modification* by Tchobanoglous & Schoeder | 
 
 | Graduate level | |
 | :---: | --- |
-| [**Membrane Separations for Energy & the Environment**](https://princeton.ecampus.com/course-list.asp?c=7668625) <br> CEE 504 (fa26) | • *Membrane Technology & Applications* by Richard W. Baker |
-| [**Holistic Analysis of Heritage Structures**](https://princeton.ecampus.com/course-list.asp?c=7679732) <br> CEE 538 (fa26) | ◦ *Concrete Vaulted Construction in Imperial Rome: Innovations in Context* by Lynne C. Lancaster <br> ◦ *Innovative Vaulting in the Architecture of the Roman Empire: 1st to 4th Centuries CE* by Lynne C. Lancaster <br> ◦ *Building Construction Before Mechanization* by John Fitchen <br> ◦ *The Oxford Handbook of Engineering & Technology in the Classical World* by John Peter Oleson |
+| **Membrane Separations for Energy & the Environment** <br> [ENE](https://dantasfiles.com/princeton/ene) 504 / CEE 504 / [CBE](https://dantasfiles.com/princeton/cbe) 513 (fa26) | • *Membrane Technology & Applications* by Richard W. Baker |
+| **Holistic Analysis of Heritage Structures** <br> CEE / [ART](https://dantasfiles.com/princeton/art) 538 (fa26) | ◦ *Concrete Vaulted Construction in Imperial Rome: Innovations in Context* by Lynne C. Lancaster <br> ◦ *Innovative Vaulting in the Architecture of the Roman Empire: 1st to 4th Centuries CE* by Lynne C. Lancaster <br> ◦ *Building Construction Before Mechanization* by John Fitchen <br> ◦ *The Oxford Handbook of Engineering & Technology in the Classical World* by John Peter Oleson |
 | **Ecohydrology** <br> CEE 587 (fa26) | • *Ecohydrology: Dynamics of Life and Water in the Critical Zone* by Porporato & Yin | 
-| **Modeling Environmental Geochemistry** <br> CEE 599 (fa26) | • *Aqueous Environmental Geochemistry* by Donald Langmuir <br> ◦ *Description of Input & Examples for PHREEQC Version 3: A Computer Program for Speciation, Batch-Reaction, One-Dimensional Transport & Inverse Geochemical Calculations* by Parkhurst & Apello <br> ◦ *Kinetics of Water-Rock Interaction* by Brantley et al. <br> ◦ *Environmental Modeling: Fate and Transport of Pollutants in Water, Air & Soil* by Jerald L. Schnoor |
+| **Modeling Environmental Geochemistry** <br> CEE / [ENE](https://dantasfiles.com/princeton/ene) 599 (fa26) | • *Aqueous Environmental Geochemistry* by Donald Langmuir <br> ◦ *Description of Input & Examples for PHREEQC Version 3: A Computer Program for Speciation, Batch-Reaction, One-Dimensional Transport & Inverse Geochemical Calculations* by Parkhurst & Apello <br> ◦ *Kinetics of Water-Rock Interaction* by Brantley et al. <br> ◦ *Environmental Modeling: Fate and Transport of Pollutants in Water, Air & Soil* by Jerald L. Schnoor |
 
 
 
