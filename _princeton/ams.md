@@ -4,13 +4,13 @@ title: 🐯 Princeton American Studies unofficial reading list
 
 | Freshman level | |
 | :---: | --- |
-| [**Comparative Perspectives on Power, Resistance & Change**](https://princeton.ecampus.com/course-list.asp?c=7668166) <br> AMS / [ASA](https://dantasfiles.com/princeton/asa) / [LAO](https://dantasfiles.com/princeton/lao) / [NAI](https://dantasfiles.com/princeton/nai) 101 (fa26) | • *The US War with Mexico: A Brief History with Documents* by Ernesto Chavez |
+| **Comparative Perspectives on Power, Resistance & Change** <br> AMS / [ASA](https://dantasfiles.com/princeton/asa) / [LAO](https://dantasfiles.com/princeton/lao) / [NAI](https://dantasfiles.com/princeton/nai) 101 (fa26) | • *The US War with Mexico: A Brief History with Documents* by Ernesto Chavez |
 
 | Sophomore level | |
 | :---: | --- |
-| [**Intro. to Law & Public Policy in African American History**](https://princeton.ecampus.com/course-list.asp?c=7668151) <br> AMS 231 (fa26) | • *Reconsidering Reparations: Why Climate Justice & Constructive Politics Are Needed in the Wake of Slavery & Colonialism* by Olúfẹ́mi O. Táíwò <br> • *Racecraft: The Soul of Inequality* in American Life by Fields & Fields <br> • *When Affirmative Action Was White: An Untold History of Racial Inequality in 20th-Century America* by Ira Katznelson <br> • *America, U.S.A.: How Race Shadows the Nation's Anniversaries* by Eddie S. Glaude Jr. | 
-| [**Jews Across the Americas**](https://princeton.ecampus.com/course-list.asp?c=7668167) <br> AMS 257 (fa26) | • *Like a Bride* by Rosa Nissán <br> • *Like a Mother* by Rosa Nissán <br> • *God of Vengeance* by Donald Margulies <br> • *The Implacable Urge to Defame: Cartoon Jews in the American Press, 1877-1935* by Matthew Baigell <br> • *Jews Across the Americas: A Sourcebook, 1492–Present* by Brodsky & Leibman | 
-| [**The Makeover**](https://princeton.ecampus.com/course-list.asp?c=7668630) <br> AMS 296 (fa26) | • *A Gesture Life* by Chang-rae Lee <br> ◦ *Ornamentalism* by Anne Anlin Cheng <br> ◦ *Ordinary Disasters: How I Stopped Being a Model Minority* by Anne Anlin Cheng |
+| **Intro. to Law & Public Policy in African American History** <br> [AAS](https://dantasfiles.com/princeton/aas) 230 / AMS 231 (fa26) | • *Reconsidering Reparations: Why Climate Justice & Constructive Politics Are Needed in the Wake of Slavery & Colonialism* by Olúfẹ́mi O. Táíwò <br> • *Racecraft: The Soul of Inequality* in American Life by Fields & Fields <br> • *When Affirmative Action Was White: An Untold History of Racial Inequality in 20th-Century America* by Ira Katznelson <br> • *America, U.S.A.: How Race Shadows the Nation's Anniversaries* by Eddie S. Glaude Jr. | 
+| **Jews Across the Americas** <br> AMS 257 / [JDS](https://dantasfiles.com/princeton/jds) 257 / [REL](https://dantasfiles.com/princeton/rel) 205 (fa26) | • *Like a Bride* by Rosa Nissán <br> • *Like a Mother* by Rosa Nissán <br> • *God of Vengeance* by Donald Margulies <br> • *The Implacable Urge to Defame: Cartoon Jews in the American Press, 1877-1935* by Matthew Baigell <br> • *Jews Across the Americas: A Sourcebook, 1492–Present* by Brodsky & Leibman | 
+| **The Makeover** <br> [ENG](https://dantasfiles.com/princeton/eng) 296 / AMS 296 / [GSS](https://dantasfiles.com/princeton/gss) 292 (fa26) | • *A Gesture Life* by Chang-rae Lee <br> ◦ *Ornamentalism* by Anne Anlin Cheng <br> ◦ *Ordinary Disasters: How I Stopped Being a Model Minority* by Anne Anlin Cheng |
 
 | Junior level | |
 | :---: | --- | 
