@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Computer Science unofficial reading list
+title: 🐯 Princeton Computer Science unofficial reading list 2026
 ---
 
 | Sophomore level | | 
