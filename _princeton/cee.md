@@ -1,10 +1,10 @@
 ---
-title: 🐯 Princeton Civil & Environmental Engineering unofficial reading list
+title: 🐯 Princeton Civil & Environmental Engineering unofficial reading list 2026
 ---
 
 | Freshman level | |
 | :---: | --- |
-| **Engineering in the Modern World** <br> CEE 102 (fa26) | • *The Innovators, Trade: The Engineering Pioneers Who Transformed America* by David P. Billington <br> • *From Insight to Innovation: Engineering Ideas That Transformed America in the 20th Century* by Billington & Littman <br> ◦ *Power, Speed & Form: Engineers & the Making of the 20th Century* by Billington & Billington | 
+| **Engineering in the Modern World** <br> CEE / [EGR](https://dantasfiles.com/princeton/egr) / [MAE](https://dantasfiles.com/princeton/mae) 102 (fa26) | • *The Innovators, Trade: The Engineering Pioneers Who Transformed America* by David P. Billington <br> • *From Insight to Innovation: Engineering Ideas That Transformed America in the 20th Century* by Billington & Littman <br> ◦ *Power, Speed & Form: Engineers & the Making of the 20th Century* by Billington & Billington | 
 
 | Sophomore level | |
 | :---: | --- |
@@ -12,11 +12,11 @@ title: 🐯 Princeton Civil & Environmental Engineering unofficial reading list
 
 | Junior level | |
 | :---: | --- |
-| **Applied Statistical Methods in the Natural & Built Environment** <br> CEE 323 / 523 (fa26) | • *Applied Statistics for CEE* by Kottegoda & Rosso |
-| **Origami Engineering** <br> CEE 345 / 545 (fa26) | • *How to Fold It: The Mathematics of Linkages, Origami & Polyhedra* by Joseph O'Rourke | 
-| **Matrix Structural Analysis & Intro. to Finite-Element Methods** <br> CEE 361 (fa26) | ◦ *An Intro. To Matrix Structural Analysis & Finite Element Methods* by Prevost & Bagrianski | 
+| **Applied Statistical Methods in the Natural & Built Environment** <br> CEE 323/523 / [ENV](https://dantasfiles.com/princeton/env) / [GEO](https://dantasfiles.com/princeton/geo) 323 (fa26) | • *Applied Statistics for CEE* by Kottegoda & Rosso |
+| **Origami Engineering** <br> CEE 345/545 / [STC](https://dantasfiles.com/princeton/stc) 345 / [MSE](https://dantasfiles.com/princeton/mse) 345/535 / [MAE](https://dantasfiles.com/princeton/mae) 327/556 (fa26) | • *How to Fold It: The Mathematics of Linkages, Origami & Polyhedra* by Joseph O'Rourke | 
+| **Matrix Structural Analysis & Intro. to Finite-Element Methods** <br> CEE 361 / [MAE](https://dantasfiles.com/princeton/mae) 325 / [MSE](https://dantasfiles.com/princeton/mse) 331 (fa26) | ◦ *An Intro. To Matrix Structural Analysis & Finite Element Methods* by Prevost & Bagrianski | 
 | **Design of Reinforced Concrete Structures** <br> CEE 366 (fa26) | • *Design of Concrete Structures* by Darwin & Dolan |
-| **Autonomous Fabrication & Robotics** <br> CEE 374 (fa26) | ◦ *Robotics: Theory & Industrial Applications* by Ross et al. | 
+| **Autonomous Fabrication & Robotics** <br> CEE / [STC](https://dantasfiles.com/princeton/stc) / [ROB](https://dantasfiles.com/princeton/rob) 374 (fa26) | ◦ *Robotics: Theory & Industrial Applications* by Ross et al. | 
 
 | Senior level | |
 | :---: | --- |
