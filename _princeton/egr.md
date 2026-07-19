@@ -18,6 +18,7 @@ title: 🐯 Princeton Engineering unofficial reading list
 | :---: | --- |
 | **Optimization** <br> EGR 307 (fa26) | ◦ *Intro. to Linear Optimization* by Bertsimas & Tsitsiklis <br> ◦ *Linear Programming: Foundations and Extensions* by Robert J. Vanderbei |
 | **Probability & Stochastic Systems** <br> EGR 309 (fa26) | ◦ *Fundamentals of Probability: With Stochastic Processes* by Saeed Ghahramani <br> ◦ *Intro. To Probability* by Bertsekas & Tsitsiklis <br> ◦ *Intro. to Probability Models* by Sheldon M. Ross | 
+| **Black Mirror: Race, Technology & Justice** <br> EGR 339 (sp26) | • *Ruined by Design: How Designers Destroyed the World & What We Can Do to Fix It* by Mike Monteiro <br> ◦ *Data Feminism* by D'Ignazio & Klein <br> ◦ *Design Justice: Community-Led Practices to Build the Worlds We Need* by Sasha Costanza-Chock <br> • *Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI* by Karen Hao |
 
 | Senior level | |
 | :---: | --- |
