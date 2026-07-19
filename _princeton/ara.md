@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Arabic unofficial reading list
+title: 🐯 Princeton Arabic unofficial reading list 2026
 ---
 
 | Freshman level | |
