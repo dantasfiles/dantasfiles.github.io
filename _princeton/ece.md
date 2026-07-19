@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list
+title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list 2026
 ---
 
 | Junior level | |
@@ -9,6 +9,7 @@ title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list
 
 | Senior level | | 
 | :---: | --- |
+| [**Information Security**](https://ece432-spring26.github.io/) <br> COS 432 (sp26) | ◦ [*Security Engineering: A Guide to Building Dependable Distributed Systems*](https://www.cl.cam.ac.uk/archive/rja14/book.html) by Ross Anderson <br> ◦ *Computer Security* by Dieter Gollmann <br> ◦ *The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet* by David Kahn <br> ✔️ ***Practical Cryptography*** by Ferguson & Schneier <br> ◦ *Building Secure Software: How to Avoid Security Problems the Right Way* by Viega & McGraw <br> ◦ *The Tangled Web: A Guide to Securing Modern Web Applications* by Michal Zalewski |
 | **Solid-State Physics I** <br> ECE 441 (fa26) | • *Solid State Physics* by Ashcroft & Mermin |
 | **Solid-State Electronic Devices** <br> ECE 445 (fa26) | • *Semiconductor Physics & Devices: Basic Principles* by Donald A. Neamen | 
 | **Design of VLSI Systems** <br> ECE 462 / 562 (fa26) | • *Digital Integrated Circuits: A Design Perspective* by Rabaey et al. |
