@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Astrophysical Sciences unofficial reading list
+title: 🐯 Princeton Astrophysical Sciences unofficial reading list 2026
 ---
 
 | Graduate level | |
