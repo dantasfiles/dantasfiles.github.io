@@ -4,7 +4,7 @@ title: 🐯 Princeton Computer Science unofficial reading list 2026
 
 | Sophomore level | | 
 | :---: | --- |
-| [**Algorithms & Data Structures**](https://princeton.ecampus.com/course-list.asp?c=7668418) <br> COS 226 (fa26) | ✔️ [***Algorithms***](https://algs4.cs.princeton.edu/home/) by Sedgewick & Wayne |
+| **Algorithms & Data Structures** <br> COS 226 (fa26) | ✔️ [***Algorithms***](https://algs4.cs.princeton.edu/home/) by Sedgewick & Wayne |
 
 | Junior level | |
 | :---: | --- |
