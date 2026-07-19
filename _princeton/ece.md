@@ -15,6 +15,7 @@ title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list 
 | **Solid-State Electronic Devices** <br> ECE 445 (fa26) | • *Semiconductor Physics & Devices: Basic Principles* by Donald A. Neamen | 
 | **Design of VLSI Systems** <br> ECE 462 / 562 (fa26) | • *Digital Integrated Circuits: A Design Perspective* by Rabaey et al. |
 | **Computer Architecture** <br> ECE 475 (sp26) | • *Computer Architecture: A Quantitative Approach* by Hennessy, Patterson & Kozyrakis <br> ◦ *Modern Processor Design: Fundamentals of Superscalar Processors* by Shen & Lipasti |
+| **Parallel Computing: Principles, Systems & Programming** <br> ECE 476 (sp26) | ◦ *Computer Architecture: A Quantitative Approach* by Hennessy, Patterson & Kozyrakis <br> ◦ *Parallel Computer Architecture: A Hardware/Software Approach* by Culler, Singh & Gupta <br> ◦ *Programming Massively Parallel Processors: A Hands-on Approach* by Hwu, Kirk & Hajj |
 | **High-Tech Entrepreneurship** <br> ECE 491 (fa26) | • *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danner |
 
 | Graduate level | | 
