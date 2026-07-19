@@ -4,7 +4,7 @@ title: 🐯 Princeton American Studies unofficial reading list
 
 | Freshman level | |
 | :---: | --- |
-| [**Comparative Perspectives on Power, Resistance & Change**](https://princeton.ecampus.com/course-list.asp?c=7668166) <br> AMS 101 / [ASA](https://dantasfiles.com/princeton/asa) 101 / [LAO](https://dantasfiles.com/princeton/lao) 101 / [NAI](https://dantasfiles.com/princeton/nai) 101 (fa26) | • *The US War with Mexico: A Brief History with Documents* by Ernesto Chavez |
+| [**Comparative Perspectives on Power, Resistance & Change**](https://princeton.ecampus.com/course-list.asp?c=7668166) <br> AMS / [ASA](https://dantasfiles.com/princeton/asa) / [LAO](https://dantasfiles.com/princeton/lao) / [NAI](https://dantasfiles.com/princeton/nai) 101 (fa26) | • *The US War with Mexico: A Brief History with Documents* by Ernesto Chavez |
 
 | Sophomore level | |
 | :---: | --- |
