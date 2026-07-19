@@ -5,13 +5,13 @@ title: 🐯 Princeton Art & Archaeology unofficial reading list
 | Sophomore level | |
 | :---: | --- | 
 | **The Art & Archaeology of the Ancient Near East & Egypt** <br> ART 200 / [NES](https://dantasfiles.com/princeton/nes) 205 / [AFS](https://dantasfiles.com/princeton/afs) 202 (fa26) | • *Art of Mesopotamia* by Zainab Bahrani | 
-| **Art & Archaeology of Ancient Mesoamerica** <br> ART 267 / [LAS](https://dantasfiles.com/princeton/las) 267 / [ANT](https://dantasfiles.com/princeton/ant) 366 (fa26) | • *The Art of Mesoamerica: From Olmec to Aztec* by Mary Ellen Miller | 
+| **Art & Archaeology of Ancient Mesoamerica** <br> ART / [LAS](https://dantasfiles.com/princeton/las) 267 / [ANT](https://dantasfiles.com/princeton/ant) 366 (fa26) | • *The Art of Mesoamerica: From Olmec to Aztec* by Mary Ellen Miller | 
 
 | Junior level | |
 | :---: | --- | 
-| [**Girls & Dolls**](https://princeton.ecampus.com/course-list.asp?c=7668631) <br> ART 307 (fa26) | • *The Lonely Doll* by Dare Wright <br> • *What Maisie Knew* by Henry James <br> • [*The Age of Innocence*](https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence) by Edith Wharton <br> • *The Membranes* by Chi Ta-wei <br> • *The Bluest Eye* by Toni Morrison <br> • *Nightwood* by Djuna Barnes <br> ◦ *Ornamentalism* by Anne Anlin Cheng <br> ◦ *Ordinary Disasters: How I Stopped Being a Model Minority* by Anne Anlin Cheng | 
-| [**Curatorial Time: Historic American Art & its 21st Century Audiences**](https://princeton.ecampus.com/course-list.asp?c=7668170) <br> ART 362 (fa26) | • *Princeton University Art Museum: Handbook of the Collections* by James Christen Steward <br> • *Whitney Museum of American Art: Handbook of the Collection* by Dana Miller <br> • *Toward Joy: New Frameworks for American Art* by Stephanie Sparling Williams |
-| [**Everyday Writing in the Roman World**](https://princeton.ecampus.com/course-list.asp?c=7702556) <br> ART 366 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
+| **Girls & Dolls** <br> [ENG](https://dantasfiles.com/princeton/eng) 297 / [GSS](https://dantasfiles.com/princeton/gss) 294 / ART 307 (fa26) | • *The Lonely Doll* by Dare Wright <br> • *What Maisie Knew* by Henry James <br> • [*The Age of Innocence*](https://standardebooks.org/ebooks/edith-wharton/the-age-of-innocence) by Edith Wharton <br> • *The Membranes* by Chi Ta-wei <br> • *The Bluest Eye* by Toni Morrison <br> • *Nightwood* by Djuna Barnes <br> ◦ *Ornamentalism* by Anne Anlin Cheng <br> ◦ *Ordinary Disasters: How I Stopped Being a Model Minority* by Anne Anlin Cheng | 
+| **Curatorial Time: Historic American Art & its 21st Century Audiences** <br> [AMS](https://dantasfiles.com/princeton/ams) / ART 362 (fa26) | • *Princeton University Art Museum: Handbook of the Collections* by James Christen Steward <br> • *Whitney Museum of American Art: Handbook of the Collection* by Dana Miller <br> • *Toward Joy: New Frameworks for American Art* by Stephanie Sparling Williams |
+| **Everyday Writing in the Roman World** <br> [CLA](https://dantasfiles.com/princeton/cla) 326 / [HIS](https://dantasfiles.com/princeton/his) 326 / ART 366 / [CDH](https://dantasfiles.com/princeton/cdh) 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
 
 | Senior level | |
 | :---: | --- |
