@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Anthropology unofficial reading list
+title: 🐯 Princeton Anthropology unofficial reading list 2026
 ---
 
 | Sophomore level | |
