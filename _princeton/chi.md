@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Chinese unofficial reading list
+title: 🐯 Princeton Chinese unofficial reading list 2026
 ---
 
 | Freshman level | |
