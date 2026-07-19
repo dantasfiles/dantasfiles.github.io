@@ -1,8 +1,5 @@
 ---
-title: 🐯 Princeton Asian American Studies unofficial reading list
-description: This is an unofficial reading list from 2026 Asian American studies classes at Princeton
-author: Daniel Dantas
-hidden: true
+title: 🐯 Princeton Asian American Studies unofficial reading list 2026
 ---
 
 | Freshman level | |
@@ -11,6 +8,6 @@ hidden: true
 
 | Sophomore level | |
 | :---: | --- |
-| **Gender, Sexuality & Migration** <br> [GSS](https://dantasfiles.com/princeton/gss) 297 / [SOC](https://dantasfiles.com/princeton/soc) 283 / ASA 297 | • *Sex Trafficking: Inside the Business of Modern Slavery* by Siddharth Kara <br> • *Intimate Migrations: Gender, Family & Illegality among Transnational Mexicans* by Deborah A. Boehm <br> • *High-Tech Housewives: Indian IT Workers, Gendered Labor & Transmigration* by Amy Bhatt <br> • *The Trafficker Next Door: How Household Employers Exploit Domestic Workers* by Rhacel Salazar Parreñas <br> • *The Qualities of a Citizen: Women, Immigration & Citizenship, 1870-1965* by Martha Gardner |
+| **Gender, Sexuality & Migration** <br> [GSS](https://dantasfiles.com/princeton/gss) 297 / [SOC](https://dantasfiles.com/princeton/soc) 283 / ASA 297 (fa26) | • *Sex Trafficking: Inside the Business of Modern Slavery* by Siddharth Kara <br> • *Intimate Migrations: Gender, Family & Illegality among Transnational Mexicans* by Deborah A. Boehm <br> • *High-Tech Housewives: Indian IT Workers, Gendered Labor & Transmigration* by Amy Bhatt <br> • *The Trafficker Next Door: How Household Employers Exploit Domestic Workers* by Rhacel Salazar Parreñas <br> • *The Qualities of a Citizen: Women, Immigration & Citizenship, 1870-1965* by Martha Gardner |
 
 
