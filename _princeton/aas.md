@@ -13,7 +13,7 @@ title: 🐯 Princeton African American Studies unofficial reading list
 
 | Junior level | |
 | :---: | --- |
-| **Black Mirror: Race, Technology & Justice** <br> AAS 339 / [EGR](https://dantasfiles.com/princeton/egr) 339 / [CDH](https://dantasfiles.com/princeton/cdh) 339 | • *Ruined by Design: How Designers Destroyed the World & What We Can Do to Fix It* by Mike Monteiro <br> ◦ *Data Feminism* by D'Ignazio & Klein <br> ◦ *Design Justice: Community-Led Practices to Build the Worlds We Need* by Sasha Costanza-Chock <br> • *Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI* by Karen Hao |
+| **Black Mirror: Race, Technology & Justice** <br> AAS / [EGR](https://dantasfiles.com/princeton/egr) / [CDH](https://dantasfiles.com/princeton/cdh) 339 | • *Ruined by Design: How Designers Destroyed the World & What We Can Do to Fix It* by Mike Monteiro <br> ◦ *Data Feminism* by D'Ignazio & Klein <br> ◦ *Design Justice: Community-Led Practices to Build the Worlds We Need* by Sasha Costanza-Chock <br> • *Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI* by Karen Hao |
 
 | Senior level | |
 | :---: | --- |
