@@ -1,6 +1,10 @@
 ---
-title: 🐯 Princeton Medieval Studies unofficial reading list
+title: 🐯 Princeton Medieval Studies unofficial reading list 2026
 ---
+
+| Sophomore level | |
+| :---: | --- |
+| **The Byzantine Empire** <br> MED 205 (fa26) | • *Byzantium: A Very Short Intro.* by Peter Sarris <br> • *The Social History of Byzantium* by John Haldon <br> • *A Cabinet of Byzantine Curiosities: Strange Tales & Surprising Facts from History's Most Orthodox Empire* by Anthony Kaldellis <br> • *Secret History* by Procopius <br> • *Alexiad* by Anna Komnene <br> • *Three Byzantine Military Treatises* by George T. Dennis <br> ◦ *Accounts of Medieval Constantinople: The Patria* by Albrecht Berger <br> ◦ *Digenis Akritis: The Grottaferrata and Escorial Versions* by Elizabeth Jeffreys | 
 
 | Junior level | |
 | :---: | --- | 
