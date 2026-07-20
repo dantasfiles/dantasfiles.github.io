@@ -15,6 +15,7 @@ title: 🐯 Princeton History unofficial reading list 2026
 | **20th-Century Japan** <br> HIS 322 (fa26) | • *Peasants, Rebels, Women & Outcastes: The Underside of Modern Japan* by Mikiso Hane <br> • *Japan at War: An Oral History* by Cook & Cook <br> • *Embracing Defeat: Japan in the Wake of World War II* by John W. Dower <br> • *Molding Japanese Minds: The State in Everyday Life* by Sheldon Garon <br> • *A Modern History of Japan: From Tokugawa Times to the Present* by Andrew Gordon <br> • *Naomi* by Junichiro Tanizaki |
 | **Everyday Writing in the Roman World** <br> HIS 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
 | **The Heike as History & Art** <br> HIS 339 (fa26) | • *The Tale of the Heike* <br> • *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler |
+| **A More Perfect Union: The United States, 1920-1974** <br> HIS 383 (fa26) | • *The Rise of Conservatism in America, 1945-2000* by Story & Laurie <br> • *Lyndon B. Johnson and American Liberalism* by Bruce Schulman <br> • *My Soul is Rested: The Story of the Civil Rights Movement in the Deep South* by Howell Raines <br> • *The Age of McCarthyism* by  Schrecker & Deery <br> • *The Era of Franklin D. Roosevelt, 1933-1945* by Richard Polenberg <br> • *Only Yesterday: An Informal History of the 1920s* by Frederick Lewis Allen| 
 
 | Senior level | |
 | :---: | --- |
