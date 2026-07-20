@@ -13,6 +13,7 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 
 | Junior level | |
 | :---: | --- |
+| **Musical Theatre & Fan Cultures** <br> HUM 340 (fa26) | • *Fandom in Musical Theatre* by Jessica Hillman-McCord <br> • *John Proctor is the Villain* by Kimberly Belflower | 
 | **The Bible as Literature** <br> HUM 390 (fa26) | • *The Literary Guide to the Bible* by Alter & Kermode <br> • *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version* |
 
 | Senior level | |
