@@ -10,3 +10,7 @@ title: 🐯 Princeton Japanese unofficial reading list 2026
 | Junior level | |
 | :---: | --- |
 | **Adv. Japanese I** <br> JPN 301 (fa26) | • *Tobira: Gateway to Adv. Japanese* by Oka et al. | 
+
+| Senior level | | 
+| :---: | --- |
+| **Intro. to Classical Japanese** <br> JPN 403 (fa26) | • *Classical Japanese: A Grammar* by Haruo Shirane |
