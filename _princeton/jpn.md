@@ -9,4 +9,4 @@ title: 🐯 Princeton Japanese unofficial reading list 2026
 
 | Junior level | |
 | :---: | --- |
-| **Adv. Japanese I** <br> JPN 301 (fa26) | • *Tobira: Gateway to Advanced Japanese* by Oka et al. | 
+| **Adv. Japanese I** <br> JPN 301 (fa26) | • *Tobira: Gateway to Adv. Japanese* by Oka et al. | 
