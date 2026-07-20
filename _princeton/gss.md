@@ -13,4 +13,5 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list 2026
 
 | Graduate level | | 
 | :---: | --- |
+| **Gender in a Global Society** <br> GSS 507 (fa26) | • *Caliban & the Witch: Women, the Body & Primitive Accumulation* by Silvia Federici <br> • *The Indebted Woman: Kinship, Sexuality & Capitalism* by Isabelle Guérin <br> • *Patriarchy & Accumulation on a World Scale: Women in the International Division of Labour* by Maria Mies <br> • *Politics of Piety: The Islamic Revival and the Feminist Subject* by Saba Mahmood <br> • *Decolonizing Extinction: The Work of Care in Orangutan Rehabilitation* by Juno Salazar Parreñas <br> • *Illicit Flirtations: Labor, Migration & Sex Trafficking in Tokyo* by Rhacel Salazar Parreñas <br> • *Do Muslim Women Need Saving?* by Lila Abu-Lughod |
 | **Contemporary Critical Theories: Marx's Capital** <br> GSS 535 (fa26) | • [*Capital: A Critique of Political Economy: Volume One: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx |
