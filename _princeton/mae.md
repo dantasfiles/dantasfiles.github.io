@@ -18,5 +18,9 @@ title: 🐯 Princeton Mechanical & Aerospace Engineering unofficial reading list
 | **Aircraft Flight Dynamics** <br> MAE 331 (fa26) | • *Flight Dynamics* by Robert F. Stengel  | 
 
 | Graduate level | |
+| :---: | --- |
+| **Modern Control**  <br> MAE 434 (fa26) | • *Linear Systems Theory* by João P. Hespanha | 
+
+| Graduate level | |
 | :---: | --- | 
 | **Mathematical Methods of Engineering Analysis I** <br> MAE 501 (fa26) | • *Mathematical Methods for Physics & Engineering* by Riley et al. <br> • *Mathematical Methods for Physicists* by Arfken et al. |
