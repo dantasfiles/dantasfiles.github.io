@@ -27,4 +27,11 @@ title: 🐯 Princeton Mathematics unofficial reading list 2026
 | **Topology** <br> MAT 365 (fa26) | • *Topology* by James Munkres | 
 | **Probability & Stochastic Systems** <br> MAT 380 (fa26) | ◦ *Fundamentals of Probability: With Stochastic Processes* by Saeed Ghahramani <br> ◦ *Intro. To Probability* by Bertsekas & Tsitsiklis <br> ◦ *Intro. to Probability Models* by Sheldon M. Ross | 
 
+| Senior level | | 
+| :---: | --- |
+| **Geometry & Number Theory: Arithmetic of Elliptic Curves** <br> MAT 419 (fa26) | • *The Arithmetic of Elliptic Curves* by Joseph H. Silverman |
+| **Algebraic Geometry** <br> MAT 457 (fa26) | • *Basic Algebraic Geometry 1: Varieties in Projective Space* by Shafarevich & Reid | 
+
+
+
 
