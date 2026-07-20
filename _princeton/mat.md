@@ -13,6 +13,7 @@ title: 🐯 Princeton Mathematics unofficial reading list
 | **Linear Algebra w/ Applications** <br> MAT 202 (fa26) | • *Linear Algebra w/ Applications* by Otto Bretscher |
 | **Adv. Vector Calculus** <br> MAT 203 (fa26) | *Vector Calculus* by Marsden & Tromba | 
 | **Numbers, Equations & Proofs** <br> MAT 214 (fa26) | ◦ *The Higher Arithmetic: An Intro. to the Theory of Numbers* by H. Davenport <br> ◦ *A Classical Intro. to Modern Number Theory* by Ireland & Rosen <br> ◦ *An Intro. to the Theory of Numbers* by Ivan Niven | 
+| **Single Variable Analysis w/ an Intro. to Proofs** <br> MAT 215 (fa26) | • *Understanding Analysis* by Stephen Abbott | 
 
 | Junior level | |
 | :---: | --- |
