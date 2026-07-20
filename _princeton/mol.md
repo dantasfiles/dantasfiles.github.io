@@ -13,4 +13,4 @@ title: 🐯 Princeton Molecular Biology unofficial reading list 2026
 
 | Senior level | | 
 | :---: | --- |
-| **Viruses: Strategy & Tactics** <br> MOL 459 (fa26) | • *Principles of Virology* by Flint et al. |
+| **Viruses: Strategy & Tactics** /  <br> MOL 459 / 559 (fa26) | • *Principles of Virology* by Flint et al. |
