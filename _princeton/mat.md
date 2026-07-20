@@ -4,7 +4,7 @@ title: 🐯 Princeton Mathematics unofficial reading list
 
 | Freshman level | | 
 | :---: | --- |
-| **Calculus I** / **II** <br> MAT 103 / 104 (fa26) | • *Thomas' Calculus, Early Transcendentals: Single Variable* by Hass et al. | 
+| **Calculus I**/**II** / **One Variable Calculus w/ Proofs** <br> MAT 103 / 104 / 210 (fa26) | • *Thomas' Calculus, Early Transcendentals: Single Variable* by Hass et al. | 
 | **Math. for Economics / Life Sciences** <br> MAT 175 (fa26) | ◦ *Calculus* by Varberg et al. <br> ◦ *Thomas' Calculus, Multivariable* by Hass et al. | 
 
 | Sophomore level | |
@@ -12,6 +12,7 @@ title: 🐯 Princeton Mathematics unofficial reading list
 | **Multivariable Calculus** <br> MAT 201 (fa26) | • *Thomas' Calculus, Multivariable* by Hass et al. | 
 | **Linear Algebra w/ Applications** <br> MAT 202 (fa26) | • *Linear Algebra w/ Applications* by Otto Bretscher |
 | **Adv. Vector Calculus** <br> MAT 203 (fa26) | *Vector Calculus* by Marsden & Tromba | 
+| **Numbers, Equations & Proofs** <br> MAT 214 (fa26) | ◦ *The Higher Arithmetic: An Intro. to the Theory of Numbers* by H. Davenport <br> ◦ *A Classical Intro. to Modern Number Theory* by Ireland & Rosen | 
 
 | Junior level | |
 | :---: | --- |
