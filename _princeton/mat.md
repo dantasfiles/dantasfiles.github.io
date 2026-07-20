@@ -22,4 +22,9 @@ title: 🐯 Princeton Mathematics unofficial reading list 2026
 | **Intro. to Real Analysis** <br> MAT 320 (fa26) | • *Real Analysis* by Royden & Fitzpatrick | 
 | **Numerical Analysis & Scientific Computing** <br> MAT 321 (fa26) | • *Numerical Linear Algebra* by Trefethen and Bau <br> • *An Introduction to Numerical Analysis* by Süli & Mayers | 
 | **Analysis II: Complex Analysis** <br> MAT 335 (fa26) | • *Complex Analysis* by Stein & Shakarchi | 
+| **Applied Algebra** <br> MAT 340 (fa26) | • *Groups and Symmetry* by Mark A. Armstrong | 
+| **Algebra I** <br> MAT 345 (fa26) | ◦ *Algebra* by Michael Artin | 
+| **Topology** <br> MAT 365 (fa26) | • *Topology* by James Munkres | 
 | **Probability & Stochastic Systems** <br> MAT 380 (fa26) | ◦ *Fundamentals of Probability: With Stochastic Processes* by Saeed Ghahramani <br> ◦ *Intro. To Probability* by Bertsekas & Tsitsiklis <br> ◦ *Intro. to Probability Models* by Sheldon M. Ross | 
+
+
