@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Molecular Biology unofficial reading list
+title: 🐯 Princeton Molecular Biology unofficial reading list 2026
 ---
 
 | Sophomore level | |
@@ -9,3 +9,7 @@ title: 🐯 Princeton Molecular Biology unofficial reading list
 | Junior level | |
 | :---: | --- |
 | **Biochemistry** <br> MOL 345 (fa26) | • *Lehninger Principles of Biochemistry* by Nelson & Cox | 
+
+| Senior level | | 
+| :---: | --- |
+| **Viruses: Strategy & Tactics** <br> MOL 459 (fa26) | • *Principles of Virology* by Flint et al. |
