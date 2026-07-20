@@ -8,7 +8,8 @@ title: 🐯 Princeton Molecular Biology unofficial reading list 2026
 
 | Junior level | |
 | :---: | --- |
-| **Biochemistry** <br> MOL 345 (fa26) | • *Lehninger Principles of Biochemistry* by Nelson & Cox | 
+| **Biochemistry** <br> MOL 345 (fa26) | • *Lehninger Principles of Biochemistry* by Nelson & Cox |
+| **Modern Microbiology: Into the Microverse!** <br> MOL 380 (fa26) | • *Brock Biology of Microorganisms* by Madigan et al. | 
 
 | Senior level | | 
 | :---: | --- |
