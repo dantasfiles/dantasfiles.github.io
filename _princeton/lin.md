@@ -10,4 +10,5 @@ title: 🐯 Princeton Linguistics unofficial reading list
 | Junior level | |
 | :---: | --- | 
 | **Syntax** <br> LIN 302 (fa26) | • *[The Syntax of Natural Language](https://scholarship.claremont.edu/pomona_facbooks/50/)* by Diercks et al. | 
+| **Psychology of Language** <br> LIN 309 (fa26) | • *Language in Mind: An Intro. to Psycholinguistics* by Julie Sedivy | 
 | **Semantics** <br> LIN 334 (Fa26) | • *Semantics in Generative Grammar* by Heim & Kratzer | 
