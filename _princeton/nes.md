@@ -6,6 +6,7 @@ title: 🐯 Princeton Near Eastern Studies unofficial reading list 2026
 | :---: | --- | 
 | **The Art & Archaeology of the Ancient Near East & Egypt** <br> NES 205 (fa26) | • *Art of Mesopotamia* by Zainab Bahrani | 
 | **Muslims & the Qur'an** <br> NES 240 (fa26) | • *The Qur'an* <br> • *A History of the Muslim World: From Its Origins to the Dawn of Modernity* by Michael A. Cook <br> • *An Introduction to Islamic Law* by Wael B. B. Hallaq | 
+| **Supernatural Histories of the Middle East** <br> NES 241 (fa26) | • *The Case of the Animals versus Man Before the King of the Jinn* <br> • *Aladdin* <br> • *Shubeik Lubeik* by Deena Mohamed <br> • *Tuhami: Portrait of a Moroccan* by Vincent Crapanzano | 
 | **Judaism, Christianity & Islam: Their Emergence in Antiquity** <br> NES 244 (fa26) | • *The New Oxford Annotated Bible: New Revised Standard Version with the Apocrypha* <br> • *The Qur'an* | 
 
 | Junior level | | 
