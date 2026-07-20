@@ -1,9 +1,10 @@
 ---
-title: 🐯 Princeton Material Science & Engineering unofficial reading list
+title: 🐯 Princeton Material Science & Engineering unofficial reading list 2026
 ---
 
 | Junior level | |
 | :---: | --- |
+| **Structure & Properties of Materials** <br> MSE 324 (fa26) | • *Materials Science & Engineering: An Intro.* by Callister & Rethwisch | 
 | **Matrix Structural Analysis & Intro. to Finite-Element Methods** <br> MSE 331 (fa26) | ◦ *An Intro. To Matrix Structural Analysis & Finite Element Methods* by Prevost & Bagrianski | 
 | **Origami Engineering** <br> MSE 345 / 535 (fa26) | • *How to Fold It: The Mathematics of Linkages, Origami & Polyhedra* by Joseph O'Rourke | 
 
