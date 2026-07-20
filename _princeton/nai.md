@@ -1,10 +1,10 @@
 ---
-title: 🐯 Princeton Native American & Indigenous unofficial reading list
+title: 🐯 Princeton Native American & Indigenous unofficial reading list 2026
 ---
 
 | Freshman level | |
 | :---: | --- |
-| [**Comparative Perspectives on Power, Resistance & Change**](https://princeton.ecampus.com/course-list.asp?c=7668166) <br> NAI 101 (fa26) | • *The US War with Mexico: A Brief History with Documents* by Ernesto Chavez |
+| **Comparative Perspectives on Power, Resistance & Change** <br> NAI 101 (fa26) | • *The US War with Mexico: A Brief History with Documents* by Ernesto Chavez |
 
 | Junior level | |
 | :---: | --- |
