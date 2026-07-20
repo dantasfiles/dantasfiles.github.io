@@ -14,6 +14,7 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list 2026
 | Junior level | | 
 | :---: | --- |
 | **Women, Gender & the Body in Islamic Societies** <br> GSS 328 (fa26) | • *Minor Detail* by Adania Shibli <br> • *Season of Migration to the North* by Tayeb Salih <br> • *So Long a Letter* by Mariama Ba |
+| **Gender & Performing Arts in South Asia** <br> GSS 335 (fa26) | • *The Life of Music in North India: The Organization of an Artistic Tradition* by Daniel M. Neuman <br> • *Unfinished Gestures: Devadasis, Memory & Modernity in South India* by Davesh Soneji <br> • *Heart to Heart: Remembering Nainaji* by Vidya Rao <br> • *Illicit Worlds of Indian Dance: Cultures of Exclusion* by Anna Morcom <br> • *Umrao Jan Ada* by Mirza Muhammad Hadi Rusva | 
 
 | Graduate level | | 
 | :---: | --- |
