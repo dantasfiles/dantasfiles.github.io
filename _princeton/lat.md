@@ -7,4 +7,6 @@ title: 🐯 Princeton Latin unofficial reading list 2026
 | **Beginner's Latin** <br> LAT 101 (fa26) | • *Intro. to Latin* by Susan C. Shelmerdine |
 | **Intermediate Latin: Catullus & His Age** <br> LAT 105 (fa26) | • *AVARICVM: A Latin Text of Caesar's Gallic War VII 1-28 with Running Vocabulary and Commentary* by Lanier et al. <br> • *The Student's Catullus* by Daniel H. Garrison | 
 
-
+| Junior level | |
+| :---: | --- |
+| **Tacitus & the Parthians** <br> LAT 320 (fa26) | • *The Annals* by Tacitus | 
