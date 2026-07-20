@@ -4,7 +4,7 @@ title: 🐯 Princeton Mathematics unofficial reading list
 
 | Freshman level | | 
 | :---: | --- |
-| **Calculus I**/**II** / **One Variable Calculus w/ Proofs** <br> MAT 103 / 104 / 210 (fa26) | • *Thomas' Calculus, Early Transcendentals: Single Variable* by Hass et al. | 
+| **Calculus I** / **II** / **One Variable Calculus w/ Proofs** <br> MAT 103 / 104 / 210 (fa26) | • *Thomas' Calculus, Early Transcendentals: Single Variable* by Hass et al. | 
 | **Math. for Economics / Life Sciences** <br> MAT 175 (fa26) | ◦ *Calculus* by Varberg et al. <br> ◦ *Thomas' Calculus, Multivariable* by Hass et al. | 
 
 | Sophomore level | |
