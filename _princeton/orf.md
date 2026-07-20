@@ -15,6 +15,8 @@ title: 🐯 Princeton Operations Research & Financial Engineering unofficial rea
 | Senior level | |
 | :---: | --- |
 | **Regression & Applied Time Series** <br> ORF 405 (fa26) | ◦ *An Introduction to Statistical Learning* by James et al. | 
+| **Intro. to Monte Carlo Simulation** <br> ORF 409 (fa26) | ◦ *Simulation* by Sheldon M. Ross | 
+| **Optimal Learning** <br> ORF 418 (fa25) | ◦ *Dynamic Programming & Optimal Control* by Dimitri P. Bertsekas | 
 | **Energy & Commodities Markets** <br> ORF 455 (fa26) | ◦ *Optimization Models in Electricity Markets* by Anthony Papavasiliou <br> ◦ *The Economist Guide to Commodities: Producers, Players & Prices; Markets, Consumers & Trends* by Caroline Bain <br> ◦ *Commodity Price Dynamics: A Structural Approach* by Craig Pirrong <br> ◦ *Valuation & Risk Management in Energy Markets* by Glen Swindle <br> ◦ *Energy & Power Risk Management: New Developments in Modeling, Pricing & Hedging* by Eydeland & Wolyniec |
 
 | Graduate level | |
