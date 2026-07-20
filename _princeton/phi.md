@@ -9,7 +9,8 @@ title: 🐯 Princeton Philosophy unofficial reading list 2026
 
 | Junior level | | 
 | :---: | --- |
-| **Semantics** <br> PHI 334 (Fa26) | • *Semantics in Generative Grammar* by Heim & Kratzer | 
+| **Computability & Logic** <br> PHI 312 (fa26) | • *Computability and Logic* by Boolos et al. | 
+| **Semantics** <br> PHI 334 (fa26) | • *Semantics in Generative Grammar* by Heim & Kratzer | 
 
 | Graduate level | | 
 | :---: | --- |
