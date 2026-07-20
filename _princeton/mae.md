@@ -12,6 +12,7 @@ title: 🐯 Princeton Mechanical & Aerospace Engineering unofficial reading list
 
 | Junior level | |
 | :---: | --- |
+| **Structure & Properties of Materials** <br> MAE 324 (fa26) | • *Materials Science & Engineering: An Intro.* by Callister & Rethwisch | 
 | **Matrix Structural Analysis & Intro. to Finite-Element Methods** <br> MAE 325 (fa26) | ◦ *An Intro. To Matrix Structural Analysis & Finite Element Methods* by Prevost & Bagrianski | 
 | **Origami Engineering** <br> MAE 327 / 556 (fa26) | • *How to Fold It: The Mathematics of Linkages, Origami & Polyhedra* by Joseph O'Rourke | 
 
