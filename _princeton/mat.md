@@ -7,6 +7,11 @@ title: 🐯 Princeton Mathematics unofficial reading list
 | **Calculus I** / **II** <br> MAT 103 / 104 (fa26) | • *Thomas' Calculus, Early Transcendentals: Single Variable* by Hass et al. | 
 | **Math. for Economics / Life Sciences** <br> MAT 175 (fa26) | ◦ *Calculus* by Varberg et al. <br> ◦ *Thomas' Calculus, Multivariable* by Hass et al. | 
 
+| Sophomore level | |
+| :---: | --- |
+| **Multivariable Calculus** <br> MAT 201 (fa26) | • *Thomas' Calculus, Multivariable* by Hass et al. | 
+| **Linear Algebra w/ Applications** <br> MAT 202 (fa26) | • *Linear Algebra w/ Applications* by Otto Bretscher |
+
 | Junior level | |
 | :---: | --- |
 | **Numerical Analysis & Scientific Computing** <br> MAT 321 (fa26) | • *Numerical Linear Algebra* by Trefethen and Bau <br> • *An Introduction to Numerical Analysis* by Süli & Mayers | 
