@@ -9,3 +9,4 @@ title: 🐯 Princeton Near Eastern Studies unofficial reading list 2026
 | Junior level | | 
 | :---: | --- |
 | **Women, Gender & the Body in Islamic Societies** <br> NES 331 (fa26) | • *Minor Detail* by Adania Shibli <br> • *Season of Migration to the North* by Tayeb Salih <br> • *So Long a Letter* by Mariama Ba |
+| **The World of the Cairo Geniza** <br> NES 369 (fa26) | • *In an Antique Land: History in the Guise of a Traveler's Tale* by Amitav Ghosh <br> • *Sacred Trash: The Lost and Found World of the Cairo Geniza* by Hoffman & Cole <br> • *Trade & Institutions in the Medieval Mediterranean: The Geniza Merchants & their Business World* by Jessica L. Goldberg <br> • *Slavery and the Jews of Medieval Egypt: A History* by Craig Perry | 
