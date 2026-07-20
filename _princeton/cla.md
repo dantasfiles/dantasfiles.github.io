@@ -17,4 +17,4 @@ title: 🐯 Princeton Classics unofficial reading list 2026
 
 | Senior level | | 
 | :---: | --- |
-| **Between Selves: Living Letters from Antiquity to the Present** <br> CLA 415 (fa26) | • *Letter to the Father* by Franz Kafka <br> • *The Letters of Abelard and Heloise* <br> • *The Fire Next Time* by James Baldwin <br> • *Heroides* by Ovid <br> • *The Ides of March* by Thornton Wilder <br> • *The Correspondent* by Virginia Evans <br> • *Selected Letters* by Seneca |
+| **Between Selves: Living Letters from Antiquity to the Present** <br> CLA 415 (fa26) | • *Letter to the Father* by Franz Kafka <br> • *The Letters of Abelard and Heloise* <br> ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)  <br> • *Heroides* by Ovid <br> • *The Ides of March* by Thornton Wilder <br> • *The Correspondent* by Virginia Evans <br> • *Selected Letters* by Seneca |
