@@ -5,9 +5,6 @@ title: 🐯 Princeton Sanskrit unofficial reading list 2026
 | Freshman level | | 
 | :---: | --- |
 | **Elementary Sanskrit I** <br> SAN 101 (fa26) | • *A Concise Elementary Grammar of the Sanskrit Language* by Jan Gonda <br> • *The Sanskrit Language: An Intro. Grammar & Reader* by Walter Harding Maurer <br> ◦ *A Sanskrit Grammar for Students* by A.A. Macdonell | 
-
-| Sophomore level | |
-| :---: | --- |
 | **Intermediate Sanskrit I** <br> SAN 105 (fa26) | • *A Concise Elementary Grammar of the Sanskrit Language* by Jan Gonda <br> ◦ *A Sanskrit English Dictionary* by M Monier-Williams <br> • *The Practical Sanskrit-English Dictionary* by Vaman Shivram Apte <br> ◦ *A Sanskrit Grammar for Students* by A.A. Macdonell | 
 
 | Junior level | |
