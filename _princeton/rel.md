@@ -4,7 +4,7 @@ title: 🐯 Princeton Religion unofficial reading list 2026
 
 | Freshman level | |
 | :---: | --- |
-| **Religion & the Public Conversation** <br> REL 100 (fa26) | ◦ *Religion: A Very Short Introduction* by Thomas A. Tweed | 
+| **Religion & the Public Conversation** <br> REL 100 (fa26) | ◦ *Religion: A Very Short Intro.* by Thomas A. Tweed | 
 
 | Sophomore level | |
 | :---: | --- |
