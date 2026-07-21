@@ -9,6 +9,7 @@ title: 🐯 Princeton Psychology unofficial reading list 2026
 | Sophomore level | |
 | :---: | --- | 
 | **Functional Neuroanatomy** / **Fundamentals of Neuroscience** <br> PSY 200 / 258 (fa26) | • *Neuroscience: Exploring the Brain* by Mark Bear | 
+| **Social Psychology** <br> PSY 252 (fa26) | • *Social Psychology* by Tom Gilovich et al. | 
 
 | Junior level | |
 | :---: | --- | 
