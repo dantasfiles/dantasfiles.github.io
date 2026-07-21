@@ -17,4 +17,5 @@ title: 🐯 Princeton Religion unofficial reading list 2026
 
 | Junior level | | 
 | :---: | --- |
+| **Junior Seminar** <br> REL 300 (fa26) | ◦ *The Elementary Forms of Religious Life* by Emile Durkheim <br> ◦ *The Interpretation of Cultures* by Clifford Geertz <br> • *How God Becomes Real: Kindling the Presence of Invisible Others* by T.M. Luhrmann <br> • *The Thing about Religion: An Intro. to the Material Study of Religions* by David Morgan <br> ◦ *Politics of Piety: The Islamic Revival & the Feminist Subject* by Saba Mahmood <br> • *The Politics of Ritual* by Molly Farneth <br> ◦ *Faking Liberties: Religious Freedom in American-Occupied Japan* by Jolyon Baraka Thomas <br> ◦ *Stealing My Religion: Not Just Any Cultural Appropriation* by Liz Bucar <br> • *Wild Experiment: Feeling Science & Secularism after Darwin* by Donovan O. Schaefer | 
 | **Women, Gender & the Body in Islamic Societies** <br> REL 328 (fa26) | • *Minor Detail* by Adania Shibli <br> • *Season of Migration to the North* by Tayeb Salih <br> • *So Long a Letter* by Mariama Ba |
