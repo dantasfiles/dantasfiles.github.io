@@ -9,7 +9,7 @@ title: 🐯 Princeton Politics unofficial reading list
 | **American Political Thought** <br> POL 321 (fa26) | • *The Portable Abraham Lincoln* <br> • *The Essential Federalist and Anti-Federalist Papers* <br> • *Democracy in America* by Alexis de Tocqueville <br> • *Black Boy* by Richard Wright |
 | **The Presidency & Executive Power** <br> POL 325 (fa26) | • *The American Presidency: An Institutional Approach to Executive Politics* by William G. Howell | 
 | **Experimental Methods in Social Science** <br> POL 341 (fa26) | • *Social Science Experiments: A Hands-on Intro.* by Donald P. Green | 
-| **Causes of War** <br> POL 377 (fa26) | • *Immanuel Kant: Perpetual Peace and Other Essays* <br> • *Hitler's World View: A Blueprint for Power* by Eberhard Jackel <br> • *On the Origins of War: And the Preservation of Peace* by Donald Kagan <br> • *Why I Write* by George Orwell <br> • *The History of the Peloponnesian War* by Thucydides <br> • *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman <br> • *Man, the State & War: A Theoretical Analysis* by Kenneth N. Waltz | 
+| **Causes of War** <br> POL 388 (fa26) | • *Immanuel Kant: Perpetual Peace and Other Essays* <br> • *Hitler's World View: A Blueprint for Power* by Eberhard Jackel <br> • *On the Origins of War: And the Preservation of Peace* by Donald Kagan <br> • *Why I Write* by George Orwell <br> • *The History of the Peloponnesian War* by Thucydides <br> • *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman <br> • *Man, the State & War: A Theoretical Analysis* by Kenneth N. Waltz | 
 
 | Senior level | |
 | :---: | --- |
