@@ -17,3 +17,4 @@ title: 🐯 Princeton Public & International Affairs unofficial reading list
 | :---: | --- |
 | **International Politics** <br> SPI 541 (fa26) | • *International Politics: Enduring Concepts & Contemporary Issues* by Art et al. <br> • *A World Safe for Democracy: Liberal Internationalism & the Crises of Global Order* by G. John Ikenberry <br> • *Intro. to International Relations: Perspectives, Connections & Enduring Questions* by Joseph Grieco |
 | **Implementing Change in the US Health Care System** <br> SPI 591E (fa26) | • *The Ten Year War: Obamacare & the Unfinished Crusade for Universal Coverage* by Jonathan Cohn | 
+| **Land Use Policy & Planning** <br> SPI 593C (fa26) | *This Land: The Battle over Sprawl & the Future of America* by Anthony Flint | 
