@@ -13,4 +13,5 @@ title: 🐯 Princeton Politics unofficial reading list
 
 | Senior level | |
 | :---: | --- |
+| **International Relations: Russia's Relations with Europe** <br> POL 440 (fa26) | • *The Russo-Ukrainian War: The Return of History* by Serhii Plokhy <br> • *Nothing Is True & Everything Is Possible: The Surreal Heart of the New Russia* by Peter Pomerantsev | 
 | **Art, Memory & Human Rights in Latin America** <br> POL 456 (fa26) | • *Liliana's Invincible Summer: A Sister's Search for Justice* by Cristina Rivera Garza <br> • *Operation Massacre* by Rodolfo Walsh <br> • *Massacre in Mexico* by Elena Poniatowska <br> • *Knitting the Fog* by Claudia D. Hernández |
