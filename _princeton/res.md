@@ -12,4 +12,5 @@ title: 🐯 Princeton Russian, East European & Eurasian Studies unofficial readi
 
 | Senior level | |
 | :---: | --- |
+| **Dostoevsky** <br> RES 416 (fa26) | • *The Brothers Karamazov* by Fyodor Dostoyevsky <br> • *Crime & Punishment* by Fyodor Dostoyevsky <br> • *Demons* by Fyodor Dostoevsky <br> • *The Idiot* by Fyodor Dostoevsky <br> • *Memoirs from the House of the Dead* by Fyodor Dostoevsky <br> • *Netochka Nezvanova* by Fyodor Dostoyevsky <br> • *Notes from Underground* by Fyodor Dostoyevsky <br> • *The Double* by Fyodor Dostoyevsky <br> • *Nikolai Gogol: Plays & Petersburg Tales* <br> • *Fyodor Dostoyevsky: Poor Folk and Other Stories* | 
 | **International Relations: Russia's Relations with Europe** <br> RES 440 (fa26) | • *The Russo-Ukrainian War: The Return of History* by Serhii Plokhy <br> • *Nothing Is True & Everything Is Possible: The Surreal Heart of the New Russia* by Peter Pomerantsev | 
