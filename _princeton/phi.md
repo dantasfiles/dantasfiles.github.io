@@ -10,6 +10,7 @@ title: 🐯 Princeton Philosophy unofficial reading list 2026
 | Junior level | | 
 | :---: | --- |
 | **Computability & Logic** <br> PHI 312 (fa26) | • *Computability and Logic* by Boolos et al. | 
+| **Philosophy of Science** <br> PHI 321 (fa26) | • *Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences* by René Descartes <br> • *The World and Man* by René Descartes <br> • *Selected Philosophical Papers of Robert Boyle* <br> • *Observations upon Experimental Philosophy* by Margaret Cavendish <br> • *The Essential Galileo* <br> • *Leibniz and Clarke: Correspondence* <br> • *Newton: Philosophical Writings* <br> • *Francis Bacon: Selected Philosophical Works* | 
 | **Semantics** <br> PHI 334 (fa26) | • *Semantics in Generative Grammar* by Heim & Kratzer | 
 
 | Graduate level | | 
