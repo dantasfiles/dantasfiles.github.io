@@ -13,5 +13,5 @@ title: 🐯 Princeton Psychology unofficial reading list 2026
 
 | Junior level | |
 | :---: | --- | 
-| **Educational Psychology** <br> PSY 307 (fa26) | • *Educational Psychology Theory & Practice* by Slavin et al. | 
+| **Educational Psychology** <br> PSY 307 (fa26) | • *Educational Psychology: Theory & Practice* by Slavin et al. | 
 | **Psychology of Language** <br> PSY 309 (fa26) | • *Language in Mind: An Intro. to Psycholinguistics* by Julie Sedivy | 
