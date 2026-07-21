@@ -8,4 +8,4 @@ title: 🐯 Princeton Russian, East European & Eurasian Studies unofficial readi
 
 | Senior level | |
 | :---: | --- |
-| **International Relations: Russia's Relations with Europe** <br> POL 440 (fa26) | • *The Russo-Ukrainian War: The Return of History* by Serhii Plokhy <br> • *Nothing Is True & Everything Is Possible: The Surreal Heart of the New Russia* by Peter Pomerantsev | 
+| **International Relations: Russia's Relations with Europe** <br> RES 440 (fa26) | • *The Russo-Ukrainian War: The Return of History* by Serhii Plokhy <br> • *Nothing Is True & Everything Is Possible: The Surreal Heart of the New Russia* by Peter Pomerantsev | 
