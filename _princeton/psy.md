@@ -14,4 +14,5 @@ title: 🐯 Princeton Psychology unofficial reading list 2026
 | Junior level | |
 | :---: | --- | 
 | **Educational Psychology** <br> PSY 307 (fa26) | • *Educational Psychology: Theory & Practice* by Slavin et al. | 
-| **Psychology of Language** <br> PSY 309 (fa26) | • *Language in Mind: An Intro. to Psycholinguistics* by Julie Sedivy | 
+| **Psychology of Language** <br> PSY 309 (fa26) | • *Language in Mind: An Intro. to Psycholinguistics* by Julie Sedivy |
+| **Mind, Body, Culture: Clinical Psychology** <br> PSY 385 (fa26) | • *The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors & the Collision of Two Cultures* by Anne Fadiman | 
