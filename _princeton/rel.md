@@ -2,6 +2,10 @@
 title: 🐯 Princeton Religion unofficial reading list 2026
 ---
 
+| Freshman level | |
+| :---: | --- |
+| **Religion & the Public Conversation** <br> REL 100 (fa26) | ◦ *Religion: A Very Short Introduction* by Thomas A. Tweed | 
+
 | Sophomore level | |
 | :---: | --- |
 | **Jews Across the Americas** <br> REL 205 (fa26) | • *Like a Bride* by Rosa Nissán <br> • *Like a Mother* by Rosa Nissán <br> • *God of Vengeance* by Donald Margulies <br> • *The Implacable Urge to Defame: Cartoon Jews in the American Press, 1877-1935* by Matthew Baigell <br> • *Jews Across the Americas: A Sourcebook, 1492–Present* by Brodsky & Leibman | 
