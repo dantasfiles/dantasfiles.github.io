@@ -12,3 +12,7 @@ title: 🐯 Princeton Public & International Affairs unofficial reading list
 | Senior level | | 
 | :---: | --- |
 | **The Critical Role of State Courts in Our Federal System** <br> SPI 410 (fa26) | • *The State and Federal Courts: A Complete Guide to History, Powers & Controversy* by Christopher P. Banks <br> • *51 Imperfect Solutions: States & the Making of American Constitutional Law* by Jeffrey S. Sutton <br> • *Who Decides?: States as Laboratories of Constitutional Experimentation* by Jeffrey S. Sutton | 
+
+| Graduate level | | 
+| :---: | --- |
+| **International Politics** <br> SPI 541 (fa26) | • *International Politics: Enduring Concepts & Contemporary Issues* by Art et al. <br> • *A World Safe for Democracy: Liberal Internationalism and the Crises of Global Order* by G. John Ikenberry <br> • *Intro. to International Relations: Perspectives, Connections & Enduring Questions* by Joseph Grieco | 
