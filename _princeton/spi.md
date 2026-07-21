@@ -15,4 +15,4 @@ title: 🐯 Princeton Public & International Affairs unofficial reading list
 
 | Graduate level | | 
 | :---: | --- |
-| **International Politics** <br> SPI 541 (fa26) | • *International Politics: Enduring Concepts & Contemporary Issues* by Art et al. <br> • *A World Safe for Democracy: Liberal Internationalism and the Crises of Global Order* by G. John Ikenberry <br> • *Intro. to International Relations: Perspectives, Connections & Enduring Questions* by Joseph Grieco | 
+| **International Politics** <br> SPI 541 (fa26) | • *International Politics: Enduring Concepts & Contemporary Issues* by Art et al. <br> • *A World Safe for Democracy: Liberal Internationalism & the Crises of Global Order* by G. John Ikenberry <br> • *Intro. to International Relations: Perspectives, Connections & Enduring Questions* by Joseph Grieco | 
