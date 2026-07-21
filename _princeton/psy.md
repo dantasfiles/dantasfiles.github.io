@@ -2,6 +2,10 @@
 title: 🐯 Princeton Psychology unofficial reading list 2026
 ---
 
+| Freshman level | | 
+| :---: | --- |
+| **Intro. to Psychology** <br> PSY 101 (fa26) | • *Psychology* by Schacter et al. |
+
 | Sophomore level | |
 | :---: | --- | 
 | **Functional Neuroanatomy** / **Fundamentals of Neuroscience** <br> PSY 200 / 258 (fa26) | • *Neuroscience: Exploring the Brain* by Mark Bear | 
