@@ -6,7 +6,8 @@ title: 🐯 Princeton Politics unofficial reading list
 | :---: | --- | 
 | **Conducting Independent Research in Political Science** <br> POL 300 (fa26) | • *The Fundamentals of Political Science Research* by Kellstedt & Whitten | 
 | **The Just Society** <br> POL 307 | • [*2nd Treatise on Government*](https://standardebooks.org/ebooks/john-locke/two-treatises-of-government/text/book-2) by John Locke <br> ✔️ ***[The Communist Manifesto](https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore)*** by Marx & Engels <br> • [*Capital: A Critique of Political Economy: Volume One: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx <br> • *The Classical Utilitarians: Bentham & Mill* <br> • *A Theory of Justice* by John Rawls |
-| **American Political Thought** <br> POL 321 (fa26) | • *The Portable Abraham Lincoln* <br> • *The Essential Federalist and Anti-Federalist Papers* <br> • *Democracy in America* by Alexis de Tocqueville <br> • *Black Boy* by Richard Wright | 
+| **American Political Thought** <br> POL 321 (fa26) | • *The Portable Abraham Lincoln* <br> • *The Essential Federalist and Anti-Federalist Papers* <br> • *Democracy in America* by Alexis de Tocqueville <br> • *Black Boy* by Richard Wright |
+| **The Presidency & Executive Power** <br> POL 325 (fa26) | • *The American Presidency: An Institutional Approach to Executive Politics* by William G. Howell | 
 
 | Senior level | |
 | :---: | --- |
