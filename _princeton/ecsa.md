@@ -3,7 +3,7 @@ title: 🐯 Princeton Effron Center for the Study of America unofficial reading 
 layout: reading-list
 ---
 
-This center includes American, Asian American, Latino, and Native American & Indigenous Studies
+This unofficial reading list includes American, Asian American, Latino, and Native American & Indigenous Studies
 
 | Freshman level | |
 | :---: | --- |
