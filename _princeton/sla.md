@@ -1,9 +1,18 @@
 ---
-title: 🐯 Princeton Slavic Languages & Literature unofficial reading list
+title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list 2026
+layout: reading-list
 ---
+
+| Freshman level | |
+| :---: | --- |
+| **Beginning Bosnian-Croatian-Serbian I** <br> BCS 101 (fa26) | • *Bosnian, Croatian, Serbian* by Alexander & Elias-Bursac |
+| **Beginner's Russian I** <br> RUS 101 (fa26) | • *Golosa: A Basic Course in Russian, Book 1* by Robin et al. | 
+| **Intermediate Polish** <br> PLS 105 (fa26) | • *Basic Polish: A Grammar & Workbook* by Dana Bielec | 
+| **Intermediate Russian I** <br> RUS 105 (fa26) | • *Etazhi: Second Year Russian Language & Culture* by Dengub & Nazarova |
 
 | Sophomore level | | 
 | :---: | --- |
+| **Adv. Russian Reading and Conversation I** <br> RUS 207 (fa26) | • *Cinema for Russian Conversation, Vol. 2* by Kashper et al. | 
 | **Pushkin, Gogol, Dostoevsky** <br> SLA 219 (fa26) | • *Alexander Pushkin: Boris Godunov & Other Dramatic Works* <br> • *Eugene Onegin: A Novel in Verse* by Alexander Pushkin <br> • *Novels, Tales, Journeys: The Complete Prose of Alexander Pushkin* <br> • *A Hero of Our Time* by Mikhail Lermontov <br> • *Nikolai Gogol: Plays & Petersburg Tales* <br> • *Notes from the Underground* by Fyodor Dostoevsky <br> • *Crime & Punishment* by Fyodor Dostoyevsky | 
 
 | Junior level | |
