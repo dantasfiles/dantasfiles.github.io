@@ -1,14 +1,18 @@
 ---
-title: 🐯 Princeton East Asian Studies unofficial reading list
+title: 🐯 Princeton East Asian Studies unofficial reading list 2026
+layout: reading-list
 ---
 
 | Freshman level | |
 | :---: | --- |
 | **Elementary Chinese I** <br> CHI 101 (fa26) | • *1st Step: An Elementary Reader for Modern Chinese* by Chou et al. |
+| **Elementary Korean I** <br> KOR 101 (fa26) | • *Integrated Korean: Beginning 1* by Cho et al. <br> • *Integrated Korean Workbook: Beginning 1* by Park et al. | 
 | **Elementary Japanese I** <br> JPN 101 (fa26) | • *Nakama 1: Intro. Japanese: Communication, Culture, Context* by Hatasa et al. | 
 | **Intensive Elementary Chinese** <br> CHI 103 (fa26) | • *A Trip to China: An Intermediate Reader of Modern Chinese* by Chou | 
+| **Intensive Korean I** <br> KOR 103 (fa26) | • *Integrated Korean: Beginning 1* & *2* by Cho et al. | 
 | **Intermediate Chinese I** <br> CHI 105 (fa26) | • *A New China: An Intermediate Reader of Modern Chinese* by Chou et al. |
 | **Intermediate Japanese I** <br> JPN 105 (fa26) | • *Nakama 2: Intermediate Japanese: Communication, Culture, Context* by Hatasa et al. <br> • *Tobira I: Intermediate Japanese* by Oka et al. |
+| **Intermediate Korean I** <br> KOR 105 (fa26) | • *Integrated Korean: Intermediate 1* by Cho et al. <br> • *Integrated Korean Workbook: Intermediate 1* by Park et al. | 
 
 | Sophomore level | |
 | :---: | --- |
