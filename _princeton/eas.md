@@ -6,8 +6,13 @@ layout: reading-list
 | Freshman level | |
 | :---: | --- |
 | **Elementary Chinese I** <br> CHI 101 (fa26) | • *1st Step: An Elementary Reader for Modern Chinese* by Chou et al. |
+| **Elementary Japanese I** <br> JPN 101 (fa26) | • *Nakama 1: Intro. Japanese: Communication, Culture, Context* by Hatasa et al. | 
+| **Elementary Korean I** <br> KOR 101 (fa26) | • *Integrated Korean: Beginning 1* by Cho et al. <br> • *Integrated Korean Workbook: Beginning 1* by Park et al. |
 | **Intensive Elementary Chinese** <br> CHI 103 (fa26) | • *A Trip to China: An Intermediate Reader of Modern Chinese* by Chou | 
+| **Intensive Korean I** <br> KOR 103 (fa26) | • *Integrated Korean: Beginning 1* & *2* by Cho et al. | 
 | **Intermediate Chinese I** <br> CHI 105 (fa26) | • *A New China: An Intermediate Reader of Modern Chinese* by Chou et al. |
+| **Intermediate Japanese I** <br> JPN 105 (fa26) | • *Nakama 2: Intermediate Japanese: Communication, Culture, Context* by Hatasa et al. <br> • *Tobira I: Intermediate Japanese* by Oka et al. |
+| **Intermediate Korean I** <br> KOR 105 (fa26) | • *Integrated Korean: Intermediate 1* by Cho et al. <br> • *Integrated Korean Workbook: Intermediate 1* by Park et al. | 
 
 | Sophomore level | |
 | :---: | --- |
@@ -18,6 +23,7 @@ layout: reading-list
 | Junior level | |
 | :---: | --- |
 | **Junior Seminar** <br> EAS 300 (fa26) | • *A History of East Asia: From the Origins of Civilization to the 21st Century* by Charles Holcombe <br> • *The Craft of Research* by Wayne C. Booth |
+| **Adv. Japanese I** <br> JPN 301 (fa26) | • *Tobira: Gateway to Adv. Japanese* by Oka et al. | 
 | **3rd-Year** / **Intensive 3rd-Year Modern Chinese I** <br> CHI 303/305 (fa26) | • *Eyes on China: An Intermediate-Adv. Reader of Modern Chinese* by Chou et al. |
 | **The Heike as History & Art** <br> EAS 318 (fa26) | • *The Tale of the Heike* <br> • *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler |
 | **20th-Century Japan** <br> EAS 324 (fa26) | • *Peasants, Rebels, Women & Outcastes: The Underside of Modern Japan* by Mikiso Hane <br> • *Japan at War: An Oral History* by Cook & Cook <br> • *Embracing Defeat: Japan in the Wake of World War II* by John W. Dower <br> • *Molding Japanese Minds: The State in Everyday Life* by Sheldon Garon <br> • *A Modern History of Japan: From Tokugawa Times to the Present* by Andrew Gordon <br> • *Naomi* by Junichiro Tanizaki |
@@ -26,6 +32,7 @@ layout: reading-list
 
 | Senior level | |
 | :---: | --- |
+| **Intro. to Classical Japanese** <br> JPN 403 (fa26) | • *Classical Japanese: A Grammar* by Haruo Shirane |
 | **Intensive 4th-Year Modern Chinese I** <br> CHI 405 (fa26) | • *Anything Goes: An Adv. Reader of Modern Chinese* by Chou et al. | 
 
 | Graduate level | |
