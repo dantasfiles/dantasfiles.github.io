@@ -4,9 +4,19 @@ title: 🐯 Princeton unofficial reading lists 2026
 
 I compiled these unofficial reading lists using publicly available information from the [online bookstore](https://princeton.ecampus.com/) and course webpages.<br>To keep track of my own explorations, I've marked books and papers I've read with a **bold** ✔️
 
-## Engineering
-**Applied & Computational Mathematics** | **Architecture & Engineering** | **Bioengineering** | **Chemical & Biological Engineering** | **Civil & Environmental Engineering** | **Computational Science & Engineering** | **Computer Science** | **Electrical & Computer Engineering**
-**Engineering Physics** | **Entrepreneurship** | **Materials Science** | **Materials Science & Engineering** | **Mechanical and Aerospace Engineering** | **Operations Research & Financial Engineering** | **Optimization and Quantitative Decision Science** | **Quantum Science & Engineering** | **Robotics** | **Statistics & Machine Learning** | **Sustainable Energy** | **Teacher Preparation** | **Technology & Society**
+| Engineering | |
+| :---: | :---: |
+| **Applied & Computational Mathematics** | **Architecture & Engineering** |
+| **Bioengineering** | **Chemical & Biological Engineering** |
+| **Civil & Environmental Engineering** | **Computational Science & Engineering** |
+| **Computer Science** | **Electrical & Computer Engineering** |
+| **Engineering Physics** | **Entrepreneurship** |
+| **Materials Science** | **Materials Science & Engineering** |
+| **Mechanical and Aerospace Engineering** | **Operations Research & Financial Engineering** |
+| **Optimization and Quantitative Decision Science** | **Quantum Science & Engineering** |
+| **Robotics** | **Statistics & Machine Learning** |
+| **Sustainable Energy** | **Teacher Preparation** |
+|**Technology & Society** | |
 
 ## Humanities
 African American Studies
