@@ -3,7 +3,7 @@ title: 🐯 Princeton Institute for International & Regional Studies unofficial 
 layout: reading-list
 ---
 
-This unofficial reading list includes **African Studies**, **Contemporary European Politics & Society**, **Latin American Studies**, **Russian, East European & Eurasian Studies**, **South Asian Studies**, and **Translation & Intercultural Communication**
+This **Institute for International & Regional Studies** unofficial reading list includes **African Studies**, **Contemporary European Politics & Society**, **Latin American Studies**, **Russian, East European & Eurasian Studies**, **South Asian Studies**, and **Translation & Intercultural Communication**
 
 | Sophomore level | |
 | :---: | --- | 
