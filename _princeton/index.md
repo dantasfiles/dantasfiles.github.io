@@ -12,7 +12,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Architecture](https://dantasfiles.com/princeton/apc)**
 
-**[Art & Archaeology](https://dantasfiles.com/princeton/apc)**
+**[Art & Archaeology](https://dantasfiles.com/princeton/art)**
 
 **[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
 
@@ -85,8 +85,6 @@ I compiled these unofficial reading lists using publicly available information f
 **[Global Health & Health Policy](https://dantasfiles.com/princeton/ghp)**
 
 **[Gender & Sexuality Studies](https://dantasfiles.com/princeton/gss)**
-
-heb.md
 
 hin.md
 
