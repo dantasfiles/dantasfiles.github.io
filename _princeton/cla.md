@@ -6,7 +6,9 @@ layout: reading-list
 | Freshman level | |
 | :---: | --- |
 | **Beginner's Ancient Greek** <br> CLG 101 (fa26) | • *An Intro. to Ancient Greek: A Literary Approach* by Luschnig & Mitchell |
+| **Beginner's Latin** <br> LAT 101 (fa26) | • *Intro. to Latin* by Susan C. Shelmerdine |
 | **Socrates** <br> CLG 105 (fa26) | • *Plato's Apology of Socrates: A Commentary* by Miller & Platter <br> • *Plato's Apology* by Gilbert P. Rose |
+| **Intermediate Latin: Catullus & His Age** <br> LAT 105 (fa26) | • *AVARICVM: A Latin Text of Caesar's Gallic War VII 1-28 with Running Vocabulary and Commentary* by Lanier et al. <br> • *The Student's Catullus* by Daniel H. Garrison | 
 
 | Sophomore level | |
 | :---: | --- |
@@ -19,6 +21,7 @@ layout: reading-list
 | Junior level | |
 | :---: | --- |
 | **The Trojan War: A Linguistic Intro.** <br> CLA 307 (fa26) | • *How Dead Languages Work* by Coulter H. George <br> • *The Trojan War: A Very Short Intro.* by Eric H. Cline |
+| **Tacitus & the Parthians** <br> LAT 320 (fa26) | • *The Annals* by Tacitus |
 | **Ancient History: Everyday Writing in the Roman World** <br> CLA 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
 
 | Senior level | | 
