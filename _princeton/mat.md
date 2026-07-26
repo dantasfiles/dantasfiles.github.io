@@ -1,6 +1,9 @@
 ---
 title: 🐯 Princeton Mathematics unofficial reading list 2026
+layout: reading-list
 ---
+
+I've included Applied & Computational Mathematics courses in this list
 
 | Freshman level | | 
 | :---: | --- |
@@ -20,7 +23,7 @@ title: 🐯 Princeton Mathematics unofficial reading list 2026
 | :---: | --- |
 | **Multivariable Analysis I** <br> MAT 300 (fa26) | • *Mathematical Analysis I* by Vladimir A. Zorich | 
 | **Intro. to Real Analysis** <br> MAT 320 (fa26) | • *Real Analysis* by Royden & Fitzpatrick | 
-| **Numerical Analysis & Scientific Computing** <br> MAT 321 (fa26) | • *Numerical Linear Algebra* by Trefethen and Bau <br> • *An Introduction to Numerical Analysis* by Süli & Mayers | 
+| **Numerical Analysis & Scientific Computing** <br> MAT / APC 321 (fa26) | • *Numerical Linear Algebra* by Trefethen and Bau <br> • *An Introduction to Numerical Analysis* by Süli & Mayers | 
 | **Analysis II: Complex Analysis** <br> MAT 335 (fa26) | • *Complex Analysis* by Stein & Shakarchi | 
 | **Applied Algebra** <br> MAT 340 (fa26) | • *Groups and Symmetry* by Mark A. Armstrong | 
 | **Algebra I** <br> MAT 345 (fa26) | ◦ *Algebra* by Michael Artin | 
@@ -31,6 +34,9 @@ title: 🐯 Princeton Mathematics unofficial reading list 2026
 | :---: | --- |
 | **Geometry & Number Theory: Arithmetic of Elliptic Curves** <br> MAT 419 (fa26) | • *The Arithmetic of Elliptic Curves* by Joseph H. Silverman |
 | **Algebraic Geometry** <br> MAT 457 (fa26) | • *Basic Algebraic Geometry 1: Varieties in Projective Space* by Shafarevich & Reid | 
+
+| Graduate level | |
+| **Mathematical Methods of Engineering Analysis I** <br> APC 501 (fa26) | • *Mathematical Methods for Physics & Engineering* by Riley et al. <br> • *Mathematical Methods for Physicists* by Arfken et al. |
 
 
 
