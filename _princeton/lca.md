@@ -2,6 +2,10 @@
 title: 🐯 Princeton Lewis Center for the Arts unofficial reading list
 ---
 
+| Freshman level | | 
+| :---: | --- |
+| **Introduction to Theater Making** <br> THR / MTD 101 (fa26) | • *Pipeline* by Dominique Morisseau <br> • *Waiting for Godot: A Tragicomedy in Two Acts* by Samuel Beckett <br> • *Your Healing is Killing Me* by Virginia Grise | 
+
 | Sophomore level | | 
 | :---: | --- |
 | **Writing Speculative Fiction** <br> CWR 213 (fa26) | • *The Wesleyan Anthology of Science Fiction* by Evans et al. | 
