@@ -8,7 +8,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 afs.md
 
-**[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)**
+**[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)** (minors)
 
 **[Anthropology](https://dantasfiles.com/princeton/ant)**
 
@@ -16,7 +16,7 @@ afs.md
 
 **[Art & Archaeology](https://dantasfiles.com/princeton/art)**
 
-ast.md
+**[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
 
 bcs.md
 
