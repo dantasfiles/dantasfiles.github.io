@@ -18,8 +18,6 @@ afs.md
 
 **[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
 
-bcs.md
-
 cbe.md
 
 cdh.md
@@ -134,8 +132,6 @@ phi.md
 
 phy.md
 
-pls.md
-
 pol.md
 
 psy.md
@@ -146,13 +142,11 @@ res.md
 
 rob.md
 
-rus.md
-
 san.md
 
 sas.md
 
-sla.md
+**[Slavic Languages & Literatures](https://dantasfiles.com/princeton/sla)**
 
 soc.md
 
