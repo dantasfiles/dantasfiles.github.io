@@ -44,6 +44,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[German](https://dantasfiles.com/princeton/ger)**
 
+**[History](https://dantasfiles.com/princeton/his)**
+
 ## Minors
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
@@ -86,11 +88,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Gender & Sexuality Studies](https://dantasfiles.com/princeton/gss)**
 
-hin.md
-
-his.md
-
-hls.md
+**[Hellenic Studies](https://dantasfiles.com/princeton/gss)**
 
 hos.md
 
