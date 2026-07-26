@@ -26,7 +26,7 @@ afs.md
 
 **[Cognitive Science](https://dantasfiles.com/princeton/cgs)** (minor)
 
-chm.md
+**[Chemistry](https://dantasfiles.com/princeton/chm)**
 
 chv.md
 
