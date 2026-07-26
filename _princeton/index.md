@@ -14,7 +14,7 @@ afs.md
 
 **[Architecture](https://dantasfiles.com/princeton/arc)**
 
-art.md
+**[Art & Archaeology](https://dantasfiles.com/princeton/art)**
 
 ast.md
 
