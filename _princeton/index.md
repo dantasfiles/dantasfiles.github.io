@@ -18,7 +18,7 @@ afs.md
 
 **[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
 
-cbe.md
+**[Chemical & Biological Engineering](https://dantasfiles.com/princeton/cbe)**
 
 cdh.md
 
