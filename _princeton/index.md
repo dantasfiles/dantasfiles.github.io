@@ -24,7 +24,7 @@ afs.md
 
 **[Civil & Environmental Engineering](https://dantasfiles.com/princeton/cee)** (eng)
 
-cgs.md
+**[Cognitive Science](https://dantasfiles.com/princeton/cgs)** (minor)
 
 chi.md
 
