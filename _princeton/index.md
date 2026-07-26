@@ -26,8 +26,6 @@ afs.md
 
 **[Cognitive Science](https://dantasfiles.com/princeton/cgs)** (minor)
 
-chi.md
-
 chm.md
 
 chv.md
@@ -44,7 +42,7 @@ cwr.md
 
 dan.md
 
-eas.md
+**[East Asian Studies](https://dantasfiles.com/princeton/eas)**
 
 ece.md
 
@@ -96,11 +94,7 @@ ita.md
 
 jds.md
 
-jpn.md
-
 jrn.md
-
-kor.md
 
 las.md
 
