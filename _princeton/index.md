@@ -24,6 +24,26 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Classics](https://dantasfiles.com/princeton/cla)**
 
+**[Comparative Literature](https://dantasfiles.com/princeton/com)**
+
+**[Computer Science](https://dantasfiles.com/princeton/cos)**
+
+**[East Asian Studies](https://dantasfiles.com/princeton/eas)**
+
+**[Electrical & Computer Engineering](https://dantasfiles.com/princeton/ece)**
+
+**[Economics](https://dantasfiles.com/princeton/eco)**
+
+**[Ecology & Evolutionary Biology](https://dantasfiles.com/princeton/eeb)**
+
+**[English](https://dantasfiles.com/princeton/eng)**
+
+**[French](https://dantasfiles.com/princeton/fre)**
+
+**[Geosciences](https://dantasfiles.com/princeton/geo)**
+
+**[German](https://dantasfiles.com/princeton/ger)**
+
 ## Minors
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
@@ -36,52 +56,32 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Cognitive Science](https://dantasfiles.com/princeton/cgs)**
 
-## Centers
+**[Creative Writing](https://dantasfiles.com/princeton/cwr)**
+
+**[Dance](https://dantasfiles.com/princeton/dan)**
+
+**[European Cultural Studies](https://dantasfiles.com/princeton/ecs)**
+
+**[Engineering](https://dantasfiles.com/princeton/egr)**
+
+**[Entrepreneurship](https://dantasfiles.com/princeton/ene)**
+
+**[Contemporary European Politics and Society](https://dantasfiles.com/princeton/eps)**
+
+## Other
 
 **[Center for Digital Humanities](https://dantasfiles.com/princeton/cdh)**
 
 **[University Center for Human Values](https://dantasfiles.com/princeton/chv)**
 
+**[Andlinger Center for Energy and the Environment](https://dantasfiles.com/princeton/ene)**
 
-clg.md
+**[High Meadows Environmental Institute](https://dantasfiles.com/princeton/env)**
 
-com.md
+**[Bendheim Center for Finance](https://dantasfiles.com/princeton/fin)**
 
-cos.md
+**[First-Year Seminars](https://dantasfiles.com/princeton/frs)**
 
-cwr.md
-
-dan.md
-
-eas.md
-
-ece.md
-
-eco.md
-
-ecs.md
-
-eeb.md
-
-egr.md
-
-ene.md
-
-eng.md
-
-ent.md
-
-env.md
-
-eps.md
-
-fin.md
-
-fre.md
-
-frs.md
-
-geo.md
 
 ger.md
 
@@ -112,8 +112,6 @@ jrn.md
 lao.md
 
 las.md
-
-lat.md
 
 lin.md
 
