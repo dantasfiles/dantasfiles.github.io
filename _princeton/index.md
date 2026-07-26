@@ -8,7 +8,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 afs.md
 
-**[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)** (minors)
+**[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)** (center, minors)
 
 **[Anthropology](https://dantasfiles.com/princeton/ant)**
 
@@ -18,11 +18,11 @@ afs.md
 
 **[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
 
-**[Chemical & Biological Engineering](https://dantasfiles.com/princeton/cbe)**
+**[Chemical & Biological Engineering](https://dantasfiles.com/princeton/cbe)** (eng)
 
-cdh.md
+**[Center for Digital Humanities](https://dantasfiles.com/princeton/cbe)** (center, no minors)
 
-cee.md
+**[Civil & Environmental Engineering](https://dantasfiles.com/princeton/cee)** (eng)
 
 cgs.md
 
