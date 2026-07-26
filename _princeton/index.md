@@ -16,7 +16,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
 
-**[Chemical and Biological Engineering](https://dantasfiles.com/princeton/cbe))**
+**[Chemical and Biological Engineering](https://dantasfiles.com/princeton/cbe)**
 
 **[Civil and Environmental Engineering](https://dantasfiles.com/princeton/cee)**
 
