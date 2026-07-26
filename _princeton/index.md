@@ -12,8 +12,6 @@ afs.md
 
 **[Anthropology](https://dantasfiles.com/princeton/ant)**
 
-ara.md
-
 arc.md
 
 art.md
@@ -126,7 +124,7 @@ mse.md
 
 mtd.md
 
-nes.md
+**[Near Eastern Studies](https://dantasfiles.com/princeton/nes)**
 
 neu.md
 
