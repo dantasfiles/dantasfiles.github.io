@@ -16,6 +16,10 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
 
+**[Chemical and Biological Engineering](https://dantasfiles.com/princeton/cbe))**
+
+**[Civil and Environmental Engineering](https://dantasfiles.com/princeton/cee)**
+
 ## Minors
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
@@ -26,15 +30,11 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Asian American Studies](https://dantasfiles.com/princeton/asa)**
 
-bcs.md
+**[Cognitive Science](https://dantasfiles.com/princeton/cgs)**
 
-cbe.md
+## Centers
 
-cdh.md
-
-cee.md
-
-cgs.md
+**[Center for Digital Humanities](https://dantasfiles.com/princeton/cdh)**
 
 chi.md
 
