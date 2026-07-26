@@ -32,8 +32,6 @@ afs.md
 
 **[Classics](https://dantasfiles.com/princeton/cla)**
 
-clg.md
-
 com.md
 
 cos.md
@@ -97,8 +95,6 @@ jds.md
 jrn.md
 
 las.md
-
-lat.md
 
 lin.md
 
