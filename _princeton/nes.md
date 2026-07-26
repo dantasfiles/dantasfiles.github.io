@@ -5,7 +5,8 @@ layout: reading-list
 
 | Freshman level | |
 | :---: | --- |
-| **Intermediate** / **Advanced Arabic I** <br> ARA 105 / 301 (fa26) | • *Al-Kitaab Part Two: A Textbook for Intermediate Arabic* by Brunstad et al. | 
+| **Intermediate** / **Advanced Arabic I** <br> ARA 105 / 301 (fa26) | • *Al-Kitaab Part Two: A Textbook for Intermediate Arabic* by Brunstad et al. |
+| **Elementary** / **Intermediate Hebrew I** <br> HEB 101/105 (fa26) | • *First and Foremost: Hebrew for Beginners* by Ateret Yarden-Barak Goni Tishaler | 
 
 | Sophomore level | |
 | :---: | --- | 
