@@ -3,7 +3,7 @@ title: 🐯 Princeton Humanities Council unofficial reading list 2026
 layout: reading-list
 ---
 
-This unofficial reading list incudes European Cultural Studies, Humanistic Studies, Journalism, and Medieval Studies
+This unofficial reading list includes European Cultural Studies, Humanistic Studies, Journalism, and Medieval Studies
 
 | Sophomore level | |
 | :---: | --- |
