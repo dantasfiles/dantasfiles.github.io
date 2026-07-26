@@ -3,6 +3,8 @@ title: 🐯 Princeton Effron Center for the Study of America unofficial reading 
 layout: reading-list
 ---
 
+This center includes American, Asian American, Latino, and Native American & Indigenous Studies
+
 | Freshman level | |
 | :---: | --- |
 | **Comparative Perspectives on Power, Resistance & Change** <br> AMS / ASA / LAO / NAI 101 (fa26) | • *The US War with Mexico: A Brief History with Documents* by Ernesto Chavez |
