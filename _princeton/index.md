@@ -40,9 +40,9 @@ afs.md
 
 **[East Asian Studies](https://dantasfiles.com/princeton/eas)**
 
-ece.md
+**[Electrical & Computer Engineering](https://dantasfiles.com/princeton/ece)** (eng)
 
-eco.md
+**[Economics](https://dantasfiles.com/princeton/eco)**
 
 ecs.md
 
@@ -146,75 +146,3 @@ tra.md
 
 urb.md
 
-vis.md
-
-
-| Engineering | |
-| :---: | :---: |
-| **[Applied & Computational Mathematics](https://dantasfiles.com/princeton/apc)** | **[Chemical & Biological Engineering](https://dantasfiles.com/princeton/cbe)** |
-| **[Civil & Environmental Engineering](https://dantasfiles.com/princeton/cee)** | **Computational Science & Engineering** | **Computer Science** |
-| **Electrical & Computer Engineering** | **Engineering Physics** 
-| **Entrepreneurship** | **Materials Science** |
-| **Materials Science & Engineering** | **Mechanical and Aerospace Engineering** |
-| **Operations Research & Financial Engineering** |
-| **Optimization and Quantitative Decision Science** | **Quantum Science & Engineering** |
-| **Robotics** | **Statistics & Machine Learning** |
-| **Sustainable Energy** | **Teacher Preparation** |
-|**Technology & Society** | |
-
-## Humanities
-African American Studies
-African Studies
-American Studies
-Arabic Language
-Architecture
-Art and Archaeology
-Asian American Studies
-Chinese Language
-Classics
-Comparative Literature
-Creative Writing
-Dance
-Digital Humanities
-East Asian Studies
-English
-Entrepreneurship
-Environmental Studies
-European Studies
-French and Italian
-Gender and Sexuality Studies
-German
-Hebrew Language
-Hellenic Studies
-History
-History of Art
-History of Science, Technology and Medicine
-Humanistic Studies
-Interdisciplinary Humanities
-Japanese Language
-Journalism
-Judaic Studies
-Korean Language
-Latin American Studies
-Latino Studies
-Linguistics
-Medieval Studies
-Music
-Music Composition
-Music Performance
-Musicology
-Near Eastern Studies
-Persian Language
-Philosophy
-Religion
-Russian, East European and Eurasian Studies
-Slavic Languages and Literatures
-South Asian Studies
-Spanish and Portuguese
-Teacher Preparation
-Theater and Music Theater
-Translation and Intercultural Communication
-Turkish Language
-Urban Studies
-Values and Public Life
-Visual Arts
