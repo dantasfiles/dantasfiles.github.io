@@ -8,8 +8,6 @@ I compiled these unofficial reading lists using publicly available information f
 
 afs.md
 
-**[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)** ( American, Asian American, Latino, and Native American & Indigenous Studies)
-
 **[Anthropology](https://dantasfiles.com/princeton/ant)**
 
 **[Architecture](https://dantasfiles.com/princeton/arc)**
@@ -20,15 +18,12 @@ afs.md
 
 **[Chemical & Biological Engineering](https://dantasfiles.com/princeton/cbe)** (eng)
 
-**[Center for Digital Humanities](https://dantasfiles.com/princeton/cbe)** (center, no minors)
-
 **[Civil & Environmental Engineering](https://dantasfiles.com/princeton/cee)** (eng)
 
 **[Cognitive Science](https://dantasfiles.com/princeton/cgs)** (minor)
 
 **[Chemistry](https://dantasfiles.com/princeton/chm)**
 
-**[University Center for Human Values](https://dantasfiles.com/princeton/chv)** (center)
 
 **[Classics](https://dantasfiles.com/princeton/cla)**
 
@@ -36,15 +31,11 @@ afs.md
 
 **[Computer Science](https://dantasfiles.com/princeton/cos)** (eng+)
 
-**[Lewis Center for the Arts](https://dantasfiles.com/princeton/lca)** (center)
-
 **[East Asian Studies](https://dantasfiles.com/princeton/eas)**
 
 **[Electrical & Computer Engineering](https://dantasfiles.com/princeton/ece)** (eng)
 
 **[Economics](https://dantasfiles.com/princeton/eco)**
-
-ecs.md
 
 eeb.md
 
@@ -84,13 +75,9 @@ hls.md
 
 hos.md
 
-hum.md
-
 ita.md
 
 jds.md
-
-jrn.md
 
 las.md
 
@@ -99,8 +86,6 @@ lin.md
 mae.md
 
 **[Mathematics](https://dantasfiles.com/princeton/mat)**
-
-med.md
 
 mog.md
 
@@ -146,3 +131,13 @@ tra.md
 
 urb.md
 
+## Minors & Centers
+**[Center for Digital Humanities](https://dantasfiles.com/princeton/cbe)**
+
+**[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)**
+
+**[Humanities Council](https://dantasfiles.com/princeton/ecsa)**
+
+**[Lewis Center for the Arts](https://dantasfiles.com/princeton/lca)**
+
+**[University Center for Human Values](https://dantasfiles.com/princeton/chv)**
