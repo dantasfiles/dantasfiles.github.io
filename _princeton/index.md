@@ -36,9 +36,7 @@ afs.md
 
 **[Computer Science](https://dantasfiles.com/princeton/cos)** (eng+)
 
-cwr.md
-
-dan.md
+**[Lewis Center for the Arts](https://dantasfiles.com/princeton/lca)** (center)
 
 **[East Asian Studies](https://dantasfiles.com/princeton/eas)**
 
@@ -110,8 +108,6 @@ mol.md
 
 mse.md
 
-mtd.md
-
 **[Near Eastern Studies](https://dantasfiles.com/princeton/nes)**
 
 neu.md
@@ -143,8 +139,6 @@ soc.md
 spi.md
 
 stc.md
-
-thr.md
 
 tpp.md
 
