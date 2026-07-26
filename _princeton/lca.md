@@ -15,5 +15,6 @@ title: 🐯 Princeton Lewis Center for the Arts unofficial reading list
 
 | Junior level | | 
 | :---: | --- |
+| **Shakespeare: Toward Hamlet** <br> THR 310 (fa26) | • *The Complete Pelican Shakespeare* by Orgel & Braunmuller  | 
 | **Musical Theatre & Fan Cultures** <br> MTD 340 (fa26) | • *Fandom in Musical Theatre* by Jessica Hillman-McCord <br> • *John Proctor is the Villain* by Kimberly Belflower | 
 | **Intro. to Screenwriting: Writing the Short Film** <br> CWR / VIS 348 (fa26) | • *The Screenwriter's Bible: A Complete Guide to Writing, Formatting & Selling Your Script* by David Trottier |
