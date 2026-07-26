@@ -2,6 +2,13 @@
 title: 🐯 Princeton Classics unofficial reading list 2026
 ---
 
+| Freshman level | |
+| :---: | --- |
+| **Beginner's Ancient Greek** <br> CLG 101 (fa26) | • *An Intro. to Ancient Greek: A Literary Approach* by Luschnig & Mitchell |
+| **Beginner's Latin** <br> LAT 101 (fa26) | • *Intro. to Latin* by Susan C. Shelmerdine |
+| **Socrates** <br> CLG 105 (fa26) | • *Plato's Apology of Socrates: A Commentary* by Miller & Platter <br> • *Plato's Apology* by Gilbert P. Rose |
+| **Intermediate Latin: Catullus & His Age** <br> LAT 105 (fa26) | • *AVARICVM: A Latin Text of Caesar's Gallic War VII 1-28 with Running Vocabulary and Commentary* by Lanier et al. <br> • *The Student's Catullus* by Daniel H. Garrison | 
+
 | Sophomore level | |
 | :---: | --- |
 | **Classical Mythology** <br> CLA 212 (fa26) | • *The Greek Tragedies: 17 Plays by Aeschylus, Sophocles, & Euripides* <br> • [*Metamorphoses*](https://standardebooks.org/ebooks/ovid/metamorphoses/various-translators) by Ovid  <br> • *Anthology of Classical Myth: Primary Sources in Translation* by Trzaskoma et al. <br> • *The Odyssey* by Homer <br> • *The Poems of Hesiod* by R.M. Frazer <br> • *Sophocles II: Ajax, The Women of Trachis, Electra, Philoctetes, The Trackers* <br> • *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma <br> • *Apollonius of Rhodes: Jason and the Golden Fleece* by Richard Hunter |
@@ -13,8 +20,10 @@ title: 🐯 Princeton Classics unofficial reading list 2026
 | Junior level | |
 | :---: | --- |
 | **The Trojan War: A Linguistic Intro.** <br> CLA 307 (fa26) | • *How Dead Languages Work* by Coulter H. George <br> • *The Trojan War: A Very Short Intro.* by Eric H. Cline |
+| **Tacitus & the Parthians** <br> LAT 320 (fa26) | • *The Annals* by Tacitus | 
 | **Ancient History: Everyday Writing in the Roman World** <br> CLA 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
 
 | Senior level | | 
 | :---: | --- |
+| **Greek Literature: The Greek Chorus** <br> CLG 405 (fa26) | ◦ *Euripides: Bacchae* by Allan & Swift <br> ◦ *Aristophanes: Frogs* by Kenneth Dover <br> ◦ *New Selected Odes of Pindar* by Dickey & Hamilton <br> ◦ *The Agamemnon of Aeschylus: Translated into English Rhyming Verse with Explanatory Notes* by Gilbert Murray <br> ◦ *Greek Lyric Poetry: A Selection of Early Greek Lyric, Elegiac & Iambic Poetry* by David A. Campbell <br> ◦ *Pindar: Pythian Eleven* by P.J. Finglass |
 | **Between Selves: Living Letters from Antiquity to the Present** <br> CLA 415 (fa26) | • *Letter to the Father* by Franz Kafka <br> • *The Letters of Abelard and Heloise* <br> ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))  <br> • *Heroides* by Ovid <br> • *The Ides of March* by Thornton Wilder <br> • *The Correspondent* by Virginia Evans <br> • *Selected Letters* by Seneca |
