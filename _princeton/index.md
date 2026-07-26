@@ -12,7 +12,7 @@ afs.md
 
 **[Anthropology](https://dantasfiles.com/princeton/ant)**
 
-arc.md
+**[Architecture](https://dantasfiles.com/princeton/arc)**
 
 art.md
 
