@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Applied & Computational Mathematics unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
