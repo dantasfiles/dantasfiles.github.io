@@ -8,7 +8,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 afs.md
 
-**[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)** (center, minors)
+**[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)** ( American, Asian American, Latino, and Native American & Indigenous Studies)
 
 **[Anthropology](https://dantasfiles.com/princeton/ant)**
 
