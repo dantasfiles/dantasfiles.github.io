@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Creative Writing unofficial reading list
+title: 🐯 Princeton Lewis Center for the Arts unofficial reading list
 ---
 
 | Sophomore level | | 
@@ -9,4 +9,4 @@ title: 🐯 Princeton Creative Writing unofficial reading list
 
 | Junior level | | 
 | :---: | --- |
-| **Intro. to Screenwriting: Writing the Short Film** <br> CWR 348 (fa26) | • *The Screenwriter's Bible: A Complete Guide to Writing, Formatting & Selling Your Script* by David Trottier |
+| **Intro. to Screenwriting: Writing the Short Film** <br> CWR / VIS 348 (fa26) | • *The Screenwriter's Bible: A Complete Guide to Writing, Formatting & Selling Your Script* by David Trottier |
