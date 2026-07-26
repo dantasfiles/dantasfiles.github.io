@@ -1,6 +1,5 @@
 ---
-title: 🐯 Princeton Center for Digital Humanities unofficial reading list 2026
-layout: reading-list
+title: 🐯 Princeton Computational / Data Humanities unofficial reading list 2026
 ---
 
 | Junior level | |

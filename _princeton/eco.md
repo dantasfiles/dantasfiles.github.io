@@ -1,6 +1,5 @@
 ---
-title: 🐯 Princeton Economics unofficial reading list 2026
-layout: reading-list
+title: 🐯 Princeton Economics unofficial reading list
 ---
 
 | Freshman level | |

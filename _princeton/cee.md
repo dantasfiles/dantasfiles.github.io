@@ -1,6 +1,5 @@
 ---
 title: 🐯 Princeton Civil & Environmental Engineering unofficial reading list 2026
-layout: reading-list
 ---
 
 | Freshman level | |

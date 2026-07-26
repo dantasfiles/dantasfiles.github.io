@@ -20,3 +20,4 @@ title: 🐯 Princeton American Studies unofficial reading list 2026
 | Senior level | |
 | :---: | --- |
 | **Musical Theatre & Fan Cultures** <br> AMS 440 (fa26) | • *Fandom in Musical Theatre* by Jessica Hillman-McCord <br> • *John Proctor is the Villain* by Kimberly Belflower | 
+
