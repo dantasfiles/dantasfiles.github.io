@@ -1,6 +1,11 @@
 ---
-title: 🐯 Princeton Slavic Languages & Literature unofficial reading list
+title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list 2026
+layout: reading-list
 ---
+
+| Freshman level | |
+| :---: | --- |
+| **Beginning Bosnian-Croatian-Serbian I** <br> BCS 101 (fa26) | • *Bosnian, Croatian, Serbian* by Alexander & Elias-Bursac |
 
 | Sophomore level | | 
 | :---: | --- |
