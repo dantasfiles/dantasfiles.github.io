@@ -132,7 +132,7 @@ tra.md
 urb.md
 
 ## Minors & Centers
-**[Center for Digital Humanities](https://dantasfiles.com/princeton/cbe)**
+**[Center for Digital Humanities](https://dantasfiles.com/princeton/cdh)**
 
 **[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)**
 
