@@ -3,6 +3,11 @@ title: 🐯 Princeton Classics unofficial reading list 2026
 layout: reading-list
 ---
 
+| Freshman level | |
+| :---: | --- |
+| **Beginner's Ancient Greek** <br> CLG 101 (fa26) | • *An Intro. to Ancient Greek: A Literary Approach* by Luschnig & Mitchell |
+| **Socrates** <br> CLG 105 (fa26) | • *Plato's Apology of Socrates: A Commentary* by Miller & Platter <br> • *Plato's Apology* by Gilbert P. Rose |
+
 | Sophomore level | |
 | :---: | --- |
 | **Classical Mythology** <br> CLA 212 (fa26) | • *The Greek Tragedies: 17 Plays by Aeschylus, Sophocles, & Euripides* <br> • [*Metamorphoses*](https://standardebooks.org/ebooks/ovid/metamorphoses/various-translators) by Ovid  <br> • *Anthology of Classical Myth: Primary Sources in Translation* by Trzaskoma et al. <br> • *The Odyssey* by Homer <br> • *The Poems of Hesiod* by R.M. Frazer <br> • *Sophocles II: Ajax, The Women of Trachis, Electra, Philoctetes, The Trackers* <br> • *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma <br> • *Apollonius of Rhodes: Jason and the Golden Fleece* by Richard Hunter |
@@ -18,4 +23,5 @@ layout: reading-list
 
 | Senior level | | 
 | :---: | --- |
+| **Greek Literature: The Greek Chorus** <br> CLG 405 (fa26) | ◦ *Euripides: Bacchae* by Allan & Swift <br> ◦ *Aristophanes: Frogs* by Kenneth Dover <br> ◦ *New Selected Odes of Pindar* by Dickey & Hamilton <br> ◦ *The Agamemnon of Aeschylus: Translated into English Rhyming Verse with Explanatory Notes* by Gilbert Murray <br> ◦ *Greek Lyric Poetry: A Selection of Early Greek Lyric, Elegiac & Iambic Poetry* by David A. Campbell <br> ◦ *Pindar: Pythian Eleven* by P.J. Finglass |
 | **Between Selves: Living Letters from Antiquity to the Present** <br> CLA 415 (fa26) | • *Letter to the Father* by Franz Kafka <br> • *The Letters of Abelard and Heloise* <br> ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))  <br> • *Heroides* by Ovid <br> • *The Ides of March* by Thornton Wilder <br> • *The Correspondent* by Virginia Evans <br> • *Selected Letters* by Seneca |
