@@ -46,6 +46,12 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[History](https://dantasfiles.com/princeton/his)**
 
+**[Italian](https://dantasfiles.com/princeton/ita)**
+
+**[Mechanical & Aerospace Engineering](https://dantasfiles.com/princeton/mae)**
+
+**[Mathematics](https://dantasfiles.com/princeton/mat)**
+
 ## Minors
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
@@ -88,31 +94,21 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Gender & Sexuality Studies](https://dantasfiles.com/princeton/gss)**
 
-**[Hellenic Studies](https://dantasfiles.com/princeton/gss)**
+**[Hellenic Studies](https://dantasfiles.com/princeton/hls)**
 
-hos.md
+**[Humanistic Studies](https://dantasfiles.com/princeton/hum)**
 
-hum.md
+**[Judaic Studies](https://dantasfiles.com/princeton/hum)**
 
-index.md
+**[Journalism](https://dantasfiles.com/princeton/jrn)**
 
-ita.md
+**[Latino Studies](https://dantasfiles.com/princeton/lao)**
 
-jds.md
+**[Latin American Studies](https://dantasfiles.com/princeton/lao)**
 
-jrn.md
+**[Linguistics](https://dantasfiles.com/princeton/lin)**
 
-lao.md
-
-las.md
-
-lin.md
-
-mae.md
-
-mat.md
-
-med.md
+**[Medieval Studies](https://dantasfiles.com/princeton/med)**
 
 mog.md
 
@@ -145,10 +141,6 @@ rel.md
 res.md
 
 rob.md
-
-rus.md
-
-san.md
 
 sas.md
 
