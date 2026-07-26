@@ -30,7 +30,7 @@ afs.md
 
 **[University Center for Human Values](https://dantasfiles.com/princeton/chv)** (center)
 
-cla.md
+**[Classics](https://dantasfiles.com/princeton/cla)**
 
 clg.md
 
