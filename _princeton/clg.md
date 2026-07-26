@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Classic Greek unofficial reading list
+layout: reading-list
 ---
 
 | Freshman level | |
