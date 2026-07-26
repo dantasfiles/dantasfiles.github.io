@@ -32,9 +32,9 @@ afs.md
 
 **[Classics](https://dantasfiles.com/princeton/cla)**
 
-com.md
+**[Comparative Literature](https://dantasfiles.com/princeton/com)**
 
-cos.md
+**[Computer Science](https://dantasfiles.com/princeton/cos)** (eng+)
 
 cwr.md
 
