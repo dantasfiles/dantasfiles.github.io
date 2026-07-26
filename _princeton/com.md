@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Comparative Literature unofficial reading list
+title: 🐯 Princeton Comparative Literature unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | |
