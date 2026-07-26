@@ -20,6 +20,10 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Civil and Environmental Engineering](https://dantasfiles.com/princeton/cee)**
 
+**[Chemistry](https://dantasfiles.com/princeton/chm)**
+
+**[Classics](https://dantasfiles.com/princeton/cla)**
+
 ## Minors
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
@@ -36,13 +40,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Center for Digital Humanities](https://dantasfiles.com/princeton/cdh)**
 
-chi.md
+**[University Center for Human Values](https://dantasfiles.com/princeton/chv)**
 
-chm.md
-
-chv.md
-
-cla.md
 
 clg.md
 
@@ -108,11 +107,7 @@ ita.md
 
 jds.md
 
-jpn.md
-
 jrn.md
-
-kor.md
 
 lao.md
 
