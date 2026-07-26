@@ -82,12 +82,9 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[First-Year Seminars](https://dantasfiles.com/princeton/frs)**
 
+**[Global Health & Health Policy](https://dantasfiles.com/princeton/ghp)**
 
-ger.md
-
-ghp.md
-
-gss.md
+**[Gender & Sexuality Studies](https://dantasfiles.com/princeton/gss)**
 
 heb.md
 
