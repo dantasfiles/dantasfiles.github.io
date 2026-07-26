@@ -7,7 +7,7 @@ I compiled these unofficial reading lists using publicly available information f
 | Engineering | |
 | :---: | :---: |
 | **[Applied & Computational Mathematics](https://dantasfiles.com/princeton/apc)** | **[Chemical & Biological Engineering](https://dantasfiles.com/princeton/cbe)** |
-| **Civil & Environmental Engineering** | **Computational Science & Engineering** | **Computer Science** |
+| **[Civil & Environmental Engineering](https://dantasfiles.com/princeton/cee)** | **Computational Science & Engineering** | **Computer Science** |
 | **Electrical & Computer Engineering** | **Engineering Physics** 
 | **Entrepreneurship** | **Materials Science** |
 | **Materials Science & Engineering** | **Mechanical and Aerospace Engineering** |
