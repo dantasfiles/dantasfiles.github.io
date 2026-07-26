@@ -116,7 +116,7 @@ lin.md
 
 mae.md
 
-mat.md
+**[Mathematics](https://dantasfiles.com/princeton/mat)**
 
 med.md
 
