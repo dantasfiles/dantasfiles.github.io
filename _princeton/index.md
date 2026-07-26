@@ -28,7 +28,7 @@ afs.md
 
 **[Chemistry](https://dantasfiles.com/princeton/chm)**
 
-chv.md
+**[University Center for Human Values](https://dantasfiles.com/princeton/chv)** (center)
 
 cla.md
 
