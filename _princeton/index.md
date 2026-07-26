@@ -136,7 +136,7 @@ urb.md
 
 **[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)**
 
-**[Humanities Council](https://dantasfiles.com/princeton/ecsa)**
+**[Humanities Council](https://dantasfiles.com/princeton/hum)**
 
 **[Lewis Center for the Arts](https://dantasfiles.com/princeton/lca)**
 
