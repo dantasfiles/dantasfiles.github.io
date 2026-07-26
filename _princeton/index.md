@@ -12,8 +12,6 @@ afs.md
 
 **[Anthropology](https://dantasfiles.com/princeton/ant)**
 
-apc.md
-
 ara.md
 
 arc.md
