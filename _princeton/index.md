@@ -10,7 +10,7 @@ afs.md
 
 **[Effron Center for the Study of America](https://dantasfiles.com/princeton/ecsa)**
 
-ant.md
+**[Anthropology](https://dantasfiles.com/princeton/ant)**
 
 apc.md
 
