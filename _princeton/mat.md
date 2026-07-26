@@ -36,6 +36,7 @@ I've included Applied & Computational Mathematics courses in this list
 | **Algebraic Geometry** <br> MAT 457 (fa26) | • *Basic Algebraic Geometry 1: Varieties in Projective Space* by Shafarevich & Reid | 
 
 | Graduate level | |
+| :---: | --- |
 | **Mathematical Methods of Engineering Analysis I** <br> APC 501 (fa26) | • *Mathematical Methods for Physics & Engineering* by Riley et al. <br> • *Mathematical Methods for Physicists* by Arfken et al. |
 
 
