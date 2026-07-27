@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Contemporary European Politics unofficial reading list
+title: 🐯 Princeton Contemporary European Politics unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
