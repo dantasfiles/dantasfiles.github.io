@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Global Health & Health Policy unofficial reading list
+title: 🐯 Princeton Global Health & Health Policy unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | | 
