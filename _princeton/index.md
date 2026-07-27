@@ -52,7 +52,25 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Mathematics](https://dantasfiles.com/princeton/mat)**
 
+**[Molecular Biology](https://dantasfiles.com/princeton/mol)**
+
 **[Materials Science & Engineering](https://dantasfiles.com/princeton/mse)**
+
+**[Near Eastern Studies](https://dantasfiles.com/princeton/nes)**
+
+**[Neuroscience](https://dantasfiles.com/princeton/neu)**
+
+**[Operations Research & Financial Engineering](https://dantasfiles.com/princeton/orf)**
+
+**[Philosophy](https://dantasfiles.com/princeton/phi)**
+
+**[Physics](https://dantasfiles.com/princeton/phy)**
+
+**[Politics](https://dantasfiles.com/princeton/pol)**
+
+**[Psychology](https://dantasfiles.com/princeton/psy)**
+
+**[Religion](https://dantasfiles.com/princeton/rel)**
 
 ## Minors
 
@@ -112,29 +130,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Medieval Studies](https://dantasfiles.com/princeton/med)**
 
-**[Molecular Biology](https://dantasfiles.com/princeton/mol)**
-
-mtd.md
-
 nai.md
 
-nes.md
-
-neu.md
-
-orf.md
-
-phi.md
-
-phy.md
-
-pls.md
-
-pol.md
-
-psy.md
-
-rel.md
 
 res.md
 
