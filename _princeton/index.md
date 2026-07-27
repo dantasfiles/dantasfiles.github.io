@@ -17,12 +17,12 @@ I compiled these unofficial reading lists using publicly available information f
 | **[Geosciences](https://dantasfiles.com/princeton/geo)** | **[German](https://dantasfiles.com/princeton/ger)** | 
 | **[History](https://dantasfiles.com/princeton/his)** | **[Italian](https://dantasfiles.com/princeton/ita)** | 
 | **[Mechanical & Aerospace Engineering](https://dantasfiles.com/princeton/mae)** | **[Mathematics](https://dantasfiles.com/princeton/mat)** | **[Molecular Biology](https://dantasfiles.com/princeton/mol)** |
-| **[Materials Science & Engineering](https://dantasfiles.com/princeton/mse)** | **[Near Eastern Studies](https://dantasfiles.com/princeton/nes)** | 
-| **[Neuroscience](https://dantasfiles.com/princeton/neu)** | **[Operations Research & Financial Engineering](https://dantasfiles.com/princeton/orf)** | 
-| **[Philosophy](https://dantasfiles.com/princeton/phi)** | **[Physics](https://dantasfiles.com/princeton/phy)** |
-| **[Politics](https://dantasfiles.com/princeton/pol)** | **[Psychology](https://dantasfiles.com/princeton/psy)** |
-| **[Religion](https://dantasfiles.com/princeton/rel)** | **[Slavic Languages & Literatures](https://dantasfiles.com/princeton/sla)** | 
-| **[Sociology](https://dantasfiles.com/princeton/soc)** | **[Public & International Affairs](https://dantasfiles.com/princeton/spi)** | 
+| **[Near Eastern Studies](https://dantasfiles.com/princeton/nes)** | **[Neuroscience](https://dantasfiles.com/princeton/neu)** |
+| **[Operations Research & Financial Engineering](https://dantasfiles.com/princeton/orf)** | **[Philosophy](https://dantasfiles.com/princeton/phi)** |
+| **[Physics](https://dantasfiles.com/princeton/phy)** | **[Politics](https://dantasfiles.com/princeton/pol)** |
+| **[Psychology](https://dantasfiles.com/princeton/psy)** | **[Religion](https://dantasfiles.com/princeton/rel)** |
+| **[Slavic Languages & Literatures](https://dantasfiles.com/princeton/sla)** | **[Sociology](https://dantasfiles.com/princeton/soc)** |
+| **[Public & International Affairs](https://dantasfiles.com/princeton/spi)** | |
 
 ## Minors and Centers
 **[African Studies](https://dantasfiles.com/princeton/afs)**
@@ -72,6 +72,8 @@ I compiled these unofficial reading lists using publicly available information f
 **[Latin American Studies](https://dantasfiles.com/princeton/lao)**
 
 **[Linguistics](https://dantasfiles.com/princeton/lin)**
+
+**[Materials Science & Engineering](https://dantasfiles.com/princeton/mse)**
 
 **[Medieval Studies](https://dantasfiles.com/princeton/med)**
 
