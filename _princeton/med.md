@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Medieval Studies unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | |
