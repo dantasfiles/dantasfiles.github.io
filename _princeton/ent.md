@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Entrepreneurship unofficial reading list
+title: 🐯 Princeton Entrepreneurship unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | |
