@@ -66,11 +66,11 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Humanistic Studies](https://dantasfiles.com/princeton/hum)**
 
-**[Judaic Studies](https://dantasfiles.com/princeton/hum)**
+**[Judaic Studies](https://dantasfiles.com/princeton/jds)**
 
 **[Journalism](https://dantasfiles.com/princeton/jrn)**
 
-**[Latin American Studies](https://dantasfiles.com/princeton/lao)**
+**[Latin American Studies](https://dantasfiles.com/princeton/las)**
 
 **[Linguistics](https://dantasfiles.com/princeton/lin)**
 
