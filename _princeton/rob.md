@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Robotics unofficial reading list
+title: 🐯 Princeton Robotics unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
