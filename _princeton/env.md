@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Environmental Studies unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | |
