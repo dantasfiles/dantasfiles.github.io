@@ -46,7 +46,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Engineering](https://dantasfiles.com/princeton/egr)**
 
-**[Energy and the Environment](https://dantasfiles.com/princeton/ene)**
+[Andlinger Center for **Energy & the Environment**](https://dantasfiles.com/princeton/ene)
 
 **[Entrepreneurship](https://dantasfiles.com/princeton/ent)**
 
