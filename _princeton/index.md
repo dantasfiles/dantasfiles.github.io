@@ -72,6 +72,12 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Religion](https://dantasfiles.com/princeton/rel)**
 
+**[Slavic Languages & Literatures](https://dantasfiles.com/princeton/sla)**
+
+**[Sociology](https://dantasfiles.com/princeton/soc)**
+
+**[Public & International Affairs](https://dantasfiles.com/princeton/spi)**
+
 ## Minors
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
@@ -132,27 +138,20 @@ I compiled these unofficial reading lists using publicly available information f
 
 nai.md
 
+**[Russian, East European & Eurasian Studies](https://dantasfiles.com/princeton/res)**
 
-res.md
+**[Robotics](https://dantasfiles.com/princeton/rob)**
 
-rob.md
+**[South Asian Studies](https://dantasfiles.com/princeton/sas)**
 
-sas.md
+**[Science & Technology](https://dantasfiles.com/princeton/stc)**
 
-sla.md
+**[Theater & Music Theater](https://dantasfiles.com/princeton/thr)**
 
-soc.md
+**[Teacher Preparation](https://dantasfiles.com/princeton/tpp)**
 
-spi.md
+**[Translation & Intercultural Communication](https://dantasfiles.com/princeton/tra)**
 
-stc.md
+**[Urban Studies](https://dantasfiles.com/princeton/urb)**
 
-thr.md
-
-tpp.md
-
-tra.md
-
-urb.md
-
-vis.md
+**[Visual Arts](https://dantasfiles.com/princeton/vis)**
