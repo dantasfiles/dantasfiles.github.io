@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Dance unofficial reading list
+title: 🐯 Princeton Dance unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | | 
