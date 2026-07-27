@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Russian, East European & Eurasian Studies unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | | 
