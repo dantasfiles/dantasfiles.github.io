@@ -21,17 +21,10 @@ I compiled these unofficial reading lists using publicly available information f
 | **[Neuroscience](https://dantasfiles.com/princeton/neu)** | **[Operations Research & Financial Engineering](https://dantasfiles.com/princeton/orf)** | 
 | **[Philosophy](https://dantasfiles.com/princeton/phi)** | **[Physics](https://dantasfiles.com/princeton/phy)** |
 | **[Politics](https://dantasfiles.com/princeton/pol)** | **[Psychology](https://dantasfiles.com/princeton/psy)** |
+| **[Religion](https://dantasfiles.com/princeton/rel)** | **[Slavic Languages & Literatures](https://dantasfiles.com/princeton/sla)** | 
+| **[Sociology](https://dantasfiles.com/princeton/soc)** | **[Public & International Affairs](https://dantasfiles.com/princeton/spi)** | 
 
-**[Religion](https://dantasfiles.com/princeton/rel)**
-
-**[Slavic Languages & Literatures](https://dantasfiles.com/princeton/sla)**
-
-**[Sociology](https://dantasfiles.com/princeton/soc)**
-
-**[Public & International Affairs](https://dantasfiles.com/princeton/spi)**
-
-## Minors
-
+## Minors and Centers
 **[African Studies](https://dantasfiles.com/princeton/afs)**
 
 **[Study of America](https://dantasfiles.com/princeton/ams)**
