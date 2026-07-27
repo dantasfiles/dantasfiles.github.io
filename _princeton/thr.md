@@ -4,7 +4,7 @@ title: 🐯 Princeton Theater unofficial reading list 2026
 
 | Freshman level | | 
 | :---: | --- |
-| **Introduction to Theater Making** <br> THR 101 (fa26) | • *Pipeline* by Dominique Morisseau <br> • *Waiting for Godot: A Tragicomedy in Two Acts* by Samuel Beckett <br> • *Your Healing is Killing Me* by Virginia Grise | 
+| **Introduction to Theater Making** <br> MTD/THR 101 (fa26) | • *Pipeline* by Dominique Morisseau <br> • *Waiting for Godot: A Tragicomedy in Two Acts* by Samuel Beckett <br> • *Your Healing is Killing Me* by Virginia Grise | 
 
 | Sophomore level | |
 | :---: | --- |
