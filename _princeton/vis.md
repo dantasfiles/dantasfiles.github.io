@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Visual Arts unofficial reading list
+title: 🐯 Princeton Visual Arts unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | | 
