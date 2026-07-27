@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Energy Studies unofficial reading list
+title: 🐯 Princeton Energy Studies unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | |
