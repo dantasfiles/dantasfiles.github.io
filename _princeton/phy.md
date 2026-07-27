@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Physics unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
