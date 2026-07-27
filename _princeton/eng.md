@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton English unofficial reading list
+title: 🐯 Princeton English unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | |
