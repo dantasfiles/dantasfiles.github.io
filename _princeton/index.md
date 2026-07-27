@@ -52,6 +52,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Mathematics](https://dantasfiles.com/princeton/mat)**
 
+**[Materials Science & Engineering](https://dantasfiles.com/princeton/mse)**
+
 ## Minors
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
@@ -110,11 +112,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Medieval Studies](https://dantasfiles.com/princeton/med)**
 
-mog.md
-
-mol.md
-
-mse.md
+**[Molecular Biology](https://dantasfiles.com/princeton/mol)**
 
 mtd.md
 
