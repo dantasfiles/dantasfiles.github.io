@@ -1,6 +1,6 @@
 ---
 title: 🐯 Princeton First Year Seminars unofficial reading list 2026
-
+layout: reading-list
 ---
 
 | Freshman level | |
