@@ -23,7 +23,7 @@ I compiled these unofficial reading lists using publicly available information f
 | **[Physics](https://dantasfiles.com/princeton/phy)** | **[Politics](https://dantasfiles.com/princeton/pol)** |
 | **[Psychology](https://dantasfiles.com/princeton/psy)** | **[Religion](https://dantasfiles.com/princeton/rel)** |
 | **[Slavic Languages & Literatures](https://dantasfiles.com/princeton/sla)** | **[Sociology](https://dantasfiles.com/princeton/soc)** |
-| **[Public & International Affairs](https://dantasfiles.com/princeton/spi)** | |
+| [School of **Public & International Affairs**](https://dantasfiles.com/princeton/spi) | |
 
 ## Minors and Centers
 **[African Studies](https://dantasfiles.com/princeton/afs)**
