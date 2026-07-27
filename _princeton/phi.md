@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Philosophy unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | |
