@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton South Asian Studies unofficial reading list 2026
+layout: reading-list
 ---
 
 | Freshman level | | 
