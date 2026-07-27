@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Center for Human Values unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
