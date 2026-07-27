@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Science & Technology Center unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
