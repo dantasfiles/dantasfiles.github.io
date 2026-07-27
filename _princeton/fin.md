@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Finance unofficial reading list
+title: 🐯 Princeton Finance unofficial reading list 2026
+layout: reading-list
 ---
 
 | Graduate level | | 
