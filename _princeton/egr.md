@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Engineering unofficial reading list
+title: 🐯 Princeton Engineering unofficial reading list 2026
+layout: reading-list
 ---
 
 | Freshman level | |
