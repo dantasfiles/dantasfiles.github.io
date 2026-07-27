@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Humanistic Studies unofficial reading list
+layout: reading-list
 ---
 
 | Sophomore level | |
