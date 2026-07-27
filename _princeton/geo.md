@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Geosciences unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | |
