@@ -102,7 +102,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Engineering](https://dantasfiles.com/princeton/egr)**
 
-**[Andlinger Center for Energy and the Environment](https://dantasfiles.com/princeton/ene)**
+**[Energy and the Environment](https://dantasfiles.com/princeton/ene)**
 
 **[Entrepreneurship](https://dantasfiles.com/princeton/ent)**
 
@@ -110,7 +110,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Contemporary European Politics and Society](https://dantasfiles.com/princeton/eps)**
 
-**[Bendheim Center for Finance](https://dantasfiles.com/princeton/fin)**
+**[Finance](https://dantasfiles.com/princeton/fin)**
 
 **[First-Year Seminars](https://dantasfiles.com/princeton/frs)**
 
@@ -118,7 +118,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Gender & Sexuality Studies](https://dantasfiles.com/princeton/gss)**
 
-**[Seeger Center for Hellenic Studies](https://dantasfiles.com/princeton/hls)**
+**[Hellenic Studies](https://dantasfiles.com/princeton/hls)**
 
 **[Humanistic Studies](https://dantasfiles.com/princeton/hum)**
 
