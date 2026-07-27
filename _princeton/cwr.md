@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Creative Writing unofficial reading list
+title: 🐯 Princeton Creative Writing unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | | 
