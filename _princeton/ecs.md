@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton European Cultural Studies unofficial reading list
+title: 🐯 Princeton European Cultural Studies unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
