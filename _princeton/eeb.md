@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Ecology & Evolutionary Biology unofficial reading list
+title: 🐯 Princeton Ecology & Evolutionary Biology unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | |
