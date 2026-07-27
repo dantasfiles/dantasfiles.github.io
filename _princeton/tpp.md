@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Teacher Preparation unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
