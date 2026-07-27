@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Material Science & Engineering unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
