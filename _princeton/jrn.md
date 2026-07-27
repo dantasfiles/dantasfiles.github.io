@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Journalism unofficial reading list
+title: 🐯 Princeton Journalism unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
