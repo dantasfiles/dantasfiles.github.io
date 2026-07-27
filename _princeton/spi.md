@@ -1,5 +1,6 @@
 ---
 title: 🐯 Princeton Public & International Affairs unofficial reading list
+layout: reading-list
 ---
 
 | Junior level | |
