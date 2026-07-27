@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Theater unofficial reading list 2026
+title: 🐯 Princeton Theater & Music Theater unofficial reading list 2026
+layout: reading-list
 ---
 
 | Freshman level | | 
@@ -13,3 +14,4 @@ title: 🐯 Princeton Theater unofficial reading list 2026
 | Junior level | |
 | :---: | --- |
 | **Shakespeare: Toward Hamlet** <br> THR 310 (fa26) | • *The Complete Pelican Shakespeare* by Orgel & Braunmuller  | 
+| **Musical Theatre & Fan Cultures** <br> MTD 340 (fa26) | • *Fandom in Musical Theatre* by Jessica Hillman-McCord <br> • *John Proctor is the Villain* by Kimberly Belflower | 
