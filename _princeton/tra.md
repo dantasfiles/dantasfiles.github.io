@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Translation and Intercultural Communication unofficial reading list
+title: 🐯 Princeton Translation and Intercultural Communication unofficial reading list 2026
+layout: reading-list
 ---
 
 | Junior level | |
