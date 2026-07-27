@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton Operations Research & Financial Engineering unofficial reading list
+title: 🐯 Princeton Operations Research & Financial Engineering unofficial reading list 2026
+layout: reading-list
 ---
 
 | Sophomore level | |
