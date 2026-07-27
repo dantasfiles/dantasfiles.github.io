@@ -82,17 +82,15 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
 
-**[American Studies](https://dantasfiles.com/princeton/ams)**
+**[Study of America](https://dantasfiles.com/princeton/ams)**
 
 **[Applied and Computational Mathematics](https://dantasfiles.com/princeton/apc)**
-
-**[Asian American Studies](https://dantasfiles.com/princeton/asa)**
 
 **[Center for Digital Humanities](https://dantasfiles.com/princeton/cdh)**
 
 **[Cognitive Science](https://dantasfiles.com/princeton/cgs)**
 
-**[University Center for Human Values](https://dantasfiles.com/princeton/chv)**
+**[Human Values](https://dantasfiles.com/princeton/chv)**
 
 **[Creative Writing](https://dantasfiles.com/princeton/cwr)**
 
@@ -126,15 +124,11 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Journalism](https://dantasfiles.com/princeton/jrn)**
 
-**[Latino Studies](https://dantasfiles.com/princeton/lao)**
-
 **[Latin American Studies](https://dantasfiles.com/princeton/lao)**
 
 **[Linguistics](https://dantasfiles.com/princeton/lin)**
 
 **[Medieval Studies](https://dantasfiles.com/princeton/med)**
-
-nai.md
 
 **[Russian, East European & Eurasian Studies](https://dantasfiles.com/princeton/res)**
 
