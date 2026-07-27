@@ -4,71 +4,23 @@ title: 🐯 Princeton unofficial reading lists 2026
 
 I compiled these unofficial reading lists using publicly available information from the [online bookstore](https://princeton.ecampus.com/) and course webpages.<br>To keep track of my own explorations, I've marked books and papers I've read with a **bold** ✔️
 
-## Majors
-
-**[African American Studies](https://dantasfiles.com/princeton/aas)**
-
-**[Anthropology](https://dantasfiles.com/princeton/ams)**
-
-**[Architecture](https://dantasfiles.com/princeton/apc)**
-
-**[Art & Archaeology](https://dantasfiles.com/princeton/art)**
-
-**[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
-
-**[Chemical and Biological Engineering](https://dantasfiles.com/princeton/cbe)**
-
-**[Civil and Environmental Engineering](https://dantasfiles.com/princeton/cee)**
-
-**[Chemistry](https://dantasfiles.com/princeton/chm)**
-
-**[Classics](https://dantasfiles.com/princeton/cla)**
-
-**[Comparative Literature](https://dantasfiles.com/princeton/com)**
-
-**[Computer Science](https://dantasfiles.com/princeton/cos)**
-
-**[East Asian Studies](https://dantasfiles.com/princeton/eas)**
-
-**[Electrical & Computer Engineering](https://dantasfiles.com/princeton/ece)**
-
-**[Economics](https://dantasfiles.com/princeton/eco)**
-
-**[Ecology & Evolutionary Biology](https://dantasfiles.com/princeton/eeb)**
-
-**[English](https://dantasfiles.com/princeton/eng)**
-
-**[French](https://dantasfiles.com/princeton/fre)**
-
-**[Geosciences](https://dantasfiles.com/princeton/geo)**
-
-**[German](https://dantasfiles.com/princeton/ger)**
-
-**[History](https://dantasfiles.com/princeton/his)**
-
-**[Italian](https://dantasfiles.com/princeton/ita)**
-
-**[Mechanical & Aerospace Engineering](https://dantasfiles.com/princeton/mae)**
-
-**[Mathematics](https://dantasfiles.com/princeton/mat)**
-
-**[Molecular Biology](https://dantasfiles.com/princeton/mol)**
-
-**[Materials Science & Engineering](https://dantasfiles.com/princeton/mse)**
-
-**[Near Eastern Studies](https://dantasfiles.com/princeton/nes)**
-
-**[Neuroscience](https://dantasfiles.com/princeton/neu)**
-
-**[Operations Research & Financial Engineering](https://dantasfiles.com/princeton/orf)**
-
-**[Philosophy](https://dantasfiles.com/princeton/phi)**
-
-**[Physics](https://dantasfiles.com/princeton/phy)**
-
-**[Politics](https://dantasfiles.com/princeton/pol)**
-
-**[Psychology](https://dantasfiles.com/princeton/psy)**
+| Majors | |
+| :---: | :---: |
+| **[African American Studies](https://dantasfiles.com/princeton/aas)** | **[Anthropology](https://dantasfiles.com/princeton/ams)** |
+| **[Architecture](https://dantasfiles.com/princeton/apc)** | **[Art & Archaeology](https://dantasfiles.com/princeton/art)** |
+| **[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)** | **[Chemical and Biological Engineering](https://dantasfiles.com/princeton/cbe)** |
+| **[Civil and Environmental Engineering](https://dantasfiles.com/princeton/cee)** | **[Chemistry](https://dantasfiles.com/princeton/chm)** |
+| **[Classics](https://dantasfiles.com/princeton/cla)** | **[Comparative Literature](https://dantasfiles.com/princeton/com)** | 
+| **[Computer Science](https://dantasfiles.com/princeton/cos)** | **[East Asian Studies](https://dantasfiles.com/princeton/eas)** | **[Electrical & Computer Engineering](https://dantasfiles.com/princeton/ece)** | 
+| **[Economics](https://dantasfiles.com/princeton/eco)** | **[Ecology & Evolutionary Biology](https://dantasfiles.com/princeton/eeb)** | 
+| **[English](https://dantasfiles.com/princeton/eng)** | **[French](https://dantasfiles.com/princeton/fre)** |
+| **[Geosciences](https://dantasfiles.com/princeton/geo)** | **[German](https://dantasfiles.com/princeton/ger)** | 
+| **[History](https://dantasfiles.com/princeton/his)** | **[Italian](https://dantasfiles.com/princeton/ita)** | 
+| **[Mechanical & Aerospace Engineering](https://dantasfiles.com/princeton/mae)** | **[Mathematics](https://dantasfiles.com/princeton/mat)** | **[Molecular Biology](https://dantasfiles.com/princeton/mol)** |
+| **[Materials Science & Engineering](https://dantasfiles.com/princeton/mse)** | **[Near Eastern Studies](https://dantasfiles.com/princeton/nes)** | 
+| **[Neuroscience](https://dantasfiles.com/princeton/neu)** | **[Operations Research & Financial Engineering](https://dantasfiles.com/princeton/orf)** | 
+| **[Philosophy](https://dantasfiles.com/princeton/phi)** | **[Physics](https://dantasfiles.com/princeton/phy)** |
+| **[Politics](https://dantasfiles.com/princeton/pol)** | **[Psychology](https://dantasfiles.com/princeton/psy)** |
 
 **[Religion](https://dantasfiles.com/princeton/rel)**
 
