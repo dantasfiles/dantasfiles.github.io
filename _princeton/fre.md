@@ -1,5 +1,6 @@
 ---
-title: 🐯 Princeton French unofficial reading list
+title: 🐯 Princeton French unofficial reading list 2026
+layout: reading-list
 ---
 
 | Freshman level | |
