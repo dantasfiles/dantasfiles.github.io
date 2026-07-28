@@ -1,6 +1,5 @@
 ---
 title: 🐻 Cornell American Indian & Indigenous Studies unofficial reading list 2026
-layout: reading-list
 ---
 
 | Sophomore level | |
