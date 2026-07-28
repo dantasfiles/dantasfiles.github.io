@@ -5,3 +5,7 @@ title: 🐻 Cornell Molecular Biology and Genetics unofficial reading list 2026
 | Freshman level | |
 | :---: | --- |
 | **Intro. Biology: Cell & Developmental Biology** <br> BIOMG 1350 (fa26) | • *Essential Cell Biology* by Alberts et al. | 
+
+| Junior level | |
+| :---: | --- |
+| **Principles of Biochemistry** <br> BIOMG 3300/6300 (fa26) | • *Lehninger Principles of Biochemistry* by Nelson & Cox | 
