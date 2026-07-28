@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Society for the Humanities Studies unofficial reading list 2026
+title: 🐻 Cornell Society for the Humanities unofficial reading list 2026
 ---
 
 | Senior level | |
