@@ -19,6 +19,7 @@ title: 🐻 Cornell Asian Studies unofficial reading list 2026
 | Junior level | | 
 | :---: | --- |
 | **Partition: Violence, Citizenship & the Making of Modern South Asia** <br> ASIAN 3023 (fa26) | • *The Partition of India* by Haimanti Roy <br> • *From Raj to Republic: Sovereignty, Violence & Democracy in India* by Sunil Purushotham <br> • *Munnu: A Boy from Kashmir* by Malik Sajad | 
+| **History, Theory & Methods in the Academic Study of Religion** <br> ASIAN 3049/6049 (fa26) | • *Natural Symbols: Explorations in Cosmology* by Mary Douglas <br> • *Fetishizing Tradition: Desire and Reinvention in Buddhist and Christian Narratives* by Alan Cole <br> • *Revelatory Events: 3 Case Studies of the Emergence of New Spiritual Paths* by Ann Taves <br> • *How God Becomes Real: Kindling the Presence of Invisible Others* by T.M. Luhrmann | 
 
 
 
