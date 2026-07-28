@@ -12,6 +12,7 @@ layout: reading-list
 
 | Sophomore level | |
 | :---: | --- |
+| **Histories of the African Diaspora** <br> HIST 2317 (fa26) | • *The Americans Are Coming!: Dreams of African American Liberation in Segregationist South Africa* by Robert Trent Vinson <br> • *Jah Kingdom: Rastafarians, Tanzania & Pan-Africanism in the Age of Decolonization* by Monique A. Bedasse <br> • *All That She Carried: The Journey of Ashley's Sack, a Black Family Keepsake* by Tiya Miles | 
 | **From Terra Incognita to Territories of Nation-States: Early American History in Two Dozen Maps** <br> HIST 2391 (fa26) | • *Mapping the Nation: History & Cartography in 19th-Century America* by Susan Schulten <br> • *How to Lie with Maps* by Mark Monmonier | 
 | **Medicine & Healing in China** <br> HIST 2562 (fa26) | • *Chinese Medicine & Healing* by Hinrichs & Barnes <br> • *Early Chinese Medical Literature: The Mawangdui Medical Manuscripts* by Donald Harper | 
 | **American Political Thought** <br> HIST 2655 (fa26) | • *The Souls of Black Folk* by W.E.B. Du Bois <br> • *Democracy in America* by Alexis de Tocqueville <br> • *The Federalist* by Hamilton et al. <br> • *American Political Thought* by Kramnick & Lowi <br> • *Lincoln: Political Writings & Speeches* | 
