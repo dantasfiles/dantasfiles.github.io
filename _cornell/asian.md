@@ -16,3 +16,9 @@ title: 🐻 Cornell Asian Studies unofficial reading list 2026
 | **Mughal India and the Early Modern World, c. 1500-1800** <br> ASIAN 2274 (fa26) | • *A Short History of the Mughal Empire* by Michael H. Fisher <br> • *The Empires of the Near East & India: Source Studies of the Safavid, Ottoman & Mughal Literate Communities* by Hani Khafipour <br> • *The Baburnama: Memoirs of Babur, Prince & Emperor* | 
 | **Buddhism** <br> ASIAN 2299 (fa26) | • *The Norton Anthology of World Religions: Buddhism* by Donald S. Lopez, Jr. <br> • *The Foundations of Buddhism* by Rupert Gethin | 
 
+| Junior level | | 
+| :---: | --- |
+| **Partition: Violence, Citizenship & the Making of Modern South Asia** <br> ASIAN 3023 (fa26) | • *The Partition of India* by Haimanti Roy <br> • *From Raj to Republic: Sovereignty, Violence & Democracy in India* by Sunil Purushotham <br> • *Munnu: A Boy from Kashmir* by Malik Sajad | 
+
+
+
