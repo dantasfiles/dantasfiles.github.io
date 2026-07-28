@@ -5,6 +5,7 @@ title: 🐻 Cornell Asian Studies unofficial reading list 2026
 | Freshman level | |
 | :---: | --- |
 | **Songs of Love & War: South Asian Lyrics** <br> ASIAN 1104 (fa26) | • *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein <br> • *Poems of Love & War: From the Eight Anthologies & the Ten Long Poems of Classical Tamil* by A. K. Ramanujan | 
+| **The Great Epic of India** <br> ASIAN 1106 (fa26) | • *The Bhagavadgita in the Mahabharata* <br> • *The Mahabharata, v.1: The Book of the Beginning* <br> • *The Mahabharata, v.2: The Book of Assembly & the Book of the Forest* <br> • *The Mahabharata, v.3: The Book of the Virata & the Book of the Effort* | 
 
 | Sophomore level | | 
 | :---: | --- |
