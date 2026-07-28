@@ -1,6 +1,5 @@
 ---
 title: 🐻 Cornell Anthropology unofficial reading list 2026
-layout: reading-list
 ---
 
 | Freshman level | |
@@ -13,3 +12,6 @@ layout: reading-list
 | **Cultural Diversity & Contemporary Issues** <br> ANTHR 2400 (su26) | • *The Land of Open Graves: Living and Dying on the Migrant Trail* by De Leon & Wells <br> • *Warning Signs of Genocide: An Anthropological Perspective* by Anderson & Anderson | 
 | **Nature-Culture: Ethnographic Approaches to Human Environment Relations** <br> ANTHR 2420 (fa26) | • *Cattle Bring Us to Our Enemies: Turkana Ecology, Politics & Raiding in a Disequilibrium System* by J. Terrence McCabe <br> • *Dispossessing the Wilderness: Indian Removal & the Making of the National Parks* by Mark David Spence | 
 | **Culture & Mental Health: Anthropological Perspectives** <br> ANTHR 2424 (fa26) | • *The Occupied Clinic: Militarism & Care in Kashmir* by Saiba Varma <br> • *Psychiatric Encounters: Madness & Modernity in Yucatan, Mexico* by Beatriz M. Reyes-Foster <br> • *Our Most Troubling Madness: Case Studies in Schizophrenia across Cultures* by Luhrmann & Marrow <br> • *A Disability of the Soul: An Ethnography of Schizophrenia & Mental Illness in Contemporary Japan* by Karen Nakamura <br> • *The Pastoral Clinic: Addiction & Dispossession along the Rio Grande* by Angela Garcia <br> • *Mental Disorder: Anthropological Insights* by Nichola Khan | 
+| **The Rise & Fall of Civilizations** <br> ANTHR 2430 (fa26) | • *Ancient Civilizations* by Scarre & Fagan | 
+
+
