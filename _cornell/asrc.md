@@ -1,6 +1,5 @@
 ---
 title: 🐻 Cornell Africana Studies & Research Center unofficial reading list 2026
-layout: reading-list
 ---
 
 | Freshman level | |
@@ -20,3 +19,7 @@ layout: reading-list
 | Junior level | |
 | :---: | --- |
 | **Zora Neale Hurston & Langston Hughes** <br> ASRC 3705 (fa26) | • *Their Eyes Were Watching God* by Zora Neale Hurston <br> • *Tar Baby* by Toni Morrison <br> • *Mules & Men* by Zora Neale Hurston <br> • *The Collected Poems of Langston Hughes* <br> • *Mule Bone* by Hurston & Hughes <br> • *Barracoon: The Story of the Last "Black Cargo"* by Zora Neale Hurston <br> • *Recyclopedia* by Harryette Mullen |
+
+| Senior level | |
+| :---: | --- |
+| **Contesting Identities in Modern Egypt** <br> ASRC 4650 (fa26) | • *Sacred Language, Ordinary People: Dilemmas of Culture & Politics in Egypt* by Niloofar Haeri <br> • *Ordinary Egyptians: Creating the Modern Nation through Popular Culture* by Ziad Fahmy <br> • *Karnak Café* by Naguib Mahfouz <br> • *A Border Passage: From Cairo to America -- A Woman's Journey* by Leila Ahmed <br> • *Industrial Sexuality: Gender, Urbanization & Social Transformation in Egypt* by Hanan Hammad <br> • *An Incurable Past: Nasser's Egypt Then and Now* by Mériam N. Belli <br> • *Egypt in the Future Tense: Hope, Frustration, and Ambivalence before & after 2011* by Samuli Schielke <br> • *Identifying with Nationality: Europeans, Ottomans & Egyptians in Alexandria* by Will Hanley <br> • *Nile Nightshade: An Egyptian Culinary History of the Tomato* by Anny Gaul | 
