@@ -21,7 +21,7 @@ layout: reading-list
 | Junior level | | 
 | :---: | --- |
 | **Women, War & Peace in Europe, 1900-1950** <br> HIST 3662 (su26) | • *A History of Fascism, 1914–1945* by Stanley G. Payne <br> • *An Interrupted Life: The Diaries of Etty Hillesum 1941-43* <br> • *Behind the Lines: Gender & the Two World Wars* by Higonnet et al. <br> • *Changing Lives: Women in European History Since 1700* by Bonnie G. Smith <br> • *Fascism and the Right in Europe 1919-1945* by Martin Blinkhorn <br> • *Letters From Westerbork* by Etty Hillesum <br> • *Lives & Voices: Sources in European Women's History* by DiCaprio & Wiesner <br> • *Partisan Diary: A Woman's Life in the Italian Resistance* by Ada Gobetti <br> • *Testament of Youth* by Vera Brittain <br> • *Women in 20th-Century Europe* by Ann Taylor Allen | 
-| **Monsoon Kingdoms: Pre-Modern Southeast Asian History** <br> HIST 3950/6950 (fa26) | • *A History of Early Southeast Asia: Maritime Trade & Societal Development, 100–1500* by Kenneth R. Hall <br> • *Southeast Asia in the Age of Commerce, 1450-1680: v.2, Expansion and Crisis* by Anthony Reid | 
+| **Monsoon Kingdoms: Pre-Modern Southeast Asian History** <br> HIST 3950/6950 (fa26) | • *A History of Early Southeast Asia: Maritime Trade & Societal Development, 100–1500* by Kenneth R. Hall <br> • *Southeast Asia in the Age of Commerce, 1450-1680: v.2, Expansion & Crisis* by Anthony Reid | 
 
 | Senior level | |
 | :---: | --- |
