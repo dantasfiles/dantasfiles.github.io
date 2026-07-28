@@ -37,12 +37,12 @@ defaults:
       date: "2027-07-28"
   - scope:
     path: "princeton/index.md" # Glob pattern targeting any index.md file at any depth
-      values:
-        layout: "page" # Overrides or nullifies the variable
-    - scope:
-      path: "cornell/index.md" # Glob pattern targeting any index.md file at any depth
-      values:
-        layout: "page" # Overrides or nullifies the variable
+    values:
+      layout: "page" # Overrides or nullifies the variable
+  - scope:
+    path: "cornell/index.md" # Glob pattern targeting any index.md file at any depth
+    values:
+      layout: "page" # Overrides or nullifies the variable
 
 minima:
   skin: classic
