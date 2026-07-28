@@ -12,4 +12,5 @@ title: 🐻 Cornell Astronomy unofficial reading list 2026
 
 | Senior level | |
 | :---: | --- |
-| **Physics of the Planets** <br> ASTRO 4434 (fa26) | • *Planetary Sciences* by Pater & Lissauer | 
+| **Physics of the Planets** <br> ASTRO 4434/6570 (fa26) | • *Planetary Sciences* by Pater & Lissauer |
+| **Intro. to General Relativity** <br> ASTRO 4445 (fa26) | • *Gravity: An Introduction to Einstein's General Relativity* by James B. Hartle | 
