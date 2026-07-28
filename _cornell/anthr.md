@@ -3,6 +3,10 @@ title: 🐻 Cornell Anthropology unofficial reading list 2026
 layout: reading-list
 ---
 
+| Freshman level | |
+| :---: | --- |
+| **Culture, Society & Power: Person, Time & Conduct** <br> ANTHR 1101 (fa26) | • *Stories as Equipment for Living: Last Talks and Tales of Barbara Myerhoff* | 
+
 | Sophomore level | | 
 | :---: | --- |
 | **Cultural Diversity & Contemporary Issues** <br> ANTHR 2400 (su26) | • *The Land of Open Graves: Living and Dying on the Migrant Trail* by De Leon & Wells <br> • *Warning Signs of Genocide: An Anthropological Perspective* by Anderson & Anderson | 
