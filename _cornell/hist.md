@@ -16,6 +16,7 @@ layout: reading-list
 | **American Political Thought** <br> HIST 2655 (fa26) | • *The Souls of Black Folk* by W.E.B. Du Bois <br> • *Democracy in America* by Alexis de Tocqueville <br> • *The Federalist* by Hamilton et al. <br> • *American Political Thought* by Kramnick & Lowi <br> • *Lincoln: Political Writings & Speeches* | 
 | **The American Revolutionary Era** <br> HIST 2665 (fa26) | • *American Revolutions: A Continental History, 1750-1804* by Alan Taylor | 
 | **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** <br> HIST 2680 (fa26) | • *America Divided: The Civil War of the 1960s* by Isserman & Kazin | 
+| **Mughal India and the Early Modern World, c. 1500-1800** <br> HIST 2749 (fa26) | • *A Short History of the Mughal Empire* by Michael H. Fisher <br> • *The Empires of the Near East & India: Source Studies of the Safavid, Ottoman & Mughal Literate Communities* by Hani Khafipour <br> • *The Baburnama: Memoirs of Babur, Prince & Emperor* | 
 
 | Junior level | | 
 | :---: | --- |
