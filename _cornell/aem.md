@@ -16,3 +16,7 @@ layout: reading-list
 | Junior level | |
 | :---: | --- |
 | **Ethics in Business & Organizations** <br> AEM 3205 (fa26) | • *Business in Ethical Focus: An Anthology* by Fritz Allhoff et al. | 
+| **The Startup & Venture Capital Experience** <br> AEM 3330 (fa26) | • *Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist* by Feld & Mendelson <br> ◦ *The Power Law: Venture Capital and the Making of the New Future* by Sebastian Mallaby <br> ◦ *The Young VC's Handbook: A Tactical Guide for Newcomers to Venture Capital* by Sakib Jamal | 
+
+
+
