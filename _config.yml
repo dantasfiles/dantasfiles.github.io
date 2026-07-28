@@ -35,14 +35,6 @@ defaults:
     values:
       layout: "reading-list"  # The name of your layout file without .html
       date: 2027-07-28
-  - scope:
-    path: "princeton/index.md" # Glob pattern targeting any index.md file at any depth
-    values:
-      layout: "page" # Overrides or nullifies the variable
-  - scope:
-    path: "cornell/index.md" # Glob pattern targeting any index.md file at any depth
-    values:
-      layout: "page" # Overrides or nullifies the variable
 
 minima:
   skin: classic
