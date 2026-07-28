@@ -9,3 +9,7 @@ title: 🐻 Cornell Astronomy unofficial reading list 2026
 | Sophomore level | |
 | :---: | --- |
 | **A Spacecraft Tour of the Solar System: Science, Policy & Exploration** <br> ASTRO 2202 (fa26) | • *Astronomy: A Physical Perspective* by Marc L. Kutner <br> • *Astrophysics: A Very Short Intro.* by James Binney <br> • *An Intro. to Modern Astrophysics* by Carroll & Ostlie | 
+
+| Senior level | |
+| :---: | --- |
+| **Physics of the Planets** <br> ASTRO 4434 (fa26) | • *Planetary Sciences* by Pater & Lissauer | 
