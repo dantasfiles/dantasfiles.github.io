@@ -19,14 +19,22 @@ show_excerpts: true
 collections:
   princeton:
     output: true
-    layout: post
+  cornell:
+    output: true
 
 defaults:
   - scope:
       path: ""          # Matches all files in the targeted type
       type: "princeton"   # Must match your collection name
     values:
-      layout: "page"  # The name of your layout file without .html
+      layout: "reading-list"  # The name of your layout file without .html
+      date: 2027-07-28
+  - scope:
+      path: ""          # Matches all files in the targeted type
+      type: "cornell"   # Must match your collection name
+    values:
+      layout: "reading-list"  # The name of your layout file without .html
+      date: 2027-07-28
 
 minima:
   skin: classic
