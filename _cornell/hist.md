@@ -12,6 +12,7 @@ layout: reading-list
 | Sophomore level | |
 | :---: | --- |
 | **From Terra Incognita to Territories of Nation-States: Early American History in Two Dozen Maps** <br> HIST 2391 (fa26) | • *Mapping the Nation: History & Cartography in 19th-Century America* by Susan Schulten <br> • *How to Lie with Maps* by Mark Monmonier | 
+| **American Political Thought** <br> HIST 2655 (fa26) | • *The Souls of Black Folk* by W.E.B. Du Bois <br> • *Democracy in America* by Alexis de Tocqueville <br> • *The Federalist* by Hamilton et al. <br> • *American Political Thought* by Kramnick & Lowi <br> • *Lincoln: Political Writings & Speeches* | 
 | **The American Revolutionary Era** <br> HIST 2665 (fa26) | • *American Revolutions: A Continental History, 1750-1804* by Alan Taylor | 
 
 | Junior level | | 
