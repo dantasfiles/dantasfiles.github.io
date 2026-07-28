@@ -14,5 +14,5 @@ title: 🐻 Cornell Asian Studies unofficial reading list 2026
 | **Medicine & Healing in China** <br> ASIAN 2262 (fa26) | • *Chinese Medicine & Healing* by Hinrichs & Barnes <br> • *Early Chinese Medical Literature: The Mawangdui Medical Manuscripts* by Donald Harper | 
 | **Food & Asia** <br> ASIAN 2272 (su26) | • *Recipe* by Lynn Z. Bloom | 
 | **Mughal India and the Early Modern World, c. 1500-1800** <br> ASIAN 2274 (fa26) | • *A Short History of the Mughal Empire* by Michael H. Fisher <br> • *The Empires of the Near East & India: Source Studies of the Safavid, Ottoman & Mughal Literate Communities* by Hani Khafipour <br> • *The Baburnama: Memoirs of Babur, Prince & Emperor* | 
-
+| **Buddhism** <br> ASIAN 2299 (fa26) | • *The Norton Anthology of World Religions: Buddhism* by Donald S. Lopez, Jr. <br> • *The Foundations of Buddhism* by Rupert Gethin | 
 
