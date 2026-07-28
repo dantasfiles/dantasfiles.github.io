@@ -14,3 +14,4 @@ title: 🐻 Cornell American Studies unofficial reading list 2026
 | **From Terra Incognita to Territories of Nation-States: Early American History in Two Dozen Maps** <br> AMST 2391 (fa26) | • *Mapping the Nation: History & Cartography in 19th-Century America* by Susan Schulten <br> • *How to Lie with Maps* by Mark Monmonier | 
 | **The American Revolutionary Era** <br> AMST 2665 (fa26) | • *American Revolutions: A Continental History, 1750-1804* by Alan Taylor | 
 | **American Political Thought** <br> AMST 2669 (fa26) | • *The Souls of Black Folk* by W.E.B. Du Bois <br> • *Democracy in America* by Alexis de Tocqueville <br> • *The Federalist* by Hamilton et al. <br> • *American Political Thought* by Kramnick & Lowi <br> • *Lincoln: Political Writings & Speeches* | 
+| **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** <br> AMST 2682 (fa26) | • *America Divided: The Civil War of the 1960s* by Isserman & Kazin |  
