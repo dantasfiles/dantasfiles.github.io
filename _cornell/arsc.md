@@ -5,6 +5,7 @@ layout: reading-list
 
 | Freshman level | |
 | :---: | --- |
+| **Elementary Arabic I** <br> ARSC 1201 (fa26) | • *Arabiyyat al-Naas, Part 1: An Intro. Course in Arabic* by Younes et al. | 
 | **African American History from 1865** <br> ARSC 1595 (fa26) | • *Race, Reform, and Rebellion: The Second Reconstruction & Beyond in Black America, 1945-2006* by Manning Marable |
 | **American History from 1500 to 1800** <br> ARSC 1985 (fa26) | • *American Colonies: The Settling of North America* by Alan Taylor |
 
