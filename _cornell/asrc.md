@@ -14,6 +14,7 @@ layout: reading-list
 | Sophomore level | |
 | :---: | --- |
 | **Arabic for Heritage Speakers** <br> ASRC 2105 (fa26) | • *Riḥla ilā Bilād al-‘Arab: A Comprehensive Intro. Course for Arabic Heritage Speakers* by Munther Younes |
+| **Histories of the African Diaspora** <br> ASRC 2317 (fa26) | • *The Americans Are Coming!: Dreams of African American Liberation in Segregationist South Africa* by Robert Trent Vinson <br> • *Jah Kingdom: Rastafarians, Tanzania & Pan-Africanism in the Age of Decolonization* by Monique A. Bedasse <br> • *All That She Carried: The Journey of Ashley's Sack, a Black Family Keepsake* by Tiya Miles | 
 
 | Junior level | |
 | :---: | --- |
