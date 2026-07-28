@@ -8,7 +8,7 @@ layout: reading-list
 | **Elementary Arabic I** <br> ASRC 1201 (fa26) | • *Arabiyyat al-Naas, Part 1: An Intro. Course in Arabic* by Younes et al. | 
 | **Intermediate Arabic I** <br> ASRC 1203 (fa26) | • *Arabiyyat al-Naas, Part 2: An Intermediate Course in Arabic* by Younes et al. |
 | **African American History from 1865** <br> ASRC 1595 (fa26) | • *Race, Reform, and Rebellion: The Second Reconstruction & Beyond in Black America, 1945-2006* by Manning Marable |
-| **Recreating the Caribbean: Migration & Identity in Contemporary Caribbean History** <br> ASRC 1976 (fa26) | • *A Concise History of the Caribbean* by B. W. Higman | 
+| **Recreating the Caribbean: Migration & Identity in Contemporary Caribbean History** <br> ASRC 1976 (fa26) | • *A Concise History of the Caribbean* by B.W. Higman | 
 | **American History from 1500 to 1800** <br> ASRC 1985 (fa26) | • *American Colonies: The Settling of North America* by Alan Taylor |
 
 | Sophomore level | |
