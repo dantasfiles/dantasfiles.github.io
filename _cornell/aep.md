@@ -1,6 +1,5 @@
 ---
 title: 🐻 Cornell Applied & Engineering Physics unofficial reading list 2026
-layout: reading-list
 ---
 
 | Sophomore level | |
