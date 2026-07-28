@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Graduate Management - Business Analytics unofficial reading list 2026
+title: 🐻 Cornell Graduate Management Business Analytics unofficial reading list 2026
 ---
 
 | Masters level | |
