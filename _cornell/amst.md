@@ -15,3 +15,7 @@ title: 🐻 Cornell American Studies unofficial reading list 2026
 | **The American Revolutionary Era** <br> AMST 2665 (fa26) | • *American Revolutions: A Continental History, 1750-1804* by Alan Taylor | 
 | **American Political Thought** <br> AMST 2669 (fa26) | • *The Souls of Black Folk* by W.E.B. Du Bois <br> • *Democracy in America* by Alexis de Tocqueville <br> • *The Federalist* by Hamilton et al. <br> • *American Political Thought* by Kramnick & Lowi <br> • *Lincoln: Political Writings & Speeches* | 
 | **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** <br> AMST 2682 (fa26) | • *America Divided: The Civil War of the 1960s* by Isserman & Kazin |  
+
+| Junior level | |
+| :---: | --- |
+| **American Theatre Stage & Screen I** <br> AMST 3360 (fa26) | • *The Glass Menagerie* by Tennessee Williams <br> • *Waiting for Lefty & Other Plays* by Clifford Odets <br> • *Machinal* by Sophie Treadwell <br> • *The American Dream, The Sandbox, The Death of Bessie Smith, FAM and YAM* by Edward Albee <br> • *The Crucible* by Arthur Miller <br> • *A Raisin in the Sun & The Sign in Sidney Brustein's Window* by Lorraine Hansberry <br> • *At Home at the Zoo* by Edward Albee | 
