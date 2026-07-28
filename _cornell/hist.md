@@ -22,5 +22,6 @@ layout: reading-list
 
 | Senior level | |
 | :---: | --- |
-| **Contesting Votes: Democracy & Citizenship Throughout U.S. History** <br> HIST 4203 (fa26) | • *The Second Founding: How the Civil War & Reconstruction Remade the Constitution* by Eric Foner | 
+| **Contesting Votes: Democracy & Citizenship Throughout U.S. History** <br> HIST 4203 (fa26) | • *The Second Founding: How the Civil War & Reconstruction Remade the Constitution* by Eric Foner |
+| **Environmental Justice: Past, Present, Future** <br> HIST 4262 (fa26) | • *Discourse on Colonialism* by Aimé Césaire <br> • *The Parable of the Sower* by Octavia E. Butler <br> • *Toxic Bodies: Hormone Disruptors & the Legacy of DES* by Nancy Langston <br> • *As Long as Grass Grows: The Indigenous Fight for Environmental Justice, from Colonization to Standing Rock* by Dina Gilio-Whitaker <br> • *The Commons in History: Culture, Conflict & Ecology* by Derek Wall <br> • *The Poisoned City: Flint's Water & the American Urban Tragedy* by Anna Clark <br> • *Climate Futures: Reimagining Global Climate Justice* by Bhavnani et al. | 
 
