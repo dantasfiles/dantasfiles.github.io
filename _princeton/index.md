@@ -27,6 +27,7 @@ I compiled these unofficial reading lists using publicly available information f
 | [School of **Public & International Affairs**](https://dantasfiles.com/princeton/spi) | |
 
 ## Minors and Centers
+
 <div style="column-count: 2;">
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
@@ -100,3 +101,4 @@ I compiled these unofficial reading lists using publicly available information f
 **[Visual Arts](https://dantasfiles.com/princeton/vis)**
 
 </div>
+
