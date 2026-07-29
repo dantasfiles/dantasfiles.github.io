@@ -9,3 +9,4 @@ title: 🐻 Cornell Classics unofficial reading list 2026
 | Sophomore level | |
 | :---: | --- |
 | **Greek Mythology** <br> CLASS 2604 (fa26) | • *The Iliad* by Homer <br> • *The Homeric Hymns* <br> • *The Metamorphoses* by Ovid <br> • *The Odyssey* by Homer <br> • *Theogony* by Hesiod <br> • *Works & Days* by Hesiod |
+| **Greek & Roman Philosophy** <br> CLASS 2661 (fa26) | • *Early Greek Philosophy* <br> • *The Basic Works of Aristotle* <br> • *Plato: Complete Works* <br> • *Hellenistic Philosophy: Intro. Readings* |
