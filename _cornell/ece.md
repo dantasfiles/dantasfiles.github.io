@@ -4,4 +4,4 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list 20
 
 | Senior level | |
 | :---: | --- |
-| **Robot Perception** <br> ECE 4240/5240 (fa26) | • *Information-Driven Planning and Control* by Ferrari & Wettergren | 
+| **Robot Perception** <br> ECE 4240/5240 (fa26) | • *Information-Driven Planning & Control* by Ferrari & Wettergren | 
