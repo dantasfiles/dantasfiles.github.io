@@ -1,7 +1,10 @@
 ---
 title: 🐻 Cornell Linguistics unofficial reading list 2026
-layout: reading-list
 ---
+
+| Freshman level | |
+| :---: | --- |
+| **Intro. to Linguistics** <br> LING 1101 (fa26) | • *Language Files: Materials for an Intro. to Language & Linguistics* | 
 
 | Junior level | | 
 | :---: | --- |
