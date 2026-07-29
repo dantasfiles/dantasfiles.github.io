@@ -9,3 +9,4 @@ title: 🐻 Cornell Civil & Environmental Engineering unofficial reading list 20
 | Senior level | |
 | :---: | --- |
 | **Physical & Chemical Process** <br> CEE 4560/6560 (fa26) | • *Water Quality Engineering: Physical / Chemical Treatment Processes* by Benjamin & Lawler | 
+| **Behavior & Design of Concrete & Masonry Structures** <br> CEE 4760 (fa26) | • *Reinforced Concrete: Mechanics & Design* by James K. Wight | 
