@@ -8,4 +8,4 @@ title: 🐻 Cornell Classics unofficial reading list 2026
 
 | Sophomore level | |
 | :---: | --- |
-| Greek Mythology <br> CLASS 2604 (fa26) | • *The Iliad* by Homer <br> • *The Homeric Hymns* <br> • *The Metamorphoses* by Ovid <br> • *The Odyssey* by Homer <br> • *Theogony* by Hesiod <br> • *Works & Days* by Hesiod |
+| **Greek Mythology** <br> CLASS 2604 (fa26) | • *The Iliad* by Homer <br> • *The Homeric Hymns* <br> • *The Metamorphoses* by Ovid <br> • *The Odyssey* by Homer <br> • *Theogony* by Hesiod <br> • *Works & Days* by Hesiod |
