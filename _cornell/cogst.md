@@ -1,12 +1,15 @@
 ---
 title: 🐻 Cornell Cognitive Science unofficial reading list 2026
-layout: reading-list
 ---
 
 | Freshman level | |
 | :---: | --- |
 | **Intro. to Linguistics** <br> COGST 1105 (fa26) | • *Language Files: Materials for an Intro. to Language & Linguistics* | 
 | **Intro. to Environmental Psychology** / <br> **IEP: Writing in the Major** <br> COGST 1500/1501 (fa26) | • *The Image of the City* by Kevin Lynch <br> • *The Hidden Dimension* by Edward T. Hall | 
+
+| Sophomore level | |
+| :---: | --- |
+| **Cognitive Development** <br> COGST 2300 (fa26) | • *Children's Thinking: Cognitive Development & Individual Differences* by David F. Bjorklund | 
 
 | Junior level | |
 | :---: | --- |
