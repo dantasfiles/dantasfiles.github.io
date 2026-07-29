@@ -94,7 +94,9 @@ I compiled these unofficial reading lists using publicly available information f
 **[Teacher Preparation](https://dantasfiles.com/princeton/tpp)**
 
 **[Translation & Intercultural Communication](https://dantasfiles.com/princeton/tra)**
-</div>
+
 **[Urban Studies](https://dantasfiles.com/princeton/urb)**
 
 **[Visual Arts](https://dantasfiles.com/princeton/vis)**
+
+</div>
