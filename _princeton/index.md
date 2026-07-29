@@ -27,6 +27,7 @@ I compiled these unofficial reading lists using publicly available information f
 | [School of **Public & International Affairs**](https://dantasfiles.com/princeton/spi) | |
 
 ## Minors and Centers
+<div style="column-count: 2;">
 **[African Studies](https://dantasfiles.com/princeton/afs)**
 
 [Effron Center for the **Study of America**](https://dantasfiles.com/princeton/ams)
@@ -92,7 +93,7 @@ I compiled these unofficial reading lists using publicly available information f
 **[Teacher Preparation](https://dantasfiles.com/princeton/tpp)**
 
 **[Translation & Intercultural Communication](https://dantasfiles.com/princeton/tra)**
-
+</div>
 **[Urban Studies](https://dantasfiles.com/princeton/urb)**
 
 **[Visual Arts](https://dantasfiles.com/princeton/vis)**
