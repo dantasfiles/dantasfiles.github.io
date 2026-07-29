@@ -43,10 +43,12 @@ layout: reading-list
 - *Race: A Philosophical Introduction* by Paul C. Taylor
 - *Sing, Unburied, Sing* by Jesmyn Ward
 
-**Methods in African American Studies** `AAS 202 (fa26)`
+### **Methods in African American Studies** `AAS 202 (fa26)`
+
 - *Close Reading for the 21st Century* by Sinykin & Winant
 
-**Intro. to Law & Public Policy in African American History** `AAS 230 (fa26)`
+### **Intro. to Law & Public Policy in African American History** `AAS 230 (fa26)`
+
 - *Reconsidering Reparations: Why Climate Justice & Constructive Politics Are Needed in the Wake of Slavery & Colonialism* by Olúfẹ́mi O. Táíwò
 - *Racecraft: The Soul of Inequality* in American Life by Fields & Fields
 - *When Affirmative Action Was White: An Untold History of Racial Inequality in 20th-Century America* by Ira Katznelson
