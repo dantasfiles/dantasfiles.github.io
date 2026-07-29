@@ -10,6 +10,7 @@ title: 🐻 Cornell Cognitive Science unofficial reading list 2026
 | Sophomore level | |
 | :---: | --- |
 | **Cognitive Development** <br> COGST 2300 (fa26) | • *Children's Thinking: Cognitive Development & Individual Differences* by David F. Bjorklund | 
+| **Intro. to Deductive Logic** <br> COGST 2310 (fa26) | • *Language, Proof & Logic* by Barker-Plummer et al. | 
 
 | Junior level | |
 | :---: | --- |
