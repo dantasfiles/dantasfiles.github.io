@@ -28,7 +28,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 ## Minors and Centers
 
-<div style="column-count: 2;">
+<div style="column-count: 2;" markdown="1">
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
 
