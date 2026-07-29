@@ -5,3 +5,7 @@ title: 🐻 Cornell Psychology unofficial reading list 2026
 | Freshman level | |
 | :---: | --- |
 | **Intro. to Environmental Psychology** / <br> **IEP: Writing in the Major** <br> PSYCH 1500/1501 (fa26) | • *The Image of the City* by Kevin Lynch <br> • *The Hidden Dimension* by Edward T. Hall | 
+
+| Junior level | |
+| :---: | --- |
+| **Memory & the Law** <br> PSYCH 3190 (fa26) | • *Memory* by Baddeley et al. <br> • *The Science of False Memory* by Brainerd & Reyna | 
