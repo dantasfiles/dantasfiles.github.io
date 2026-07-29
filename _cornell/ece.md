@@ -12,7 +12,7 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list 20
 | **Robot Perception** <br> ECE 4240/5240 (fa26) | • *Information-Driven Planning & Control* by Ferrari & Wettergren | 
 | **Digital Signal Processing & Statistical Inference** <br> ECE 4250/5250 (fa26) | • *Signals, Systems & Inference* by Oppenheim & Verghese |
 
-### Sophomore level
+## Sophomore level
 
 ### Digital Logic & Computer Organization - ECE 2300 (fa26)
 
