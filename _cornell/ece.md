@@ -8,5 +8,5 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list 20
 
 | Senior level | |
 | :---: | --- |
-| **Random Signals in Communications & Signal Processing** <br> ECE 4110 (fa26) | • *Probability, Statistics & Random Processes For Electrical Engineering* by Alberto Leon-Garcia |
+| **Random Signals in Communications & Signal Processing** <br> ECE 4110/5110 (fa26) | • *Probability, Statistics & Random Processes For Electrical Engineering* by Alberto Leon-Garcia |
 | **Robot Perception** <br> ECE 4240/5240 (fa26) | • *Information-Driven Planning & Control* by Ferrari & Wettergren | 
