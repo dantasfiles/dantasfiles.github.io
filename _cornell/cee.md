@@ -10,3 +10,4 @@ title: 🐻 Cornell Civil & Environmental Engineering unofficial reading list 20
 | :---: | --- |
 | **Physical & Chemical Process** <br> CEE 4560/6560 (fa26) | • *Water Quality Engineering: Physical / Chemical Treatment Processes* by Benjamin & Lawler | 
 | **Behavior & Design of Concrete & Masonry Structures** <br> CEE 4760/5760 (fa26) | • *Reinforced Concrete: Mechanics & Design* by James K. Wight | 
+| **Robot Perception** <br> CEE 4810/5810 (fa26) | • *Information-Driven Planning and Control* by Ferrari & Wettergren | 
