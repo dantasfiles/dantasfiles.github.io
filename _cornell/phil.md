@@ -9,3 +9,4 @@ title: 🐻 Cornell Philosophy unofficial reading list 2026
 | Sophomore level | |
 | :---: | --- |
 | **Greek & Roman Philosophy** <br> PHIL 2200 (fa26) | • *Early Greek Philosophy* <br> • *The Basic Works of Aristotle* <br> • *Plato: Complete Works* <br> • *Hellenistic Philosophy: Intro. Readings* |
+| **Intro. to Deductive Logic** <br> PHIL 2312 (fa26) | • *Language, Proof & Logic* by Barker-Plummer et al. | 
