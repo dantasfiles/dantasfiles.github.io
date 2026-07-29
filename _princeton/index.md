@@ -28,6 +28,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 ## Minors and Centers
 <div style="column-count: 2;">
+
 **[African Studies](https://dantasfiles.com/princeton/afs)**
 
 [Effron Center for the **Study of America**](https://dantasfiles.com/princeton/ams)
