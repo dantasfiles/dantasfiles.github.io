@@ -8,4 +8,4 @@ title: 🐻 Cornell Molecular Biology and Genetics unofficial reading list 2026
 
 | Junior level | |
 | :---: | --- |
-| **Principles of Biochemistry** <br> BIOMG 3300/6300 (fa26) | • *Lehninger Principles of Biochemistry* by Nelson & Cox | 
+| **Principles of Biochemistry** / **Proteins & Metabolism** <br> BIOMG 3300/3310/6300 (fa26) | • *Lehninger Principles of Biochemistry* by Nelson & Cox | 
