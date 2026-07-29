@@ -8,4 +8,4 @@ title: 🐻 Cornell City & Regional Planning unofficial reading list 2026
 
 | Senior level | | 
 | :---: | --- |
-| **Urban Economics** <br> CRP 4040 (fa26) | • *Urban Economics* by Arthur O'Sullivan | 
+| **Urban Economics** <br> CRP 4040/5040 (fa26) | • *Urban Economics* by Arthur O'Sullivan | 
