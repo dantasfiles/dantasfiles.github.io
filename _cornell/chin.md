@@ -5,3 +5,7 @@ title: 🐻 Cornell Chinese unofficial reading list 2026
 | Junior level | |
 | :---: | --- |
 | **High Intermediate Mandarin I** <br> CHIN 3301 (fa26) | • *Eyes on China: An Intermediate-Adv. Reader of Modern Chinese* by Dr. Jincheng Liu et al. | 
+
+| Senior level | |
+| :---: | --- |
+| **High Adv. Mandarin I** <br> CHIN 4427 (fa26) | • *A Kaleidoscope of China: An Adv. Reader of Modern Chinese* by Chou et al. | 
