@@ -4,7 +4,8 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list 20
 
 ## Sophomore level
 
-**Digital Logic & Computer Organization** `ECE 2300 (fa26)`
+### Digital Logic & Computer Organization 
+`ECE 2300 (fa26)`
 - *Digital Design & Computer Architecture, RISC-V Edition* by Harris & Harris 
 
 ## Senior level
