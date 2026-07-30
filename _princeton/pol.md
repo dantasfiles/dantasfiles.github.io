@@ -7,7 +7,9 @@ layout: reading-list
 
 **Conducting Independent Research in Political Science** `POL 300 (fa26)`
 - *The Fundamentals of Political Science Research* by Kellstedt & Whitten
- 
+
+---
+
 **The Just Society** `POL 307 (fa26)`
 - *2nd Treatise on Government* by John Locke
 - ✔️ ***[The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)*** by Marx & Engels
