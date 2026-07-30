@@ -16,4 +16,4 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list 20
 - *Information-Driven Planning & Control* by Ferrari & Wettergren
 
 **Digital Signal Processing & Statistical Inference** `ECE 4250/5250 (fa26)`
-- *Signals, Systems & Inference* by Oppenheim & Verghese |
+- *Signals, Systems & Inference* by Oppenheim & Verghese
