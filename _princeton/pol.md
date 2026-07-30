@@ -52,6 +52,6 @@ layout: reading-list
 ## Graduate level
 
 **International Security Studies** `POL 554 (fa26)`
-- *Arms and Influence* by Thomas C. Schelling
+- *Arms & Influence* by Thomas C. Schelling
 
 
