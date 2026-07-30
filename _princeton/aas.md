@@ -33,7 +33,7 @@ layout: reading-list
 
 ## Sophomore level 
 
-**AAS & the Philosophy of Race** `AAS 201 (fa26)`
+**AAS & the Philosophy of Race** <br> `AAS 201 (fa26)`
 - *The Future of Whiteness* by Linda Martín Alcoff
 - ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 - *The Case for Rage: Why Anger Is Essential to Anti-Racist Struggle* by Myisha Cherry
@@ -43,11 +43,11 @@ layout: reading-list
 - *Race: A Philosophical Introduction* by Paul C. Taylor
 - *Sing, Unburied, Sing* by Jesmyn Ward
 
-### **Methods in African American Studies** `AAS 202 (fa26)`
+**Methods in African American Studies** <br> `AAS 202 (fa26)`
 
 - *Close Reading for the 21st Century* by Sinykin & Winant
 
-### **Intro. to Law & Public Policy in African American History** `AAS 230 (fa26)`
+**Intro. to Law & Public Policy in African American History** <br> `AAS 230 (fa26)`
 
 - *Reconsidering Reparations: Why Climate Justice & Constructive Politics Are Needed in the Wake of Slavery & Colonialism* by Olúfẹ́mi O. Táíwò
 - *Racecraft: The Soul of Inequality* in American Life by Fields & Fields
