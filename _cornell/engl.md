@@ -25,6 +25,10 @@ title: 🐻 Cornell English unofficial reading list 2026
 
 ## Sophomore level
 
+**Shakespeare** `ENGL 2270 (fa26)`
+- *The Norton Shakespeare*
+
+
 **The Novels of Toni Morrison** `ENGL 2603 (fa26)`
 - *Paradise* by Toni Morrison 
 
