@@ -2,6 +2,11 @@
 title: 🐻 Cornell Economics unofficial reading list 2026
 ---
 
+## Freshman level 
+
+**Introductory Macroeconomics** `ECON 1120 (fa26)`
+- *Principles of Macroeconomics* by Stevenson & Wolfers
+
 ## Junior level
 
 **Urban Economics** `ECON 3855 (fa26)`
