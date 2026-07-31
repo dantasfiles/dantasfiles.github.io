@@ -1,6 +1,5 @@
 ---
-title: 🐯 Princeton Creative Writing unofficial reading list 2026
-layout: reading-list
+title: 🐯 Princeton Lewis Center for the Arts unofficial reading list 2026
 ---
 
 ## [Creative Writing](#creative-writing) / Dance / Theater
