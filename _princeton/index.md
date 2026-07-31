@@ -87,7 +87,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
 
-[Effron Center for the Study of **America** (American, Asian American, Latino, and Native American and Indigenous Studies)](https://dantasfiles.com/princeton/ams)
+[Effron Center for the Study of **America** (American, Asian American, Latino, and Native American & Indigenous Studies)](https://dantasfiles.com/princeton/ams)
 
 **[Applied and Computational Mathematics](https://dantasfiles.com/princeton/apc)**
 
