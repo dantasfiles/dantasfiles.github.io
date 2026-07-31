@@ -28,9 +28,11 @@ title: 🐻 Cornell English unofficial reading list 2026
 **Shakespeare** `ENGL 2270 (fa26)`
 - *The Norton Shakespeare*
 
-
 **The Novels of Toni Morrison** `ENGL 2603 (fa26)`
 - *Paradise* by Toni Morrison 
+
+**Watching Literature and Reading Film** `ENGL 2765 (fa26)`
+- *Crush* by Richard Siken
 
 ## Junior level
 
