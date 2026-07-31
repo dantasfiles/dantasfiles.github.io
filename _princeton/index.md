@@ -87,11 +87,11 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[African Studies](https://dantasfiles.com/princeton/afs)**
 
-[Effron Center for the Study of **America** (American, Asian American, Latino, and Native American & Indigenous Studies)](https://dantasfiles.com/princeton/ams)
+[Effron Center for the Study of **America** <br> (American, Asian American, Latino, and Native American & Indigenous Studies)](https://dantasfiles.com/princeton/ams)
 
 **[Applied and Computational Mathematics](https://dantasfiles.com/princeton/apc)**
 
-[Lewis Center for the **Arts** (Creative Writing, Dance, Theater & Music Theater, and Visual Arts](https://dantasfiles.com/princeton/lca)
+[Lewis Center for the **Arts** <br> (Creative Writing, Dance, Theater & Music Theater, and Visual Arts](https://dantasfiles.com/princeton/lca)
 
 **[Center for Digital Humanities](https://dantasfiles.com/princeton/cdh)**
 
