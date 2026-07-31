@@ -1,6 +1,5 @@
 ---
 title: 🐯 Princeton Politics unofficial reading list 2026
-layout: reading-list
 ---
 
 ## Junior level
