@@ -2,6 +2,11 @@
 title: 🐻 Cornell English unofficial reading list 2026
 ---
 
+## Freshman level
+
+**Writing the Environment** `ENGL 1130 (fa26)`
+- *A Midsummer Night's Dream* by William Shakespeare
+
 ## Sophomore level
 
 **The Novels of Toni Morrison** `ENGL 2603 (fa26)`
