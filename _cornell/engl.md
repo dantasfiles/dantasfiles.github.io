@@ -7,6 +7,11 @@ title: 🐻 Cornell English unofficial reading list 2026
 **Writing the Environment** `ENGL 1130 (fa26)`
 - *A Midsummer Night's Dream* by William Shakespeare
 
+**True Stories** `ENGL 1134 (fa26)`
+- *Assata* by Assata Shakur
+- *Borderlands / La Frontera: The New Mestiza* by Gloria Anzaldúa
+- ✔️ ***They Called Us Enemy*** by George Takei
+
 ## Sophomore level
 
 **The Novels of Toni Morrison** `ENGL 2603 (fa26)`
