@@ -18,3 +18,6 @@ title: 🐻 Cornell Environment & Sustainability unofficial reading list 2026
 - *The Commons in History: Culture, Conflict & Ecology* by Derek Wall
 - *The Poisoned City: Flint's Water & the American Urban Tragedy* by Anna Clark
 - *Climate Futures: Reimagining Global Climate Justice* by Bhavnani et al.
+
+**Wildlife Corridor Conservation & Crossing Design** `ENVS 4800/5800 (fa26)`
+- *Crossings: How Road Ecology Is Shaping the Future of Our Planet* by Ben Goldfarb
