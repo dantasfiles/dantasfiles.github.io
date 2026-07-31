@@ -15,6 +15,8 @@ title: 🐻 Cornell English unofficial reading list 2026
 **American Voices** `ENGL 1158 (fa26)`
 - *Selected Poems* by Gwendolyn Brooks
 - ✔️ ***The Fire Next Time*** by James Baldwin ([🌆 my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- *Lost in the City* by Edward P. Jones
+- *The Vanishing Half* by Brit Bennett
 
 ## Sophomore level
 
