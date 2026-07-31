@@ -49,6 +49,5 @@ title: 🐯 Princeton International & Regional Studies unofficial reading list 2
 - *Massacre in Mexico* by Elena Poniatowska
 - *Knitting the Fog* by Claudia D. Hernández
 
-| Graduate level | |
-| :---: | --- |
-| **Contemporary Critical Theories: Marx's Capital** <br> LAS 535 (fa26) | • [*Capital: A Critique of Political Economy: Vol. 1: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx |
+**Contemporary Critical Theories: Marx's Capital** `LAS 535 (fa26)`
+- *Capital: A Critique of Political Economy, v.1* by Karl Marx |
