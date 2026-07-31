@@ -34,7 +34,7 @@ layout: reading-list
 - *On the Origins of War: And the Preservation of Peace* by Donald Kagan
 - *Why I Write* by George Orwell
 - *The History of the Peloponnesian War* by Thucydides
-- *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman
+- ✔️ ***The Guns of August: The Outbreak of World War I*** by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
 - *Man, the State & War: A Theoretical Analysis* by Kenneth N. Waltz 
 
 ## Senior level
