@@ -2,7 +2,17 @@
 title: 🐯 Princeton Lewis Center for the Arts unofficial reading list 2026
 ---
 
-## [Creative Writing →](#creative-writing) / [Dance →](#dance) / [Theater & Music Theater →](#theater-&-music-theater) / [Visual Arts →](#visual-arts) 
+<div style="column-count: 2;" markdown="1">
+ 
+**[Creative Writing](#creative-writing)**
+
+**[Dance](#dance)**
+
+**[Theater & Music Theater](#theater-&-music-theater)**
+
+**[Visual Arts](#visual-arts)**
+
+</div>
 
 ## Creative Writing
 
