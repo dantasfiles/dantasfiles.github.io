@@ -3,6 +3,8 @@ title: 🐯 Princeton Creative Writing unofficial reading list 2026
 layout: reading-list
 ---
 
+## [Creative Writing](#creative-writing) / Dance / Theater
+
 ## Creative Writing
 
 **Writing Speculative Fiction** `CWR 213 (fa26)`
