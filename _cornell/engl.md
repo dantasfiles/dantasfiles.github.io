@@ -34,6 +34,9 @@ title: 🐻 Cornell English unofficial reading list 2026
 **Watching Literature and Reading Film** `ENGL 2765 (fa26)`
 - *Crush* by Richard Siken
 
+**Creative Writing** `ENGL 2800 (fa26)`
+- *Write Moves: A Creative Writing Guide & Anthology* by Nancy Pagh
+
 ## Junior level
 
 **American Theatre Stage & Screen I** `ENGL 3360 (fa26)`
