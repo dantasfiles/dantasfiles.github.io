@@ -4,6 +4,9 @@ title: 🐻 Cornell Engineering Distribution unofficial reading list 2026
 
 ## Sophomore level
 
+**Chemical Process Design & Analysis** `ENGRD 2190 (fa26)`
+- *Chemical Engineering Design & Analysis: An Intro.* by Duncan & Reimer
+
 **The Earth System** `ENGRD 2250 (fa26)`
 - *Earth: Portrait of a Planet* by Stephen Marshak
 
