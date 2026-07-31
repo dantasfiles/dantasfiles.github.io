@@ -2,7 +2,7 @@
 title: 🐻 Cornell Public Policy unofficial reading list 2026
 ---
 
-Sophomore level
+## Sophomore level
 
 **Controversies About Inequality** `PUBPOL 2220 (fa26)`
 - *The Myth of Millionaire Tax Flight: How Place Still Matters for the Rich* by Cristobal Young
