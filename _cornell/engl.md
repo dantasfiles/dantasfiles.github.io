@@ -60,6 +60,9 @@ title: 🐻 Cornell English unofficial reading list 2026
 **Diasporas, Disasters & Dissent: Re-Thinking Puerto Rican Studies in the 20th & 21st Centuries** `ENGL 3678 (fa26)`
 - *Bodega Dreams* by Ernesto Quiñonez
 - *The Meaning of Consuelo* by Judith Ortiz Cofer
+
+**Advanced Writing: Audiences, Genres, Media** `ENGL 3801 (fa26)`
+- *Several Short Sentences About Writing* by Verlyn Klinkenborg
  
 **Remembering Socialism: Literature & Film After the End of History** `ENGL 3903 (fa26)`
 - *Free: A Child & a Country at the End of History* by Lea Ypi
