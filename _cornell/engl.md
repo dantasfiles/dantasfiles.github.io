@@ -18,6 +18,11 @@ title: 🐻 Cornell English unofficial reading list 2026
 - *Lost in the City* by Edward P. Jones
 - *The Vanishing Half* by Brit Bennett
 
+**Cultural Studies** `ENGL 1168 (fa26)`
+- *Just Above My Head* by James Baldwin
+- *Assata* by Assata Shakur
+- *A Short Walk* by Alice Childress
+
 ## Sophomore level
 
 **The Novels of Toni Morrison** `ENGL 2603 (fa26)`
