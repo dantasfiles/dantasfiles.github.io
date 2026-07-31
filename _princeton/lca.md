@@ -2,7 +2,7 @@
 title: 🐯 Princeton Lewis Center for the Arts unofficial reading list 2026
 ---
 
-| [Creative Writing →](#creative-writing) | [Dance →](#dance) | [Theater & Music Theater →](#theater-&-music-theater) | Visual Arts |
+| [Creative Writing ↓](#creative-writing) | [Dance ↓](#dance) | [Theater & Music Theater ↓](#theater-&-music-theater) | [Visual Arts ↓](#visual-arts) |
 | --- | --- | --- | --- |
 
 ## Creative Writing
@@ -45,4 +45,12 @@ title: 🐯 Princeton Lewis Center for the Arts unofficial reading list 2026
  
 **Musical Theatre & Fan Cultures** `MTD 340 (fa26)`
 - *Fandom in Musical Theatre* by Jessica Hillman-McCord
-- *John Proctor is the Villain* by Kimberly Belflower 
+- *John Proctor is the Villain* by Kimberly Belflower
+
+## Visual Arts
+
+**Narrative Filmmaking I** `VIS 265 (fa26)`
+- *Voice & Vision: A Creative Approach to Narrative Filmmaking* by Hurbis-Cherrier & Mercado 
+
+**Intro. to Screenwriting: Writing the Short Film** `VIS 348 (fa26)`
+- *The Screenwriter's Bible: A Complete Guide to Writing, Formatting & Selling Your Script* by David Trottier
