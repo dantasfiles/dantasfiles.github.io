@@ -27,3 +27,21 @@ title: 🐯 Princeton Lewis Center for the Arts unofficial reading list 2026
 - *Dance Anatomy & Kinesiology* by Karen Clippinger
 - *Atlas of Anatomy: General Anatomy and Musculoskeletal System* by Schuenke et al.
 - [*Taking Root to Fly: Articles on Functional Anatomy*](https://www.irenedowdchoreographies.com/?page_id=62) by Irene Dowd
+
+## Theater & Music Theater
+
+**Introduction to Theater Making** `MTD/THR 101 (fa26)`
+- *Pipeline* by Dominique Morisseau
+- *Waiting for Godot: A Tragicomedy in Two Acts* by Samuel Beckett
+- *Your Healing is Killing Me* by Virginia Grise 
+
+**French Theater Workshop** `THR 211 (fa26)`
+- *Le Malade Imaginaire* by Molière
+- *Un Fil à la Patte* by Georges Feydeau 
+
+**Shakespeare: Toward Hamlet** `THR 310 (fa26)`
+- *The Complete Pelican Shakespeare* by Orgel & Braunmuller
+ 
+**Musical Theatre & Fan Cultures** `MTD 340 (fa26)`
+- *Fandom in Musical Theatre* by Jessica Hillman-McCord
+- *John Proctor is the Villain* by Kimberly Belflower 
