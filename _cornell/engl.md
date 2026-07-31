@@ -88,4 +88,12 @@ title: 🐻 Cornell English unofficial reading list 2026
 - *Romance in Marseille* by Claude McKay
 - *Plum Bun: A Novel without a Moral* by Jessi Redmon Fauset
 - *Black No More* by George S. Schuyler
-- *Infants of the Spring* by Wallace Thurman 
+- *Infants of the Spring* by Wallace Thurman
+
+**Reading Joyce's Ulysses** `ENGL 4700/6700 (fa26)`
+- *James Joyce* by Richard Ellmann
+- *Ulysses* by James Joyce
+- *The New Bloomsday Book: A Guide Through Ulysses* by Harry Blamires
+- *Ulysses Annotated: Notes for James Joyce's Ulysses* by Gifford & Seidman
+
+
