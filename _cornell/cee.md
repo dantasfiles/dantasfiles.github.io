@@ -23,3 +23,6 @@ title: 🐻 Cornell Civil & Environmental Engineering unofficial reading list 20
 
 **Project Management** `CEE 5900 (fa26)`
 - *Emotional Intelligence for Project Managers: The People Skills You Need to Achieve Outstanding Results* by Anthony Mersino
+
+- **Construction Planning and Operations** `CEE 5950 (fa26)`
+- *Construction Project Management* by Gould & Joyce
