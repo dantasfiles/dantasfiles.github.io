@@ -8,7 +8,7 @@ title: 🐯 Princeton Lewis Center for the Arts unofficial reading list 2026
 
 **[Dance](#dance)**
 
-**[Theater & Music Theater](#theater-&-music-theater)**
+**[Theater & Music Theater](#theater--music-theater)**
 
 **[Visual Arts](#visual-arts)**
 
