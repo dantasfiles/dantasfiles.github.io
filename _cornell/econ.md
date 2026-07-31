@@ -15,6 +15,9 @@ title: 🐻 Cornell Economics unofficial reading list 2026
 **Applied Econometrics** `ECON 3120 (fa26)`
 - *Intro. to Econometrics* by Stock & Watson
 
+**Economics of the U.S. Social Safety Net** `ECON 3250 (fa26)`
+- *Mastering 'Metrics: The Path from Cause to Effect* by Angrist & Pischke
+
 **Urban Economics** `ECON 3855 (fa26)`
 - *Urban Economics* by Arthur O'Sullivan
 
