@@ -107,9 +107,9 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Entrepreneurship](https://dantasfiles.com/princeton/ent)**
 
-**[High Meadows Environmental Institute](https://dantasfiles.com/princeton/env)**
+[High Meadows **Environmental** Institute](https://dantasfiles.com/princeton/env)
 
-**[Contemporary European Politics and Society](https://dantasfiles.com/princeton/eps)**
+**[Contemporary European Politics & Society](https://dantasfiles.com/princeton/eps)**
 
 **[Finance](https://dantasfiles.com/princeton/fin)**
 
