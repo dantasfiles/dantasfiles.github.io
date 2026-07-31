@@ -12,6 +12,10 @@ title: 🐻 Cornell English unofficial reading list 2026
 - *Borderlands / La Frontera: The New Mestiza* by Gloria Anzaldúa
 - ✔️ ***They Called Us Enemy*** by George Takei
 
+**American Voices** `ENGL 1158 (fa26)`
+- *Selected Poems* by Gwendolyn Brooks
+- ✔️ ***The Fire Next Time*** by James Baldwin ([🌆 my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
 ## Sophomore level
 
 **The Novels of Toni Morrison** `ENGL 2603 (fa26)`
