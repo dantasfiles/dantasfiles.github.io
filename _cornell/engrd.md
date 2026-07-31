@@ -6,6 +6,7 @@ title: 🐻 Cornell Engineering Distribution unofficial reading list 2026
 
 **Chemical Process Design & Analysis** `ENGRD 2190 (fa26)`
 - *Chemical Engineering Design & Analysis: An Intro.* by Duncan & Reimer
+- *Elementary Principles of Chemical Processes* by Felder et al.
 
 **The Earth System** `ENGRD 2250 (fa26)`
 - *Earth: Portrait of a Planet* by Stephen Marshak
