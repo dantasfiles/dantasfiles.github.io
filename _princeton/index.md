@@ -91,15 +91,13 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Applied and Computational Mathematics](https://dantasfiles.com/princeton/apc)**
 
+[Lewis Center for the **Arts** (Creative Writing, Dance, Theater & Music Theater, and Visual Arts](https://dantasfiles.com/princeton/lca)
+
 **[Center for Digital Humanities](https://dantasfiles.com/princeton/cdh)**
 
 **[Cognitive Science](https://dantasfiles.com/princeton/cgs)**
 
 **[Human Values](https://dantasfiles.com/princeton/chv)**
-
-**[Creative Writing](https://dantasfiles.com/princeton/cwr)**
-
-**[Dance](https://dantasfiles.com/princeton/dan)**
 
 **[European Cultural Studies](https://dantasfiles.com/princeton/ecs)**
 
@@ -145,15 +143,11 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Science & Technology](https://dantasfiles.com/princeton/stc)**
 
-**[Theater & Music Theater](https://dantasfiles.com/princeton/thr)**
-
 **[Teacher Preparation](https://dantasfiles.com/princeton/tpp)**
 
 **[Translation & Intercultural Communication](https://dantasfiles.com/princeton/tra)**
 
 **[Urban Studies](https://dantasfiles.com/princeton/urb)**
-
-**[Visual Arts](https://dantasfiles.com/princeton/vis)**
 
 </div>
 
