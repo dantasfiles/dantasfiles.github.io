@@ -16,7 +16,7 @@ title: 🐯 Princeton Politics unofficial reading list 2026
 
 **American Political Thought** `POL 321 (fa26)`
 - *The Portable Abraham Lincoln*
-- *The Essential Federalist and Anti-Federalist Papers*
+- *The Essential Federalist & Anti-Federalist Papers*
 - *Democracy in America* by Alexis de Tocqueville
 - *Black Boy* by Richard Wright
 
@@ -28,7 +28,7 @@ title: 🐯 Princeton Politics unofficial reading list 2026
 
 
 **Causes of War** `POL 388 (fa26)`
-- *Immanuel Kant: Perpetual Peace and Other Essays*
+- *Immanuel Kant: Perpetual Peace & Other Essays*
 - *Hitler's World View: A Blueprint for Power* by Eberhard Jackel
 - *On the Origins of War: And the Preservation of Peace* by Donald Kagan
 - *Why I Write* by George Orwell
