@@ -63,6 +63,12 @@ title: 🐻 Cornell English unofficial reading list 2026
 
 **Advanced Writing: Audiences, Genres, Media** `ENGL 3801 (fa26)`
 - *Several Short Sentences About Writing* by Verlyn Klinkenborg
+
+**The Personal Voice: Nonfiction Writing** `ENGL 3890 (fa26)`
+- *The Art of the Personal Essay: An Anthology from the Classical Era to the Present* by Phillip Lopate
+- *The Situation & the Story: The Art of Personal Narrative* by Vivian Gornick
+- *The Best American Essays 2025* by Jia Tolentino
+- *The Next American Essay* by John D'Agata
  
 **Remembering Socialism: Literature & Film After the End of History** `ENGL 3903 (fa26)`
 - *Free: A Child & a Country at the End of History* by Lea Ypi
