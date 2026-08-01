@@ -26,6 +26,12 @@ title: 🐻 Cornell German Studies unofficial reading list 2026
 **Elementary Yiddish I** `GERST 1776 (fa26)`
 - *In eynem: The New Yiddish Textbook* by Schulman et al.
 
+## Sophomore level
+
+**Literary Texts & Contexts** `GERST 2020 (fa26)`
+- *The Artificial Silk Girl* by Irmgard Keun
+- *Das lyrische Stenogrammheft* by Mascha Kaléko
+
 ## Junior level
 
 **Remembering Socialism: Literature & Film After the End of History** `GERST 3612 (fa26)`
