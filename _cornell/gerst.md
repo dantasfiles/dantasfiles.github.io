@@ -12,6 +12,10 @@ title: 🐻 Cornell German Studies unofficial reading list 2026
 - *The Book of Franza & Requiem for Fanny Goldmann* by Ingeborg Bachmann
 - *Malina* by Ingeborg Bachmann
 
+**Exploring German Contexts I** `GERST 1210 (fa26)`
+- *DaF leicht: German as a Foreign Language for Adults, A1.1* by Jentges et al.
+- - *DaF leicht: German as a Foreign Language for Adults, A1.2* by Jentges et al.
+
 ## Junior level
 
 **Remembering Socialism: Literature & Film After the End of History** `GERST 3612 (fa26)`
