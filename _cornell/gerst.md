@@ -35,6 +35,11 @@ title: 🐻 Cornell German Studies unofficial reading list 2026
 **Perspectives on German Culture** `GERST 2040 (fa26)`
 - *Kontext: German as a Foreign Language, B2.1*
 
+**Politics in Dark Times** `GERST 2655 (fa26)`
+- *Between Past and Future* by Hannah Arendt
+- *The Human Condition* by Hannah Arendt
+- *Crises of the Republic: Lying in Politics, Civil Disobedience, On Violence, Thoughts on Politics & Revolution* by Hannah Arendt
+
 ## Junior level
 
 **Remembering Socialism: Literature & Film After the End of History** `GERST 3612 (fa26)`
