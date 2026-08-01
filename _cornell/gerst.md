@@ -20,6 +20,12 @@ title: 🐻 Cornell German Studies unofficial reading list 2026
 - *DaF leicht: German as a Foreign Language for Adults, A1.2* by Jentges et al.
 - *DaF leicht: German as a Foreign Language for Adults, A2.1* by Jentges et al.
 
+**Expanding the German Dossier** `GERST 1230 (fa26)`
+- *DaF kompakt neu: German as a Foreign Language for Adults, A2* by Braun et al.
+
+**Elementary Yiddish I** `GERST 1776 (fa26)`
+- *In eynem: The New Yiddish Textbook* by Schulman et al.
+
 ## Junior level
 
 **Remembering Socialism: Literature & Film After the End of History** `GERST 3612 (fa26)`
