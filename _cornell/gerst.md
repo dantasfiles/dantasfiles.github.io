@@ -14,7 +14,7 @@ title: 🐻 Cornell German Studies unofficial reading list 2026
 
 **Exploring German Contexts I** `GERST 1210 (fa26)`
 - *DaF leicht: German as a Foreign Language for Adults, A1.1* by Jentges et al.
-- - *DaF leicht: German as a Foreign Language for Adults, A1.2* by Jentges et al.
+- *DaF leicht: German as a Foreign Language for Adults, A1.2* by Jentges et al.
 
 ## Junior level
 
