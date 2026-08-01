@@ -8,6 +8,10 @@ title: 🐻 Cornell German Studies unofficial reading list 2026
 - *Goethe, Tieck, Foque & Brentano: Romantic Fairy Tales*
 - *The Marquise of O & Other Stories* by Heinrich Von Kleist
 
+- **Love & Death in Vienna** `GERST 1122 (fa26)`
+- *The Book of Franza & Requiem for Fanny Goldmann* by Ingeborg Bachmann
+- *Malina* by Ingeborg Bachmann
+
 ## Junior level
 
 **Remembering Socialism: Literature & Film After the End of History** `GERST 3612 (fa26)`
