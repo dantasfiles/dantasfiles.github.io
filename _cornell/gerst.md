@@ -2,6 +2,12 @@
 title: 🐻 Cornell German Studies unofficial reading list 2026
 ---
 
+## Freshman level
+
+**From Fairy Tales to the Uncanny: Exploring the Romantic Consciousness** `GERST 1109 (fa26)`
+- *Goethe, Tieck, Foque & Brentano: Romantic Fairy Tales*
+- *The Marquise of O & Other Stories* by Heinrich Von Kleist
+
 ## Junior level
 
 **Remembering Socialism: Literature & Film After the End of History** `GERST 3612 (fa26)`
