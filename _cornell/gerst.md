@@ -32,6 +32,9 @@ title: 🐻 Cornell German Studies unofficial reading list 2026
 - *The Artificial Silk Girl* by Irmgard Keun
 - *Das lyrische Stenogrammheft* by Mascha Kaléko
 
+**Perspectives on German Culture** `GERST 2040 (fa26)`
+- *Kontext: German as a Foreign Language, B2.1*
+
 ## Junior level
 
 **Remembering Socialism: Literature & Film After the End of History** `GERST 3612 (fa26)`
