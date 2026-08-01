@@ -10,6 +10,9 @@ title: 🐻 Cornell Government unofficial reading list 2026
 
 ## Sophomore level
 
+**Moral Dilemmas in the Law** `GOVT 2432 (fa26)`
+- *The Routledge Companion to Philosophy of Law* by Andrei Marmor
+
 **Politics in Dark Times** `GOVT 2655 (fa26)`
 - *Between Past and Future* by Hannah Arendt
 - *The Human Condition* by Hannah Arendt
