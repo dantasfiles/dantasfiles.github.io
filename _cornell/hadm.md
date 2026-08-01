@@ -10,7 +10,7 @@ title: 🐻 Cornell Hotel Administration unofficial reading list 2026
 **Principles of Food & Beverage Operations Management** `HADM 1361 (fa26)`
 - *The Book of Yields: Accuracy in Food Costing & Purchasing* by Francis T. Lynch 
 
-## Sophmore level
+## Sophomore level
 
 **Managerial Accounting** `HADM 2210 (fa26)`
 - *Managerial Accounting for Managers* by Noreen et al.
