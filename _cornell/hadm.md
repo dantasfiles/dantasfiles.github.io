@@ -14,3 +14,6 @@ title: 🐻 Cornell Hotel Administration unofficial reading list 2026
 
 **Managerial Accounting** `HADM 2210 (fa26)`
 - *Managerial Accounting for Managers* by Noreen et al.
+
+**Finance** `HADM 2220 (fa26)`
+- *Fundamentals of Corporate Finance* by Ross et al.
