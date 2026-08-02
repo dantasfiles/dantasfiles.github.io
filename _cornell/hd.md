@@ -24,6 +24,10 @@ title: 🐻 Cornell Human Development unofficial reading list 2026
 **Intro. to Social Psychology** `HD 2810 (fa26)`
 - *Social Psychology* by Gilovich et al.
 
+**Research Methods in Human Development** `HD 2830 (fa26)`
+- *A Short Guide to Writing about Psychology* by Dana S. Dunn
+- *Research Methods in Psychology* by Beth Morling
+
 ## Junior level
 
 **Memory & the Law** `HD 3190/6190 (fa26)`
