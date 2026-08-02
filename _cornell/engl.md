@@ -30,7 +30,7 @@ title: 🐻 Cornell English unofficial reading list 2026
 - *Talking Back: Thinking Feminist, Thinking Black* by bell hooks
 - *Thinking Through Writing* by Susan R. Horton
 
-**Cultural Studies** `ENGL 1168 (fa26)`
+**Cultural Studies: Black Politics & Writing Towards Liberation** `ENGL 1168-101 (fa26)`
 - *Just Above My Head* by James Baldwin
 - *Assata* by Assata Shakur
 - *A Short Walk* by Alice Childress
