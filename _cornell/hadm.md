@@ -17,3 +17,6 @@ title: 🐻 Cornell Hotel Administration unofficial reading list 2026
 
 **Finance** `HADM 2220 (fa26)`
 - *Fundamentals of Corporate Finance* by Ross et al.
+
+**Principles of Hospitality Real Estate** `HADM 2221 (fa26)`
+- *Real Estate Finance & Investments: Risks and Opportunities* by Linneman & Kirsch
