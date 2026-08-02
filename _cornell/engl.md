@@ -47,6 +47,10 @@ title: 🐻 Cornell English unofficial reading list 2026
 - *Citizen: An American Lyric* by Claudia Rankine
 - *American Journal: 50 Poems for Our Time* by Tracy K. Smith
 
+**British Literature: Oscar Wilde** `ENGL 1191-102 (fa26)`
+- *The Portable Oscar Wilde*
+- *A Pocket Style Manual with Exercises* by Hacker & Sommers
+
 ## Sophomore level
 
 **Shakespeare** `ENGL 2270 (fa26)`
