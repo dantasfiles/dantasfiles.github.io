@@ -26,6 +26,10 @@ title: 🐻 Cornell English unofficial reading list 2026
 - *Lost in the City* by Edward P. Jones
 - *The Vanishing Half* by Brit Bennett
 
+**Intersections: Race, Writing & Power** `ENGL 1160 (fa26)`
+- *Talking Back: Thinking Feminist, Thinking Black* by bell hooks
+- *Thinking Through Writing* by Susan R. Horton
+
 **Cultural Studies** `ENGL 1168 (fa26)`
 - *Just Above My Head* by James Baldwin
 - *Assata* by Assata Shakur
