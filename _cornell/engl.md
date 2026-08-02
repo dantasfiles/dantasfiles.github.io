@@ -6,7 +6,7 @@ title: 🐻 Cornell English unofficial reading list 2026
 
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104 (fa26)`
-- *The Hobbit, or There and Back Again* by J.R.R. Tolkien
+- *The Hobbit, or There & Back Again* by J.R.R. Tolkien
 - ✔️ ***Frankenstein; or, The Modern Prometheus*** by Mary Shelley
 
 **Writing the Environment** `ENGL 1130 (fa26)`
