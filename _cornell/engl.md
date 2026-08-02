@@ -12,6 +12,9 @@ title: 🐻 Cornell English unofficial reading list 2026
 **Writing the Environment: Enchanting Nature** `ENGL 1130-101 (fa26)`
 - *A Midsummer Night's Dream* by William Shakespeare
 
+**Writing the Environment: Climates of Resistance** `ENGL 1130-102 (fa26)`
+- *Gardens in the Dunes* by Leslie Marmon Silko
+
 **True Stories** `ENGL 1134 (fa26)`
 - *Assata* by Assata Shakur
 - *Borderlands / La Frontera: The New Mestiza* by Gloria Anzaldúa
