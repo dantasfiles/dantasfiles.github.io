@@ -12,8 +12,15 @@ title: 🐻 Cornell Human Development unofficial reading list 2026
 
 ## Sophomore level
 
+**Intro. to Psychopathology** `HD 2250 (fa26)`
+- *Psychopathology: An Integrative Approach to Mental Disorders* by Barlow et al.
+
 **Cognitive Development** `HD 2300 (fa26)`
-- *Children's Thinking: Cognitive Development & Individual Differences* by David F. Bjorklund 
+- *Children's Thinking: Cognitive Development & Individual Differences* by David F. Bjorklund
+
+**Intro. to Community Psychology** `HD 2400 (fa26)`
+- *Community Psychology: In Pursuit of Liberation & Wellbeing* by Riemer et al.
+
 
 ## Junior level
 
