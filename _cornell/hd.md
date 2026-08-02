@@ -32,4 +32,7 @@ title: 🐻 Cornell Human Development unofficial reading list 2026
 
 **Memory & the Law** `HD 3190/6190 (fa26)`
 - *Memory* by Baddeley et al.
-- *The Science of False Memory* by Brainerd & Reyna 
+- *The Science of False Memory* by Brainerd & Reyna
+
+**Psychology of Gender** `HD 3310 (fa26)`
+- *Psychology of Gender/Sex* by Helgeson et al.
