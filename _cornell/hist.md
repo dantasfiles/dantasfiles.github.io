@@ -103,6 +103,12 @@ layout: reading-list
 
 ## Senior level
 
+**Intro. to Historical Research** `HIST 4000 (fa26)`
+- *Silencing the Past: Power & the Production of History* by Michel-Rolph Trouillot
+- *Tacky’s Revolt: The Story of an Atlantic Slave War* by Vincent Brown
+- *Firsting & Lasting: Writing Indians out of Existence in New England* by Jean M. O’Brien
+- *American Lucifers: The Dark History of Artificial Light, 1750–1865* by Jeremy Zallen 
+
 **Contesting Identities in Modern Egypt** `HIST 4091 (fa26)`
 - *Sacred Language, Ordinary People: Dilemmas of Culture & Politics in Egypt* by Niloofar Haeri
 - *Ordinary Egyptians: Creating the Modern Nation through Popular Culture* by Ziad Fahmy
