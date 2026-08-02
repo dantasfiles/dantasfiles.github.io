@@ -9,7 +9,7 @@ title: 🐻 Cornell English unofficial reading list 2026
 - *The Hobbit, or There & Back Again* by J.R.R. Tolkien
 - ✔️ ***Frankenstein; or, The Modern Prometheus*** by Mary Shelley
 
-**Writing the Environment** `ENGL 1130 (fa26)`
+**Writing the Environment: Enchanting Nature** `ENGL 1130-101 (fa26)`
 - *A Midsummer Night's Dream* by William Shakespeare
 
 **True Stories** `ENGL 1134 (fa26)`
