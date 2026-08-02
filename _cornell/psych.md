@@ -22,6 +22,10 @@ title: 🐻 Cornell Psychology unofficial reading list 2026
 **Intro. to Social Psychology** `PSYCH 2800 (fa26)`
 - *Social Psychology* by Gilovich et al.
 
+**Research Methods in Human Development** `PSYCH 2830 (fa26)`
+- *A Short Guide to Writing about Psychology* by Dana S. Dunn
+- *Research Methods in Psychology* by Beth Morling
+
 ## Junior level
 
 **Memory & the Law** `PSYCH 3190 (fa26)`
