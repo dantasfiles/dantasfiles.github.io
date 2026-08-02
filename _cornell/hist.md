@@ -70,7 +70,11 @@ layout: reading-list
 **Mughal India & the Early Modern World, c. 1500-1800** `HIST 2749 (fa26)`
 - *A Short History of the Mughal Empire* by Michael H. Fisher
 - *The Empires of the Near East & India: Source Studies of the Safavid, Ottoman & Mughal Literate Communities* by Hani Khafipour
-- *The Baburnama: Memoirs of Babur, Prince & Emperor* 
+- *The Baburnama: Memoirs of Babur, Prince & Emperor*
+
+**Ten Technologies That Shook the World?** `HIST 2881 (fa26)`
+- *Trinity: A Graphic History of the First Atomic Bomb* by Jonathan Fetter-Vorm
+- *Technology Matters: Questions to Live With* by David E. Nye
 
 ## Junior level 
 
