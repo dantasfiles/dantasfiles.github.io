@@ -11,6 +11,11 @@ title: 🐻 Cornell Psychology unofficial reading list 2026
 - *The Image of the City* by Kevin Lynch
 - *The Hidden Dimension* by Edward T. Hall
 
+## Sophomore level
+
+**Introduction to Psychopathology** `PSYCH 2250 (fa26)`
+- *Psychopathology: An Integrative Approach to Mental Disorders* by Barlow et al.
+
 ## Junior level
 
 **Memory & the Law** `PSYCH 3190 (fa26)`
