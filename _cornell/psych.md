@@ -13,8 +13,11 @@ title: 🐻 Cornell Psychology unofficial reading list 2026
 
 ## Sophomore level
 
-**Introduction to Psychopathology** `PSYCH 2250 (fa26)`
+**Intro. to Psychopathology** `PSYCH 2250 (fa26)`
 - *Psychopathology: An Integrative Approach to Mental Disorders* by Barlow et al.
+
+**Intro. to Community Psychology** `PSYCH 2400 (fa26)`
+- *Community Psychology: In Pursuit of Liberation and Wellbeing* by Riemer et al.
 
 ## Junior level
 
