@@ -21,6 +21,8 @@ title: 🐻 Cornell Human Development unofficial reading list 2026
 **Intro. to Community Psychology** `HD 2400 (fa26)`
 - *Community Psychology: In Pursuit of Liberation & Wellbeing* by Riemer et al.
 
+**Intro. to Social Psychology** `HD 2810 (fa26)`
+- *Social Psychology* by Gilovich et al.
 
 ## Junior level
 
