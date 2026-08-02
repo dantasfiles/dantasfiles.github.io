@@ -19,6 +19,15 @@ title: 🐻 Cornell American Studies unofficial reading list 2026
 
 ## Sophomore level
 
+**From the New Deal to the Age of Reagan** `AMST 2220 (fa26)`
+- *The Rise of Conservatism in America, 1945-2000* by Story & Laurie
+- *Backlash: The Undeclared War Against American Women* by Susan Faludi
+- *The Great Exception: The New Deal and the Limits of American Politics* by Jefferson Cowie
+- *My Soul is Rested: The Story of the Civil Rights Movement in the Deep South* by Howell Raines
+- *Rivethead: Tales from the Assembly Line* by Ben Hamper
+- *Lyndon B. Johnson and American Liberalism* by Bruce Schulman
+- *Suburban Warriors: The Origins of the New American Right* by Lisa McGirr
+
 **Controversies About Inequality** `AMST 2225 (fa26)`
 - *The Myth of Millionaire Tax Flight: How Place Still Matters for the Rich* by Cristobal Young
 - *How the Other Half Eats: The Untold Story of Food and Inequality in America* by Priya Fielding-Singh
