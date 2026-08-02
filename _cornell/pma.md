@@ -21,7 +21,7 @@ title: 🐻 Cornell Performing & Media Arts unofficial reading list 2026
 ## Senior level
 
 **Queer Archives & Archiving Queerness** `PMA 4695/6695 (fa26)`
-- *Fun Home: A Family Tragicomic* by Alison Bechdel
+- ✔️ ***Fun Home: A Family Tragicomic*** by Alison Bechdel
 - *Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women & Queer Radicals* by Saidiya Hartman
 - *Dead Collections* by Isaac Fellman
 - *My Bad: A Personal History of the Queer Nineties & Beyond* by Hugh Ryan
