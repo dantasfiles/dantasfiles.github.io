@@ -35,6 +35,14 @@ title: 🐻 Cornell English unofficial reading list 2026
 - *Assata* by Assata Shakur
 - *A Short Walk* by Alice Childress
 
+**Short Stories** `ENGL 1170-105 (fa26)`
+- *Go Down, Moses* by William Faulkner
+- ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- *Me Talk Pretty One Day* by David Sedaris
+- *The Feminist Utopia Project: 57 Visions of a Wildly Better Future* by Brodsky & Nalebuff
+- *Collected Stories of Carson McCullers*
+- *Eudora Welty : Stories, Essays & Memoir*
+
 ## Sophomore level
 
 **Shakespeare** `ENGL 2270 (fa26)`
