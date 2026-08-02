@@ -19,6 +19,9 @@ title: 🐻 Cornell Psychology unofficial reading list 2026
 **Intro. to Community Psychology** `PSYCH 2400 (fa26)`
 - *Community Psychology: In Pursuit of Liberation & Wellbeing* by Riemer et al.
 
+**Intro. to Social Psychology** `PSYCH 2800 (fa26)`
+- *Social Psychology* by Gilovich et al.
+
 ## Junior level
 
 **Memory & the Law** `PSYCH 3190 (fa26)`
