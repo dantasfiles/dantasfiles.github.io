@@ -4,8 +4,11 @@ title: 🐻 Cornell Human Development unofficial reading list 2026
 
 ## Freshman level
 
-**Introduction to Human Development** `HD 1130 (fa26)`
+**Intro. to Human Development** `HD 1130 (fa26)`
 - *Life-Span Development* by John W. Santrock
+
+**Intro. to Human Development: Infancy & Childhood** `HD 2150 (fa26)`
+- *Children Today: An Applied Approach to Child Development through Adolescence* by Karin Sternberg
 
 ## Sophomore level
 
