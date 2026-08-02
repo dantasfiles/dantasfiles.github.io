@@ -12,7 +12,7 @@ layout: reading-list
 - ✔️ ***Maus: A Survivor's Tale*** by Art Spiegelman
 - *Persepolis* by Marjane Satrapi
 - *To the Heart of the Storm* by Will Eisner
-- *Fun Home: A Family Tragicomic* by Alison Bechdel
+- ✔️ ***Fun Home: A Family Tragicomic*** by Alison Bechdel
 - ✔️ ***American Born Chinese*** by Gene Luen Yang
 - ✔️ ***Watchmen*** by Moore & Gibbons
 - *Incognegro: A Graphic Mystery* by Johnson & Pleece
