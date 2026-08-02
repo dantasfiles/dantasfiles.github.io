@@ -1,6 +1,5 @@
 ---
 title: 🐻 Cornell History unofficial reading list 2026
-layout: reading-list
 ---
 
 ## Freshman level
