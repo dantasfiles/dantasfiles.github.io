@@ -32,6 +32,12 @@ layout: reading-list
 - *Lyndon B. Johnson and American Liberalism* by Bruce Schulman
 - *Suburban Warriors: The Origins of the New American Right* by Lisa McGirr
 
+**Plague, Prisons & Print in 18th-century London** `HIST 2259 (fa26)`
+- *A Journal of the Plague Year* by Daniel Defoe
+- *The Beggar's Opera* by John Gay
+- *The Smoke of London: Energy and Environment in the Early Modern City* by William M. Cavert
+- *Hubbub: Filth, Noise & Stench in England, 1600-1770* by Emily Cockayne
+
 **Histories of the African Diaspora** `HIST 2317 (fa26)`
 - *The Americans Are Coming!: Dreams of African American Liberation in Segregationist South Africa* by Robert Trent Vinson
 - *Jah Kingdom: Rastafarians, Tanzania & Pan-Africanism in the Age of Decolonization* by Monique A. Bedasse
