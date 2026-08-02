@@ -4,7 +4,7 @@ title: 🐻 Cornell Psychology unofficial reading list 2026
 
 ## Freshman level
 
-**Introduction to Human Development** `PSYCH 1131 (fa26)`
+**Intro. to Human Development** `PSYCH 1131 (fa26)`
 - *Life-Span Development* by John W. Santrock
 
 **Intro. to Environmental Psychology** `PSYCH 1500 (fa26)` / **IEP: Writing in the Major** `PSYCH 1501 (fa26)`
