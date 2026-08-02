@@ -43,6 +43,10 @@ title: 🐻 Cornell English unofficial reading list 2026
 - *Collected Stories of Carson McCullers*
 - *Eudora Welty : Stories, Essays & Memoir*
 
+**Word & Image** `ENGL 1183-107 (fa26)`
+- *Citizen: An American Lyric* by Claudia Rankine
+- *American Journal: 50 Poems for Our Time* by Tracy K. Smith
+
 ## Sophomore level
 
 **Shakespeare** `ENGL 2270 (fa26)`
