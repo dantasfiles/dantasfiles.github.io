@@ -5,7 +5,7 @@ title: 🐻 Cornell Government unofficial reading list 2026
 ## Freshman level
 
 **Making Sense of World Politics** `GOVT 1817 (fa26)`
-- *The Cold War: A Very Short Introduction* by Robert J. McMahon
+- ✔️ ***The Cold War: A Very Short Intro.*** by Robert J. McMahon
 - *Theories of International Politics and Zombies: Apocalypse Edition* by Daniel W. Drezner 
 
 ## Sophomore level
