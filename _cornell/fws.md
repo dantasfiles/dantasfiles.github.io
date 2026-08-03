@@ -30,7 +30,7 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 - *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
 - *Poems of Love & War: From the Eight Anthologies & the Ten Long Poems of Classical Tamil* by A. K. Ramanujan 
 
-**The Great Epic of India** `ASIAN 1106 (fa26)
+**The Great Epic of India** `ASIAN 1106 (fa26)`
 - *The Bhagavadgita in the Mahabharata*
 - *The Mahabharata, v.1: The Book of the Beginning*
 - *The Mahabharata, v.2: The Book of Assembly & the Book of the Forest*
