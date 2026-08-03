@@ -1,18 +1,40 @@
 ---
 title: 🐯 Princeton Medieval Studies unofficial reading list 2026
-layout: reading-list
 ---
 
-| Sophomore level | |
-| :---: | --- |
-| **The Byzantine Empire** <br> MED 205 (fa26) | • *Byzantium: A Very Short Intro.* by Peter Sarris <br> • *The Social History of Byzantium* by John Haldon <br> • *A Cabinet of Byzantine Curiosities: Strange Tales & Surprising Facts from History's Most Orthodox Empire* by Anthony Kaldellis <br> • *Secret History* by Procopius <br> • *Alexiad* by Anna Komnene <br> • *Three Byzantine Military Treatises* by George T. Dennis <br> ◦ *Accounts of Medieval Constantinople: The Patria* by Albrecht Berger <br> ◦ *Digenis Akritis: The Grottaferrata and Escorial Versions* by Elizabeth Jeffreys | 
-| **Judaism, Christianity & Islam: Their Emergence in Antiquity** <br> MED 246 (fa26) | • *The New Oxford Annotated Bible: New Revised Standard Version with the Apocrypha* <br> • *The Qur'an* | 
-| **The New Testament & Christian Origins** <br> MED 251 (fa26) | • *The Jewish Annotated New Testament* by Levine & Brettler <br> • *Early Christian Writings: The Apostolic Fathers* by Louth & Staniforth <br> ◦ *The New Testament: A Historical Intro. to the Early Christian Writings* by Ehrman & Méndez |
+## Sophomore level | |
 
-| Junior level | |
-| :---: | --- | 
-| **The Nature of Old English: Select Old English Literature** <br> MED 315 (fa26) | • *A Choice of Anglo-Saxon Verse* by Richard Hamer <br> • *The Unstill Ones* by Miller Oberman <br> ◦ *The Wordhord: Daily Life in Old English* by Hana Videen <br> ◦ *Intro. to Old English* by Peter S. Baker |
+**The Byzantine Empire** `MED 205 (fa26)`
+- ✔️ ***Byzantium: A Very Short Intro.*** by Peter Sarris
+- *The Social History of Byzantium* by John Haldon
+- *A Cabinet of Byzantine Curiosities: Strange Tales & Surprising Facts from History's Most Orthodox Empire* by Anthony Kaldellis
+- *Secret History* by Procopius
+- *Alexiad* by Anna Komnene
+- *Three Byzantine Military Treatises* by George T. Dennis
+- *Accounts of Medieval Constantinople: The Patria* by Albrecht Berger
+- *Digenis Akritis: The Grottaferrata and Escorial Versions* by Elizabeth Jeffreys
 
-| Graduate level | |
-| :---: | --- |
-| **Middle High German Literature: An Intro.** <br> MED 508 (fa26) | • *Erec* by Hartmann Von Aue <br> • *Nibelungenlied* <br> ◦ *Middle High German Verbs* by Scott Shay <br> • *An Introduction to Middle High German* by Jones & Jones | 
+**Judaism, Christianity & Islam: Their Emergence in Antiquity** `MED 246 (fa26)`
+- *The New Oxford Annotated Bible: New Revised Standard Version with the Apocrypha*
+- *The Qur'an*
+
+**The New Testament & Christian Origins** `MED 251 (fa26)`
+- *The Jewish Annotated New Testament* by Levine & Brettler
+- *Early Christian Writings: The Apostolic Fathers* by Louth & Staniforth
+- *The New Testament: A Historical Intro. to the Early Christian Writings* by Ehrman & Méndez
+
+## Junior level
+
+**The Nature of Old English: Select Old English Literature** `MED 315 (fa26)`
+- *A Choice of Anglo-Saxon Verse* by Richard Hamer
+- *The Unstill Ones* by Miller Oberman
+- *The Wordhord: Daily Life in Old English* by Hana Videen
+- *Intro. to Old English* by Peter S. Baker
+
+## Graduate level
+
+**Middle High German Literature: An Intro.** `MED 508 (fa26)`
+- *Erec* by Hartmann Von Aue
+- *Nibelungenlied*
+- *Middle High German Verbs* by Scott Shay
+- *An Introduction to Middle High German* by Jones & Jones 
