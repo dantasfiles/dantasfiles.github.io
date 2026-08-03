@@ -2,7 +2,7 @@
 title: 🐯 Princeton Classics unofficial reading list 2026
 ---
 
-Freshman level
+## Freshman level
 
 **Beginner's Ancient Greek** `CLG 101 (fa26)`
 - *An Intro. to Ancient Greek: A Literary Approach* by Luschnig & Mitchell
