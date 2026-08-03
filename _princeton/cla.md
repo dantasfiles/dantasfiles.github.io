@@ -18,7 +18,7 @@ title: 🐯 Princeton Classics unofficial reading list 2026
 - *AVARICVM: A Latin Text of Caesar's Gallic War VII 1-28 with Running Vocabulary and Commentary* by Lanier et al.
 - *The Student's Catullus* by Daniel H. Garrison 
 
-Sophomore level
+## Sophomore level
 
 **Classical Mythology** `CLA 212 (fa26)`
 - *The Greek Tragedies: 17 Plays by Aeschylus, Sophocles, & Euripides*
