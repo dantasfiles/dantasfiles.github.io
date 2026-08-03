@@ -9,4 +9,9 @@ title: 🐻 Cornell Organizational Behavior unofficial reading list 2026
 - *How the Other Half Eats: The Untold Story of Food and Inequality in America* by Priya Fielding-Singh
 - *The Once and Future Worker: A Vision for the Renewal of Work in America* by Oren Cass
 - *Bottlenecks: A New Theory of Equal Opportunity* by Joseph Fishkin
-- *Friends and Fortunes: Social Capital Inequality in America* by Cornwell et al. 
+- *Friends and Fortunes: Social Capital Inequality in America* by Cornwell et al.
+
+## Junior level
+
+**Understanding and Improving Decision Making** `ILROB 3240 (fa26)`
+- *Judgment & Decision Making: Psychological Perspectives* by David Hardman
