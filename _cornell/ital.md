@@ -14,6 +14,6 @@ title: 🐻 Cornell Italian unofficial reading list 2026
 - *A Single Day* by Alain Elkann
 - *The Novel of Ferrara* by Giorgio Bassani
 - *Mitzvah Girls: Bringing Up the Next Generation of Hasidic Jews in Brooklyn* by Ayala Fader
-- *Just a Girl: A True Story of World War II* by Lia Levi
+- ✔️ ***Just a Girl: A True Story of World War II*** by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 - *The Golden Age of Italian Jews: 1848-1938* by Gino Segrè
 - *The Most Tenacious of Minorities: The Jews of Italy* by Sara Reguer
