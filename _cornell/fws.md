@@ -41,4 +41,52 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 **Robots** `COML 1106-103 (fa26)`
 - *Severance* by Ling Ma
 - *The Dark Forest* by Cixin Liu
-- *Exhalation* by Ted Chiang 
+- *Exhalation* by Ted Chiang
+
+## English
+
+**Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104 (fa26)`
+- *The Hobbit, or There & Back Again* by J.R.R. Tolkien
+- ✔️ ***Frankenstein; or, The Modern Prometheus*** by Mary Shelley
+
+**Writing the Environment: Enchanting Nature** `ENGL 1130-101 (fa26)`
+- *A Midsummer Night's Dream* by William Shakespeare
+
+**Writing the Environment: Climates of Resistance** `ENGL 1130-102 (fa26)`
+- *Gardens in the Dunes* by Leslie Marmon Silko
+
+**True Stories** `ENGL 1134 (fa26)`
+- *Assata* by Assata Shakur
+- *Borderlands / La Frontera: The New Mestiza* by Gloria Anzaldúa
+- ✔️ ***They Called Us Enemy*** by George Takei
+
+**American Voices: Lost in the City: The Great Migration & Imagining the Urban Space through Black Art** `ENGL 1158-102 (fa26)`
+- *Selected Poems* by Gwendolyn Brooks
+- ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- *Lost in the City* by Edward P. Jones
+- *The Vanishing Half* by Brit Bennett
+
+**Intersections: Race, Writing & Power** `ENGL 1160 (fa26)`
+- *Talking Back: Thinking Feminist, Thinking Black* by bell hooks
+- *Thinking Through Writing* by Susan R. Horton
+
+**Cultural Studies: Black Politics & Writing Towards Liberation** `ENGL 1168-101 (fa26)`
+- *Just Above My Head* by James Baldwin
+- *Assata* by Assata Shakur
+- *A Short Walk* by Alice Childress
+
+**Short Stories** `ENGL 1170-105 (fa26)`
+- *Go Down, Moses* by William Faulkner
+- ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- *Me Talk Pretty One Day* by David Sedaris
+- *The Feminist Utopia Project: 57 Visions of a Wildly Better Future* by Brodsky & Nalebuff
+- *Collected Stories of Carson McCullers*
+- *Eudora Welty : Stories, Essays & Memoir*
+
+**Word & Image** `ENGL 1183-107 (fa26)`
+- *Citizen: An American Lyric* by Claudia Rankine
+- *American Journal: 50 Poems for Our Time* by Tracy K. Smith
+
+**British Literature: Oscar Wilde** `ENGL 1191-102 (fa26)`
+- *The Portable Oscar Wilde*
+- *A Pocket Style Manual with Exercises* by Hacker & Sommers
