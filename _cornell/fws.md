@@ -90,3 +90,16 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 **British Literature: Oscar Wilde** `ENGL 1191-102 (fa26)`
 - *The Portable Oscar Wilde*
 - *A Pocket Style Manual with Exercises* by Hacker & Sommers
+
+## Feminist, Gender & Sexuality Studies
+
+**Black Feminist Speculation & Futuring** `FGSS 1100-101 (fa26)`
+- *Captivating Technology: Race, Carceral Technoscience & Liberatory Imagination in Everyday Life* by Ruha Benjamin
+- *Bloodchild & Other Stories* by Octavia E. Butler
+- *Dear Science & Other Stories* by Katherine McKittrick
+- *Parable of the Sower* by Octavia E. Butler
+- *Parable of the Talents* by Octavia E. Butler
+- *Spill: Scenes of Black Feminist Fugitivity* by Alexis Pauline Gumbs
+- *Black Utopias: Speculative Life & the Music of Other Worlds* by Jayna Brown
+- *The Source of Self-Regard: Selected Essays, Speeches & Meditations* by Toni Morrison
+- *How We Write Now: Living with Black Feminist Theory* by Jennifer C. Nash
