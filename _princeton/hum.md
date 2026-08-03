@@ -52,25 +52,89 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *The Aeneid* by Virgil
 - *History of the Peloponnesian War* by Thucydides
 - *The Annals* by Tacitus 
-| **Great Books in Buddhism** <br> HUM 229 (fa26) | • *The Dhammapada: The Sayings of the Buddha* <br> • *Scripture of the Lotus Blossom of the Fine Dharma* <br> • *Two Buddhas Seated Side by Side: A Guide to the Lotus Sūtra* by Lopez & Stone <br> • *The Life of Milarepa* by Tsangnyön Heruka <br> • *The Words of My Perfect Teacher* by Patrul Rinpoche | 
-| **East Asian Humanities I: The Classical Foundations** <br> HUM 233 (fa26) | ✔️ ***[Analects](https://standardebooks.org/ebooks/confucius/analects/james-legge)*** by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas)) <br> • *Zen Sourcebook: Traditional Documents from China, Korea & Japan* by Addiss et al. <br> • *The Complete Writings* by Zhuāngzï <br> • *The Tale of Genji* by Murasaki Shikibu <br> ◦ *A History of East Asia: From the Origins of Civilization to the 21st Century* by Charles Holcombe |
-| **Pompeii** <br> HUM 253 (fa26) | • *The Complete Pompeii* by Joanne Berry <br> • *The Fires of Vesuvius: Pompeii Lost & Found* by Mary Beard <br> ◦ *The World of Pompeii* by Dobbins & Foss <br> • *Pompeii & Herculaneum: A Sourcebook* by Cooley & Cooley |
-| [**Violence**](https://princeton.ecampus.com/course-list.asp?c=7668174) <br> HUM 264 (fa26) | • *Righteous Dopefiend* by Bourgois & Schonberg <br> • *After the Last Sky: Palestinian Lives* by Edward W. Said <br> • *Hollow Land: Israel's Architecture of Occupation* by Eyal Weizman <br> • *Sacrificial Limbs: Masculinity, Disability & Political Violence in Turkey* by Salih Can Aciksoz <br> • *Police, Provocation, Politics: Counterinsurgency in Istanbul* by Deniz Yonucu <br> • *Good Muslim, Bad Muslim: America, the Cold War & the Roots of Terror* by Mahmood Mamdani <br> • *The Counterrevolution: How Our Government Went to War Against Its Own Citizens* by Bernard E. Harcourt <br> • *Slow Violence and the Environmentalism of the Poor* by Rob Nixon <br> • *States of Terror: Begoña Aretxaga's Essays* <br> • *Whiteout: How Racial Capitalism Changed the Color of Opioids in America* by Hansen et al. <br> • *The Land of Open Graves: Living & Dying on the Migrant Trail* by Jason De León <br> • *Violence in War & Peace* by Scheper-Hughes & Bourgois <br> • *The Notion of Family* by LaToya Ruby Frazier <br> • *Ongoing Return: Mapping Memory & Storytelling in Palestine* by Rana Barakat <br> • *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale <br> • *Do Muslim Women Need Saving?* by Lila Abu-Lughod <br> ✔️ ***The Wretched of the Earth*** by Frantz Fanon <br> • *Illuminations: Essays & Reflections* by Walter Benjamin | 
 
-| Junior level | |
-| :---: | --- |
-| **Musical Theatre & Fan Cultures** <br> HUM 340 (fa26) | • *Fandom in Musical Theatre* by Jessica Hillman-McCord <br> • *John Proctor is the Villain* by Kimberly Belflower | 
-| **The Bible as Literature** <br> HUM 390 (fa26) | • *The Literary Guide to the Bible* by Alter & Kermode <br> • *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version* |
+**Great Books in Buddhism** `HUM 229 (fa26)`
+- *The Dhammapada: The Sayings of the Buddha*
+- *Scripture of the Lotus Blossom of the Fine Dharma*
+- *Two Buddhas Seated Side by Side: A Guide to the Lotus Sūtra* by Lopez & Stone
+- *The Life of Milarepa* by Tsangnyön Heruka
+- *The Words of My Perfect Teacher* by Patrul Rinpoche
+ 
+**East Asian Humanities I: The Classical Foundations** `HUM 233 (fa26)`
+- ✔️ ***[Analects](https://standardebooks.org/ebooks/confucius/analects/james-legge)*** by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
+- *Zen Sourcebook: Traditional Documents from China, Korea & Japan* by Addiss et al.
+- *The Complete Writings* by Zhuāngzï
+- *The Tale of Genji* by Murasaki Shikibu
+- *A History of East Asia: From the Origins of Civilization to the 21st Century* by Charles Holcombe
 
-| Senior level | |
-| :---: | --- |
-| **Translation, Migration, Culture** <br> HUM 400 (fa26) | • *Migrant Brothers: A Poet's Declaration of Human Dignity* by Patrick Chamoiseau <br> • *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli <br> • *In Other Words* by Jhumpa Lahiri <br> • *Translations* by Brian Friel |
-| **Between Selves: Living Letters from Antiquity to the Present** <br> HUM 416 (fa26) | • *Letter to the Father* by Franz Kafka <br> • *The Letters of Abelard and Heloise* <br> ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <br> • *Heroides* by Ovid <br> • *The Ides of March* by Thornton Wilder <br> • *The Correspondent* by Virginia Evans <br> • *Selected Letters* by Seneca |
-| **19th-Century European Art: Painting & Literature in 19th C. France and England** <br> HUM 451 (fa26) | • [*The Picture of Dorian Gray*](https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray) by Oscar Wilde <br> • [The Masterpiece](https://standardebooks.org/ebooks/emile-zola/his-masterpiece/ernest-alfred-vizetelly) by Émile Zola <br> • *The Unknown Masterpiece* by Honoré de Balzac <br> • *Like Death* by Guy de Maupassant <br> • [*Villette*](https://standardebooks.org/ebooks/charlotte-bronte/villette) by Charlotte Brontë |
+**Pompeii** `HUM 253 (fa26)`
+- *The Complete Pompeii* by Joanne Berry
+- *The Fires of Vesuvius: Pompeii Lost & Found* by Mary Beard
+- *The World of Pompeii* by Dobbins & Foss
+- *Pompeii & Herculaneum: A Sourcebook* by Cooley & Cooley
 
-| Graduate level | |
-| :---: | --- |
-| **20th-Century French Narrative Prose: Reading Proust** <br> HUM 524 (fa26) | • *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust | 
-| **Modern Art: Science & Its Fictions in the Long 19th Century** <br> HUM 577 (fa26) | ✔️ [***Frankenstein***](https://standardebooks.org/ebooks/mary-shelley/frankenstein) by Mary Shelley <br> ✔️ [***Journey to the Center of the Earth***](https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson) by Jules Verne <br> ✔️ [***The Island of Doctor Moreau***](https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau) by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) |
+| **Violence** `HUM 264 (fa26)`
+- *Righteous Dopefiend* by Bourgois & Schonberg
+- *After the Last Sky: Palestinian Lives* by Edward W. Said
+- *Hollow Land: Israel's Architecture of Occupation* by Eyal Weizman
+- *Sacrificial Limbs: Masculinity, Disability & Political Violence in Turkey* by Salih Can Aciksoz
+- *Police, Provocation, Politics: Counterinsurgency in Istanbul* by Deniz Yonucu
+- *Good Muslim, Bad Muslim: America, the Cold War & the Roots of Terror* by Mahmood Mamdani
+- *The Counterrevolution: How Our Government Went to War Against Its Own Citizens* by Bernard E. Harcourt
+- *Slow Violence and the Environmentalism of the Poor* by Rob Nixon
+- *States of Terror: Begoña Aretxaga's Essays*
+- *Whiteout: How Racial Capitalism Changed the Color of Opioids in America* by Hansen et al.
+- *The Land of Open Graves: Living & Dying on the Migrant Trail* by Jason De León
+- *Violence in War & Peace* by Scheper-Hughes & Bourgois
+- *The Notion of Family* by LaToya Ruby Frazier
+- *Ongoing Return: Mapping Memory & Storytelling in Palestine* by Rana Barakat
+- *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale
+- *Do Muslim Women Need Saving?* by Lila Abu-Lughod
+- ✔️ ***The Wretched of the Earth*** by Frantz Fanon
+- *Illuminations: Essays & Reflections* by Walter Benjamin 
+
+## Junior level
+
+**Musical Theatre & Fan Cultures** `HUM 340 (fa26)`
+- *Fandom in Musical Theatre* by Jessica Hillman-McCord
+- *John Proctor is the Villain* by Kimberly Belflower
+
+**The Bible as Literature** `HUM 390 (fa26)`
+- *The Literary Guide to the Bible* by Alter & Kermode
+- *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version*
+
+## Senior level
+
+**Translation, Migration, Culture** `HUM 400 (fa26)`
+- *Migrant Brothers: A Poet's Declaration of Human Dignity* by Patrick Chamoiseau
+*Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli
+*In Other Words* by Jhumpa Lahiri
+*Translations* by Brian Friel
+
+**Between Selves: Living Letters from Antiquity to the Present** `HUM 416 (fa26)`
+- *Letter to the Father* by Franz Kafka
+- *The Letters of Abelard and Heloise*
+- ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- *Heroides* by Ovid
+- *The Ides of March* by Thornton Wilder
+- *The Correspondent* by Virginia Evans
+- *Selected Letters* by Seneca
+
+**19th-Century European Art: Painting & Literature in 19th C. France and England** `HUM 451 (fa26)`
+- *The Picture of Dorian Gray* by Oscar Wilde
+- *The Masterpiece* by Émile Zola
+- *The Unknown Masterpiece* by Honoré de Balzac
+- *Like Death* by Guy de Maupassant
+- *Villette* by Charlotte Brontë
+
+## Graduate level
+
+**20th-Century French Narrative Prose: Reading Proust** `HUM 524 (fa26)`
+- *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust
+
+**Modern Art: Science & Its Fictions in the Long 19th Century** `HUM 577 (fa26)`
+- ✔️ [***Frankenstein***](https://standardebooks.org/ebooks/mary-shelley/frankenstein) by Mary Shelley
+- ✔️ [***Journey to the Center of the Earth***](https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson) by Jules Verne
+- ✔️ [***The Island of Doctor Moreau***](https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau) by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
 
 
