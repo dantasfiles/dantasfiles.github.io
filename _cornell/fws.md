@@ -103,3 +103,13 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 - *Black Utopias: Speculative Life & the Music of Other Worlds* by Jayna Brown
 - *The Source of Self-Regard: Selected Essays, Speeches & Meditations* by Toni Morrison
 - *How We Write Now: Living with Black Feminist Theory* by Jennifer C. Nash
+
+## German Studies
+
+**From Fairy Tales to the Uncanny: Exploring the Romantic Consciousness** `GERST 1109 (fa26)`
+- *Goethe, Tieck, Foque & Brentano: Romantic Fairy Tales*
+- *The Marquise of O & Other Stories* by Heinrich Von Kleist
+
+**Love & Death in Vienna** `GERST 1122 (fa26)`
+- *The Book of Franza & Requiem for Fanny Goldmann* by Ingeborg Bachmann
+- *Malina* by Ingeborg Bachmann
