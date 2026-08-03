@@ -1,28 +1,69 @@
 ---
 title: 🐯 Princeton Classics unofficial reading list 2026
-layout: reading-list
 ---
 
-| Freshman level | |
-| :---: | --- |
-| **Beginner's Ancient Greek** <br> CLG 101 (fa26) | • *An Intro. to Ancient Greek: A Literary Approach* by Luschnig & Mitchell |
-| **Beginner's Latin** <br> LAT 101 (fa26) | • *Intro. to Latin* by Susan C. Shelmerdine |
-| **Socrates** <br> CLG 105 (fa26) | • *Plato's Apology of Socrates: A Commentary* by Miller & Platter <br> • *Plato's Apology* by Gilbert P. Rose |
-| **Intermediate Latin: Catullus & His Age** <br> LAT 105 (fa26) | • *AVARICVM: A Latin Text of Caesar's Gallic War VII 1-28 with Running Vocabulary and Commentary* by Lanier et al. <br> • *The Student's Catullus* by Daniel H. Garrison | 
+Freshman level
 
-| Sophomore level | |
-| :---: | --- |
-| **Classical Mythology** <br> CLA 212 (fa26) | • *The Greek Tragedies: 17 Plays by Aeschylus, Sophocles, & Euripides* <br> • [*Metamorphoses*](https://standardebooks.org/ebooks/ovid/metamorphoses/various-translators) by Ovid  <br> • *Anthology of Classical Myth: Primary Sources in Translation* by Trzaskoma et al. <br> • *The Odyssey* by Homer <br> • *The Poems of Hesiod* by R.M. Frazer <br> • *Sophocles II: Ajax, The Women of Trachis, Electra, Philoctetes, The Trackers* <br> • *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma <br> • *Apollonius of Rhodes: Jason and the Golden Fleece* by Richard Hunter |
-| **Democracy in Ancient Greece** <br> CLA 220 (fa26) | • *Democracy & Classical Greece* by J.K. Davies <br> • *History of the Peloponnesian War* by Thucydides <br> • *Aristophanes 1: Clouds, Wasps, Birds* by Peter Meineck <br> • *Aristotle: The Politics and the Constitution of Athens* by Stephen Everson <br> • *Legal Speeches of Democratic Athens: Sources for Athenian History* by Wolpert & Kapparis |
-| **Hellenism: The 1st 3000 Years** <br> CLA 223 (fa26) | • *The Greeks: A Global History* by Roderick Beaton |
-| **How to Read** <br> CLA 230 (fa26) | • *A History of Reading* by Alberto Manguel <br> • *Confessions* by Augustine <br> • *Dictee* by Theresa Hak Kyung Cha <br> • *Labyrinths* by Jorge Luis Borges <br> ◦ *What We Talk About When We Talk About Books: The History & Future of Reading* by Leah Price |
-| **Pompeii** <br> CLA 250 (fa26) | • *The Complete Pompeii* by Joanne Berry <br> • *The Fires of Vesuvius: Pompeii Lost & Found* by Mary Beard <br> ◦ *The World of Pompeii* by Dobbins & Foss <br> • *Pompeii & Herculaneum: A Sourcebook* by Cooley & Cooley |
+**Beginner's Ancient Greek** `CLG 101 (fa26)`
+- *An Intro. to Ancient Greek: A Literary Approach* by Luschnig & Mitchell
 
-| Junior level | |
-| :---: | --- |
-| **The Trojan War: A Linguistic Intro.** <br> CLA 307 (fa26) | • *How Dead Languages Work* by Coulter H. George <br> • *The Trojan War: A Very Short Intro.* by Eric H. Cline |
-| **Tacitus & the Parthians** <br> LAT 320 (fa26) | • *The Annals* by Tacitus | 
-| **Ancient History: Everyday Writing in the Roman World** <br> CLA 326 (fa26) | • *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall |
+**Beginner's Latin** `LAT 101 (fa26)`
+- *Intro. to Latin* by Susan C. Shelmerdine
+
+**Socrates** `CLG 105 (fa26)`
+- *Plato's Apology of Socrates: A Commentary* by Miller & Platter
+- *Plato's Apology* by Gilbert P. Rose
+
+**Intermediate Latin: Catullus & His Age** `LAT 105 (fa26)`
+- *AVARICVM: A Latin Text of Caesar's Gallic War VII 1-28 with Running Vocabulary and Commentary* by Lanier et al.
+- *The Student's Catullus* by Daniel H. Garrison 
+
+Sophomore level
+
+**Classical Mythology** `CLA 212 (fa26)`
+- *The Greek Tragedies: 17 Plays by Aeschylus, Sophocles, & Euripides*
+- *Metamorphoses* by Ovid
+- *Anthology of Classical Myth: Primary Sources in Translation* by Trzaskoma et al.
+- *The Odyssey* by Homer
+- *The Poems of Hesiod* by R.M. Frazer
+- *Sophocles II: Ajax, The Women of Trachis, Electra, Philoctetes, The Trackers*
+- *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma
+- *Apollonius of Rhodes: Jason and the Golden Fleece* by Richard Hunter
+
+**Democracy in Ancient Greece** `CLA 220 (fa26)`
+- *Democracy & Classical Greece* by J.K. Davies
+- *History of the Peloponnesian War* by Thucydides
+- *Aristophanes 1: Clouds, Wasps, Birds* by Peter Meineck
+- *Aristotle: The Politics and the Constitution of Athens* by Stephen Everson
+- *Legal Speeches of Democratic Athens: Sources for Athenian History* by Wolpert & Kapparis
+
+**Hellenism: The 1st 3000 Years** `CLA 223 (fa26)`
+- *The Greeks: A Global History* by Roderick Beaton
+
+**How to Read** `CLA 230 (fa26)`
+- *A History of Reading* by Alberto Manguel
+- *Confessions* by Augustine
+- *Dictee* by Theresa Hak Kyung Cha
+- *Labyrinths* by Jorge Luis Borges
+- *What We Talk About When We Talk About Books: The History & Future of Reading* by Leah Price
+
+**Pompeii** `CLA 250 (fa26)`
+- *The Complete Pompeii* by Joanne Berry
+- *The Fires of Vesuvius: Pompeii Lost & Found* by Mary Beard
+- *The World of Pompeii* by Dobbins & Foss
+- *Pompeii & Herculaneum: A Sourcebook* by Cooley & Cooley
+
+## Junior level
+
+**The Trojan War: A Linguistic Intro.** `CLA 307 (fa26)`
+- *How Dead Languages Work* by Coulter H. George
+- ✔️ ***The Trojan War: A Very Short Intro.*** by Eric H. Cline
+
+**Tacitus & the Parthians** `LAT 320 (fa26)`
+- *The Annals* by Tacitus 
+
+**Ancient History: Everyday Writing in the Roman World** `CLA 326 (fa26)`
+- *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall
 
 | Senior level | | 
 | :---: | --- |
