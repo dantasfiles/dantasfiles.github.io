@@ -23,3 +23,15 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 - *City of Black Gold: Oil, Ethnicity & the Making of Modern Kirkuk* by Arbella Bet-Shlimon
 - *Brazil's Steel City: Developmentalism, Strategic Power & Industrial Relations in Volta Redonda, 1941-1964* by Oliver Dinius
 - *Extraction Ecologies & the Literature of the Long Exhaustion* by Elizabeth Carolyn Miller 
+
+## Asian Studies
+
+**Songs of Love & War: South Asian Lyrics** `ASIAN 1104 (fa26)`
+- *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
+- *Poems of Love & War: From the Eight Anthologies & the Ten Long Poems of Classical Tamil* by A. K. Ramanujan 
+
+**The Great Epic of India** `ASIAN 1106 (fa26)
+- *The Bhagavadgita in the Mahabharata*
+- *The Mahabharata, v.1: The Book of the Beginning*
+- *The Mahabharata, v.2: The Book of Assembly & the Book of the Forest*
+- *The Mahabharata, v.3: The Book of the Virata & the Book of the Effort*  
