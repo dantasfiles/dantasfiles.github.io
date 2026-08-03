@@ -35,3 +35,10 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 - *The Mahabharata, v.1: The Book of the Beginning*
 - *The Mahabharata, v.2: The Book of Assembly & the Book of the Forest*
 - *The Mahabharata, v.3: The Book of the Virata & the Book of the Effort*  
+
+## Comparative Literature
+
+**Robots** `COML 1106-103 (fa26)`
+- *Severance* by Ling Ma
+- *The Dark Forest* by Cixin Liu
+- *Exhalation* by Ted Chiang 
