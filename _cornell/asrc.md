@@ -30,7 +30,11 @@ title: 🐻 Cornell Africana Studies & Research Center unofficial reading list 2
 - *All That She Carried: The Journey of Ashley's Sack, a Black Family Keepsake* by Tiya Miles 
 
 **The Novels of Toni Morrison** `ASRC 2603 (fa26)`
-- *Paradise* by Toni Morrison 
+- *Paradise* by Toni Morrison
+
+**The History & Politics of Modern Egypt** `ASRC 2670 (fa26)`
+- *Ordinary Egyptians: Creating the Modern Nation through Popular Culture* by Ziad Fahmy
+- *Modern Egypt: The Formation Of A Nation State* by Arthur Goldschmidt Jr.
 
 ## Junior level
 
