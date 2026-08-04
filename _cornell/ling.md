@@ -14,11 +14,14 @@ title: 🐻 Cornell Linguistics unofficial reading list 2026
 
 ## Junior level 
 
-**Introduction to Syntax & Semantics** `LING 3303 (fa26)`
+**Intro. to Syntax & Semantics** `LING 3303 (fa26)`
 - *Meaning: A Slim Guide to Semantics* by Paul Elbourne
 
 **Old Norse I** `LING 3315 (fa26)`
-- *An Introduction to Old Norse* by E.V. Gordon
+- *An Intro. to Old Norse* by E.V. Gordon
+
+**History of Romance Languages I** `LING 3321 (fa26)`
+- *Romance Languages: A Historical Intro.* by Alkire & Rosen
 
 **Cayuga Language & Culture** `LING 3324/6324 (fa26)`
 - *Wadewayestanih: A Cayuga Teaching Grammar* by Mithun & Henry
