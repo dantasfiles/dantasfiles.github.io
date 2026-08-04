@@ -66,6 +66,10 @@ title: 🐻 Cornell History unofficial reading list 2026
  
 **The American Revolutionary Era** `HIST 2665 (fa26)`
 - *American Revolutions: A Continental History, 1750-1804* by Alan Taylor
+
+**The History & Politics of Modern Egypt** `HIST 2672 (fa26)`
+- *Ordinary Egyptians: Creating the Modern Nation through Popular Culture* by Ziad Fahmy
+- *Modern Egypt: The Formation Of A Nation State* by Arthur Goldschmidt Jr.
  
 **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** `HIST 2680 (fa26)`
 - *America Divided: The Civil War of the 1960s* by Isserman & Kazin 
