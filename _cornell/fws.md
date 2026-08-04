@@ -149,3 +149,9 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 - ✔️ ***Maus: A Survivor's Tale*** by Art Spiegelman
 - *What Great Paintings Say: Masterpieces in Detail* by Hagen & Hagen
 - *Persepolis* by Marjane Satrapi
+
+## Medieval Studies
+
+**Aspects of Medieval Culture: Medieval Images: Art, Experience & Debate** `MEDVL 1101-104 (fa26)`
+- *How to Read Medieval Art* by Wendy A. Stein
+- *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
