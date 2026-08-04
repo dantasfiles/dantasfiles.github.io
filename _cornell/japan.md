@@ -12,4 +12,9 @@ title: 🐻 Cornell Japanese unofficial reading list 2026
 
 **Intermediate Japanese I** `JAPAN 2201 (fa26)`
 - *Genki: An Integrated Course in Elementary Japanese v.2* by Banno et al.
-- *Quartet: Intermediate Japanese Across the Four Language Skills* by Sakamoto et al.
+- *Quartet: Intermediate Japanese Across the Four Language Skills, v.1* by Sakamoto et al.
+
+## Junior level
+
+**High Intermediate Japanese I** `JAPAN 3301 (fa26)`
+- *Quartet: Intermediate Japanese Across the Four Language Skills, v.2* by Sakamoto et al.
