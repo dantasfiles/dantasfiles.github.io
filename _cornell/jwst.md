@@ -10,6 +10,9 @@ title: 🐻 Cornell Jewish Studies unofficial reading list 2026
 **Elementary Yiddish I** `JWST 1776 (fa26)`
 - *In eynem: The New Yiddish Textbook* by Schulman et al.
 
+**Jews on Film: Visible & Invisible** `JWST 1987 (fa26)`
+- *Hollywood & Hitler, 1933-1939* by Thomas Doherty
+
 ## Sophomore level 
 
 **The World of Italian Jewry** `JWST 2720 (su26)`
