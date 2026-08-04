@@ -16,3 +16,14 @@ title: 🐻 Cornell Law unofficial reading list 2026
 
 **Constitutional Law** `LAW 5021-002 (fa26)`
 - *Processes of Constitutional Decisionmaking: Cases & Materials* by Levinson et al.
+
+**Contracts** `LAW 5041-001 (fa26)`
+- *Contract & Related Obligation: Theory, Doctrine & Practice* by Hillman et al.
+
+**Contracts** `LAW 5041-002 (fa26)`
+- *Contract & Related Obligation: Theory, Doctrine & Practice* by Hillman et al.
+- *Principles of Contract Law* by Robert Hillman
+
+
+
+
