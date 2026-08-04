@@ -141,4 +141,4 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 ## Jewish Studies
 
 **Jews on Film: Visible & Invisible** `JWST 1987 (fa26)`
-- *Hollywood and Hitler, 1933-1939* by Thomas Doherty
+- *Hollywood & Hitler, 1933-1939* by Thomas Doherty
