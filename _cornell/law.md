@@ -7,3 +7,5 @@ title: 🐻 Cornell Law unofficial reading list 2026
 - *Black Letter Outline on Civil Procedure* by Kevin M. Clermont
 - *Federal Rules of Civil Procedure and Selected Other Procedural Provisions, 2026* by Kevin M. Clermont
 
+**Constitutional Law** `LAW 5021 (fa26)`
+- *Constitutional Law: Cases, Comments & Questions* by Choper et al.
