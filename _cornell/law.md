@@ -9,3 +9,4 @@ title: 🐻 Cornell Law unofficial reading list 2026
 
 **Constitutional Law** `LAW 5021 (fa26)`
 - *Constitutional Law: Cases, Comments & Questions* by Choper et al.
+- *2026 Supplement to Constitutional Law: Cases, Comments & Questions* by Choper et al.
