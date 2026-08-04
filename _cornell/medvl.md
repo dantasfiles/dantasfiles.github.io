@@ -2,6 +2,12 @@
 title: 🐻 Cornell Medieval Studies unofficial reading list 2026
 ---
 
+## Freshman level
+
+**Aspects of Medieval Culture: Medieval Images: Art, Experience & Debate** `MEDVL 1101-104 (fa26)`
+- *How to Read Medieval Art* by Wendy A. Stein
+- *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
+
 ## Junior level
 
 **Old Norse I** `MEDVL 3315 (fa26)`
