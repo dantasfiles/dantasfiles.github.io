@@ -142,3 +142,10 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 
 **Jews on Film: Visible & Invisible** `JWST 1987 (fa26)`
 - *Hollywood & Hitler, 1933-1939* by Thomas Doherty
+
+## Linguistics
+
+**Language, Thought & Reality: Words & Pictures** `LING 1100-001 (fa26)`
+- ✔️ ***Maus: A Survivor's Tale*** by Art Spiegelman
+- *What Great Paintings Say: Masterpieces in Detail* by Hagen & Hagen
+- *Persepolis* by Marjane Satrapi
