@@ -29,3 +29,11 @@ title: 🐻 Cornell Italian unofficial reading list 2026
 **Italian Mysteries** `ITAL 2290 (fa26)`
 - *Imparare L'Italiano Con I Fumetti: Dylan Dog - Jack Lo Squartatore* by Cagli et al.
 
+## Junior level
+
+**Pinocchio: Adventures in Literature & Film** `ITAL 3750 (fa26)`
+- ✔️ ***Frankenstein; or, The Modern Prometheus*** by Mary Shelley
+- *The Adventures of Pinocchio* by Carlo Collodi
+
+
+
