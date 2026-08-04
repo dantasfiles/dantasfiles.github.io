@@ -8,6 +8,13 @@ title: 🐻 Cornell Near Eastern Studies unofficial reading list 2026
 - *A Short History of the Ottoman Empire* by Renée Worringer
 - *The White Castle* by Orhan Pamuk
 
+## Sophomore level
+
+**The History & Politics of Modern Egypt** `NES 2670 (fa26)`
+- *Ordinary Egyptians: Creating the Modern Nation through Popular Culture* by Ziad Fahmy
+- *Modern Egypt: The Formation Of A Nation State* by Arthur Goldschmidt Jr.
+
+
 ## Junior level
 
 **Minorities of the Middle East** `NES 3655/6655 (fa26)`
