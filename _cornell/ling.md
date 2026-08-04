@@ -25,3 +25,6 @@ title: 🐻 Cornell Linguistics unofficial reading list 2026
 
 **Cayuga Language & Culture** `LING 3324/6324 (fa26)`
 - *Wadewayestanih: A Cayuga Teaching Grammar* by Mithun & Henry
+
+**Superlinguistics: Comics, Signs & Other Sequential Images** `LING 3344 (fa26)`
+- *Understanding Comics: The Invisible Art* by Scott McCloud
