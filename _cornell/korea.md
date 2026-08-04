@@ -14,6 +14,8 @@ title: 🐻 Cornell Korean unofficial reading list 2026
 - *Integrated Korean: Intermediate 1* by Cho et al.
 - *Integrated Korean Workbook: Intermediate 1* by Park et al.
 
+## Junior level 
+
 **High Intermediate Korean I** `KOREA 3301 (fa26)`
 - *Integrated Korean: High Intermediate 1* by Chang et al.
 
