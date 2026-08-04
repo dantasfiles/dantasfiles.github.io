@@ -13,13 +13,6 @@ title: 🐻 Cornell Jewish Studies unofficial reading list 2026
 **Jews on Film: Visible & Invisible** `JWST 1987 (fa26)`
 - *Hollywood & Hitler, 1933-1939* by Thomas Doherty
 
-## Sophomore level 
-
-**The World of Italian Jewry** `JWST 2720 (su26)`
-- *The Most Tenacious of Minorities: The Jews of Italy* by Sara Reguer
-- *Survival in Auschwitz* by Primo Levi
-- *The Golden Age of Italian Jews: 1848-1938* by Gino Segrè 
-
 ## Junior level
 
 **Minorities of the Middle East** `JWST 3655 (fa26)`
