@@ -17,4 +17,16 @@ title: 🐻 Cornell Jewish Studies unofficial reading list 2026
 
 **Minorities of the Middle East** `JWST 3655 (fa26)`
 - *The Baghdad Eucharist* by Sinan Antoon
-- *The Weight of Paradise* by Iman Humaydan |
+- *The Weight of Paradise* by Iman Humaydan
+
+## Senior level
+
+**Moses Maimonides** `JWST 4540 (fa26)`
+- *Epistles of Maimonides: Crisis & Leadership* Abraham S. Halkin
+- *A Maimonides Reader* by Isadore Twersky
+- *Maimonides in His World: Portrait of a Mediterranean Thinker* by Sarah Stroumsa
+- *Maimonides: The Life & World of One of Civilization's Greatest Minds* by Joel L. Kraemer
+- *The Guide of the Perplexed* by Moses Maimonides
+
+
+
