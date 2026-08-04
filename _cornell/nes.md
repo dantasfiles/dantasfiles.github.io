@@ -2,6 +2,12 @@
 title: 🐻 Cornell Near Eastern Studies unofficial reading list 2026
 ---
 
+## Freshman level
+
+**Introduction to the Ottoman Empire** `NES 1561 (fa26)`
+- *A Short History of the Ottoman Empire* by Renée Worringer
+- *The White Castle* by Orhan Pamuk
+
 ## Junior level
 
 **Minorities of the Middle East** `NES 3655/6655 (fa26)`
