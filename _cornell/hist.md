@@ -21,7 +21,7 @@ title: 🐻 Cornell History unofficial reading list 2026
 **Recreating the Caribbean: Migration & Identity in Contemporary Caribbean History** `HIST 1976 (fa26)`
 - *A Concise History of the Caribbean* by B.W. Higman
 
-**American History from 1500 to 1800** 1HIST 1985 (fa26)`
+**American History from 1500 to 1800** `HIST 1985 (fa26)`
 - *American Colonies: The Settling of North America* by Alan Taylor
 
 ## Sophomore level
