@@ -25,4 +25,7 @@ title: 🐻 Cornell Government unofficial reading list 2026
 - *American Political Thought* by Kramnick & Lowi
 - *Lincoln: Political Writings & Speeches*
 
+**The History & Politics of Modern Egypt** `GOVT 2673 (fa26)`
+- *Ordinary Egyptians: Creating the Modern Nation through Popular Culture* by Ziad Fahmy
+- *Modern Egypt: The Formation Of A Nation State* by Arthur Goldschmidt Jr.
 
