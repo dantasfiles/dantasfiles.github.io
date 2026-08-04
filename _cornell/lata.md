@@ -4,7 +4,7 @@ title: 🐻 Cornell Latin American Studies unofficial reading list 2026
 
 ## Sophomore level
 
-**Histories of the African Diaspora** `LATA 2317 (fa26)`
+**Histories of the African Diaspora** `LATA 2307 (fa26)`
 - *The Americans Are Coming!: Dreams of African American Liberation in Segregationist South Africa* by Robert Trent Vinson
 - *Jah Kingdom: Rastafarians, Tanzania & Pan-Africanism in the Age of Decolonization* by Monique A. Bedasse
 - *All That She Carried: The Journey of Ashley's Sack, a Black Family Keepsake* by Tiya Miles 
