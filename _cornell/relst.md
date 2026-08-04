@@ -29,7 +29,12 @@ title: 🐻 Cornell Religious Studies unofficial reading list 2026
 - *Natural Symbols: Explorations in Cosmology* by Mary Douglas
 - *Fetishizing Tradition: Desire and Reinvention in Buddhist and Christian Narratives* by Alan Cole
 - *Revelatory Events: 3 Case Studies of the Emergence of New Spiritual Paths* by Ann Taves
-- *How God Becomes Real: Kindling the Presence of Invisible Others* by T.M. Luhrmann 
+- *How God Becomes Real: Kindling the Presence of Invisible Others* by T.M. Luhrmann
+
+**History of Christianity** `RELST 3695 (fa26)`
+- *Confessions* by Augustine
+- *A Brief History of Christianity* by Carter Lindberg
+- *Secrets of God: Writings of Hildegard of Bingen* by Sabina Flanagan
 
 ## Senior level
 
