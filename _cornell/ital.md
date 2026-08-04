@@ -26,4 +26,6 @@ title: 🐻 Cornell Italian unofficial reading list 2026
 **Italian III** `ITAL 2201 (fa26)`
 - *Nuovo Spazio civilta* by Medaglia & Medaglia
 
+**Italian Mysteries** `ITAL 2290 (fa26)`
+- *Imparare L'Italiano Con I Fumetti: Dylan Dog - Jack Lo Squartatore* by Cagli et al.
 
