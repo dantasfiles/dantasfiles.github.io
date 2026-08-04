@@ -14,5 +14,8 @@ title: 🐻 Cornell Linguistics unofficial reading list 2026
 
 ## Junior level 
 
+**Introduction to Syntax & Semantics** `LING 3303 (fa26)`
+- *Meaning: A Slim Guide to Semantics* by Paul Elbourne
+
 **Cayuga Language & Culture** `LING 3324/6324 (fa26)`
 - *Wadewayestanih: A Cayuga Teaching Grammar* by Mithun & Henry
