@@ -2,6 +2,11 @@
 title: 🐻 Cornell Medieval Studies unofficial reading list 2026
 ---
 
+## Junior level
+
+**Old Norse I** `MEDVL 3315 (fa26)`
+- *An Introduction to Old Norse* by E.V. Gordon
+
 ## Senior level
 
 **Moses Maimonides** `MEDVL 4540/6540 (fa26)`
