@@ -4,6 +4,10 @@ title: 🐻 Cornell History unofficial reading list 2026
 
 ## Freshman level
 
+**Introduction to the Ottoman Empire** `HIST 1561 (fa26)`
+- *A Short History of the Ottoman Empire* by Renée Worringer
+- *The White Castle* by Orhan Pamuk
+
 **African American History from 1865** `HIST 1595 (fa26)`
 - *Race, Reform, and Rebellion: The Second Reconstruction & Beyond in Black America, 1945-2006* by Manning Marable
 
