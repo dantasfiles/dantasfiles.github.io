@@ -21,6 +21,11 @@ title: 🐻 Cornell Near Eastern Studies unofficial reading list 2026
 - *The Baghdad Eucharist* by Sinan Antoon
 - *The Weight of Paradise* by Iman Humaydan
 
+**History of Christianity** `NES 3695 (fa26)`
+- *Confessions* by Augustine
+- *A Brief History of Christianity* by Carter Lindberg
+- *Secrets of God: Writings of Hildegard of Bingen* by Sabina Flanagan
+
 ## Senior level
 
 **Moses Maimonides** `NES 4540/6540 (fa26)`
