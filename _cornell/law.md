@@ -10,7 +10,7 @@ title: 🐻 Cornell Law unofficial reading list 2026
 **Civil Procedure I** `LAW 5001-002 (fa26)`
 - *Materials for a Basic Course in Civil Procedure, Concise* by Field et al.
 
-**Constitutional Law** `LAW 5021-001 (fa26)`
+**Constitutional Law** `LAW 5021-001/003 (fa26)`
 - *Constitutional Law: Cases, Comments & Questions* by Choper et al.
 - *2026 Supplement to Constitutional Law: Cases, Comments & Questions* by Choper et al.
 
