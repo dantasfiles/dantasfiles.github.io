@@ -26,7 +26,7 @@ title: 🐻 Cornell Jewish Studies unofficial reading list 2026
 - *A Maimonides Reader* by Isadore Twersky
 - *Maimonides in His World: Portrait of a Mediterranean Thinker* by Sarah Stroumsa
 - *Maimonides: The Life & World of One of Civilization's Greatest Minds* by Joel L. Kraemer
-- *The Guide of the Perplexed* by Moses Maimonides
+- *The Guide for the Perplexed* by Moses Maimonides
 
 
 
