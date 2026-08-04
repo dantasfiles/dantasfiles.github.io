@@ -20,3 +20,10 @@ title: 🐻 Cornell Italian unofficial reading list 2026
 
 **Italian I** `ITAL 1201 (fa26)`
 - *Piazza: Introductory Italian* by Melucci & Tognozzi
+
+## Sophomore level
+
+**Italian III** `ITAL 2201 (fa26)`
+- *Nuovo Spazio civilta* by Medaglia & Medaglia
+
+
