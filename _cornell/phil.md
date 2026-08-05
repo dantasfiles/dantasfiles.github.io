@@ -16,6 +16,9 @@ title: 🐻 Cornell Philosophy unofficial reading list 2026
 **Philosophical Conversations: Plato's Phaedrus** `PHIL 1112-005 (fa26)`
 - *Phaedrus* by Plato
 
+**Ethics of Eating** `PHIL 1440 (fa26)`
+- *Food, Ethics & Society* by Barnhill et al.
+
 **Controversies About Inequality** `PHIL 1950 (fa26)`
 - *The Myth of Millionaire Tax Flight: How Place Still Matters for the Rich* by Cristobal Young
 - *How the Other Half Eats: The Untold Story of Food and Inequality in America* by Priya Fielding-Singh
