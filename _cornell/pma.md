@@ -12,6 +12,9 @@ title: 🐻 Cornell Performing & Media Arts unofficial reading list 2026
 
 ## Junior level
 
+**Global Dance & Decolonizing Movement** `PMA 3226 (fa26)`
+- *World Dance Cultures: From Ritual to Spectacle* by Patricia Leigh Beaman
+
 **American Theatre Stage & Screen I** `PMA 3757 (fa26)`
 - *The Glass Menagerie* by Tennessee Williams
 - *Waiting for Lefty & Other Plays* by Clifford Odets
