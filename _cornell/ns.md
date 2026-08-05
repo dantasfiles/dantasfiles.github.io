@@ -2,6 +2,11 @@
 title: 🐻 Cornell Nutritional Science unofficial reading list 2026
 ---
 
+## Sophomore level
+
+**Food for Contemporary Living** `NS 2470 (fa26)`
+- *Betty Crocker Cookbook: Everything You Need to Know to Cook from Scratch*
+
 ## Junior level
 
 **Intro. to Physiochemical & Biological Aspects of Foods** `NS 3450 (fa26)`
