@@ -7,6 +7,9 @@ title: 🐻 Cornell Performing & Media Arts unofficial reading list 2026
 **Shakespeare** `PMA 2670 (fa26)`
 - *The Norton Shakespeare*
 
+**Intro. to Acting** `PMA 2800 (fa26)`
+- *Pipeline* by Dominique Morisseau
+
 ## Junior level
 
 **American Theatre Stage & Screen I** `PMA 3757 (fa26)`
