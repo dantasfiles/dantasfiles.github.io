@@ -23,6 +23,9 @@ title: 🐻 Cornell Physics unofficial reading list 2026
 **Physics II: Electricity & Magnetism** `PHYS 2217 (fa26)`
 - *Electricity & Magnetism* by Purcell & Morin
 
+**Basics of Quantum Mechanics** `PHYS 3316 (fa26)`
+- *Quantum Mechanics: A Paradigms Approach* by David H. McIntyre
+
 ## Senior level
 
 **Intro. to General Relativity** `PHYS 4445 (fa26)`
