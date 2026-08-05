@@ -166,3 +166,11 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 **Philosophy in Practice: The Stoic Life** `PHIL 1110-001 (fa26)`
 - *The Stoic Life: Emotions, Duties & Fate* by Tad Brennan
 - *Letters on Ethics: To Lucilius* by Lucius Annaeus Seneca 
+
+**Philosophical Conversations: Virtue Ethics: East & West** `PHIL 1112-001 (fa26)`
+- *The Republic* by Plato
+- *Nicomachean Ethics* by Aristotle
+- *Readings in Classical Chinese Philosophy* by Norden & Ivanhoe
+
+**Philosophical Conversations: Plato's Phaedrus** `PHIL 1112-005 (fa26)`
+- *Phaedrus* by Plato
