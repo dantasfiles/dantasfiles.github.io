@@ -12,6 +12,9 @@ title: 🐻 Cornell Physics unofficial reading list 2026
 **Physics I: Mechanics & Heat** `PHYS 1112 (fa26)`
 - *University Physics w/ Modern Physics* by Young & Freedman
 
+**Physics I: Mechanics & Special Relativity** `PHYS 1116 (fa26)`
+- *An Intro. to Mechanics* by Kleppner & Kolenkow
+
 ## Sophomore level
 
 **Physics II: Electricity & Magnetism** `PHYS 2217 (fa26)`
