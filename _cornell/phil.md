@@ -8,6 +8,14 @@ title: 🐻 Cornell Philosophy unofficial reading list 2026
 - *The Stoic Life: Emotions, Duties & Fate* by Tad Brennan
 - *Letters on Ethics: To Lucilius* by Lucius Annaeus Seneca
 
+**Philosophical Conversations: Virtue Ethics: East & West** `PHIL 1112-001 (fa26)`
+- *The Republic* by Plato
+- *Nicomachean Ethics* by Aristotle
+- *Readings in Classical Chinese Philosophy* by Norden & Ivanhoe
+
+**Philosophical Conversations: Plato’s Phaedrus** `PHIL 1112-005 (fa26)`
+- *Phaedrus* by Plato
+
 **Controversies About Inequality** `PHIL 1950 (fa26)`
 - *The Myth of Millionaire Tax Flight: How Place Still Matters for the Rich* by Cristobal Young
 - *How the Other Half Eats: The Untold Story of Food and Inequality in America* by Priya Fielding-Singh
