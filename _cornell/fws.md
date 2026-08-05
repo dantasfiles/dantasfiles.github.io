@@ -155,3 +155,8 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 **Aspects of Medieval Culture: Medieval Images: Art, Experience & Debate** `MEDVL 1101-104 (fa26)`
 - *How to Read Medieval Art* by Wendy A. Stein
 - *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
+
+## Natural Resources
+
+**Writing Place & the Environment** `NTRES 1200 (fa26)`
+- *A Sand County Almanac* by Aldo Leopold
