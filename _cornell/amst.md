@@ -101,6 +101,11 @@ title: 🐻 Cornell American Studies unofficial reading list 2026
 - *Black No More* by George S. Schuyler
 - *Infants of the Spring* by Wallace Thurman
 
+**Funny Business: Stand Up Comedy & Its Social, Political & Cultural Importance** `AMST 4692 (fa26)`
+- *The History of Stand-Up: From Mark Twain to Dave Chappelle* by Wayne Federman
+- *Stand-up Comedy in Theory, or, Abjection in America* by John Limon
+- *Yes, I Can Say That: When They Come for the Comedians, We Are All in Trouble* by Judy Gold
+
 **Queer Archives & Archiving Queerness** `AMST 4695/6695 (fa26)`
 - ✔️ ***Fun Home: A Family Tragicomic*** by Alison Bechdel
 - *Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women & Queer Radicals* by Saidiya Hartman
