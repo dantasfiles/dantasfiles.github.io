@@ -30,6 +30,11 @@ title: 🐻 Cornell Performing & Media Arts unofficial reading list 2026
 
 ## Senior level
 
+**Funny Business: Stand Up Comedy & Its Social, Political & Cultural Importance** `PMA 4671 (fa26)`
+- *The History of Stand-Up: From Mark Twain to Dave Chappelle* by Wayne Federman
+- *Stand-up Comedy in Theory, or, Abjection in America* by John Limon
+- *Yes, I Can Say That: When They Come for the Comedians, We Are All in Trouble* by Judy Gold
+
 **Queer Archives & Archiving Queerness** `PMA 4695/6695 (fa26)`
 - ✔️ ***Fun Home: A Family Tragicomic*** by Alison Bechdel
 - *Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women & Queer Radicals* by Saidiya Hartman
