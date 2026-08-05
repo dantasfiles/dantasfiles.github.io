@@ -9,5 +9,8 @@ title: 🐻 Cornell Nutritional Science unofficial reading list 2026
 
 ## Junior level
 
+**Intro. to Human Biochemistry** `NS 3200 (fa26)`
+- *Lehninger Principles of Biochemistry* by Nelson & Cox
+
 **Intro. to Physiochemical & Biological Aspects of Foods** `NS 3450 (fa26)`
 - *Intro. to Food Science & Food Systems* by Parker & Pace
