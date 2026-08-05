@@ -161,4 +161,8 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 **Writing Place & the Environment** `NTRES 1200-101 (fa26)`
 - *A Sand County Almanac* by Aldo Leopold
 
-- 
+## Philosophy
+
+**Philosophy in Practice: The Stoic Life** `PHIL 1110-001 (fa26)`
+- *The Stoic Life: Emotions, Duties & Fate* by Tad Brennan
+- *Letters on Ethics: To Lucilius* by Lucius Annaeus Seneca 
