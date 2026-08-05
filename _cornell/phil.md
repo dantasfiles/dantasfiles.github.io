@@ -34,7 +34,7 @@ title: 🐻 Cornell Philosophy unofficial reading list 2026
 - *Plato: Complete Works*
 - *Hellenistic Philosophy: Intro. Readings*
 
-**Intro. to Deductive Logic** `PHIL 2312 (fa26)`
+**Intro. to Deductive Logic** `PHIL 2310 (fa26)`
 - *Language, Proof & Logic* by Barker-Plummer et al.
 
 **Moral Dilemmas in the Law** `PHIL 2430 (fa26)`
