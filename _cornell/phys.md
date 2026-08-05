@@ -26,6 +26,10 @@ title: 🐻 Cornell Physics unofficial reading list 2026
 **Basics of Quantum Mechanics** `PHYS 3316 (fa26)`
 - *Quantum Mechanics: A Paradigms Approach* by David H. McIntyre
 
+**Applications of Quantum Mechanics** `PHYS 3317 (fa26)`
+- *Intro. to Quantum Mechanics* by Griffiths & Schroeter
+- *Modern Physics* by Kenneth S. Krane
+
 ## Senior level
 
 **Intro. to General Relativity** `PHYS 4445 (fa26)`
