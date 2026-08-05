@@ -9,6 +9,9 @@ title: 🐻 Cornell Physics unofficial reading list 2026
 - *How to Become a Straight-A Student: The Unconventional Strategies Real College Students Use to Score High While Studying Less* by Cal Newport
 - *Schaum's Outline of Mathematical Handbook of Formulas & Tables* by Spiegel et al.
 
+**Physics I: Mechanics & Heat** `PHYS 1112 (fa26)`
+- *University Physics w/ Modern Physics* by Young & Freedman
+
 ## Sophomore level
 
 **Physics II: Electricity & Magnetism** `PHYS 2217 (fa26)`
