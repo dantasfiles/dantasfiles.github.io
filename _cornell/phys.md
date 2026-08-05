@@ -9,13 +9,16 @@ title: 🐻 Cornell Physics unofficial reading list 2026
 - *How to Become a Straight-A Student: The Unconventional Strategies Real College Students Use to Score High While Studying Less* by Cal Newport
 - *Schaum's Outline of Mathematical Handbook of Formulas & Tables* by Spiegel et al.
 
-**Physics I: Mechanics & Heat** `PHYS 1112 (fa26)`
+**Physics I: Mechanics & Heat** `PHYS 1112 (fa26)` / **Physics II: Electromagnetism** `PHYS 2213 (fa26)`
 - *University Physics w/ Modern Physics* by Young & Freedman
 
 **Physics I: Mechanics & Special Relativity** `PHYS 1116 (fa26)`
 - *An Intro. to Mechanics* by Kleppner & Kolenkow
 
 ## Sophomore level
+
+**Fundamentals of Physics I** `PHYS 2207 (fa26)`
+- *College Physics: A Strategic Approach* by Randall Knight
 
 **Physics II: Electricity & Magnetism** `PHYS 2217 (fa26)`
 - *Electricity & Magnetism* by Purcell & Morin
