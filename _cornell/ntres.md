@@ -2,6 +2,11 @@
 title: 🐻 Cornell Natural Resources unofficial reading list 2026
 ---
 
+## Freshman level
+
+**Writing Place & the Environment** `NTRES 1200 (fa26)`
+- *A Sand County Almanac* by Aldo Leopold
+
 ## Sophomore level
 
 **The Art of Writing Field Observation** `NTRES 2150 (fa26)`
