@@ -11,3 +11,7 @@ title: 🐻 Cornell Plant Sciences unofficial reading list 2026
 
 **Mushrooms of Field & Forest** `PLSCI 3190 (fa26)`
 - *National Audubon Society Mushrooms of North America*
+
+**Soil & Crop Management for Sustainability** `PLSCI 3210/5210 (fa26)`
+- *Building Soils for Better Crops: Ecological Management for Healthy Soils* by Magdoff & van Es
+- *Dirt: The Erosion of Civilizations* by David R. Montgomery
