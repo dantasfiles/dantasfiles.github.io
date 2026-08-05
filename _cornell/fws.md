@@ -158,5 +158,7 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 
 ## Natural Resources
 
-**Writing Place & the Environment** `NTRES 1200 (fa26)`
+**Writing Place & the Environment** `NTRES 1200-101 (fa26)`
 - *A Sand County Almanac* by Aldo Leopold
+
+- 
