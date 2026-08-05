@@ -2,10 +2,21 @@
 title: 🐻 Cornell Visual Studies unofficial reading list 2026
 ---
 
-| Sophomore level | | 
-| :---: | --- |
-| **Gamelan in Indonesian History & Cultures** <br> VISST 2744 (fa26) | • *Music in Central Java: Experiencing Music, Expressing Culture* by Benjamin Brinner | 
+## Sophomore level 
 
-| Senior level | | 
-| :---: | --- |
-| **Topics in Feminist Media Arts** <br> VISST 4153 (fa26) | • *Unthought: The Power of the Cognitive Nonconscious* by N. Katherine Hayles <br> • *Posthuman Feminism* by Rosi Braidotti | 
+**Gamelan in Indonesian History & Cultures** `VISST 2744 (fa26)`
+- *Music in Central Java: Experiencing Music, Expressing Culture* by Benjamin Brinner 
+
+## Junior level
+
+**Fundamentals of Directing I** `VISST 3798 (fa26)`
+- *Backwards & Forwards: A Technical Manual for Reading Plays* by David Ball
+- *The Art of Directing* by Kirk et al.
+
+## Senior level 
+
+**Topics in Feminist Media Arts** `VISST 4153 (fa26)`
+- *Unthought: The Power of the Cognitive Nonconscious* by N. Katherine Hayles
+- *Posthuman Feminism* by Rosi Braidotti
+
+
