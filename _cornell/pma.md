@@ -24,6 +24,10 @@ title: 🐻 Cornell Performing & Media Arts unofficial reading list 2026
 - *A Raisin in the Sun & The Sign in Sidney Brustein's Window* by Lorraine Hansberry
 - *At Home at the Zoo* by Edward Albee
 
+**Fundamentals of Directing I** `PMA 3880 (fa26)`
+- *Backwards & Forwards: A Technical Manual for Reading Plays* by David Ball
+- *The Art of Directing* by Kirk et al.
+
 ## Senior level
 
 **Queer Archives & Archiving Queerness** `PMA 4695/6695 (fa26)`
