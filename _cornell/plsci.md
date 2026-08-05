@@ -15,3 +15,8 @@ title: 🐻 Cornell Plant Sciences unofficial reading list 2026
 **Soil & Crop Management for Sustainability** `PLSCI 3210/5210 (fa26)`
 - *Building Soils for Better Crops: Ecological Management for Healthy Soils* by Magdoff & van Es
 - *Dirt: The Erosion of Civilizations* by David R. Montgomery
+
+## Senior level
+
+**Plant Biochemistry** `PLSCI 4620/6620 (fa26)`
+- *Biochemistry & Molecular Biology of Plants* by Buchanan et al.
