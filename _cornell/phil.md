@@ -13,7 +13,7 @@ title: 🐻 Cornell Philosophy unofficial reading list 2026
 - *Nicomachean Ethics* by Aristotle
 - *Readings in Classical Chinese Philosophy* by Norden & Ivanhoe
 
-**Philosophical Conversations: Plato’s Phaedrus** `PHIL 1112-005 (fa26)`
+**Philosophical Conversations: Plato's Phaedrus** `PHIL 1112-005 (fa26)`
 - *Phaedrus* by Plato
 
 **Controversies About Inequality** `PHIL 1950 (fa26)`
