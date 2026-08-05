@@ -2,7 +2,7 @@
 title: 🐯 Princeton Medieval Studies unofficial reading list 2026
 ---
 
-## Sophomore level | |
+## Sophomore level
 
 **The Byzantine Empire** `MED 205 (fa26)`
 - ✔️ ***Byzantium: A Very Short Intro.*** by Peter Sarris
@@ -13,6 +13,14 @@ title: 🐯 Princeton Medieval Studies unofficial reading list 2026
 - *Three Byzantine Military Treatises* by George T. Dennis
 - *Accounts of Medieval Constantinople: The Patria* by Albrecht Berger
 - *Digenis Akritis: The Grottaferrata and Escorial Versions* by Elizabeth Jeffreys
+
+**Europe from Antiquity to 1700** `MED 211 (fa26)`
+- *The West: A New History* by Grafton & Bell
+- *Confessions* by Augustine
+- *On the Freedom of a Christian* by Martin Luther
+- ✔️ ***The Prince*** by Niccolò Machiavelli ([my highlights](https://www.goodreads.com/notes/9571349-the-prince/185327722-daniel-dantas))
+- *Letters of Abelard and Heloise*
+- *The Crusades Through Arab Eyes* by Amin Maalouf
 
 **Judaism, Christianity & Islam: Their Emergence in Antiquity** `MED 246 (fa26)`
 - *The New Oxford Annotated Bible: New Revised Standard Version with the Apocrypha*
