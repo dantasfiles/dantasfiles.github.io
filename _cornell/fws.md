@@ -182,3 +182,10 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 
 **Thinking & Thought: Dante's Examined Life** `ROMS 1113-001/002 (fa26)`
 - *The Divine Comedy, v.1: Inferno* by Dante Alighieri 
+
+## Spanish
+
+**Narrating the Spanish Civil War** `SPAN 1305 (fa26)`
+- *Requiem for a Spanish Peasant* by Ramón J. Sender
+- *The Spanish Civil War: A Very Short Introduction* by Helen Graham
+
