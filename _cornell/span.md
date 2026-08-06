@@ -24,6 +24,7 @@ title: 🐻 Cornell Spanish unofficial reading list 2026
 - *Global Latin America: Into the 21st Century* by Lesser & Gutmann
 - *Nazi Literature in the Americas* by Roberto Bolaño
 - *The Dangers of Smoking in Bed* by Mariana Enriquez
+- *Undiscovered* by Gabriela Wiener
 
 **Diasporas, Disasters & Dissent: Re-Thinking Puerto Rican Studies in the 20th & 21st Centuries** `SPAN 3675 (fa26)`
 - *Bodega Dreams* by Ernesto Quiñonez
