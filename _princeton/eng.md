@@ -1,6 +1,5 @@
 ---
 title: 🐯 Princeton English unofficial reading list 2026
-layout: reading-list
 ---
 
 ## Sophomore level
@@ -83,7 +82,7 @@ layout: reading-list
 - *The Literary Guide to the Bible* by Alter & Kermode
 - *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version*
 
-Senior level
+## Senior level
 
 **Forms of Literature: American Short Stories** `ENG 401 (fa26)`
 - *Olive Kitteridge* by Elizabeth Strout
