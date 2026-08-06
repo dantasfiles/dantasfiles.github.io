@@ -7,6 +7,9 @@ title: 🐻 Cornell Spanish unofficial reading list 2026
 **Continuing Spanish** `SPAN 1230 (fa26)`
 - *Exploraciones* by Blitt & Casas
 
+**Narrating the Spanish Civil War** `SPAN 1305 (fa26)`
+- *Requiem for a Spanish Peasant* by Ramón J. Sender
+- *The Spanish Civil War: A Very Short Introduction* by Helen Graham
 
 ## Junior level
 
