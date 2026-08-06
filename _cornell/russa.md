@@ -9,5 +9,7 @@ title: 🐻 Cornell Russian unofficial reading list 2026
 - *Beginning Russian* by Leed et al.
 - *5000 Russian Words: With All Their Inflected Forms and Other Grammatical Information* by Leed & Paperno
 
+## Sophomore level
+
 **Intermediate Composition & Conversation** `RUSSA 2203 (fa26)`
 - *Intermediate Russian: The Twelve Chairs* by Paperno et al.
