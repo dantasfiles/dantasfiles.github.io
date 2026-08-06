@@ -174,3 +174,8 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 
 **Philosophical Conversations: Plato's Phaedrus** `PHIL 1112-005 (fa26)`
 - *Phaedrus* by Plato
+
+## Romance Studies
+
+**The Craft of Storytelling: The Decameron** `ROMS 1102-001 (fa26)`
+- *The Decameron* by Giovanni Boccaccio
