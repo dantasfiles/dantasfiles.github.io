@@ -30,7 +30,8 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *The Oresteia* by Aeschylus
 - *Questions on Love and Charity: Summa Theologiae, Secunda Secundae, Questions 23–46 (Rethinking the Western Tradition)* by Thomas Aquinas
 - *Aristophanes: Frogs and Other Plays* by Stephen Halliwel
-- *The Nicomachean Ethics* & *Poetics* by Aristotle
+- *The Nicomachean Ethics* by Aristotle
+- *Poetics* by Aristotle
 - *Confessions* by Saint Augustine
 - *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version*
 - *The Five Books of Moses* by Robert Alter
