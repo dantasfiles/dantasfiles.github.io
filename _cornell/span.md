@@ -2,6 +2,12 @@
 title: 🐻 Cornell Spanish unofficial reading list 2026
 ---
 
+## Freshman level
+
+**Continuing Spanish** `SPAN 1230 (fa26)`
+- *Exploraciones* by Blitt & Casas
+
+
 ## Junior level
 
 **Diasporas, Disasters & Dissent: Re-Thinking Puerto Rican Studies in the 20th & 21st Centuries** `SPAN 3675 (fa26)`
