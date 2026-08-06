@@ -19,7 +19,7 @@ title: 🐻 Cornell Public Policy unofficial reading list 2026
 - *Friends and Fortunes: Social Capital Inequality in America* by Cornwell et al.
 
 **Intro. to Public Policy** `PUBPOL 2301 (fa26)`
-- *Public Policy: Politics, Analysis & Alternatives* by Michael E. Kraft and Scott R. Furlong
+- *Public Policy: Politics, Analysis & Alternatives* by Kraft & Furlong
 
 ## Junior level
 
