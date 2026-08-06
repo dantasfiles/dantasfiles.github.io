@@ -14,7 +14,7 @@ title: 🐻 Cornell Spanish unofficial reading list 2026
 ## Sophomore level
 
 **Spanish Intermediate Composition & Conversation II** `SPAN 2095 (fa26)`
-- *El túnel* by Ernesto Sabato
+- *The Tunnel* by Ernesto Sabato
 - *Manual de gramática* by Dozier & Iguina
 
 ## Junior level
