@@ -108,9 +108,9 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 
 **Translation, Migration, Culture** `HUM 400 (fa26)`
 - *Migrant Brothers: A Poet's Declaration of Human Dignity* by Patrick Chamoiseau
-*Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli
-*In Other Words* by Jhumpa Lahiri
-*Translations* by Brian Friel
+- *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli
+- *In Other Words* by Jhumpa Lahiri
+- *Translations* by Brian Friel
 
 **Between Selves: Living Letters from Antiquity to the Present** `HUM 416 (fa26)`
 - *Letter to the Father* by Franz Kafka
