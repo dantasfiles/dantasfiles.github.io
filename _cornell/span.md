@@ -38,3 +38,9 @@ title: 🐻 Cornell Spanish unofficial reading list 2026
 - *Maimonides in His World: Portrait of a Mediterranean Thinker* by Sarah Stroumsa
 - *Maimonides: The Life & World of One of Civilization's Greatest Minds* by Joel L. Kraemer
 - *The Guide of the Perplexed* by Moses Maimonides
+
+**Global Food Cultures of Greater Mexico** `SPAN 4875 (fa26)`
+- *Planet Taco: A Global History of Mexican Food* by Jeffrey M. Pilcher
+- *Eating NAFTA: Trade, Food Policies & the Destruction of Mexico* by Alyshia Gálvez
+- *American Tacos: A History & Guide* by José R. Ralat
+- *Tequila: A Global History* by Ian Williams
