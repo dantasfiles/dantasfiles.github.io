@@ -74,7 +74,7 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *The World of Pompeii* by Dobbins & Foss
 - *Pompeii & Herculaneum: A Sourcebook* by Cooley & Cooley
 
-| **Violence** `HUM 264 (fa26)`
+**Violence** `HUM 264 (fa26)`
 - *Righteous Dopefiend* by Bourgois & Schonberg
 - *After the Last Sky: Palestinian Lives* by Edward W. Said
 - *Hollow Land: Israel's Architecture of Occupation* by Eyal Weizman
