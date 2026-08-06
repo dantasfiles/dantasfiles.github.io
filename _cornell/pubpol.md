@@ -21,6 +21,10 @@ title: 🐻 Cornell Public Policy unofficial reading list 2026
 **Intro. to Public Policy** `PUBPOL 2301 (fa26)`
 - *Public Policy: Politics, Analysis & Alternatives* by Kraft & Furlong
 
+**The U.S. Health Care System** `PUBPOL 2350 (fa26)`
+- *Health Policy Issues: An Economic Perspective* by Feldstein & Melnick
+- *The Long Fix: Solving America's Health Care Crisis with Strategies that Work for Everyone* by Vivian Lee
+
 ## Junior level
 
 **Economics of the U.S. Social Safety Net** `PUBPOL 3080/5080 (fa26)`
