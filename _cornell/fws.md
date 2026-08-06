@@ -189,3 +189,8 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list 2026
 - *Requiem for a Spanish Peasant* by Ramón J. Sender
 - *The Spanish Civil War: A Very Short Introduction* by Helen Graham
 
+## Writing Program
+
+**Elements of Academic Writing: Food for Thought** `WRIT 1370 (fa26)`
+- *The Transition to College Writing* by Keith Hjortshoj
+- *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
