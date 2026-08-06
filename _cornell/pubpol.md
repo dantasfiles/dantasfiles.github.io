@@ -2,6 +2,13 @@
 title: 🐻 Cornell Public Policy unofficial reading list 2026
 ---
 
+## Freshman level
+
+**America at War in the Modern World** `PUBPOL 1510 (fa26)`
+- *Waging War: Conflict, Culture & Innovation in World History* by Wayne E. Lee
+- *World War II: A New History* by Evan Mawdsley
+- *Another Kind of War: The Nature & History of Terrorism* by John A. Lynn
+
 ## Sophomore level
 
 **Controversies About Inequality** `PUBPOL 2220 (fa26)`
