@@ -20,6 +20,7 @@ title: 🐯 Princeton Lewis Center for the Arts unofficial reading list 2026
 - *The Wesleyan Anthology of Science Fiction* by Evans et al.
 
 **Reading like a Writer** `CWR 218 (fa26)`
+- *All My Puny Sorrows* by Miriam Toews
 - *The Portrait of a Lady* by Henry James
 - *The Transit of Venus* by Shirley Hazzard
 - *King Lear* by William Shakespeare
