@@ -17,7 +17,12 @@ title: 🐻 Cornell Natural Resources unofficial reading list 2026
 
 **Intro. to Biogeochemistry** `NTRES 3030 (fa26)`
 - *Principles of Terrestrial Ecosystem Ecology* by Chapin et al.
-- *Environmental & Low-Temperature Geochemistry* by Peter Ryan 
+- *Environmental & Low-Temperature Geochemistry* by Peter Ryan
+
+**Environmental Governance** `NTRES 3311/6310 (fa26)`
+- *The Politics of the Earth* by John S. Dryzek
+
+## Senior level
 
 **Wildlife Corridor Conservation & Crossing Design** `NTRES 4800/5800 (fa26)`
 - *Crossings: How Road Ecology Is Shaping the Future of Our Planet* by Ben Goldfarb
