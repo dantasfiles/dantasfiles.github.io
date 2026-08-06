@@ -23,7 +23,7 @@ title: 🐻 Cornell Public Policy unofficial reading list 2026
 
 **The U.S. Health Care System** `PUBPOL 2350 (fa26)`
 - *Health Policy Issues: An Economic Perspective* by Feldstein & Melnick
-- *The Long Fix: Solving America's Health Care Crisis with Strategies that Work for Everyone* by Vivian Lee
+- *The Long Fix: Solving America's Health Care Crisis w/ Strategies that Work for Everyone* by Vivian Lee
 
 ## Junior level
 
