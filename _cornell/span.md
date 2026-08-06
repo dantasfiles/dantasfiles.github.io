@@ -17,10 +17,13 @@ title: 🐻 Cornell Spanish unofficial reading list 2026
 - *El túnel* by Ernesto Sabato
 - *Manual de gramática* by Dozier & Iguina
 
-
-
-
 ## Junior level
+
+**Global Latin America** `SPAN 3440 (fa26)`
+- *Fictions* by Jorge Luis Borges
+- *Global Latin America: Into the 21st Century* by Lesser & Gutmann
+- *Nazi Literature in the Americas* by Roberto Bolaño
+- *The Dangers of Smoking in Bed* by Mariana Enriquez
 
 **Diasporas, Disasters & Dissent: Re-Thinking Puerto Rican Studies in the 20th & 21st Centuries** `SPAN 3675 (fa26)`
 - *Bodega Dreams* by Ernesto Quiñonez
