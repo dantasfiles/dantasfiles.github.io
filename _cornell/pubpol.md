@@ -16,7 +16,10 @@ title: 🐻 Cornell Public Policy unofficial reading list 2026
 - *How the Other Half Eats: The Untold Story of Food and Inequality in America* by Priya Fielding-Singh
 - *The Once and Future Worker: A Vision for the Renewal of Work in America* by Oren Cass
 - *Bottlenecks: A New Theory of Equal Opportunity* by Joseph Fishkin
-- *Friends and Fortunes: Social Capital Inequality in America* by Cornwell et al. 
+- *Friends and Fortunes: Social Capital Inequality in America* by Cornwell et al.
+
+**Intro. to Public Policy** `PUBPOL 2301 (fa26)`
+- *Public Policy: Politics, Analysis & Alternatives* by Michael E. Kraft and Scott R. Furlong
 
 ## Junior level
 
