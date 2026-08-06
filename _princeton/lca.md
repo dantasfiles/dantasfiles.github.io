@@ -42,7 +42,7 @@ title: 🐯 Princeton Lewis Center for the Arts unofficial reading list 2026
 
 **Introduction to Theater Making** `MTD/THR 101 (fa26)`
 - *Pipeline* by Dominique Morisseau
-- *Waiting for Godot: A Tragicomedy in Two Acts* by Samuel Beckett
+- ✔️ ***Waiting for Godot: A Tragicomedy in Two Acts*** by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
 - *Your Healing is Killing Me* by Virginia Grise 
 
 **French Theater Workshop** `THR 211 (fa26)`
