@@ -29,3 +29,13 @@ title: 🐻 Cornell Public Policy unofficial reading list 2026
 
 **Economics of the U.S. Social Safety Net** `PUBPOL 3080/5080 (fa26)`
 - *Mastering 'Metrics: The Path from Cause to Effect* by Angrist & Pischke
+
+## Senior level
+
+**Regulation & Infrastructure Policy** `PUBPOL 4640 (fa26)`
+- *The Road to Renewal: Private Investment in the U.S. Transportation Infastructure* by Richard R. Geddes
+- *The Economics of Public-Private Partnerships: A Basic Guide* by Engel et al.
+- *Rethinking America's Highways: A 21st-Century Vision for Better Infrastructure* by Robert W. Poole
+- *Build: Investing in America's Infrastructure* by Sadek Wahba
+
+
