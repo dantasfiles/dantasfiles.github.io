@@ -12,7 +12,7 @@ title: 🐯 Princeton Classics unofficial reading list 2026
 
 **Socrates** `CLG 105 (fa26)`
 - *Plato's Apology of Socrates: A Commentary* by Miller & Platter
-- *Plato's Apology* by Gilbert P. Rose
+- ✔️ ***Apology*** by Plato
 
 **Intermediate Latin: Catullus & His Age** `LAT 105 (fa26)`
 - *AVARICVM: A Latin Text of Caesar's Gallic War VII 1-28 with Running Vocabulary and Commentary* by Lanier et al.
