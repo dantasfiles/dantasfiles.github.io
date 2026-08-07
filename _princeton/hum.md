@@ -46,7 +46,13 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *The Nature of Things* by Lucretius
 - *Poetry* by Marie de France
 - *Metamorphoses* by Ovid
-- *Republic,* *Symposium* & *The Last Days of Socrates* by Plato
+- *Republic* by Plato
+- *Symposium* by Plato
+- *Plato: The Last Days of Socrates*
+  - *Euthyphro*
+  - ✔️ ***Apology***
+  - *Crito*
+  - *Phaedo*
 - *Four Comedies: The Braggart Soldier; The Brothers Menaechmus; The Haunted House; The Pot of Gold* by Plautus
 - *If Not, Winter: Fragments* by Sappho
 - *The Theban Plays: Antigone, Oedipus the King, Oedipus at Colonus* by Sophocles
