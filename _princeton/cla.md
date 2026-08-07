@@ -42,6 +42,7 @@ title: 🐯 Princeton Classics unofficial reading list 2026
 
 **How to Read** `CLA 230 (fa26)`
 - *A History of Reading* by Alberto Manguel
+- *Phaedrus* by Plato
 - *Confessions* by Augustine
 - *Dictee* by Theresa Hak Kyung Cha
 - *Labyrinths* by Jorge Luis Borges
