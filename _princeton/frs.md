@@ -25,11 +25,10 @@ layout: reading-list
 - *The Sexuality of Christ in Renaissance Art & in Modern Oblivion* by Leo Steinberg
 - *The Sight of Death: An Experiment in Art Writing* by T.J. Clark
 
-
 **What Makes for a Meaningful Life? A Search** `FRS 121 (fa26)`
 - *Alone Together: Why We Expect More from Technology & Less from Each Other* by Sherry Turkle
 - *The Nature Principle: Reconnecting with Life in a Virtual Age* by Richard Louv
-- *Winnie-the-Pooh* by A.A. Milne
+- ✔️ ***Winnie-the-Pooh*** by A.A. Milne
 - *The Tao of Pooh* by Benjamin Hoff
 - *30 Lessons for Living: Tried & True Advice from the Wisest Americans* by Karl Pillemer
 - *The Myth of Sisyphus* by Albert Camus
