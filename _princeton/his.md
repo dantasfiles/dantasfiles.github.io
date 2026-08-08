@@ -93,7 +93,7 @@ title: 🐯 Princeton History unofficial reading list 2026
 - *Scattered & Fugitive Things: How Black Collectors Created Archives & Remade History* by Laura Helton
 - *When Home Is a Photograph: Blackness & Belonging in the World* by Leigh Raiford
 - *South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation* by Imani Perry
-- *Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women, and Queer Radicals* by Saidiya Hartman
+- *Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women & Queer Radicals* by Saidiya Hartman
 
 **The Age of Democratic Revolutions** `HIS 487 (fa26)`
 - *The Revolution to Come: A History of an Idea from Thucydides to Lenin* by Dan Edelstein
