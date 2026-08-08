@@ -72,5 +72,11 @@ title: 🐯 Princeton African American Studies unofficial reading list 2026
 - *The Colonizer and the Colonized* by Albert Memmi
 - *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois
 
-
+**Memory, History & the Archive** `AAS 426 (fa26)`
+- *Silencing the Past: Power & the Production of History* by Michel-Rolph Trouillot
+- *A More Beautiful & Terrible History: The Uses & Misuses of Civil Rights History* by Jeanne Theoharis
+- *Scattered & Fugitive Things: How Black Collectors Created Archives & Remade History* by Laura Helton
+- *When Home Is a Photograph: Blackness & Belonging in the World* by Leigh Raiford
+- *South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation* by Imani Perry
+- *Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women & Queer Radicals* by Saidiya Hartman
 
