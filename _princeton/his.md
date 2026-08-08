@@ -87,6 +87,14 @@ title: 🐯 Princeton History unofficial reading list 2026
 - *The Colonizer and the Colonized* by Albert Memmi
 - *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois
 
+**Memory, History & the Archive** `HIS 426 (fa26)`
+- *Silencing the Past: Power & the Production of History* by Michel-Rolph Trouillot
+- *A More Beautiful & Terrible History: The Uses & Misuses of Civil Rights History* by Jeanne Theoharis
+- *Scattered & Fugitive Things: How Black Collectors Created Archives & Remade History* by Laura Helton
+- *When Home Is a Photograph: Blackness & Belonging in the World* by Leigh Raiford
+- *South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation* by Imani Perry
+- *Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women, and Queer Radicals* by Saidiya Hartman
+
 **The Age of Democratic Revolutions** `HIS 487 (fa26)`
 - *The Revolution to Come: A History of an Idea from Thucydides to Lenin* by Dan Edelstein
 - ✔️ ***The Birth of the Republic, 1763–89*** by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
