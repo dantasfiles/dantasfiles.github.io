@@ -21,7 +21,7 @@ title: 🐯 Princeton Anthropology unofficial reading list 2026
 - *Ongoing Return: Mapping Memory & Storytelling in Palestine* by Rana Barakat
 - *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale
 - *Do Muslim Women Need Saving?* by Lila Abu-Lughod
-- ✔️ ***The Wretched of the Earth*** by Frantz Fanon
+- ✔️ ***The Wretched of the Earth* by Frantz Fanon**
 - *Illuminations: Essays & Reflections* by Walter Benjamin
 
 | Junior level | |
