@@ -21,19 +21,59 @@ title: 🐯 Princeton Anthropology unofficial reading list 2026
 - *Ongoing Return: Mapping Memory & Storytelling in Palestine* by Rana Barakat
 - *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale
 - *Do Muslim Women Need Saving?* by Lila Abu-Lughod
-- ✔️ ***The Wretched of the Earth* by Frantz Fanon**
+- ✔️ ***The Wretched of the Earth*** by Frantz Fanon
 - *Illuminations: Essays & Reflections* by Walter Benjamin
 
-| Junior level | |
-| :---: | --- |
-| **Ethnography, Evidence & Experience** <br> ANT 300 (fa26) | • *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale <br> • *Crooked Cats: Beastly Encounters in the Anthropocene* by Nayanika Mathur <br> • *Returning to Reims* by Didier Eribon |
-| **Food, Health & Justice** <br> ANT 311 (fa26) | • *Food Justice Undone: Lessons for Building a Better Movement* by Hanna Garth |
-| **Japanese Society & Culture** <br> ANT 323 (fa26) | • *Lost in Transition: Youth, Work & Instability in Postindustrial Japan* by Mary C. Brinton <br> • *Learning to Be Adolescent: Growing Up in U.S. & Japanese Middle Schools* by Gerald K. LeTendre <br> • *The Too-Good Wife: Alcohol, Codependency & the Politics of Nurturance in Postwar Japan* by Amy Borovoy <br> • *Food Safety after Fukushima: Scientific Citizenship & the Politics of Risk* by Nicolas Sternsdorff-Cisterna | 
-| **Queer Becomings** <br> ANT 337 (fa26) | • *The Struggle to Be Gay—in Mexico, for Example* by Roger N. Lancaster <br> • *Gay Fathers, Their Children & the Making of Kinship* by Aaron Goodfellow <br> • *Butch Queens Up in Pumps: Gender, Performance & Ballroom Culture in Detroit* by Marlon M. Bailey |
-| **Art & Archaeology of Ancient Mesoamerica** <br> ANT 366 (fa26) | • *The Art of Mesoamerica: From Olmec to Aztec* by Mary Ellen Miller | 
-| **Ethnography of Schools & Schooling** <br> ANT 368 (fa26) | • *Privilege: The Making of an Adolescent Elite at St. Paul's School* by Shamus Khan <br> • *Police in the Hallways: Discipline in an Urban High School* by Kathleen Nolan <br> • *Made in America: Immigrant Students in Our Public Schools* by Laurie Olsen <br> • *Scripting the Moves: Culture & Control in a "No-Excuses" Charter School* by Joanne W. Golann <br> ◦ *Up Against Whiteness: Race, School & Immigrant Youth* by Stacey J. Lee <br> ◦ *Masculinity & Sexuality in High School* by C. J. Pascoe <br> ◦ *Spectacular Things Happen Along the Way: Lessons from an Urban Classroom* by Brian D. Schultz <br> ◦ *Bad Boys: Public Schools in the Making of Black Masculinity* by Ann Arnett Ferguson <br> ◦ *Paying for the Party: How College Maintains Inequality* by Armstrong & Hamilton <br> ◦ *Moving across Differences: How Students Engage LGBTQ+ Themes in a High School Literature Class* by Mollie V. Blackburn <br> ◦ *Lives in Limbo: Undocumented & Coming of Age in America* by Roberto G. Gonzales |
-| **Anthropological Theory** <br> ANT 390 (fa26) | • *Learning to Labor: How Working-Class Kids Get Working-Class Jobs* by Paul Willis <br> • *The Practice of Everyday Life* by Michel de Certeau <br> • *Carnal Knowledge & Imperial Power: Race & the Intimate in Colonial Rule* by Ann Laura Stoler <br> • *Outline of a Theory of Practice* by Pierre Bourdieu <br> • *Live & Die Like a Man: Gender Dynamics in Urban Egypt* by Farha Ghannam <br> • *Sweetness & Power: The Place of Sugar in Modern History* by Sidney W. Mintz <br> • [*Capital: A Critique of Political Economy: Volume One: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx <br> • *Silencing the Past: Power & the Production of History* by Michel-Rolph Trouillot <br> • *Colonialism & Its Forms of Knowledge* by Bernard S. Cohn <br> • *Weapons of the Weak: Everyday Forms of Peasant Resistance* by James C. Scott |
+## Junior level
 
-| Senior level | |
-| :---: | --- |
-| **Visible Evidence: Wildlife Films & Multispecies Documentary** <br> ANT 455 (fa26) | • *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor | 
+**Ethnography, Evidence & Experience** `ANT 300 (fa26)`
+- *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale
+- *Crooked Cats: Beastly Encounters in the Anthropocene* by Nayanika Mathur
+- *Returning to Reims* by Didier Eribon
+
+**Food, Health & Justice** `ANT 311 (fa26)`
+- *Food Justice Undone: Lessons for Building a Better Movement* by Hanna Garth
+
+**Japanese Society & Culture** `ANT 323 (fa26)`
+- *Lost in Transition: Youth, Work & Instability in Postindustrial Japan* by Mary C. Brinton
+- *Learning to Be Adolescent: Growing Up in U.S. & Japanese Middle Schools* by Gerald K. LeTendre
+- *The Too-Good Wife: Alcohol, Codependency & the Politics of Nurturance in Postwar Japan* by Amy Borovoy
+- *Food Safety after Fukushima: Scientific Citizenship & the Politics of Risk* by Nicolas Sternsdorff-Cisterna 
+
+**Queer Becomings** `ANT 337 (fa26)`
+- *The Struggle to Be Gay—in Mexico, for Example* by Roger N. Lancaster
+- *Gay Fathers, Their Children & the Making of Kinship* by Aaron Goodfellow
+- *Butch Queens Up in Pumps: Gender, Performance & Ballroom Culture in Detroit* by Marlon M. Bailey
+
+**Art & Archaeology of Ancient Mesoamerica** `ANT 366 (fa26)`
+- *The Art of Mesoamerica: From Olmec to Aztec* by Mary Ellen Miller 
+
+**Ethnography of Schools & Schooling** `ANT 368 (fa26)`
+- *Privilege: The Making of an Adolescent Elite at St. Paul's School* by Shamus Khan
+- *Police in the Hallways: Discipline in an Urban High School* by Kathleen Nolan
+- *Made in America: Immigrant Students in Our Public Schools* by Laurie Olsen
+- *Scripting the Moves: Culture & Control in a "No-Excuses" Charter School* by Joanne W. Golann
+- *Up Against Whiteness: Race, School & Immigrant Youth* by Stacey J. Lee
+- *Masculinity & Sexuality in High School* by C. J. Pascoe
+- *Spectacular Things Happen Along the Way: Lessons from an Urban Classroom* by Brian D. Schultz
+- *Bad Boys: Public Schools in the Making of Black Masculinity* by Ann Arnett Ferguson
+- *Paying for the Party: How College Maintains Inequality* by Armstrong & Hamilton
+- *Moving across Differences: How Students Engage LGBTQ+ Themes in a High School Literature Class* by Mollie V. Blackburn
+- *Lives in Limbo: Undocumented & Coming of Age in America* by Roberto G. Gonzales
+
+**Anthropological Theory** `ANT 390 (fa26)`
+- *Learning to Labor: How Working-Class Kids Get Working-Class Jobs* by Paul Willis
+- *The Practice of Everyday Life* by Michel de Certeau
+- *Carnal Knowledge & Imperial Power: Race & the Intimate in Colonial Rule* by Ann Laura Stoler
+- *Outline of a Theory of Practice* by Pierre Bourdieu
+- *Live & Die Like a Man: Gender Dynamics in Urban Egypt* by Farha Ghannam
+- *Sweetness & Power: The Place of Sugar in Modern History* by Sidney W. Mintz
+- *Capital, v.1* by Karl Marx
+- *Silencing the Past: Power & the Production of History* by Michel-Rolph Trouillot
+- *Colonialism & Its Forms of Knowledge* by Bernard S. Cohn
+- *Weapons of the Weak: Everyday Forms of Peasant Resistance* by James C. Scott
+
+## Senior level
+
+**Visible Evidence: Wildlife Films & Multispecies Documentary** `ANT 455 (fa26)`
+- *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor 
