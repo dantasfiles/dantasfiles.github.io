@@ -14,7 +14,7 @@ title: 🐯 Princeton Latin American Studies unofficial reading list 2026
 - *Colonial Latin America: A Documentary History* by Mills et al.
 
 **The Modern Period** `LAS 308 (fa26)`
-- ✔️ ***A Room of One's Own* by Virginia Woolf** ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+- ✔️ ***A Room of One's Own*** by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 - *The Fourth World* by Diamela Eltit
 - *The Parable of the Sower* by Octavia E. Butler
 - *The Burrow* by Franz Kafka
