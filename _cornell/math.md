@@ -11,7 +11,13 @@ title: 🐻 Cornell Mathematics unofficial reading list 2026
 - *Modeling Life: The Mathematics of Biological Systems* by Garfinkel et al.
 
 **Calculus I** `MATH 1110 (fa26)` / **Calculus II** `MATH 1120 (fa26)`
-- *[Active Calculus: Single Variable](https://activecalculus.org/acs2e/)* by Matthew Boelkins | 
+- *[Active Calculus: Single Variable](https://activecalculus.org/acs2e/)* by Matthew Boelkins
+
+**Strategy, Cooperation & Conflict** `MATH 1340 (sp26)`
+- *Game Theory through Examples* by Erich Prisner
+- *Mathematics & Politics: Strategy, Voting, Power & Proof* by Alan D. Taylor
+
+
 
 ## Senior level
 
