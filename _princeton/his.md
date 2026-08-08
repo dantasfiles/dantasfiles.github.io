@@ -71,6 +71,13 @@ title: 🐯 Princeton History unofficial reading list 2026
 - *The Tale of the Heike*
 - *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler
 
+**American Origins: The Colonization of North America** `HIS 371 (fa26)`
+- *The Jesuit Relations: Natives & Missionaries in 17th-Century North America* by Allan Greer
+- *The Narrative of Cabeza de Vaca*
+- *The Autobiography of Benjamin Franklin*
+- *The Sovereignty & Goodness of God: w/ Related Documents*
+- *Interesting Narrative of the Life of Olaudah Equiano*
+
 **A More Perfect Union: The United States, 1920-1974** `HIS 383 (fa26)`
 - *The Rise of Conservatism in America, 1945-2000* by Story & Laurie
 - *Lyndon B. Johnson and American Liberalism* by Bruce Schulman
