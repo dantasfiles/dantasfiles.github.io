@@ -118,5 +118,11 @@ title: 🐯 Princeton History unofficial reading list 2026
 
 ## Graduate level
 
+**Comparative Slavery** `HIS 516 (fa26)`
+- *Soul by Soul: Life Inside the Antebellum Slave Market* by Walter Johnson
+- *The Diligent: A Voyage Through the Worlds Of The Slave Trade* by Robert Harms
+- *The Reaper's Garden: Death & Power in the World of Atlantic Slavery* by Vincent Brown
+- *Closer to Freedom: Enslaved Women & Everyday Resistance in the Plantation South* by Stephanie M.H. Camp
+
 **Pre-Kantian Rationalism: The Ethics & the Tractatus Theologico-Politicus** `HIS 591 (fa26)`
 - *The Collected Works of Spinoza, Vol. II* by Edwin Curley 
