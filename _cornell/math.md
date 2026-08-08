@@ -17,7 +17,8 @@ title: 🐻 Cornell Mathematics unofficial reading list 2026
 - *Game Theory through Examples* by Erich Prisner
 - *Mathematics & Politics: Strategy, Voting, Power & Proof* by Alan D. Taylor
 
-
+**Statistical Theory and Application in the Real World** `MATH 1710 (sp26)`
+- *[OpenIntro Statistics](https://www.openintro.org/book/os/)* by Diez et al.
 
 ## Senior level
 
