@@ -2,7 +2,7 @@
 title: 🐯 Princeton Latin American Studies unofficial reading list 2026
 ---
 
-## Sophomore level | |
+## Sophomore level
 
 **Art & Archaeology of Ancient Mesoamerica** `LAS 267 (fa26)`
 - *The Art of Mesoamerica: From Olmec to Aztec* by Mary Ellen Miller 
