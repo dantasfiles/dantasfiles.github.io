@@ -52,6 +52,10 @@ title: 🐯 Princeton History unofficial reading list 2026
 
 ## Junior level
 
+**Colonial Latin America to 1810** `HIS 303 (fa26)`
+- *Colonial Latin America* by Burkholder & Johnson
+- *Colonial Latin America: A Documentary History* by Mills et al.
+
 **20th-Century Japan** `HIS 322 (fa26)`
 - *Peasants, Rebels, Women & Outcastes: The Underside of Modern Japan* by Mikiso Hane
 - *Japan at War: An Oral History* by Cook & Cook
