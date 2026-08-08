@@ -23,6 +23,17 @@ title: 🐻 Cornell Mathematics unofficial reading list 2026
 **Calculus for Engineers** `MATH 1910 (fa26)` / **Multivariable Calculus for Engineers** `MATH 1920 (fa26)`
 - *Calculus* by Rogawski et al.
 
+## Sophomore level
+
+**Linear Algebra** `MATH 2210 (fa26)`
+- *[Linear Algebra w/ Applications](https://open.umn.edu/opentextbooks/textbooks/linear-algebra-with-applications)* by W. Keith Nicholson
+
+**Multivariable Calculus** `MATH 2220 (fa26)`
+- *[Multivariable Calculus](https://open.umn.edu/opentextbooks/textbooks/780)* by Don Shimamoto
+
+**Theoretical Linear Algebra & Vector Calculus I** `MATH 2230 (fa26)`
+- *Vector Calculus, Linear Algebra & Differential Forms: A Unified Approach* by Hubbard & Hubbard
+
 ## Senior level
 
 **Theory of Statistics** `MATH 4720 (fa26)`
