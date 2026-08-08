@@ -31,7 +31,7 @@ title: 🐻 Cornell Mathematics unofficial reading list 2026
 **Multivariable Calculus** `MATH 2220 (fa26)`
 - *[Multivariable Calculus](https://open.umn.edu/opentextbooks/textbooks/780)* by Don Shimamoto
 
-**Theoretical Linear Algebra & Vector Calculus I** `MATH 2230 (fa26)`
+**Theoretical Linear Algebra & Vector Calculus I** `MATH 2230 (fa26)` / **Theoretical Linear Algebra & Calculus** `MATH 2240 (sp26)`
 - *Vector Calculus, Linear Algebra & Differential Forms: A Unified Approach* by Hubbard & Hubbard
 
 ## Senior level
