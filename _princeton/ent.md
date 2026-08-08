@@ -17,7 +17,7 @@ title: 🐯 Princeton Entrepreneurship unofficial reading list 2026
 **High-Tech Entrepreneurship** `ENT 491 (fa26)`
 - *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danner
 
-**Entrepreneurship: Ventures of Impact** `EGR 495 (fa26)`
+**Entrepreneurship: Ventures of Impact** `ENT 495 (fa26)`
 - *Effectual Entrepreneurship* by Sarasvathy & Wheatley
 
 **Entrepreneurial Leadership** `ENT 497 (fa26)`
