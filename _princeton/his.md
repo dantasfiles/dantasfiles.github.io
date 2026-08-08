@@ -38,6 +38,13 @@ title: 🐯 Princeton History unofficial reading list 2026
 - *Dred Scott v. Sandford: A Brief History with Documents* by Paul Finkelman
 - *Incidents in the Life of a Slave Girl*
 
+**Introduction to African American History Since Emancipation** `HIS 268 (fa26)`
+- *Let Nobody Turn Us Around: An African American Anthology* by Marable & Mullings
+- *I Saw Death Coming: A History of Terror & Survival in the War against Reconstruction* by Kidada E. Williams
+- *Home to Harlem* by Claude McKay
+- *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s Through the 1980s* by Hampton & Fayer
+- *From #BlackLivesMatter to Black Liberation* by Keeanga-Yamahtta Taylor
+
 **The Modern Black Freedom Movement: From Civil Rights to Black Power** `HIS 269 (fa26)`
 - *The March on Washington: Jobs, Freedom & the Forgotten History of Civil Rights* by William P. Jones
 - *Want to Start a Revolution?: Radical Women in the Black Freedom Struggle* by Gore et al.
