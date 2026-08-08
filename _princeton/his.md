@@ -38,7 +38,7 @@ title: 🐯 Princeton History unofficial reading list 2026
 - *Dred Scott v. Sandford: A Brief History with Documents* by Paul Finkelman
 - *Incidents in the Life of a Slave Girl*
 
-**Introduction to African American History Since Emancipation** `HIS 268 (fa26)`
+**Intro. to African American History Since Emancipation** `HIS 268 (fa26)`
 - *Let Nobody Turn Us Around: An African American Anthology* by Marable & Mullings
 - *I Saw Death Coming: A History of Terror & Survival in the War against Reconstruction* by Kidada E. Williams
 - *Home to Harlem* by Claude McKay
