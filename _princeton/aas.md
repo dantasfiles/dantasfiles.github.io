@@ -1,25 +1,76 @@
 ---
 title: 🐯 Princeton African American Studies unofficial reading list 2026
-layout: reading-list
 ---
 
-| Sophomore level | |
-| :---: | --- |
-| **AAS & the Philosophy of Race** <br> AAS 201 (fa26) | • *The Future of Whiteness* by Linda Martín Alcoff <br> ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <br> • *The Case for Rage: Why Anger Is Essential to Anti-Racist Struggle* by Myisha Cherry <br> • *The Souls of Black Folk* by W.E.B. Du Bois <br> ✔️ ***Beloved*** by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <br> • *More Beautiful & More Terrible: The Embrace & Transcendence of Racial Inequality in the US* by Imani Perry <br> • *Race: A Philosophical Introduction* by Paul C. Taylor <br> • *Sing, Unburied, Sing* by Jesmyn Ward |
-| **Methods in African American Studies** <br> AAS 202 (fa26) | • *Close Reading for the 21st Century* by Sinykin & Winant |
-| **Intro. to Law & Public Policy in African American History** <br> AAS 230 (fa26) | • *Reconsidering Reparations: Why Climate Justice & Constructive Politics Are Needed in the Wake of Slavery & Colonialism* by Olúfẹ́mi O. Táíwò <br> • *Racecraft: The Soul of Inequality* in American Life by Fields & Fields <br> • *When Affirmative Action Was White: An Untold History of Racial Inequality in 20th-Century America* by Ira Katznelson <br> • *America, U.S.A.: How Race Shadows the Nation's Anniversaries* by Eddie S. Glaude Jr. |  
-| **The Souls of Black Folk - Reading W.E.B. Du Bois** <br> AAS 231 (fa26) | • *The Autobiography of W.E.B. Du Bois* <br> • *Writings: The Suppression of the African Slave-Trade / The Souls of Black Folk / Dusk of Dawn / Essays & Articles* by W.E.B. Du Bois <br> • [*Darkwater: Voices from Within the Veil*](https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater) by W.E.B. Du Bois <br> • *Black Reconstruction in America, 1860-1880* by W.E.B. Du Bois <br> • *The World & Africa* by W.E.B. Du Bois |
-| **Intro. to African American History to 1863** <br> AAS 267 (fa26) | • *The Interesting Narrative of the Life of Olaudah Equiano* <br> • *Narrative of the Life of Frederick Douglass: An American Slave* <br> • *David Walker's Appeal* <br> • *Dred Scott v. Sandford: A Brief History with Documents* by Paul Finkelman <br> • *Incidents in the Life of a Slave Girl* by Harriet Jacobs |
-| **The Modern Black Freedom Movement: From Civil Rights to Black Power** <br> AAS 270 (fa26) | • *The March on Washington: Jobs, Freedom & the Forgotten History of Civil Rights* by William P. Jones <br> • *Want to Start a Revolution?: Radical Women in the Black Freedom Struggle* by Gore et. al <br> • *Bloody Lowndes: Civil Rights & Black Power in Alabama's Black Belt* by Hasan Kwame Jeffries | 
+## Sophomore level
 
-| Junior level | |
-| :---: | --- |
-| **Black Mirror: Race, Technology & Justice** <br> AAS 339 (sp26) | • *Ruined by Design: How Designers Destroyed the World & What We Can Do to Fix It* by Mike Monteiro <br> ◦ *Data Feminism* by D'Ignazio & Klein <br> ◦ *Design Justice: Community-Led Practices to Build the Worlds We Need* by Sasha Costanza-Chock <br> • *Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI* by Karen Hao |
+**AAS & the Philosophy of Race** `AAS 201 (fa26)`
+- *The Future of Whiteness* by Linda Martín Alcoff
+- ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- *The Case for Rage: Why Anger Is Essential to Anti-Racist Struggle* by Myisha Cherry
+- *The Souls of Black Folk* by W.E.B. Du Bois
+- ✔️ ***Beloved*** by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+- *More Beautiful & More Terrible: The Embrace & Transcendence of Racial Inequality in the US* by Imani Perry
+- *Race: A Philosophical Introduction* by Paul C. Taylor
+- *Sing, Unburied, Sing* by Jesmyn Ward
 
-| Senior level | |
-| :---: | --- |
-| **Art, Apartheid & South Africa** <br> AAS 411 (fa26) | ✔️ ***Disgrace*** by J. M. Coetzee | 
-| **World After Empire** <br> AAS 416 (fa26) | ✔️ ***The Wretched of the Earth*** by Frantz Fanon <br> • *Worldmaking after Empire: The Rise & Fall of Self-Determination* by Adom Getachew <br> • *Return to the Source: Selected Texts of Amilcar Cabral* <br> • *Gandhi: 'Hind Swaraj' and Other Writings* <br> • *A Small Place* by Jamaica Kincaid <br> • *Discourse on Colonialism* by Aimé Césaire <br> • *The Colonizer and the Colonized* by Albert Memmi <br> • *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois |
+**Methods in African American Studies** `AAS 202 (fa26)`
+- *Close Reading for the 21st Century* by Sinykin & Winant
+
+**Intro. to Law & Public Policy in African American History** `AAS 230 (fa26)`
+- *Reconsidering Reparations: Why Climate Justice & Constructive Politics Are Needed in the Wake of Slavery & Colonialism* by Olúfẹ́mi O. Táíwò
+- *Racecraft: The Soul of Inequality* in American Life by Fields & Fields
+- *When Affirmative Action Was White: An Untold History of Racial Inequality in 20th-Century America* by Ira Katznelson
+- *America, U.S.A.: How Race Shadows the Nation's Anniversaries* by Eddie S. Glaude Jr.
+
+**The Souls of Black Folk - Reading W.E.B. Du Bois** `AAS 231 (fa26)`
+- *The Autobiography of W.E.B. Du Bois*
+- *Writings: The Suppression of the African Slave-Trade / The Souls of Black Folk / Dusk of Dawn / Essays & Articles* by W.E.B. Du Bois
+- *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois
+- *Black Reconstruction in America, 1860-1880* by W.E.B. Du Bois
+- *The World & Africa* by W.E.B. Du Bois
+
+**Intro. to African American History to 1863** `AAS 267 (fa26)`
+- *The Interesting Narrative of the Life of Olaudah Equiano*
+- *Narrative of the Life of Frederick Douglass: An American Slave*
+- *David Walker's Appeal*
+- *Dred Scott v. Sandford: A Brief History with Documents* by Paul Finkelman
+- *Incidents in the Life of a Slave Girl* by Harriet Jacobs
+
+**Intro. to African American History Since Emancipation** `AAS 268 (fa26)`
+- *Let Nobody Turn Us Around: An African American Anthology* by Marable & Mullings
+- *I Saw Death Coming: A History of Terror & Survival in the War against Reconstruction* by Kidada E. Williams
+- *Home to Harlem* by Claude McKay
+- *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s Through the 1980s* by Hampton & Fayer
+- *From #BlackLivesMatter to Black Liberation* by Keeanga-Yamahtta Taylor
+
+**The Modern Black Freedom Movement: From Civil Rights to Black Power** `AAS 270 (fa26)`
+- *The March on Washington: Jobs, Freedom & the Forgotten History of Civil Rights* by William P. Jones
+- *Want to Start a Revolution?: Radical Women in the Black Freedom Struggle* by Gore et al.
+- *Bloody Lowndes: Civil Rights & Black Power in Alabama's Black Belt* by Hasan Kwame Jeffries
+  
+## Junior level
+
+**Black Mirror: Race, Technology & Justice** `AAS 339 (sp26)`
+- *Ruined by Design: How Designers Destroyed the World & What We Can Do to Fix It* by Mike Monteiro
+- *Data Feminism* by D'Ignazio & Klein
+- *Design Justice: Community-Led Practices to Build the Worlds We Need* by Sasha Costanza-Chock
+- *Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI* by Karen Hao
+
+## Senior level
+
+**Art, Apartheid & South Africa** `AAS 411 (fa26)`
+- ✔️ ***Disgrace*** by J. M. Coetzee 
+
+**World After Empire** `AAS 416 (fa26)`
+- ✔️ ***The Wretched of the Earth*** by Frantz Fanon
+- *Worldmaking after Empire: The Rise & Fall of Self-Determination* by Adom Getachew
+- *Return to the Source: Selected Texts of Amilcar Cabral*
+- *Gandhi: 'Hind Swaraj' and Other Writings*
+- *A Small Place* by Jamaica Kincaid
+- *Discourse on Colonialism* by Aimé Césaire
+- *The Colonizer and the Colonized* by Albert Memmi
+- *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois
 
 
 
