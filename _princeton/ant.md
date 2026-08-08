@@ -24,6 +24,10 @@ title: 🐯 Princeton Anthropology unofficial reading list 2026
 - ✔️ ***The Wretched of the Earth*** by Frantz Fanon
 - *Illuminations: Essays & Reflections* by Walter Benjamin
 
+**People-Centered: Doing Anthropology** `ANT 299 (fa26)`
+- *The Ethnographer's Way: A Handbook for Multidimensional Research Design* by Peterson & Olson
+- *Making Livable Worlds: Afro-Puerto Rican Women Building Environmental Justice* by Hilda Llorens
+
 ## Junior level
 
 **Ethnography, Evidence & Experience** `ANT 300 (fa26)`
