@@ -15,6 +15,10 @@ title: 🐯 Princeton Study of America unofficial reading list 2026
 - *When Affirmative Action Was White: An Untold History of Racial Inequality in 20th-Century America* by Ira Katznelson
 - *America, U.S.A.: How Race Shadows the Nation's Anniversaries* by Eddie S. Glaude Jr.
 
+**Identity in the Spanish-Speaking World** `LAO 250 (fa26)`
+- *I, Rigoberta Menchu: An Indian Woman in Guatemala* by Rigoberta Menchú
+- *Love After Death* by Pedro Calderón de la Barca
+
 **Jews Across the Americas** `AMS 257 (fa26)`
 - *Like a Bride* by Rosa Nissán
 - *Like a Mother* by Rosa Nissán
