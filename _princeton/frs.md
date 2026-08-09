@@ -3,8 +3,6 @@ title: 🐯 Princeton First Year Seminars unofficial reading list 2026
 layout: reading-list
 ---
 
-## Freshman level
-
 **Exploring the Graphic Novel** `FRS 111 (fa26)`
 - *Doctor Fate Vol. 1: The Blood Price* by Levitz et al.
 - *Grass* by Keum Suk Gendry-Kim
@@ -53,6 +51,7 @@ layout: reading-list
 - *A Strange Loop* by Michael R. Jackson
  
 **History of Freedom** `FRS 137 (fa26)`
+- *The Penguin Book of Modern Speeches* by Brian MacArthur
 - *Essays on Sex Equality* by Mill & Mill
 - *On Liberty* by Mill & Mill
 - *The Federalist Papers* by Hamilton et al.
@@ -67,7 +66,6 @@ layout: reading-list
 - *The Early History of Rome (Books I-V)* by Livy
 - *Liberty: Incorporating Four Essays on Liberty* by Isaiah Berlin
 - *Political Writings* by Benjamin Constant
-- *The Penguin Book of Historic Speeches* by Brian MacArthur
 
 **Representation in Documentary Filmmaking** `FRS 138 (fa26)`
 - *A Guide to (Short) Documentary Filmmaking* by Jamie Meltze
