@@ -74,6 +74,9 @@ layout: reading-list
 **Is Politics a Performance?** `FRS 143 (fa26)`
 - *Ideas Arrangements Effects* by The Design Studio for Social Intervention
 
+**How People Change: Short Stories & Life's Transitions** `FRS 147 (fa26)`
+- *How People Change: The Short Story as Case History* by William Tucker
+
 **Ethics in Finance** `FRS 149 (fa26)`
 - *Blind Spots: Why We Fail to Do What's Right & What to Do about It* by Bazerman & Tenbrunsel
 - *What Money Can't Buy: The Moral Limits of Markets* by Michael J. Sandel
