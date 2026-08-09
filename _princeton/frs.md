@@ -83,6 +83,16 @@ layout: reading-list
 - *Finance & the Good Society* by Robert J. Shiller
 - *Seeking Virtue in Finance: Contributing to Society in a Conflicted Industry* by J.C. de Swaan
 
+**Gaslight! Control, Coercion, or Just Conflict?: The Cultural History of a TikTok Term** `FRS 153 (fa26)`
+- *The Crucible* by Arthur Miller
+- *The Age of McCarthyism: A Brief History with Documents* by Schrecker & Deery
+- *For Her Own Good: Two Centuries of the Experts' Advice to Women* by Ehrenreich & English
+- *1984* by George Orwell
+- *The Haunting of Hill House* by Shirley Jackson
+- *Passing* by Nella Larsen
+- *John Proctor is the Villain* by Kimberly Belflower
+- *The Birds & Other Stories* by Daphne Du Maurier
+
 **Marx in the 21st Century** `FRS 167 (fa26)`
 - *Capital: A Critique of Political Economy, v.1* by Karl Marx
 - *Everything for Everyone: An Oral History of the New York Commune, 2052–2072* O'Brien & Abdelhadi
