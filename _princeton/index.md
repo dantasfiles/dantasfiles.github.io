@@ -85,8 +85,6 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
 
-**[African Studies](https://dantasfiles.com/princeton/afs)**
-
 [Effron Center for the Study of **America**](https://dantasfiles.com/princeton/ams)
 
 **[Applied and Computational Mathematics](https://dantasfiles.com/princeton/apc)**
@@ -109,8 +107,6 @@ I compiled these unofficial reading lists using publicly available information f
 
 [High Meadows **Environmental** Institute](https://dantasfiles.com/princeton/env)
 
-**[Contemporary European Politics & Society](https://dantasfiles.com/princeton/eps)**
-
 **[Finance](https://dantasfiles.com/princeton/fin)**
 
 **[First-Year Seminars](https://dantasfiles.com/princeton/frs)**
@@ -123,11 +119,11 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Humanistic Studies](https://dantasfiles.com/princeton/hum)**
 
+[Institute for **International & Regional Studies**](https://dantasfiles.com/princeton/piirs)
+
 **[Judaic Studies](https://dantasfiles.com/princeton/jds)**
 
 **[Journalism](https://dantasfiles.com/princeton/jrn)**
-
-**[Latin American Studies](https://dantasfiles.com/princeton/las)**
 
 **[Linguistics](https://dantasfiles.com/princeton/lin)**
 
@@ -135,17 +131,11 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Medieval Studies](https://dantasfiles.com/princeton/med)**
 
-**[Russian, East European & Eurasian Studies](https://dantasfiles.com/princeton/res)**
-
 **[Robotics](https://dantasfiles.com/princeton/rob)**
-
-**[South Asian Studies](https://dantasfiles.com/princeton/sas)**
 
 **[Science & Technology](https://dantasfiles.com/princeton/stc)**
 
 **[Teacher Preparation](https://dantasfiles.com/princeton/tpp)**
-
-**[Translation & Intercultural Communication](https://dantasfiles.com/princeton/tra)**
 
 **[Urban Studies](https://dantasfiles.com/princeton/urb)**
 
