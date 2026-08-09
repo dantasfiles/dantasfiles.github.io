@@ -56,6 +56,10 @@ title: 🐯 Princeton Classics unofficial reading list 2026
 
 ## Junior level
 
+**Aristotle & His Successors** `CLA 303 (fa26)`
+- *Complete Works of Aristotle, v.1*
+- *Nicomachean Ethics* by Aristotle
+
 **The Trojan War: A Linguistic Intro.** `CLA 307 (fa26)`
 - *How Dead Languages Work* by Coulter H. George
 - ✔️ ***The Trojan War: A Very Short Intro.*** by Eric H. Cline
