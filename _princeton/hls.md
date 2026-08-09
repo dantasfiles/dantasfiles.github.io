@@ -44,5 +44,9 @@ title: 🐯 Princeton Hellenic Studies unofficial reading list 2026
 - *Early Christian Writings: The Apostolic Fathers* by Louth & Staniforth
 - *The New Testament: A Historical Intro. to the Early Christian Writings* by Ehrman & Méndez
 
+## Junior level
 
+**Aristotle & His Successors** `HLS 302 (fa26)`
+- *Complete Works of Aristotle, v.1*
+- *Nicomachean Ethics* by Aristotle
 
