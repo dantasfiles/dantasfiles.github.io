@@ -40,7 +40,7 @@ title: 🐯 Princeton Public & International Affairs unofficial reading list
 - *Intro. to International Relations: Perspectives, Connections & Enduring Questions* by Joseph Grieco
 
 **The Comparative Political Economy of Development** `SPI 561 (fa26)`
-- *The State & Capitalism in China* by Margaret M. Pearson
+- *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
 - *Region of Regimes: Prosperity & Plunder in the Asia-Pacific* by T.J. Pempel
 - *Shared Prosperity in a Fractured World: A New Economics for the Middle Class, the Global Poor & Our Climate* by Dani Rodrik
 - *The Political Economy of Latin America* by Peter Kingstone
