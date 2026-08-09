@@ -74,7 +74,7 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *The Tale of Genji* by Murasaki Shikibu
 - *A History of East Asia: From the Origins of Civilization to the 21st Century* by Charles Holcombe
 
-**Identity in the Spanish-Speaking World** `HUM 250 (fa26)`
+**Identity in the Spanish-Speaking World** `HUM 251 (fa26)`
 - *I, Rigoberta Menchu: An Indian Woman in Guatemala* by Rigoberta Menchú
 - *Love After Death* by Pedro Calderón de la Barca
 
