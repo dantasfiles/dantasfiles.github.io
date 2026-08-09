@@ -49,6 +49,10 @@ title: 🐯 Princeton International & Regional Studies unofficial reading list 2
 
 ## Latin American Studies
 
+**Identity in the Spanish-Speaking World** `LAS 250 (fa26)`
+- *I, Rigoberta Menchu: An Indian Woman in Guatemala* by Rigoberta Menchú
+- *Love After Death* by Pedro Calderón de la Barca
+
 **Art & Archaeology of Ancient Mesoamerica** `LAS 267 (fa26)`
 - *The Art of Mesoamerica: From Olmec to Aztec* by Mary Ellen Miller 
 
