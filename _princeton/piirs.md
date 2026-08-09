@@ -8,13 +8,13 @@ title: 🐯 Princeton International & Regional Studies unofficial reading list 2
 
 **[Contemporary European Politics & Society](#contemporary-european-politics--society)**
 
-**Latin American Studies**
+**[Latin American Studies](#latin-american-studies)**
 
-**Russian, East European & Eurasian Studies**
+**[Russian, East European & Eurasian Studies](#russian-east-european--eurasian-studies)**
 
-**South Asian Studies**
+**[South Asian Studies](#south-asian-studies)**
 
-**Translation & Intercultural Communication**
+**[Translation & Intercultural Communication](#translation--intercultural-communication)**
 
 </div>
 
@@ -147,7 +147,7 @@ title: 🐯 Princeton International & Regional Studies unofficial reading list 2
 - *Illicit Worlds of Indian Dance: Cultures of Exclusion* by Anna Morcom
 - *Umrao Jan Ada* by Mirza Muhammad Hadi Rusva
 
-## Translation and Intercultural Communication
+## Translation & Intercultural Communication
 
 **The Trojan War: A Linguistic Intro.** `TRA 306 (fa26)`
 - *How Dead Languages Work* by Coulter H. George
