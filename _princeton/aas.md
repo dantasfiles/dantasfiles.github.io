@@ -4,7 +4,7 @@ title: 🐯 Princeton African American Studies unofficial reading list 2026
 
 ## Sophomore level
 
-**AAS & the Philosophy of Race** `AAS 201 (fa26)`
+**African American Studies & the Philosophy of Race** `AAS 201 (fa26)`
 - *The Future of Whiteness* by Linda Martín Alcoff
 - ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 - *The Case for Rage: Why Anger Is Essential to Anti-Racist Struggle* by Myisha Cherry
