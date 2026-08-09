@@ -10,7 +10,7 @@ title: 🐯 Princeton Politics unofficial reading list 2026
 **The Just Society** `POL 307 (fa26)`
 - *2nd Treatise on Government* by John Locke
 - ✔️ ***[The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)*** by Marx & Engels
-- *Capital: A Critique of Political Economy, v.1: The Process of Production of Capital* by Karl Marx
+- *Capital, v.1* by Karl Marx
 - *The Classical Utilitarians: Bentham & Mill*
 - *A Theory of Justice* by John Rawls
 
