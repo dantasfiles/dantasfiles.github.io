@@ -58,7 +58,7 @@ The Department of Comparative Literature also publishes a [suggested reading lis
 
 **Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** `COM 351 (fa26)`
 - *Fathers and Sons* by Ivan Turgenev
-- *Notes from Underground* by Fyodor Dostoyevsky
+- ✔️ ***Notes from Underground*** by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 - *The Princess Casamassima* by Henry James
 - *A Doll's House* by Henrik Ibsen
 - *The Secret Agent* by Joseph Conrad
