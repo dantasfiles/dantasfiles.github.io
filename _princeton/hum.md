@@ -74,6 +74,10 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *The Tale of Genji* by Murasaki Shikibu
 - *A History of East Asia: From the Origins of Civilization to the 21st Century* by Charles Holcombe
 
+**Identity in the Spanish-Speaking World** `HUM 250 (fa26)`
+- *I, Rigoberta Menchu: An Indian Woman in Guatemala* by Rigoberta Menchú
+- *Love After Death* by Pedro Calderón de la Barca
+
 **Pompeii** `HUM 253 (fa26)`
 - *The Complete Pompeii* by Joanne Berry
 - *The Fires of Vesuvius: Pompeii Lost & Found* by Mary Beard
