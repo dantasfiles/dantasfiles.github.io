@@ -15,7 +15,7 @@ title: 🐯 Princeton Russian, East European & Eurasian Studies unofficial readi
 
 ## Junior level
 
-**East European Literature** `SLA 345 (fa26)`
+**East European Literature** `RES 345 (fa26)`
 - *The Death of a Soldier Told by His Sister* by Olesya Khromeychuk
 - *Chernobyl Prayer: A Chronicle of the Future* by Svetlana Alexievich
 - *The Radetzky March* by Joseph Roth
@@ -30,7 +30,7 @@ title: 🐯 Princeton Russian, East European & Eurasian Studies unofficial readi
 
 ## Senior level
 
-**Dostoevsky** `SLA 416 (fa26)`
+**Dostoevsky** `RES 416 (fa26)`
 - *The Brothers Karamazov* by Fyodor Dostoyevsky
 - *Crime & Punishment* by Fyodor Dostoyevsky
 - *Demons* by Fyodor Dostoevsky
