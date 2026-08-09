@@ -75,6 +75,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Slavic Languages & Literatures](https://dantasfiles.com/princeton/sla)**
 
+**[Spanish](https://dantasfiles.com/princeton/spa)**
+
 **[Sociology](https://dantasfiles.com/princeton/soc)**
 
 [School of **Public & International Affairs**](https://dantasfiles.com/princeton/spi)
