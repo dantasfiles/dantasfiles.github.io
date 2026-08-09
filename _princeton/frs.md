@@ -1,6 +1,5 @@
 ---
 title: 🐯 Princeton First Year Seminars unofficial reading list 2026
-layout: reading-list
 ---
 
 **Exploring the Graphic Novel** `FRS 111 (fa26)`
