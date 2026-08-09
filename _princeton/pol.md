@@ -50,6 +50,13 @@ title: 🐯 Princeton Politics unofficial reading list 2026
 
 ## Graduate level
 
+**The Comparative Political Economy of Development** `POL 523 (fa26)`
+- *The State & Capitalism in China* by Margaret M. Pearson
+- *Region of Regimes: Prosperity & Plunder in the Asia-Pacific* by T.J. Pempel
+- *Shared Prosperity in a Fractured World: A New Economics for the Middle Class, the Global Poor & Our Climate* by Dani Rodrik
+- *The Political Economy of Latin America* by Peter Kingstone
+- *Democracy & Inequality in India: Political Economy of a Troubled Giant* by Kohli & Murali
+
 **International Security Studies** `POL 554 (fa26)`
 - *Arms & Influence* by Thomas C. Schelling
 
