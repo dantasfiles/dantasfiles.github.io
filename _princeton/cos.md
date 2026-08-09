@@ -1,15 +1,18 @@
 ---
 title: 🐯 Princeton Computer Science unofficial reading list 2026
-layout: reading-list
 ---
 
-| Sophomore level | | 
-| :---: | --- |
-| **Algorithms & Data Structures** <br> COS 226 (fa26) | ✔️ [***Algorithms***](https://algs4.cs.princeton.edu/home/) by Sedgewick & Wayne |
+## Sophomore level 
 
-| Junior level | |
-| :---: | --- |
-| **[Principles of Computer System Design](https://www.cs.princeton.edu/courses/archive/spring26/cos316/)** <br> COS 316 (sp26) | <!-- 📔 [Course notes](https://www.cs.princeton.edu/courses/archive/spring26/cos316/lectures.html) <br> 📕 --> ◦ *[Principles of Computer System Design: An Intro.](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/pages/online-textbook/)* by Saltzer & Kaashoek <br> ◦ [*BBR: Congestion-Based Congestion Control: Measuring Bottleneck Bandwidth & Round-Trip Propagation Time*](https://queue.acm.org/detail.cfm?id=3022184) by Cardwell et al. | 
+**Algorithms & Data Structures** `COS 226 (fa26)`
+- ✔️ [***Algorithms***](https://algs4.cs.princeton.edu/home/) by Sedgewick & Wayne
+
+## Junior level
+
+**[Principles of Computer System Design](https://www.cs.princeton.edu/courses/archive/spring26/cos316/)** `COS 316 (sp26)`
+- *[Principles of Computer System Design: An Intro.](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/pages/online-textbook/)* by Saltzer & Kaashoek
+- [*BBR: Congestion-Based Congestion Control: Measuring Bottleneck Bandwidth & Round-Trip Propagation Time*](https://queue.acm.org/detail.cfm?id=3022184) by Cardwell et al.
+
 | [**Compiling Techniques**](https://www.cs.princeton.edu/courses/archive/spring26/cos320/) <br> COS 320 (sp26) | ◦ [*Real World OCaml: Functional Programming for the Masses*](https://dev.realworldocaml.org/) by Madhavapeddy & Minsky <br> ◦ [*The OCaml System*](https://ocaml.org/manual/5.4/index.html) <br> ◦ [*The OCaml API*](https://ocaml.org/manual/5.4/api/) <br> ◦ *Modern Compiler Implementation in ML* by Andrew W. Appel |
 | **Computing & Optimization for the Physical & Social Sciences** <br> COS 323 (fa26) | ◦ *An Introduction to Optimization: With Applications to Machine Learning* by Chong, Lu & Zak <br> ◦ *[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)* by Boyd & Vandenberghe <br> ◦ *Linear Programming: Foundations & Extensions* by Robert J. Vanderbei <br> ◦ _Algorithms_ by Dasgupta, Papadimitriou & Vazirani |
 | **Computer Architecture & Organization** <br> COS 375 (fa26) | ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy | 
