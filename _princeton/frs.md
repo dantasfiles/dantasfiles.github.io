@@ -94,7 +94,7 @@ layout: reading-list
 - *The Birds & Other Stories* by Daphne Du Maurier
 
 **Marx in the 21st Century** `FRS 167 (fa26)`
-- *Capital: A Critique of Political Economy, v.1* by Karl Marx
+- *Capital, v.1* by Karl Marx
 - *Everything for Everyone: An Oral History of the New York Commune, 2052–2072* O'Brien & Abdelhadi
 - *Slow Down: The Degrowth Manifesto* by Kohei Saito
 - *Caliban & the Witch: Women, the Body & Primitive Accumulation* by Silvia Federici
