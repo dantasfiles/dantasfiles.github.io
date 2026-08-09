@@ -14,9 +14,20 @@ title: 🐯 Princeton Computer Science unofficial reading list 2026
 - Papers
   - [*BBR: Congestion-Based Congestion Control: Measuring Bottleneck Bandwidth & Round-Trip Propagation Time*](https://queue.acm.org/detail.cfm?id=3022184) by Cardwell et al.
 
-| [**Compiling Techniques**](https://www.cs.princeton.edu/courses/archive/spring26/cos320/) <br> COS 320 (sp26) | ◦ [*Real World OCaml: Functional Programming for the Masses*](https://dev.realworldocaml.org/) by Madhavapeddy & Minsky <br> ◦ [*The OCaml System*](https://ocaml.org/manual/5.4/index.html) <br> ◦ [*The OCaml API*](https://ocaml.org/manual/5.4/api/) <br> ◦ *Modern Compiler Implementation in ML* by Andrew W. Appel |
-| **Computing & Optimization for the Physical & Social Sciences** <br> COS 323 (fa26) | ◦ *An Introduction to Optimization: With Applications to Machine Learning* by Chong, Lu & Zak <br> ◦ *[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)* by Boyd & Vandenberghe <br> ◦ *Linear Programming: Foundations & Extensions* by Robert J. Vanderbei <br> ◦ _Algorithms_ by Dasgupta, Papadimitriou & Vazirani |
-| **Computer Architecture & Organization** <br> COS 375 (fa26) | ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy | 
+[**Compiling Techniques**](https://www.cs.princeton.edu/courses/archive/spring26/cos320/) `COS 320 (sp26)`
+- [*Real World OCaml: Functional Programming for the Masses*](https://dev.realworldocaml.org/) by Madhavapeddy & Minsky
+- [*The OCaml System*](https://ocaml.org/manual/5.4/index.html)
+- [*The OCaml API*](https://ocaml.org/manual/5.4/api/)
+- *Modern Compiler Implementation in ML* by Andrew W. Appel
+
+**Computing & Optimization for the Physical & Social Sciences** `COS 323 (fa26)`
+- *An Introduction to Optimization: With Applications to Machine Learning* by Chong, Lu & Zak
+- *[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)* by Boyd & Vandenberghe
+- *Linear Programming: Foundations & Extensions* by Robert J. Vanderbei
+- *Algorithms* by Dasgupta, Papadimitriou & Vazirani
+
+**Computer Architecture & Organization** `COS 375 (fa26)`
+- ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy
 
 | Senior level | |
 | :---: | --- |
