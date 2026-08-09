@@ -38,7 +38,14 @@ title: 🐯 Princeton Public & International Affairs unofficial reading list
 - *International Politics: Enduring Concepts & Contemporary Issues* by Art et al.
 - *A World Safe for Democracy: Liberal Internationalism & the Crises of Global Order* by G. John Ikenberry
 - *Intro. to International Relations: Perspectives, Connections & Enduring Questions* by Joseph Grieco
-  
+
+**The Comparative Political Economy of Development** `SPI 561 (fa26)`
+- *The State & Capitalism in China* by Margaret M. Pearson
+- *Region of Regimes: Prosperity & Plunder in the Asia-Pacific* by T.J. Pempel
+- *Shared Prosperity in a Fractured World: A New Economics for the Middle Class, the Global Poor & Our Climate* by Dani Rodrik
+- *The Political Economy of Latin America* by Peter Kingstone
+- *Democracy & Inequality in India: Political Economy of a Troubled Giant* by Kohli & Murali
+
 **Implementing Change in the US Health Care System** `SPI 591E (fa26)`
 - *The Ten Year War: Obamacare & the Unfinished Crusade for Universal Coverage* by Jonathan Cohn
  
