@@ -41,4 +41,7 @@ title: 🐯 Princeton Russian, East European & Eurasian Studies unofficial readi
 - *The Double* by Fyodor Dostoyevsky
 - *Nikolai Gogol: Plays & Petersburg Tales*
 - *Fyodor Dostoyevsky: Poor Folk & Other Stories*
-| **International Relations: Russia's Relations with Europe** <br> RES 440 (fa26) | • *The Russo-Ukrainian War: The Return of History* by Serhii Plokhy <br> • *Nothing Is True & Everything Is Possible: The Surreal Heart of the New Russia* by Peter Pomerantsev | 
+
+**International Relations: Russia's Relations with Europe** `RES 440 (fa26)`
+- *The Russo-Ukrainian War: The Return of History* by Serhii Plokhy
+- *Nothing Is True & Everything Is Possible: The Surreal Heart of the New Russia* by Peter Pomerantsev
