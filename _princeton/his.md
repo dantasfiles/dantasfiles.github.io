@@ -74,7 +74,7 @@ title: 🐯 Princeton History unofficial reading list 2026
 **American Origins: The Colonization of North America** `HIS 371 (fa26)`
 - *The Jesuit Relations: Natives & Missionaries in 17th-Century North America* by Allan Greer
 - *The Narrative of Cabeza de Vaca*
-- *The Autobiography of Benjamin Franklin*
+- ✔️ ***The Autobiography of Benjamin Franklin*** ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
 - *The Sovereignty & Goodness of God: w/ Related Documents*
 - *Interesting Narrative of the Life of Olaudah Equiano*
 
