@@ -35,7 +35,7 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *Confessions* by Saint Augustine
 - *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version*
 - *The Five Books of Moses* by Robert Alter
-- *The Consolation of Philosophy* by Boethius
+- ✔️ ***The Consolation of Philosophy*** by Boethius
 - *Selected Political Speeches* by Cicero
 - *The Divine Comedy* by Dante
 - *Cyclops* by Euripides
