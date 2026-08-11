@@ -9,11 +9,6 @@ title: 🐯 Princeton Computer Science unofficial reading list 2026
 
 ## Junior level
 
-**[Principles of Computer System Design](https://www.cs.princeton.edu/courses/archive/spring26/cos316/)** `COS 316 (sp26)`
-- *[Principles of Computer System Design: An Intro.](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/)* by Saltzer & Kaashoek
-- Papers
-  - [*BBR: Congestion-Based Congestion Control: Measuring Bottleneck Bandwidth & Round-Trip Propagation Time*](https://queue.acm.org/detail.cfm?id=3022184) by Cardwell et al.
-
 [**Compiling Techniques**](https://www.cs.princeton.edu/courses/archive/spring26/cos320/) `COS 320 (sp26)`
 - [*Real World OCaml: Functional Programming for the Masses*](https://dev.realworldocaml.org/) by Madhavapeddy & Minsky
 - [*The OCaml System*](https://ocaml.org/manual/5.4/index.html)
