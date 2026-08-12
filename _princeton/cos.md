@@ -5,7 +5,7 @@ title: 🐯 Princeton Computer Science unofficial reading list 2026
 ## Sophomore level 
 
 **Algorithms & Data Structures** `COS 226 (fa26)`
-- ✔️ [***Algorithms***](https://algs4.cs.princeton.edu/home/) by Sedgewick & Wayne
+- ✔️ ***[Algorithms](https://algs4.cs.princeton.edu/home/)*** by Sedgewick & Wayne
 
 ## Junior level
 
@@ -20,6 +20,10 @@ title: 🐯 Princeton Computer Science unofficial reading list 2026
 - *[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)* by Boyd & Vandenberghe
 - *Linear Programming: Foundations & Extensions* by Robert J. Vanderbei
 - *Algorithms* by Dasgupta, Papadimitriou & Vazirani
+
+**[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326 (fa26)`
+- ✔️ ***[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)*** by Michael R. Clarkson
+
 
 **Computer Architecture & Organization** `COS 375 (fa26)`
 - ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy
