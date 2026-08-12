@@ -24,6 +24,14 @@ title: 🐯 Princeton Computer Science unofficial reading list 2026
 **[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326 (fa26)`
 - ✔️ ***[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)*** by Michael R. Clarkson
 
+**[Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/fall26/cos333/)** `COS 333 (fa26)`
+- ✔️ ***The Practice of Programming*** by Kernighan & Pike
+- *Python in a Nutshell: A Desktop Quick Reference* by Martelli et al.
+- *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg
+- *JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language* by David Flanagan
+- *Beginning Software Engineering* by Rod Stephens
+- *Learning PHP, MySQL & JavaScript: A Step-by-Step Guide to Creating Dynamic Websites* by Robin Nixon
+- *The Road to React* by Robin Wieruch 
 
 **Computer Architecture & Organization** `COS 375 (fa26)`
 - ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy
