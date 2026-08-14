@@ -16,7 +16,7 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 
 **Classical Mythology** `HUM 212 (fa26)`
 - *The Greek Tragedies: 17 Plays by Aeschylus, Sophocles, & Euripides*
-- *Ovid's Metamorphoses: A New Translation* by C. Luke Soucy
+- *Metamorphoses* by Ovid
 - *Anthology of Classical Myth: Primary Sources in Translation* by Trzaskoma et al.
 - *The Odyssey of Homer* by Richmond Lattimore
 - *The Poems of Hesiod* by R.M. Frazer
