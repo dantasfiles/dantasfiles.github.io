@@ -12,7 +12,7 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list 2026
 - *The Poems of Hesiod* by R.M. Frazer
 - *Sophocles II: Ajax, The Women of Trachis, Electra, Philoctetes, The Trackers*
 - *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma
-- *Apollonius of Rhodes: Jason and the Golden Fleece* by Richard Hunter
+- *The Argonautica* by Apollonius of Rhodes
 
 **The Modern Black Freedom Movement: From Civil Rights to Black Power** `GSS 269 (fa26)`
 - *The March on Washington: Jobs, Freedom & the Forgotten History of Civil Rights* by William P. Jones
