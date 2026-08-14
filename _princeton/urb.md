@@ -7,7 +7,7 @@ title: 🐯 Princeton Urban Studies unofficial reading list 2026
 **The Souls of Black Folk - Reading W.E.B. Du Bois** `URB 231 (fa26)`
 - *The Autobiography of W.E.B. Du Bois*
 - *Writings: The Suppression of the African Slave-Trade / The Souls of Black Folk / Dusk of Dawn / Essays & Articles* by W.E.B. Du Bois
-- *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois
+- ✔️ ***Darkwater: Voices from Within the Veil*** by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 - *Black Reconstruction in America, 1860-1880* by W.E.B. Du Bois
 - *The World & Africa* by W.E.B. Du Bois
 
