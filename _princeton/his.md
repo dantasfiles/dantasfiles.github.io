@@ -96,7 +96,7 @@ title: 🐯 Princeton History unofficial reading list 2026
 - *A Small Place* by Jamaica Kincaid
 - *Discourse on Colonialism* by Aimé Césaire
 - *The Colonizer and the Colonized* by Albert Memmi
-- *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois
+- ✔️ ***Darkwater: Voices from Within the Veil*** by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 
 **Memory, History & the Archive** `HIS 426 (fa26)`
 - *Silencing the Past: Power & the Production of History* by Michel-Rolph Trouillot
