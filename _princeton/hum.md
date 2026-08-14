@@ -18,7 +18,7 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *The Greek Tragedies: 17 Plays by Aeschylus, Sophocles, & Euripides*
 - *Metamorphoses* by Ovid
 - *Anthology of Classical Myth: Primary Sources in Translation* by Trzaskoma et al.
-- *The Odyssey of Homer* by Richmond Lattimore
+- *The Odyssey* by Homer
 - *The Poems of Hesiod* by R.M. Frazer
 - *Sophocles II: Ajax, The Women of Trachis, Electra, Philoctetes, The Trackers*
 - *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma
