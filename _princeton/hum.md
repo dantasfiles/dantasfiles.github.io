@@ -22,7 +22,7 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *The Poems of Hesiod* by R.M. Frazer
 - *Sophocles II: Ajax, The Women of Trachis, Electra, Philoctetes, The Trackers*
 - *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma
-- *Apollonius of Rhodes: Jason and the Golden Fleece* by Richard Hunter
+- *The Argonautica* by Apollonius of Rhodes
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216 (fa26)`
 - *The Satyricon* by Petronius
