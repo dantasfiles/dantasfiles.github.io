@@ -27,7 +27,7 @@ title: 🐯 Princeton Hellenic Studies unofficial reading list 2026
 - *The Poems of Hesiod* by R.M. Frazer
 - *Sophocles II: Ajax, The Women of Trachis, Electra, Philoctetes, The Trackers*
 - *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma
-- *Apollonius of Rhodes: Jason and the Golden Fleece* by Richard Hunter
+- *The Argonautica* by Apollonius of Rhodes
 
 **Democracy in Ancient Greece** `HLS 220 (fa26)`
 - *Democracy & Classical Greece* by J K Davies
