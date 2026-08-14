@@ -24,7 +24,7 @@ title: 🐯 Princeton Engineering unofficial reading list 2026
 - *Thinking in Systems* by Donella H. Meadows 
 
 **Fundamentals of Statistics** `EGR 245 (fa26)`
-- *Probability and Statistics for Engineering & the Sciences* by Jay Devore
+- *Probability & Statistics for Engineering & the Sciences* by Jay Devore
 
 **Ethics & Technology: Engineering in the Real World** `EGR 260 (sp26)`
 - *Engineering Ethics: Contemporary & Enduring Debates* by Deborah G. Johnson
