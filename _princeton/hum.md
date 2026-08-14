@@ -102,7 +102,16 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale
 - *Do Muslim Women Need Saving?* by Lila Abu-Lughod
 - ✔️ ***The Wretched of the Earth*** by Frantz Fanon
-- *Illuminations: Essays & Reflections* by Walter Benjamin 
+- *Illuminations: Essays & Reflections* by Walter Benjamin
+
+**The Anthropology of Lying & Deception** `HUM 294 (fa26)`
+- *How to Do Things with Words* by J.L. Austin
+- *The Modernity Bluff: Crime, Consumption & Citizenship in Côte d'Ivoire* by Sasha Newell
+- *Given Time: I. Counterfeit Money* by Jacques Derrida
+- *Passing: Two Publics in a Mexican Border City* by Rihan Yeh
+- *Mistrust: An Ethnographic Theory* by Matthew Carey
+- *Mules & Men* by Zora Neale Hurston
+- *Defacement: Public Secrecy & the Labor of the Negative* by Michael Taussig
 
 ## Junior level
 
