@@ -99,6 +99,8 @@ title: 🐯 Princeton History unofficial reading list 2026
 - ✔️ ***Darkwater: Voices from Within the Veil*** by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 
 **Memory, History & the Archive** `HIS 426 (fa26)`
+- *Memorial Drive: A Daughter's Memoir* by Natasha Trethewey
+- *Black History Is for Everyone* by Brian Jones
 - *Silencing the Past: Power & the Production of History* by Michel-Rolph Trouillot
 - *A More Beautiful & Terrible History: The Uses & Misuses of Civil Rights History* by Jeanne Theoharis
 - *Scattered & Fugitive Things: How Black Collectors Created Archives & Remade History* by Laura Helton
