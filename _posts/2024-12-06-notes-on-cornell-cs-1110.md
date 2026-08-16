@@ -1,7 +1,7 @@
 ---
 title: 'Notes on 🐻<i>Intro. to Computing: A Design & Development Perspective</i>'
 description: "Programming and problem solving using Python"
-hidden: true
+published: false
 author: Daniel Dantas
 ---
 
