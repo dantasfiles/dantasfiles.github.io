@@ -48,14 +48,6 @@ title: 🐯 Princeton African American Studies unofficial reading list, fall 202
 - *The March on Washington: Jobs, Freedom & the Forgotten History of Civil Rights* by William P. Jones
 - *Want to Start a Revolution?: Radical Women in the Black Freedom Struggle* by Gore et al.
 - *Bloody Lowndes: Civil Rights & Black Power in Alabama's Black Belt* by Hasan Kwame Jeffries
-  
-## Junior level
-
-**Black Mirror: Race, Technology & Justice** `AAS 339 (sp26)`
-- *Ruined by Design: How Designers Destroyed the World & What We Can Do to Fix It* by Mike Monteiro
-- *Data Feminism* by D'Ignazio & Klein
-- *Design Justice: Community-Led Practices to Build the Worlds We Need* by Sasha Costanza-Chock
-- *Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI* by Karen Hao
 
 ## Senior level
 
