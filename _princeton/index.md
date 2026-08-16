@@ -11,7 +11,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[General](#general)**
 
-**[Humanities & the Arts](#humanties--the-arts)**
+**[Humanities & the Arts](#humanities--the-arts)**
 
 **[Social Sciences](#social-sciences)**
 
