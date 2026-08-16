@@ -2,7 +2,7 @@
 title: 🐻 Cornell CS unofficial reading list (Spring 2025)
 description: This is an unofficial list of books that are recommended in Spring 2025 computer science classes at Cornell
 author: Daniel Dantas
-hidden: true
+published: false
 ---
 
 ### [← Fall 2024](https://dantasfiles.com/2024/08/27/cornell-cs-fa24.html) | [Fall 2025 →](https://dantasfiles.com/2025/08/25/cornell-cs-fa25.html) 
