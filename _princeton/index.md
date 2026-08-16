@@ -7,7 +7,19 @@ I compiled these unofficial reading lists using publicly available information f
 
 <!-- https://research.princeton.edu/research-princeton/research-areas -->
 
-## Humanities and the Arts
+## General
+
+<div style="column-count: 2;" markdown="1">
+
+**[First-Year Seminars](https://dantasfiles.com/princeton/frs)**
+
+**[Science & Technology](https://dantasfiles.com/princeton/stc)**
+
+**[Teacher Preparation](https://dantasfiles.com/princeton/tpp)**
+
+</div>
+
+## Humanities & the Arts
 
 <div style="column-count: 2;" markdown="1">
 
@@ -31,7 +43,11 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[German](https://dantasfiles.com/princeton/ger)**
 
+**[Hellenic Studies](https://dantasfiles.com/princeton/hls)**
+
 **[Humanities Council](https://dantasfiles.com/princeton/hum)**
+
+**[Judaic Studies](https://dantasfiles.com/princeton/jds)**
 
 **[Near Eastern Studies](https://dantasfiles.com/princeton/nes)**
 
@@ -57,11 +73,19 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Economics](https://dantasfiles.com/princeton/eco)**
 
-[Bendheim Center for **Finance**](https://dantasfiles.com/princeton/fin)
+**[Entrepreneurship](https://dantasfiles.com/princeton/ent)**
+
+**[Finance](https://dantasfiles.com/princeton/fin)**
+
+**[Gender & Sexuality Studies](https://dantasfiles.com/princeton/gss)**
 
 **[History](https://dantasfiles.com/princeton/his)**
 
 **[Human Values](https://dantasfiles.com/princeton/chv)**
+
+**[International & Regional Studies](https://dantasfiles.com/princeton/piirs)**
+
+**[Linguistics](https://dantasfiles.com/princeton/lin)**
 
 **[Politics](https://dantasfiles.com/princeton/pol)**
 
@@ -113,59 +137,20 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Electrical & Computer Engineering](https://dantasfiles.com/princeton/ece)**
 
-[Andlinger Center for **Energy & the Environment**](https://dantasfiles.com/princeton/ene)
+[**Energy & the Environment**](https://dantasfiles.com/princeton/ene)
 
 **[Engineering](https://dantasfiles.com/princeton/egr)**
+
+**[Materials Science & Engineering](https://dantasfiles.com/princeton/mse)**
 
 **[Mechanical & Aerospace Engineering](https://dantasfiles.com/princeton/mae)**
 
 **[Operations Research & Financial Engineering](https://dantasfiles.com/princeton/orf)**
 
-</div>
-
-
-## Minors and Centers
-
-<div style="column-count: 2;" markdown="1">
-
-
-
-
-**[Entrepreneurship](https://dantasfiles.com/princeton/ent)**
-
-
-
-**[First-Year Seminars](https://dantasfiles.com/princeton/frs)**
-
-**[Global Health & Health Policy](https://dantasfiles.com/princeton/ghp)**
-
-**[Gender & Sexuality Studies](https://dantasfiles.com/princeton/gss)**
-
-**[Hellenic Studies](https://dantasfiles.com/princeton/hls)**
-
-**[Humanistic Studies](https://dantasfiles.com/princeton/hum)**
-
-[Institute for **International & Regional Studies**](https://dantasfiles.com/princeton/piirs)
-
-**[Judaic Studies](https://dantasfiles.com/princeton/jds)**
-
-**[Journalism](https://dantasfiles.com/princeton/jrn)**
-
-**[Linguistics](https://dantasfiles.com/princeton/lin)**
-
-**[Materials Science & Engineering](https://dantasfiles.com/princeton/mse)**
-
-**[Medieval Studies](https://dantasfiles.com/princeton/med)**
-
 **[Robotics](https://dantasfiles.com/princeton/rob)**
 
-**[Science & Technology](https://dantasfiles.com/princeton/stc)**
-
-**[Teacher Preparation](https://dantasfiles.com/princeton/tpp)**
-
-**[Urban Studies](https://dantasfiles.com/princeton/urb)**
-
 </div>
+
 
 
 
