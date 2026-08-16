@@ -22,7 +22,10 @@ I've read the following from the list:
 ## Drama
 
 I've seen or read the following from the list:
-- William Shakespeare: *Coriolanus* / *Henry V* / *Henry VIII* / *A Midsummer Night's Dream* / *Much Ado About Nothing* / *The Tempest* / *The Winter's Tale*
+- William Shakespeare:
+  - Comedies: *A Midsummer Night's Dream* / *Much Ado About Nothing* / *The Tempest* / *The Winter's Tale*
+  - Tragedies: *Coriolanus*
+  - Histories:  *Henry V* / *Henry VIII* / 
 
 ## Nonfiction (essays, criticism, memoirs, travelogues & so on)
 
