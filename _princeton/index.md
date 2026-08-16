@@ -7,6 +7,20 @@ I compiled these unofficial reading lists using publicly available information f
 
 <!-- https://research.princeton.edu/research-princeton/research-areas -->
 
+<div style="column-count: 2;" markdown="1">
+
+**[General](#general)**
+
+**[Humanities & the Arts](#humanties--the-arts)**
+
+**[Social Sciences](#social-sciences)**
+
+**[Natural Sciences](#natural-sciences)**
+
+**[Engineering](#engineering)**
+
+</div>
+
 ## General
 
 <div style="column-count: 2;" markdown="1">
