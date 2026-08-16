@@ -1,7 +1,7 @@
 ---
 title: Notes on 📕<i>Object-Oriented Design and Data Structures</i> by 🐻Myers & Kozen
 description: "In-progress, incomplete"
-hidden: true
+published: false
 author: Daniel Dantas
 ---
 
