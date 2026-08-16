@@ -21,7 +21,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Comparative Literature](https://dantasfiles.com/princeton/com)**
 
-[Center for **Digital Humanities**](https://dantasfiles.com/princeton/cdh)
+**[Digital Humanities](https://dantasfiles.com/princeton/cdh)**
 
 **[East Asian Studies](https://dantasfiles.com/princeton/eas)**
 
@@ -57,6 +57,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[History](https://dantasfiles.com/princeton/his)**
 
+**[Human Values](https://dantasfiles.com/princeton/chv)**
+
 **[Politics](https://dantasfiles.com/princeton/pol)**
 
 [School of **Public & International Affairs**](https://dantasfiles.com/princeton/spi)
@@ -74,6 +76,8 @@ I compiled these unofficial reading lists using publicly available information f
 **[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
 
 **[Chemistry](https://dantasfiles.com/princeton/chm)**
+
+**[Cognitive Science](https://dantasfiles.com/princeton/cgs)**
 
 **[Ecology & Evolutionary Biology](https://dantasfiles.com/princeton/eeb)**
 
@@ -115,9 +119,7 @@ I compiled these unofficial reading lists using publicly available information f
 <div style="column-count: 2;" markdown="1">
 
 
-**[Cognitive Science](https://dantasfiles.com/princeton/cgs)**
 
-**[Human Values](https://dantasfiles.com/princeton/chv)**
 
 **[European Cultural Studies](https://dantasfiles.com/princeton/ecs)**
 
