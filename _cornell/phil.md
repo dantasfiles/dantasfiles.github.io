@@ -4,22 +4,22 @@ title: 🐻 Cornell Philosophy unofficial reading list, fall 2026
 
 ## Freshman level 
 
-**Philosophy in Practice: The Stoic Life** `PHIL 1110-001 (fa26)`
+**Philosophy in Practice: The Stoic Life** `PHIL 1110-001`
 - *The Stoic Life: Emotions, Duties & Fate* by Tad Brennan
 - *Letters on Ethics: To Lucilius* by Lucius Annaeus Seneca
 
-**Philosophical Conversations: Virtue Ethics: East & West** `PHIL 1112-001 (fa26)`
+**Philosophical Conversations: Virtue Ethics: East & West** `PHIL 1112-001`
 - *The Republic* by Plato
 - *Nicomachean Ethics* by Aristotle
 - *Readings in Classical Chinese Philosophy* by Norden & Ivanhoe
 
-**Philosophical Conversations: Plato's Phaedrus** `PHIL 1112-005 (fa26)`
+**Philosophical Conversations: Plato's Phaedrus** `PHIL 1112-005`
 - *Phaedrus* by Plato
 
-**Ethics of Eating** `PHIL 1440 (fa26)`
+**Ethics of Eating** `PHIL 1440`
 - *Food, Ethics & Society* by Barnhill et al.
 
-**Controversies About Inequality** `PHIL 1950 (fa26)`
+**Controversies About Inequality** `PHIL 1950`
 - *The Myth of Millionaire Tax Flight: How Place Still Matters for the Rich* by Cristobal Young
 - *How the Other Half Eats: The Untold Story of Food and Inequality in America* by Priya Fielding-Singh
 - *The Once and Future Worker: A Vision for the Renewal of Work in America* by Oren Cass
@@ -28,15 +28,16 @@ title: 🐻 Cornell Philosophy unofficial reading list, fall 2026
 
 ## Sophomore level
 
-**Greek & Roman Philosophy** `PHIL 2200 (fa26)`
+**Greek & Roman Philosophy** `PHIL 2200`
 - *Early Greek Philosophy*
 - *The Basic Works of Aristotle*
 - *Plato: Complete Works*
 - *Hellenistic Philosophy: Intro. Readings*
 
-**Intro. to Deductive Logic** `PHIL 2310 (fa26)`
+**Intro. to Deductive Logic** `PHIL 2310`
 - *Language, Proof & Logic* by Barker-Plummer et al.
 
-**Moral Dilemmas in the Law** `PHIL 2430 (fa26)`
+**Moral Dilemmas in the Law** `PHIL 2430`
 - *The Routledge Companion to Philosophy of Law* by Andrei Marmor
+
 

@@ -8,5 +8,6 @@ title: 🐻 Cornell American Indian & Indigenous Studies unofficial reading list
 
 | Junior level | | 
 | :---: | --- |
-| **Cayuga Language & Culture** <br> AIIS 3324 (fa26) | • *Wadewayestanih: A Cayuga Teaching Grammar* by Mithun & Henry |
+| **Cayuga Language & Culture** <br> AIIS 3324 | • *Wadewayestanih: A Cayuga Teaching Grammar* by Mithun & Henry |
+
 

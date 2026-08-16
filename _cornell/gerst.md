@@ -4,48 +4,49 @@ title: 🐻 Cornell German Studies unofficial reading list, fall 2026
 
 ## Freshman level
 
-**From Fairy Tales to the Uncanny: Exploring the Romantic Consciousness** `GERST 1109 (fa26)`
+**From Fairy Tales to the Uncanny: Exploring the Romantic Consciousness** `GERST 1109`
 - *Goethe, Tieck, Foque & Brentano: Romantic Fairy Tales*
 - *The Marquise of O & Other Stories* by Heinrich Von Kleist
 
-**Love & Death in Vienna** `GERST 1122 (fa26)`
+**Love & Death in Vienna** `GERST 1122`
 - *The Book of Franza & Requiem for Fanny Goldmann* by Ingeborg Bachmann
 - *Malina* by Ingeborg Bachmann
 
-**Exploring German Contexts I** `GERST 1210 (fa26)`
+**Exploring German Contexts I** `GERST 1210`
 - *DaF leicht: German as a Foreign Language for Adults, A1.1* by Jentges et al.
 - *DaF leicht: German as a Foreign Language for Adults, A1.2* by Jentges et al.
 
-**Exploring German Contexts II** `GERST 1220 (fa26)`
+**Exploring German Contexts II** `GERST 1220`
 - *DaF leicht: German as a Foreign Language for Adults, A1.2* by Jentges et al.
 - *DaF leicht: German as a Foreign Language for Adults, A2.1* by Jentges et al.
 
-**Expanding the German Dossier** `GERST 1230 (fa26)`
+**Expanding the German Dossier** `GERST 1230`
 - *DaF kompakt neu: German as a Foreign Language for Adults, A2* by Braun et al.
 
-**Elementary Yiddish I** `GERST 1776 (fa26)`
+**Elementary Yiddish I** `GERST 1776`
 - *In eynem: The New Yiddish Textbook* by Schulman et al.
 
 ## Sophomore level
 
-**Literary Texts & Contexts** `GERST 2020 (fa26)`
+**Literary Texts & Contexts** `GERST 2020`
 - *The Artificial Silk Girl* by Irmgard Keun
 - *Das lyrische Stenogrammheft* by Mascha Kaléko
 
-**Perspectives on German Culture** `GERST 2040 (fa26)`
+**Perspectives on German Culture** `GERST 2040`
 - *Kontext: German as a Foreign Language, B2.1*
 
-**Politics in Dark Times** `GERST 2655 (fa26)`
+**Politics in Dark Times** `GERST 2655`
 - *Between Past and Future* by Hannah Arendt
 - *The Human Condition* by Hannah Arendt
 - *Crises of the Republic: Lying in Politics, Civil Disobedience, On Violence, Thoughts on Politics & Revolution* by Hannah Arendt
 
 ## Junior level
 
-**Remembering Socialism: Literature & Film After the End of History** `GERST 3612 (fa26)`
+**Remembering Socialism: Literature & Film After the End of History** `GERST 3612`
 - *Free: A Child & a Country at the End of History* by Lea Ypi
 - *Omon Ra* by Victor Pelevin
 - *The Girl from the Metropol Hotel: Growing Up in Communist Russia* by Ludmilla Petrushevskay
 - *Red Plenty* by Francis Spufford
 - *The Ministry of Pain* by Dubravka Ugresic 
+
 

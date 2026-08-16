@@ -4,6 +4,7 @@ title: 🐻 Cornell Materials Science & Engineering unofficial reading list, fal
 
 ## Junior level
 
-**Thermodynamics of Condensed Systems** `MSE 3030/5830 (fa26)`
+**Thermodynamics of Condensed Systems** `MSE 3030/5830`
 - *Intro. to the Thermodynamics of Materials* by Gaskell & Laughlin
+
 

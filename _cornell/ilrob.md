@@ -4,7 +4,7 @@ title: 🐻 Cornell Organizational Behavior unofficial reading list, fall 2026
 
 ## Sophomore level 
 
-**Controversies About Inequality** `ILROB 2220 (fa26)`
+**Controversies About Inequality** `ILROB 2220`
 - *The Myth of Millionaire Tax Flight: How Place Still Matters for the Rich* by Cristobal Young
 - *How the Other Half Eats: The Untold Story of Food and Inequality in America* by Priya Fielding-Singh
 - *The Once and Future Worker: A Vision for the Renewal of Work in America* by Oren Cass
@@ -13,6 +13,7 @@ title: 🐻 Cornell Organizational Behavior unofficial reading list, fall 2026
 
 ## Junior level
 
-**Understanding and Improving Decision Making** `ILROB 3240 (fa26)`
+**Understanding and Improving Decision Making** `ILROB 3240`
 - *Judgment & Decision Making: Psychological Perspectives* by David Hardman
+
 

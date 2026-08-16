@@ -4,5 +4,6 @@ title: 🐻 Cornell Graduate Management Business Analytics unofficial reading li
 
 | Masters level | |
 | :---: | --- |
-| **Intro. to Accounting Analytics** <br> BANA 5000 (fa26) | • *Financial Accounting* by Libby et al. | 
+| **Intro. to Accounting Analytics** <br> BANA 5000 | • *Financial Accounting* by Libby et al. | 
+
 

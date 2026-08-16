@@ -4,7 +4,7 @@ title: 🐻 Cornell Architecture unofficial reading list, fall 2026
 
 ## Freshman level
 
-**Building to Extract: Architecture & Natural Resources** `ARCH 1901 (fa26)`
+**Building to Extract: Architecture & Natural Resources** `ARCH 1901`
 - *Wastelanding: Legacies of Uranium Mining in Navajo Country* by Traci Brynne Voyles
 - *Architecture & the Face of Coal: Mining & Modern Britain* by Gary A. Boyd
 - *Oil Revolution: Anticolonial Elites, Sovereign Rights & the Economic Culture of Decolonization* by Christopher R. W. Dietrich
@@ -18,4 +18,5 @@ title: 🐻 Cornell Architecture unofficial reading list, fall 2026
 - *City of Black Gold: Oil, Ethnicity & the Making of Modern Kirkuk* by Arbella Bet-Shlimon
 - *Brazil's Steel City: Developmentalism, Strategic Power & Industrial Relations in Volta Redonda, 1941-1964* by Oliver Dinius
 - *Extraction Ecologies & the Literature of the Long Exhaustion* by Elizabeth Carolyn Miller 
+
 

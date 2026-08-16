@@ -4,5 +4,6 @@ title: 🐻 Cornell Mechanical & Aerospace Engineering unofficial reading list, 
 
 | Senior level | |
 | :---: | --- |
-| **Robot Perception** <br> MAE 4810/5810 (fa26) | • *Information-Driven Planning and Control* by Ferrari & Wettergren | 
+| **Robot Perception** <br> MAE 4810/5810 | • *Information-Driven Planning and Control* by Ferrari & Wettergren | 
+
 

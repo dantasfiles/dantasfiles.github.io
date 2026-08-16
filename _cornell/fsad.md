@@ -4,7 +4,8 @@ title: 🐻 Cornell Fiber Science & Apparel Design unofficial reading list, fall
 
 ## Sophomore level
 
-**Structural Fabric Design** `FSAD 2370 (fa26)`
+**Structural Fabric Design** `FSAD 2370`
 - *Swatch Reference Guide for Fashion Fabrics* by Deborah E. Young
 - *J.J. Pizzuto's Fabric Science* by Sarkar et al.
+
 

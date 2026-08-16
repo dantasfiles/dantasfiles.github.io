@@ -4,7 +4,7 @@ title: 🐻 Cornell Classics unofficial reading list, fall 2026
 
 ## Freshman level
 
-**Classics & Comics** `CLASS 1812 (fa26)`
+**Classics & Comics** `CLASS 1812`
 - *Understanding Comics: The Invisible Art* by Scott McCloud
 - *300* by Miller & Varley
 - *ODY-C, v.1: Off to Far Ithica* by Fraction & Ward
@@ -13,7 +13,7 @@ title: 🐻 Cornell Classics unofficial reading list, fall 2026
 
 ## Sophomore level 
 
-**Greek Mythology** `CLASS 2604 (fa26)`
+**Greek Mythology** `CLASS 2604`
 - *The Iliad* by Homer
 - *The Homeric Hymns*
 - *The Metamorphoses* by Ovid
@@ -21,13 +21,14 @@ title: 🐻 Cornell Classics unofficial reading list, fall 2026
 - *Theogony* by Hesiod
 - *Works & Days* by Hesiod
 
-**Greek & Roman Philosophy** `CLASS 2661 (fa26)`
+**Greek & Roman Philosophy** `CLASS 2661`
 - *Early Greek Philosophy*
 - *The Basic Works of Aristotle*
 - *Plato: Complete Works*
 - *Hellenistic Philosophy: Intro. Readings*
 
-**Ancient Greek History** `CLASS 2675 (fa26)`
+**Ancient Greek History** `CLASS 2675`
 - *A Brief History of Ancient Greece: Politics, Society & Culture* by Pomeroy et al.
  
+
 

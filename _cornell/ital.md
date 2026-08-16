@@ -4,7 +4,7 @@ title: 🐻 Cornell Italian unofficial reading list, fall 2026
 
 ## Freshman level 
 
-**Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century** `ITAL 1113 (fa26)`
+**Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century** `ITAL 1113`
 - *Survival in Auschwitz* by Primo Levi
 - *Memoirs of a Fortunate Jew: An Italian Story* by Dan Vittorio Segre
 - *Who Loves You Like This* by Edith Bruck
@@ -18,22 +18,23 @@ title: 🐻 Cornell Italian unofficial reading list, fall 2026
 - *The Golden Age of Italian Jews: 1848-1938* by Gino Segrè
 - *The Most Tenacious of Minorities: The Jews of Italy* by Sara Reguer
 
-**Italian I** `ITAL 1201 (fa26)`
+**Italian I** `ITAL 1201`
 - *Piazza: Introductory Italian* by Melucci & Tognozzi
 
 ## Sophomore level
 
-**Italian III** `ITAL 2201 (fa26)`
+**Italian III** `ITAL 2201`
 - *Nuovo Spazio civilta* by Medaglia & Medaglia
 
-**Italian Mysteries** `ITAL 2290 (fa26)`
+**Italian Mysteries** `ITAL 2290`
 - *Imparare L'Italiano Con I Fumetti: Dylan Dog - Jack Lo Squartatore* by Cagli et al.
 
 ## Junior level
 
-**Pinocchio: Adventures in Literature & Film** `ITAL 3750 (fa26)`
+**Pinocchio: Adventures in Literature & Film** `ITAL 3750`
 - ✔️ ***Frankenstein; or, The Modern Prometheus*** by Mary Shelley
 - ✔️ ***The Adventures of Pinocchio*** by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas))
+
 
 
 

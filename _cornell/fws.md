@@ -4,12 +4,12 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list, fall 2026
 
 ## Anthropology 
 
-**Culture, Society & Power: Person, Time & Conduct** `ANTHR 1101-101 (fa26)`
+**Culture, Society & Power: Person, Time & Conduct** `ANTHR 1101-101`
 - *Stories as Equipment for Living: Last Talks and Tales of Barbara Myerhoff* 
 
 ## Architecture
 
-**Building to Extract: Architecture & Natural Resources** `ARCH 1901 (fa26)`
+**Building to Extract: Architecture & Natural Resources** `ARCH 1901`
 - *Wastelanding: Legacies of Uranium Mining in Navajo Country* by Traci Brynne Voyles
 - *Architecture & the Face of Coal: Mining & Modern Britain* by Gary A. Boyd
 - *Oil Revolution: Anticolonial Elites, Sovereign Rights & the Economic Culture of Decolonization* by Christopher R. W. Dietrich
@@ -26,11 +26,11 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list, fall 2026
 
 ## Asian Studies
 
-**Songs of Love & War: South Asian Lyrics** `ASIAN 1104 (fa26)`
+**Songs of Love & War: South Asian Lyrics** `ASIAN 1104`
 - *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
 - *Poems of Love & War: From the Eight Anthologies & the Ten Long Poems of Classical Tamil* by A. K. Ramanujan 
 
-**The Great Epic of India** `ASIAN 1106 (fa26)`
+**The Great Epic of India** `ASIAN 1106`
 - *The Bhagavadgita in the Mahabharata*
 - *The Mahabharata, v.1: The Book of the Beginning*
 - *The Mahabharata, v.2: The Book of Assembly & the Book of the Forest*
@@ -38,44 +38,44 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list, fall 2026
 
 ## Comparative Literature
 
-**Robots** `COML 1106-103 (fa26)`
+**Robots** `COML 1106-103`
 - *Severance* by Ling Ma
 - *The Dark Forest* by Cixin Liu
 - *Exhalation* by Ted Chiang
 
 ## English
 
-**Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104 (fa26)`
+**Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - ✔️ ***The Hobbit, or There & Back Again*** by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
 - ✔️ ***Frankenstein; or, The Modern Prometheus*** by Mary Shelley
 
-**Writing the Environment: Enchanting Nature** `ENGL 1130-101 (fa26)`
+**Writing the Environment: Enchanting Nature** `ENGL 1130-101`
 - *A Midsummer Night's Dream* by William Shakespeare
 
-**Writing the Environment: Climates of Resistance** `ENGL 1130-102 (fa26)`
+**Writing the Environment: Climates of Resistance** `ENGL 1130-102`
 - *Gardens in the Dunes* by Leslie Marmon Silko
 
-**True Stories** `ENGL 1134 (fa26)`
+**True Stories** `ENGL 1134`
 - *Assata* by Assata Shakur
 - *Borderlands / La Frontera: The New Mestiza* by Gloria Anzaldúa
 - ✔️ ***They Called Us Enemy*** by George Takei
 
-**American Voices: Lost in the City: The Great Migration & Imagining the Urban Space through Black Art** `ENGL 1158-102 (fa26)`
+**American Voices: Lost in the City: The Great Migration & Imagining the Urban Space through Black Art** `ENGL 1158-102`
 - *Selected Poems* by Gwendolyn Brooks
 - ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 - *Lost in the City* by Edward P. Jones
 - *The Vanishing Half* by Brit Bennett
 
-**Intersections: Race, Writing & Power** `ENGL 1160 (fa26)`
+**Intersections: Race, Writing & Power** `ENGL 1160`
 - *Talking Back: Thinking Feminist, Thinking Black* by bell hooks
 - *Thinking Through Writing* by Susan R. Horton
 
-**Cultural Studies: Black Politics & Writing Towards Liberation** `ENGL 1168-101 (fa26)`
+**Cultural Studies: Black Politics & Writing Towards Liberation** `ENGL 1168-101`
 - *Just Above My Head* by James Baldwin
 - *Assata* by Assata Shakur
 - *A Short Walk* by Alice Childress
 
-**Short Stories** `ENGL 1170-105 (fa26)`
+**Short Stories** `ENGL 1170-105`
 - *Go Down, Moses* by William Faulkner
 - ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 - *Me Talk Pretty One Day* by David Sedaris
@@ -83,17 +83,17 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list, fall 2026
 - *Collected Stories of Carson McCullers*
 - *Eudora Welty : Stories, Essays & Memoir*
 
-**Word & Image** `ENGL 1183-107 (fa26)`
+**Word & Image** `ENGL 1183-107`
 - *Citizen: An American Lyric* by Claudia Rankine
 - *American Journal: 50 Poems for Our Time* by Tracy K. Smith
 
-**British Literature: Oscar Wilde** `ENGL 1191-102 (fa26)`
+**British Literature: Oscar Wilde** `ENGL 1191-102`
 - *The Portable Oscar Wilde*
 - *A Pocket Style Manual with Exercises* by Hacker & Sommers
 
 ## Feminist, Gender & Sexuality Studies
 
-**Black Feminist Speculation & Futuring** `FGSS 1100-101 (fa26)`
+**Black Feminist Speculation & Futuring** `FGSS 1100-101`
 - *Captivating Technology: Race, Carceral Technoscience & Liberatory Imagination in Everyday Life* by Ruha Benjamin
 - *Bloodchild & Other Stories* by Octavia E. Butler
 - *Dear Science & Other Stories* by Katherine McKittrick
@@ -106,17 +106,17 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list, fall 2026
 
 ## German Studies
 
-**From Fairy Tales to the Uncanny: Exploring the Romantic Consciousness** `GERST 1109 (fa26)`
+**From Fairy Tales to the Uncanny: Exploring the Romantic Consciousness** `GERST 1109`
 - *Goethe, Tieck, Foque & Brentano: Romantic Fairy Tales*
 - *The Marquise of O & Other Stories* by Heinrich Von Kleist
 
-**Love & Death in Vienna** `GERST 1122 (fa26)`
+**Love & Death in Vienna** `GERST 1122`
 - *The Book of Franza & Requiem for Fanny Goldmann* by Ingeborg Bachmann
 - *Malina* by Ingeborg Bachmann
 
 ## Human Ecology
 
-**Health Equity: The Body Speaks: Narratives of Female Pain** `HE 1150 (fa26)`
+**Health Equity: The Body Speaks: Narratives of Female Pain** `HE 1150`
 - *The Wounded Storyteller: Body, Illness & Ethics* by Arthur W. Frank
 - *Giving Up the Ghost* by Hilary Mantel
 - *The Camera My Mother Gave Me* by Susanna Kaysen
@@ -124,7 +124,7 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list, fall 2026
 
 ## Italian
 
-**Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century** `ITAL 1113 (fa26)`
+**Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century** `ITAL 1113`
 - *Survival in Auschwitz* by Primo Levi
 - *Memoirs of a Fortunate Jew: An Italian Story* by Dan Vittorio Segre
 - *Who Loves You Like This* by Edith Bruck
@@ -140,58 +140,59 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list, fall 2026
 
 ## Jewish Studies
 
-**Jews on Film: Visible & Invisible** `JWST 1987 (fa26)`
+**Jews on Film: Visible & Invisible** `JWST 1987`
 - *Hollywood & Hitler, 1933-1939* by Thomas Doherty
 
 ## Linguistics
 
-**Language, Thought & Reality: Words & Pictures** `LING 1100-001 (fa26)`
+**Language, Thought & Reality: Words & Pictures** `LING 1100-001`
 - ✔️ ***Maus: A Survivor's Tale*** by Art Spiegelman
 - *What Great Paintings Say: Masterpieces in Detail* by Hagen & Hagen
 - *Persepolis* by Marjane Satrapi
 
 ## Medieval Studies
 
-**Aspects of Medieval Culture: Medieval Images: Art, Experience & Debate** `MEDVL 1101-104 (fa26)`
+**Aspects of Medieval Culture: Medieval Images: Art, Experience & Debate** `MEDVL 1101-104`
 - *How to Read Medieval Art* by Wendy A. Stein
 - *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
 
 ## Natural Resources
 
-**Writing Place & the Environment** `NTRES 1200-101 (fa26)`
+**Writing Place & the Environment** `NTRES 1200-101`
 - *A Sand County Almanac* by Aldo Leopold
 
 ## Philosophy
 
-**Philosophy in Practice: The Stoic Life** `PHIL 1110-001 (fa26)`
+**Philosophy in Practice: The Stoic Life** `PHIL 1110-001`
 - *The Stoic Life: Emotions, Duties & Fate* by Tad Brennan
 - *Letters on Ethics: To Lucilius* by Lucius Annaeus Seneca 
 
-**Philosophical Conversations: Virtue Ethics: East & West** `PHIL 1112-001 (fa26)`
+**Philosophical Conversations: Virtue Ethics: East & West** `PHIL 1112-001`
 - *The Republic* by Plato
 - *Nicomachean Ethics* by Aristotle
 - *Readings in Classical Chinese Philosophy* by Norden & Ivanhoe
 
-**Philosophical Conversations: Plato's Phaedrus** `PHIL 1112-005 (fa26)`
+**Philosophical Conversations: Plato's Phaedrus** `PHIL 1112-005`
 - *Phaedrus* by Plato
 
 ## Romance Studies
 
-**The Craft of Storytelling: The Decameron** `ROMS 1102-001 (fa26)`
+**The Craft of Storytelling: The Decameron** `ROMS 1102-001`
 - *The Decameron* by Giovanni Boccaccio
 
-**Thinking & Thought: Dante's Examined Life** `ROMS 1113-001/002 (fa26)`
+**Thinking & Thought: Dante's Examined Life** `ROMS 1113-001/002`
 - *The Divine Comedy, v.1: Inferno* by Dante Alighieri 
 
 ## Spanish
 
-**Narrating the Spanish Civil War** `SPAN 1305 (fa26)`
+**Narrating the Spanish Civil War** `SPAN 1305`
 - *Requiem for a Spanish Peasant* by Ramón J. Sender
 - *The Spanish Civil War: A Very Short Introduction* by Helen Graham
 
 ## Writing Program
 
-**Elements of Academic Writing: Food for Thought** `WRIT 1370 (fa26)`
+**Elements of Academic Writing: Food for Thought** `WRIT 1370`
 - *The Transition to College Writing* by Keith Hjortshoj
 - *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
+
 
