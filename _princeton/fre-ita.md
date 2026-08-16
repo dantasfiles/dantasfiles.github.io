@@ -42,7 +42,7 @@ layout: reading-list
 - *Dora Bruder* by Patrick Modiano
 
 **Wandering Utopias: Writing & Rewriting Reality** `FRE 306`
-- *Friday, or, The Other Island* by Michel Tournier 
+- *Friday & Robinson: Life on Speranza Island* by Michel Tournier 
 
 **20th-Century French Narrative Prose: Reading Proust** `FRE 524`
 - *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust
