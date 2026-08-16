@@ -2,7 +2,7 @@
 title: 🐯 Princeton Comparative Literature unofficial reading list 2026
 ---
 
-The Department of Comparative Literature also publishes a [suggested reading list](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list).<br>I've compiled the films in that list to a [Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/) where you can track your progress
+The Department of Comparative Literature also publishes a [suggested reading list](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list).<br>I track the books I've read from that list on [this page](https://dantasfiles.com/princeton/com-suggested)
 
 ## Sophomore level
 
