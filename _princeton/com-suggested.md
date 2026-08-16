@@ -22,5 +22,9 @@ I've seen the following:
 - Ingmar Bergman
   - The Virgin Spring
   - Winter Light
+- Charlie Chaplin
+  - Gold Rush
+  - The Kid
+- 
 - Bernardo Bertolucci
   - The Last Emperor 
