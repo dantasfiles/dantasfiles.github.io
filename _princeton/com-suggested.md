@@ -19,8 +19,6 @@ I've read the following from the list:
 - Mary Shelley: *Frankenstein*
 - Mark Twain: *The Adventures of Tom Sawyer* / *The Adventures of Huckleberry Finn*
 
-## Epic, sacred texts, folktales
-
 ## Drama
 
 I've seen or read the following from the list:
