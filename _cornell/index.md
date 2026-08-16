@@ -1,20 +1,22 @@
 ## Agriculture & Life Sciences
 
-[American Indian & Indigenous Studies](https://dantasfiles.com/cornell/aiis)
+**[American Indian & Indigenous Studies](https://dantasfiles.com/cornell/aiis)**
 
 ## Arts & Sciences
 
+**[American Studies](https://dantasfiles.com/cornell/amst)**
+
+**[Anthropology](https://dantasfiles.com/cornell/anthr)**
+
 ## Business
 
-[Applied Economics & Management](https://dantasfiles.com/cornell/aem)
+**[Applied Economics & Management](https://dantasfiles.com/cornell/aem)**
 
 ## Engineering
 
-[Applied & Engineering Physics](https://dantasfiles.com/cornell/aep)
+**[Applied & Engineering Physics](https://dantasfiles.com/cornell/aep)**
 
-[American Studies](https://dantasfiles.com/cornell/amst)
 
-[Anthropology](https://dantasfiles.com/cornell/anthr)
 
 arab.md
 arch.md
