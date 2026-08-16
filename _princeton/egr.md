@@ -26,13 +26,6 @@ title: 🐯 Princeton Engineering unofficial reading list, fall 2026
 **Fundamentals of Statistics** `EGR 245`
 - *Probability & Statistics for Engineering & the Sciences* by Jay Devore
 
-**Ethics & Technology: Engineering in the Real World** `EGR 260 (sp26)`
-- *Engineering Ethics: Contemporary & Enduring Debates* by Deborah G. Johnson
-- *Blind Spots: Why We Fail to Do What's Right & What to Do about It* by Bazerman & Tenbrunsel
-- *Giving Voice to Values: How to Speak Your Mind When You Know What's Right* by Mary C. Gentile
-- *The Essential Engineer: Why Science Alone Will Not Solve Our Global Problems* by Henry Petroski
-- *To Engineer Is Human: The Role of Failure in Successful Design* by Henry Petroski
-
 **People-Centered: Doing Anthropology** `EGR 299`
 - *The Ethnographer's Way: A Handbook for Multidimensional Research Design* by Peterson & Olson
 - *Making Livable Worlds: Afro-Puerto Rican Women Building Environmental Justice* by Hilda Llorens
