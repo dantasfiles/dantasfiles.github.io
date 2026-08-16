@@ -24,7 +24,9 @@ I've seen the following:
 - Francis Ford Coppola: *Apocalypse Now*
 - Federico Fellini: *La Dolce Vita*
 - Werner Herzog: *Grizzly Man* / *Cave of Forgotten Dreams* / *Into the Inferno*
-
+- Alfred Hitchcock: *North by Northwest* / *The Birds*
+- Peter Jackson: *The Lord of the Rings*
+- Buster Keaton: *The General* / *Sherlock, Jr.*
 
 
 
