@@ -1,7 +1,7 @@
 ---
 title: Notes on 🐻<i>Introduction to Analysis of Algorithms</i>
 description: "In-progress, incomplete"
-hidden: true
+published: false
 author: Daniel Dantas
 ---
 
