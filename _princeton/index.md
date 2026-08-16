@@ -23,6 +23,12 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[French & Italian](https://dantasfiles.com/princeton/fre-ita)**
 
+**[German](https://dantasfiles.com/princeton/ger)**
+
+**[Near Eastern Studies](https://dantasfiles.com/princeton/nes)**
+
+**[Philosophy](https://dantasfiles.com/princeton/phi)**
+
 </div>
 
 ## Social Sciences
@@ -35,6 +41,10 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Economics](https://dantasfiles.com/princeton/eco)**
 
+**[History](https://dantasfiles.com/princeton/his)**
+
+**[Politics](https://dantasfiles.com/princeton/pol)**
+
 </div>
 
 ## Natural Sciences
@@ -46,6 +56,16 @@ I compiled these unofficial reading lists using publicly available information f
 **[Chemistry](https://dantasfiles.com/princeton/chm)**
 
 **[Ecology & Evolutionary Biology](https://dantasfiles.com/princeton/eeb)**
+
+**[Geosciences](https://dantasfiles.com/princeton/geo)**
+
+**[Mathematics](https://dantasfiles.com/princeton/mat)**
+
+**[Molecular Biology](https://dantasfiles.com/princeton/mol)**
+
+**[Neuroscience](https://dantasfiles.com/princeton/neu)**
+
+**[Physics](https://dantasfiles.com/princeton/phy)**
 
 </div>
 
@@ -61,6 +81,10 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Electrical & Computer Engineering](https://dantasfiles.com/princeton/ece)**
 
+**[Mechanical & Aerospace Engineering](https://dantasfiles.com/princeton/mae)**
+
+**[Operations Research & Financial Engineering](https://dantasfiles.com/princeton/orf)**
+
 </div>
 
 **[Architecture](https://dantasfiles.com/princeton/apc)**
@@ -74,29 +98,6 @@ I compiled these unofficial reading lists using publicly available information f
 
 
 
-**[Geosciences](https://dantasfiles.com/princeton/geo)**
-
-**[German](https://dantasfiles.com/princeton/ger)**
-
-**[History](https://dantasfiles.com/princeton/his)**
-
-**[Italian](https://dantasfiles.com/princeton/ita)**
-
-**[Mechanical & Aerospace Engineering](https://dantasfiles.com/princeton/mae)**
-
-**[Mathematics](https://dantasfiles.com/princeton/mat)**
-
-**[Molecular Biology](https://dantasfiles.com/princeton/mol)**
-
-**[Near Eastern Studies](https://dantasfiles.com/princeton/nes)**
-
-**[Neuroscience](https://dantasfiles.com/princeton/neu)**
-
-**[Operations Research & Financial Engineering](https://dantasfiles.com/princeton/orf)**
-
-**[Philosophy](https://dantasfiles.com/princeton/phi)**
-
-**[Physics](https://dantasfiles.com/princeton/phy)**
 
 **[Politics](https://dantasfiles.com/princeton/pol)**
 
