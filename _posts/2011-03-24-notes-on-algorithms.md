@@ -1,7 +1,7 @@
 ---
 title: Notes on 📕<i>Algorithms</i> by 🐯Sedgewick & Wayne</i>
 description: "In-progress, incomplete"
-hidden: true
+published: false
 author: Daniel Dantas
 ---
 
