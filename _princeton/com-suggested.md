@@ -26,7 +26,7 @@ I've seen the following:
 - Werner Herzog: *Grizzly Man* / *Cave of Forgotten Dreams* / *Into the Inferno*
 - Alfred Hitchcock: *North by Northwest* / *The Birds*
 - Peter Jackson: *The Lord of the Rings*
-- Buster Keaton: *The General* / *Sherlock, Jr.*
+- Buster Keaton: *The General* / *Sherlock Jr.*
 
 
 
