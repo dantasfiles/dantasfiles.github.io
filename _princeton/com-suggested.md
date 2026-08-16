@@ -33,6 +33,8 @@ I've read the following from the list:
 - Frantz Fanon: *The Wretched of the Earth*
 - *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
 - Nelson Mandela: *Long Walk to Freedom*
+- Karl Marx: *The Communist Manifesto*
+- Virginia Woolf: *A Room of One's Own* ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 
 ## Film & other visual media
 
