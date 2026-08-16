@@ -1,8 +1,9 @@
 
-Business
-[Applied Economics & Management](./aem)
+## Business
 
-aem.md
+[Applied Economics & Management](https://dantasfiles.com/cornell/aem)
+
+
 aep.md
 aiis.md
 amst.md
