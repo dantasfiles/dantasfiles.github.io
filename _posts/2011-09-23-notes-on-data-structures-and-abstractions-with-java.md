@@ -1,7 +1,7 @@
 ---
 title: Notes on 📕<i>Data Structures & Abstractions with Java</i> by Frank M. Carrano
 description: "In-progress, incomplete"
-hidden: true
+published: false
 author: Daniel Dantas
 ---
 
