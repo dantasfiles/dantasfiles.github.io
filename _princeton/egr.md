@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Engineering unofficial reading list, fall 2026
+title: 🐯 Princeton Keller Center unofficial reading list, fall 2026
 ---
 
 ## Freshman level 
@@ -14,7 +14,7 @@ title: 🐯 Princeton Engineering unofficial reading list, fall 2026
 
 ## Sophomore level
 
-**Creativity, Innovation & Design** `EGR 200`
+**Creativity, Innovation & Design** `EGR 200 / ENT 200`
 - *A Whack on the Side of the Head: How You Can Be More Creative* by Roger von Oech
 - *Experiencing Design: The Innovator's Journey* by Liedtka et al.
 
@@ -26,7 +26,7 @@ title: 🐯 Princeton Engineering unofficial reading list, fall 2026
 **Fundamentals of Statistics** `EGR 245`
 - *Probability & Statistics for Engineering & the Sciences* by Jay Devore
 
-**People-Centered: Doing Anthropology** `EGR 299`
+**People-Centered: Doing Anthropology** `EGR 299 / ENT 299`
 - *The Ethnographer's Way: A Handbook for Multidimensional Research Design* by Peterson & Olson
 - *Making Livable Worlds: Afro-Puerto Rican Women Building Environmental Justice* by Hilda Llorens
 
@@ -41,43 +41,15 @@ title: 🐯 Princeton Engineering unofficial reading list, fall 2026
 - *Intro. To Probability* by Bertsekas & Tsitsiklis
 - *Intro. to Probability Models* by Sheldon M. Ross 
 
-**Black Mirror: Race, Technology & Justice** `EGR 339 (sp26)`
-- *Ruined by Design: How Designers Destroyed the World & What We Can Do to Fix It* by Mike Monteiro
-- *Data Feminism* by D'Ignazio & Klein
-- *Design Justice: Community-Led Practices to Build the Worlds We Need* by Sasha Costanza-Chock
-- *Empire of AI: Dreams & Nightmares in Sam Altman's OpenAI* by Karen Hao
-
 ## Senior level
 
-[**Innovating Across Tech, Business & Marketplaces**](https://www.cs.princeton.edu/courses/archive/spring26/cos448/) `EGR 448 (sp26)`
-- ✔️ ***The Everything Store: Jeff Bezos & the Age of Amazon*** by Brad Stone ([my highlights](https://www.goodreads.com/notes/54388921-the-everything-store/185327722-daniel-dantas))
-- *In the Plex: How Google Thinks, Works & Shapes Our Lives* by Steven Levy
-- ✔️ ***The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers*** by Ben Horowitz ([my highlights](https://www.goodreads.com/notes/20657434-the-hard-thing-about-hard-things/185327722-daniel-dantas))
-- *Venture Deals: Be Smarter Than Your Lawyer & Venture Capitalist* by Feld & Mendelson
-- *The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail* by Clayton M. Christensen
-- *Crush It!: Why Now Is The Time To Cash In On Your Passion* by Gary Vaynerchuk
-- ✔️ ***Art of the Start : The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything*** by Guy Kawasaki
-- *Demand: Creating What People Love Before They Know They Want It* by Slywotzky & Weber
-- ✔️ ***Rework*** by Fried & Hansson ([my highlights](https://www.goodreads.com/notes/9118033-rework/185327722-daniel-dantas))
-- ✔️ ***Positioning: The Battle for Your Mind*** by Ries & Trout ([my highlights](https://www.goodreads.com/notes/18914433-positioning/185327722-daniel-dantas))
-- ✔️ ***The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*** by Eric Ries
-- *Running Lean: Iterate From Plan A to a Plan That Works* by Ash Maurya
-- *Lean Analytics: Use Data to Build a Better Startup Faster* by Croll & Yoskovitz
-- *The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company* by Blank & Dorf
-- *Business Model Generation: A Handbook for Visionaries, Game Changers & Challengers* by Osterwalder & Pigneur
-- ✔️ ***Delivering Happiness: A Path to Profits, Passion & Purpose*** by Tony Hsieh ([my highlights](https://www.goodreads.com/notes/8705950-delivering-happiness/185327722-daniel-dantas))
-- *Powerful: Building a Culture of Freedom & Responsibility* by Patty McCord
-- ✔️ ***Crossing the Chasm: Marketing & Selling Disruptive Products to Mainstream Customers*** by Geoffrey A. Moore
-- ✔️ ***Good to Great: Why Some Companies Make the Leap & Others Don't*** by Jim Collins
-- See website for article list
-
-**High-Tech Entrepreneurship** `EGR 491`
+**High-Tech Entrepreneurship** `EGR 491 / ENT 491`
 - *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danner
 
-**Entrepreneurship: Ventures of Impact** `EGR 495`
+**Entrepreneurship: Ventures of Impact** `EGR 495 / ENT 495`
 - *Effectual Entrepreneurship* by Sarasvathy & Wheatley
 
-**Entrepreneurial Leadership** `EGR 497`
+**Entrepreneurial Leadership** `EGR 497 / ENT 497`
 - *How Will You Measure Your Life?* by Clayton M. Christensen
 - *Startup Leadership: How Savvy Entrepreneurs Turn Their Ideas Into Successful Enterprises* by Derek Lidow
 
