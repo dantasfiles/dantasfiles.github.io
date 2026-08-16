@@ -25,7 +25,7 @@ I've seen or read the following from the list:
 - William Shakespeare:
   - Comedies: *A Midsummer Night's Dream* / *Much Ado About Nothing* / *The Tempest* / *The Winter's Tale*
   - Tragedies: *Coriolanus*
-  - Histories:  *Henry V* / *Henry VIII* / 
+  - Histories:  *Henry V* / *Henry VIII* 
 
 ## Nonfiction (essays, criticism, memoirs, travelogues & so on)
 
