@@ -6,6 +6,12 @@ The Department of Comparative Literature publishes a [suggested reading list](ht
 
 ## Fiction (including novels & short story collections)
 
+- Chinua Achebe: *Things Fall Apart*
+- Jane Austen: *Sense & Sensibility*
+- Umberto Eco: *The Name of the Rose*
+- F. Scott Fitzgerald: *The Great Gatsby* / *The Beautiful & the Damned*
+
+
 ## Epic, sacred texts, folktales
 
 ## Drama
