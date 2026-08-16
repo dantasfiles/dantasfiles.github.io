@@ -32,6 +32,11 @@ I've seen the following:
 - George Lucas: *Star Wars*
 - Chris Marker: *La jetée*
 - Georges Méliès: *A Trip to the Moon* / *The Impossible Voyage*
+- Hayao Miyazaki: *Spirited Away*
+- Christopher Nolan: *The Dark Knight*
+- Park Chan-wook: *Oldboy*
+- Orson Welles: *Citizen Kane* / *Chimes at Midnight*
+- Wong Kar-wai: *The Grandmaster*
 
 
 
