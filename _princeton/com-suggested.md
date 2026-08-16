@@ -27,6 +27,11 @@ I've seen the following:
 - Alfred Hitchcock: *North by Northwest* / *The Birds*
 - Peter Jackson: *The Lord of the Rings*
 - Buster Keaton: *The General* / *Sherlock Jr.*
+- Fritz Lang: *Metropolis*
+- Spike Lee: *4 Little Girls* / *Inside Man*
+- George Lucas: *Star Wars*
+- Chris Marker: *La jetée*
+- Georges Méliès: *A Trip to the Moon* / *The Impossible Voyage*
 
 
 
