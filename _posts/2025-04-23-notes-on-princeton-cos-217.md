@@ -1,7 +1,7 @@
 ---
 title: "Notes on 🐯<i>Introduction to Programming Systems</i>"
 description: "Developing skills for composing large programs, including modularity, abstraction, programming style, and best practices for code development, testing, debugging, and performance tuning"
-hidden: true
+published: false
 author: Daniel Dantas
 ---
 
