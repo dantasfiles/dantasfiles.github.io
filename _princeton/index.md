@@ -5,6 +5,8 @@ layout: page
 
 I compiled these unofficial reading lists using publicly available information from the [online bookstore](https://princeton.ecampus.com/) and course webpages.<br>To keep track of my own explorations, I've marked books and papers I've read with a **bold** ✔️
 
+<!-- https://research.princeton.edu/research-princeton/research-areas -->
+
 ## Humanities and the Arts
 
 <div style="column-count: 2;" markdown="1">
