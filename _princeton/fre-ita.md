@@ -33,18 +33,36 @@ layout: reading-list
 - *A Tempest* by Aimé Césaire
 
 **French Theater Workshop** `FRE 211`
-- *Le Malade Imaginaire* by Molière
-- *Un Fil à la Patte* by Georges Feydeau 
+- *The Imaginary Invalid* by Molière
+- *Tied by the Leg* by Georges Feydeau 
 
 **Revisiting Paris** `FRE 217`
-- *Kiffe Kiffe demain* by Faïza Guène
+- *Kiffe Kiffe Tomorrow* by Faïza Guène
 - *Cannibale* by Didier Daeninckx
 - *Dora Bruder* by Patrick Modiano
 
-**Wandering Utopias: Writing & Rewriting Reality** `FRE 306 | • *Vendredi ou la vie sauvage* by Michel Tournier | 
+**Wandering Utopias: Writing & Rewriting Reality** `FRE 306`
+- *Friday, or, The Other Island* by Michel Tournier 
 
-| Graduate level | |
-| :---: | --- |
-| **20th-Century French Narrative Prose: Reading Proust** <br> FRE 524 | • *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust | 
+**20th-Century French Narrative Prose: Reading Proust** `FRE 524`
+- *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust
+
+## Italian
+
+**Beginner's Italian I** `ITA 101`
+- *Gramm.it for English Speakers: Italian Grammar*
+
+**Adv. Italian: Contemporary Society & Culture** `ITA 108`
+- *Sequenze Italian Through Contemporary Film* by Dossena & Dupont
+
+**Medieval Italian Literature & Culture: Dante Pop: The Divine Comedy in Popular Culture** `ITA 302`
+- *Il Dante di Tutti: Un'Icona Pop* by Giuseppe Antonelli
+- *Dante's Divine Comedy: A Biography* by Joseph Luzzi
+- *Dante Alive: Essays on a Cultural Icon* by Ciabattoni & Marchesi
 
 
+
+
+
+
+##
