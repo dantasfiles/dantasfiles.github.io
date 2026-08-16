@@ -1,7 +1,7 @@
 ---
 title: Notes on 📕<i>Principled Programming</i> by 🐻Tim Teitelbaum
 description: "In-progress, incomplete. Introduction to Coding in Any Imperative Language"
-hidden: true
+published: false
 author: Daniel Dantas
 ---
 
