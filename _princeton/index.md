@@ -87,8 +87,6 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Economics](https://dantasfiles.com/princeton/eco)**
 
-**[Entrepreneurship](https://dantasfiles.com/princeton/ent)**
-
 **[Finance](https://dantasfiles.com/princeton/fin)**
 
 **[Gender & Sexuality Studies](https://dantasfiles.com/princeton/gss)**
@@ -153,7 +151,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 [**Energy & the Environment**](https://dantasfiles.com/princeton/ene)
 
-**[Engineering](https://dantasfiles.com/princeton/egr)**
+**[Engineering Entrepreneurship](https://dantasfiles.com/princeton/egr)**
 
 **[Materials Science & Engineering](https://dantasfiles.com/princeton/mse)**
 
