@@ -24,7 +24,7 @@ I've read the following from the list:
 ## Drama
 
 I've seen or read the following from the list:
-- William Shakespeare: *Henry VIII* / *The Tempest* / *The Winter's Tale*
+- William Shakespeare: *Coriolanus* / *Henry V* / *Henry VIII* / *A Midsummer Night's Dream* / *Much Ado About Nothing* / *The Tempest* / *The Winter's Tale*
 
 ## Nonfiction (essays, criticism, memoirs, travelogues & so on)
 
