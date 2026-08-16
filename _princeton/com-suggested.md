@@ -17,11 +17,8 @@ The Department of Comparative Literature publishes a [suggested reading list](ht
 I've compiled a [Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/) of the films in this section
 
 I've seen the following:
-- Michelangelo Antonioni
-  - L'Avventura
-- Ingmar Bergman
-  - The Virgin Spring
-  - Winter Light
+- Michelangelo Antonioni: *L'Avventura*
+- Ingmar Bergman: *The Virgin Spring* & *Winter Light*
 - Charlie Chaplin
   - Gold Rush
   - The Kid
