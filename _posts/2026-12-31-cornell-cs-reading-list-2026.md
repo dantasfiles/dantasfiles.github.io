@@ -2,6 +2,7 @@
 title: 🐻 Cornell CS unofficial reading list 2026
 description: This is an unofficial list of books that are recommended in 2026 computer science classes at Cornell
 author: Daniel Dantas
+published: false
 ---
 
 This is an unofficial list of books that are recommended in 2026 computer science classes at Cornell\
