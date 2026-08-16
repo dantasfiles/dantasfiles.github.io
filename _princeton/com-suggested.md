@@ -18,6 +18,13 @@ I've compiled a [Letterboxd list](https://letterboxd.com/dantasfiles/list/prince
 
 I've seen the following:
 - Michelangelo Antonioni: *L'Avventura*
-- Ingmar Bergman: *The Virgin Spring* & *Winter Light*
-- Charlie Chaplin: *Gold Rush* & *The Kid*
+- Ingmar Bergman: *The Virgin Spring* / *Winter Light*
+- Charlie Chaplin: *Gold Rush* / *The Kid*
 - Bernardo Bertolucci: *The Last Emperor* 
+- Francis Ford Coppola: *Apocalypse Now*
+- Federico Fellini: *La Dolce Vita*
+- Werner Herzog: *Grizzly Man* / *Cave of Forgotten Dreams* / *Into the Inferno*
+
+
+
+
