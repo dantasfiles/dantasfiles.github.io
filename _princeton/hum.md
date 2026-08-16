@@ -1,8 +1,78 @@
 ---
-title: 🐯 Princeton Humanistic Studies unofficial reading list
+title: 🐯 Princeton Humanities Council unofficial reading list, fall 2026
 ---
+<div style="column-count: 2;" markdown="1">
+  
+**[European Cultural Studies](#european-cultural-studies)**
 
-## Sophomore level
+**[Humanistic Studies](#humanistic-studies)**
+
+**[Journalism](#journalism)**
+
+**[Medieval Studies](#medieval-studies)**
+
+</div>
+
+## European Cultural Studies
+
+**Landmarks of European Identity** `ECS 302`
+- ✔️ ***Neuromancer*** by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
+- *Faust* by Johann Wolfgang von Goethe
+- *The Master & Margarita* by Mikhail Bulgakov
+- *Mephisto* by Klaus Mann
+- *Dr. Faustus* by Christopher Marlowe
+- *Dr. Faustus: The Life of the German Composer Adrian Leverkuhn As Told by a Friend* by Thomas Mann 
+
+**Wandering Utopias: Writing & Rewriting Reality** `ECS 309`
+- *Friday & Robinson: Life on Speranza Island* by Michel Tournier
+
+**The Modern Period** `ECS 319`
+- ✔️ ***A Room of One's Own*** by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+- *The Fourth World* by Diamela Eltit
+- *The Parable of the Sower* by Octavia E. Butler
+- *The Burrow* by Franz Kafka
+- *Kiss of the Spider Woman* by Manuel Puig
+
+**Revisiting Paris** `ECS 327`
+- *Kiffe Kiffe demain* by Faïza Guène
+- *Cannibale* by Didier Daeninckx
+- *Dora Bruder* by Patrick Modiano
+
+**East European Literature** `ECS 354`
+- *The Death of a Soldier Told by His Sister* by Olesya Khromeychuk
+- *Chernobyl Prayer: A Chronicle of the Future* by Svetlana Alexievich
+- *The Radetzky March* by Joseph Roth
+- *The Bridge on the Drina* by Ivo Andric
+- *Ferdydurke* by Witold Gombrowicz
+- *The Street of Crocodiles* by Bruno Schulz
+- *Kaddish for an Unborn Child* by Imre Kertész
+- *The Appointment* by Herta Müller
+- *The Door* by Magda Szabo
+- *The Trial* by Franz Kafka
+- *Satantango* by László Krasznahorkai 
+
+**Romanticism & the Age of Revolutions** `ECS 368`
+- *Confessions of an English Opium Eater* by Thomas De Quincey
+- *The Longman Anthology of British Literature, Volume 2A: The Romantics & Their Contemporaries* by David Damrosch et al.
+
+**19th-Century European Art: Painting & Literature in 19th C. France and England** `ECS 450`
+- *The Picture of Dorian Gray* by Oscar Wilde
+- *The Masterpiece* by Émile Zola
+- *The Unknown Masterpiece* by Honoré de Balzac
+- *Like Death* by Guy de Maupassant
+- *Villette* by Charlotte Brontë
+
+**The Age of Democratic Revolutions** `ECS 487`
+- *The Revolution to Come: A History of an Idea from Thucydides to Lenin* by Dan Edelstein
+- ✔️ ***The Birth of the Republic, 1763–89*** by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
+- *The Freedoms We Lost: Consent & Resistance in Revolutionary America* by Barbara Clark Smith
+- *The Radicalism of the American Revolution* by Gordon S. Wood
+- *The Terror of Natural Right: Republicanism, the Cult of Nature & the French Revolution* by Dan Edelstein
+- *When the King Took Flight* by Timothy Tackett
+- *A Concise History of the Haitian Revolution* by Jeremy D. Popkin
+- *The Age of Revolutions: And the Generations Who Made It* by Nathan Perl-Rosenthal  
+
+## Humanistic Studies
 
 **The Byzantine Empire** `HUM 204`
 - ✔️ *Byzantium: A Very Short Intro.* by Peter Sarris
@@ -113,8 +183,6 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *Mules & Men* by Zora Neale Hurston
 - *Defacement: Public Secrecy & the Labor of the Negative* by Michael Taussig
 
-## Junior level
-
 **Musical Theatre & Fan Cultures** `HUM 340`
 - *Fandom in Musical Theatre* by Jessica Hillman-McCord
 - *John Proctor is the Villain* by Kimberly Belflower
@@ -122,8 +190,6 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 **The Bible as Literature** `HUM 390`
 - *The Literary Guide to the Bible* by Alter & Kermode
 - *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version*
-
-## Senior level
 
 **Translation, Migration, Culture** `HUM 400`
 - *Migrant Brothers: A Poet's Declaration of Human Dignity* by Patrick Chamoiseau
@@ -147,8 +213,6 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - *Like Death* by Guy de Maupassant
 - *Villette* by Charlotte Brontë
 
-## Graduate level
-
 **20th-Century French Narrative Prose: Reading Proust** `HUM 524`
 - *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust
 
@@ -157,7 +221,55 @@ title: 🐯 Princeton Humanistic Studies unofficial reading list
 - ✔️ [***Journey to the Center of the Earth***](https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson) by Jules Verne
 - ✔️ [***The Island of Doctor Moreau***](https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau) by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
 
+## Journalism
 
+**Writing about Science** `JRN 349`
+- *The Perpetual Now: A Story of Amnesia, Memory & Love* by Michael D. Lemonick
+- *Gulp: Adventures on the Alimentary Canal* by Mary Roach  
+
+**International News: Migration Reporting** `JRN 449`
+- *The New Censorship: How the War on the Media is Taking Us Down* by Ayala Panievsky
+
+## Medieval Studies
+
+**The Byzantine Empire** `MED 205`
+- ✔️ ***Byzantium: A Very Short Intro.*** by Peter Sarris
+- *The Social History of Byzantium* by John Haldon
+- *A Cabinet of Byzantine Curiosities: Strange Tales & Surprising Facts from History's Most Orthodox Empire* by Anthony Kaldellis
+- *Secret History* by Procopius
+- *Alexiad* by Anna Komnene
+- *Three Byzantine Military Treatises* by George T. Dennis
+- *Accounts of Medieval Constantinople: The Patria* by Albrecht Berger
+- *Digenis Akritis: The Grottaferrata and Escorial Versions* by Elizabeth Jeffreys
+
+**Europe from Antiquity to 1700** `MED 211`
+- *The West: A New History* by Grafton & Bell
+- *Confessions* by Augustine
+- *On the Freedom of a Christian* by Martin Luther
+- ✔️ ***The Prince*** by Niccolò Machiavelli ([my highlights](https://www.goodreads.com/notes/9571349-the-prince/185327722-daniel-dantas))
+- *Letters of Abelard and Heloise*
+- *The Crusades Through Arab Eyes* by Amin Maalouf
+
+**Judaism, Christianity & Islam: Their Emergence in Antiquity** `MED 246`
+- *The New Oxford Annotated Bible: New Revised Standard Version with the Apocrypha*
+- *The Qur'an*
+
+**The New Testament & Christian Origins** `MED 251`
+- *The Jewish Annotated New Testament* by Levine & Brettler
+- *Early Christian Writings: The Apostolic Fathers* by Louth & Staniforth
+- *The New Testament: A Historical Intro. to the Early Christian Writings* by Ehrman & Méndez
+
+**The Nature of Old English: Select Old English Literature** `MED 315`
+- *A Choice of Anglo-Saxon Verse* by Richard Hamer
+- *The Unstill Ones* by Miller Oberman
+- *The Wordhord: Daily Life in Old English* by Hana Videen
+- *Intro. to Old English* by Peter S. Baker
+
+**Middle High German Literature: An Intro.** `MED 508`
+- *Erec* by Hartmann Von Aue
+- *Nibelungenlied*
+- *Middle High German Verbs* by Scott Shay
+- *An Introduction to Middle High German* by Jones & Jones 
 
 
 
