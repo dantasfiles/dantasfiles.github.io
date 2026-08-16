@@ -14,7 +14,7 @@ title: 🐯 Princeton Keller Center unofficial reading list, fall 2026
 
 ## Sophomore level
 
-**Creativity, Innovation & Design** `EGR 200 / ENT 200`
+**Creativity, Innovation & Design** `EGR / ENT 200`
 - *A Whack on the Side of the Head: How You Can Be More Creative* by Roger von Oech
 - *Experiencing Design: The Innovator's Journey* by Liedtka et al.
 
@@ -26,7 +26,7 @@ title: 🐯 Princeton Keller Center unofficial reading list, fall 2026
 **Fundamentals of Statistics** `EGR 245`
 - *Probability & Statistics for Engineering & the Sciences* by Jay Devore
 
-**People-Centered: Doing Anthropology** `EGR 299 / ENT 299`
+**People-Centered: Doing Anthropology** `EGR / ENT 299`
 - *The Ethnographer's Way: A Handbook for Multidimensional Research Design* by Peterson & Olson
 - *Making Livable Worlds: Afro-Puerto Rican Women Building Environmental Justice* by Hilda Llorens
 
@@ -43,13 +43,13 @@ title: 🐯 Princeton Keller Center unofficial reading list, fall 2026
 
 ## Senior level
 
-**High-Tech Entrepreneurship** `EGR 491 / ENT 491`
+**High-Tech Entrepreneurship** `EGR / ENT 491`
 - *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danner
 
-**Entrepreneurship: Ventures of Impact** `EGR 495 / ENT 495`
+**Entrepreneurship: Ventures of Impact** `EGR / ENT 495`
 - *Effectual Entrepreneurship* by Sarasvathy & Wheatley
 
-**Entrepreneurial Leadership** `EGR 497 / ENT 497`
+**Entrepreneurial Leadership** `EGR / ENT 497`
 - *How Will You Measure Your Life?* by Clayton M. Christensen
 - *Startup Leadership: How Savvy Entrepreneurs Turn Their Ideas Into Successful Enterprises* by Derek Lidow
 
