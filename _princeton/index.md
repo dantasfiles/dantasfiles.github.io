@@ -13,9 +13,13 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Art & Archaeology](https://dantasfiles.com/princeton/art)**
 
+[Lewis Center for the **Arts**](https://dantasfiles.com/princeton/lca)
+
 **[Classics](https://dantasfiles.com/princeton/cla)** 
 
 **[Comparative Literature](https://dantasfiles.com/princeton/com)**
+
+[Center for **Digital Humanities**](https://dantasfiles.com/princeton/cdh)
 
 **[East Asian Studies](https://dantasfiles.com/princeton/eas)**
 
@@ -108,11 +112,6 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
 
-
-
-[Lewis Center for the **Arts**](https://dantasfiles.com/princeton/lca)
-
-**[Center for Digital Humanities](https://dantasfiles.com/princeton/cdh)**
 
 **[Cognitive Science](https://dantasfiles.com/princeton/cgs)**
 
