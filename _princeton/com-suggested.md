@@ -14,7 +14,13 @@ The Department of Comparative Literature publishes a [suggested reading list](ht
 
 ## Film & other visual media
 
-I've compiled a [Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/) of the films in this section<br>The ones I've seen are the following:
+I've compiled a [Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/) of the films in this section
 
+The ones I've seen are the following:
 - Michelangelo Antonioni
   - L'Avventura
+- Ingmar Bergman
+  - The Virgin Spring
+  - Winter Light
+- Bernardo Bertolucci
+  - The Last Emperor 
