@@ -37,7 +37,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
 
-**[Architecture](https://dantasfiles.com/princeton/apc)**
+**[Architecture](https://dantasfiles.com/princeton/arc)**
 
 **[Art & Archaeology](https://dantasfiles.com/princeton/art)**
 
