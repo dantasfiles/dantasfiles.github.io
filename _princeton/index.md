@@ -7,41 +7,72 @@ I compiled these unofficial reading lists using publicly available information f
 
 ## Majors
 
+## Humanities and the Arts
+
 <div style="column-count: 2;" markdown="1">
-  
-**[African American Studies](https://dantasfiles.com/princeton/aas)**
-
-**[Anthropology](https://dantasfiles.com/princeton/ams)**
-
-**[Architecture](https://dantasfiles.com/princeton/apc)**
 
 **[Art & Archaeology](https://dantasfiles.com/princeton/art)**
-
-**[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
-
-**[Chemical and Biological Engineering](https://dantasfiles.com/princeton/cbe)**
-
-**[Civil and Environmental Engineering](https://dantasfiles.com/princeton/cee)**
-
-**[Chemistry](https://dantasfiles.com/princeton/chm)**
 
 **[Classics](https://dantasfiles.com/princeton/cla)** 
 
 **[Comparative Literature](https://dantasfiles.com/princeton/com)**
 
-**[Computer Science](https://dantasfiles.com/princeton/cos)**
-
 **[East Asian Studies](https://dantasfiles.com/princeton/eas)**
-
-**[Electrical & Computer Engineering](https://dantasfiles.com/princeton/ece)**
-
-**[Economics](https://dantasfiles.com/princeton/eco)**
-
-**[Ecology & Evolutionary Biology](https://dantasfiles.com/princeton/eeb)**
 
 **[English](https://dantasfiles.com/princeton/eng)**
 
-**[French](https://dantasfiles.com/princeton/fre)**
+**[French & Italian](https://dantasfiles.com/princeton/fre-ita)**
+
+</div>
+
+## Social Sciences
+
+<div style="column-count: 2;" markdown="1">
+
+**[African American Studies](https://dantasfiles.com/princeton/aas)**
+
+**[Anthropology](https://dantasfiles.com/princeton/ams)**
+
+**[Economics](https://dantasfiles.com/princeton/eco)**
+
+</div>
+
+## Natural Sciences
+
+<div style="column-count: 2;" markdown="1">
+
+**[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
+
+**[Chemistry](https://dantasfiles.com/princeton/chm)**
+
+**[Ecology & Evolutionary Biology](https://dantasfiles.com/princeton/eeb)**
+
+</div>
+
+## Engineering
+
+<div style="column-count: 2;" markdown="1">
+
+**[Chemical & Biological Engineering](https://dantasfiles.com/princeton/cbe)**
+
+**[Civil and Environmental Engineering](https://dantasfiles.com/princeton/cee)**
+
+**[Computer Science](https://dantasfiles.com/princeton/cos)**
+
+**[Electrical & Computer Engineering](https://dantasfiles.com/princeton/ece)**
+
+</div>
+
+**[Architecture](https://dantasfiles.com/princeton/apc)**
+
+
+
+
+
+
+
+
+
 
 **[Geosciences](https://dantasfiles.com/princeton/geo)**
 
