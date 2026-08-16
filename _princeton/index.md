@@ -31,6 +31,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[German](https://dantasfiles.com/princeton/ger)**
 
+**[Humanities Council](https://dantasfiles.com/princeton/hum)**
+
 **[Near Eastern Studies](https://dantasfiles.com/princeton/nes)**
 
 **[Philosophy](https://dantasfiles.com/princeton/phi)**
@@ -54,6 +56,8 @@ I compiled these unofficial reading lists using publicly available information f
 [Effron Center for the Study of **America**](https://dantasfiles.com/princeton/ams)
 
 **[Economics](https://dantasfiles.com/princeton/eco)**
+
+[Bendheim Center for **Finance**](https://dantasfiles.com/princeton/fin)
 
 **[History](https://dantasfiles.com/princeton/his)**
 
@@ -81,6 +85,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Ecology & Evolutionary Biology](https://dantasfiles.com/princeton/eeb)**
 
+[High Meadows **Environmental** Institute](https://dantasfiles.com/princeton/env)
+
 **[Geosciences](https://dantasfiles.com/princeton/geo)**
 
 **[Mathematics](https://dantasfiles.com/princeton/mat)**
@@ -107,6 +113,10 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Electrical & Computer Engineering](https://dantasfiles.com/princeton/ece)**
 
+[Andlinger Center for **Energy & the Environment**](https://dantasfiles.com/princeton/ene)
+
+**[Engineering](https://dantasfiles.com/princeton/egr)**
+
 **[Mechanical & Aerospace Engineering](https://dantasfiles.com/princeton/mae)**
 
 **[Operations Research & Financial Engineering](https://dantasfiles.com/princeton/orf)**
@@ -121,17 +131,9 @@ I compiled these unofficial reading lists using publicly available information f
 
 
 
-**[European Cultural Studies](https://dantasfiles.com/princeton/ecs)**
-
-**[Engineering](https://dantasfiles.com/princeton/egr)**
-
-[Andlinger Center for **Energy & the Environment**](https://dantasfiles.com/princeton/ene)
-
 **[Entrepreneurship](https://dantasfiles.com/princeton/ent)**
 
-[High Meadows **Environmental** Institute](https://dantasfiles.com/princeton/env)
 
-**[Finance](https://dantasfiles.com/princeton/fin)**
 
 **[First-Year Seminars](https://dantasfiles.com/princeton/frs)**
 
