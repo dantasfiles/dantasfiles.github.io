@@ -1,7 +1,7 @@
 ---
 title: "Notes on 🐯<i>Algorithms & Data Structures</i>"
 description: "This course surveys the most important algorithms and data structures in use on computers today"
-hidden: true
+published: false
 author: Daniel Dantas
 ---
 
