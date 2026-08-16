@@ -16,7 +16,7 @@ The Department of Comparative Literature publishes a [suggested reading list](ht
 
 I've compiled a [Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/) of the films in this section
 
-The ones I've seen are the following:
+I've seen the following:
 - Michelangelo Antonioni
   - L'Avventura
 - Ingmar Bergman
