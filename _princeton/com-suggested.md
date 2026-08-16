@@ -6,25 +6,39 @@ The Department of Comparative Literature publishes a [suggested reading list](ht
 
 ## Fiction (including novels & short story collections)
 
+I've read the following from the list:
 - Chinua Achebe: *Things Fall Apart*
 - Jane Austen: *Sense & Sensibility*
 - Umberto Eco: *The Name of the Rose*
 - F. Scott Fitzgerald: *The Great Gatsby* / *The Beautiful & the Damned*
 - Kazuo Ishiguro: *Klara & the Sun*
 - Henry James: *The Outcry*
-
+- Min Jin Lee: *Pachinko*
+- Toni Morrison: *Beloved*
+- Vladimir Nabokov: *Pale Fire*
+- Mary Shelley: *Frankenstein*
+- Mark Twain: *The Adventures of Tom Sawyer* / *The Adventures of Huckleberry Finn*
 
 ## Epic, sacred texts, folktales
 
 ## Drama
 
+I've seen or read the following from the list:
+- William Shakespeare: *Henry VIII* / *The Tempest* / *The Winter's Tale*
+
 ## Nonfiction (essays, criticism, memoirs, travelogues & so on)
+
+I've read the following from the list:
+
+- Frantz Fanon: *The Wretched of the Earth*
+- *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
+- Nelson Mandela: *Long Walk to Freedom*
 
 ## Film & other visual media
 
 I've compiled a [Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/) of the films in this section
 
-I've seen the following:
+I've seen the following from the list:
 - Michelangelo Antonioni: *L'Avventura*
 - Ingmar Bergman: *The Virgin Spring* / *Winter Light*
 - Charlie Chaplin: *Gold Rush* / *The Kid*
