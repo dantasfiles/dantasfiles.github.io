@@ -2,7 +2,7 @@
 title: 🐯 Princeton CS unofficial reading list (Spring 2026)
 description: This is an unofficial reading list from Spring 2026 computer science classes at Princeton
 author: Daniel Dantas
-hidden: true
+published: false
 ---
 
 ### <!-- [←Fall 2025](https://dantasfiles.com/2025/09/02/princeton-cs-fa25.html) | --> [Fall 2026→](https://dantasfiles.com/2026/09/02/princeton-cs-fa26.html)
