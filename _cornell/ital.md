@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Italian unofficial reading list 2026
+title: 🐻 Cornell Italian unofficial reading list, fall 2026
 ---
 
 ## Freshman level 
@@ -34,6 +34,7 @@ title: 🐻 Cornell Italian unofficial reading list 2026
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750 (fa26)`
 - ✔️ ***Frankenstein; or, The Modern Prometheus*** by Mary Shelley
 - ✔️ ***The Adventures of Pinocchio*** by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas))
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Civil & Environmental Engineering unofficial reading list 2026
+title: 🐻 Cornell Civil & Environmental Engineering unofficial reading list, fall 2026
 ---
 
 ## Junior level
@@ -26,3 +26,4 @@ title: 🐻 Cornell Civil & Environmental Engineering unofficial reading list 20
 
 **Construction Planning and Operations** `CEE 5950 (fa26)`
 - *Construction Project Management* by Gould & Joyce
+

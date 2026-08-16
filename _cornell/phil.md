@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Philosophy unofficial reading list 2026
+title: 🐻 Cornell Philosophy unofficial reading list, fall 2026
 ---
 
 ## Freshman level 
@@ -39,3 +39,4 @@ title: 🐻 Cornell Philosophy unofficial reading list 2026
 
 **Moral Dilemmas in the Law** `PHIL 2430 (fa26)`
 - *The Routledge Companion to Philosophy of Law* by Andrei Marmor
+

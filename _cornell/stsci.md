@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Statistical Science unofficial reading list 2026
+title: 🐻 Cornell Statistical Science unofficial reading list, fall 2026
 ---
 
 ## Sophomore level 
@@ -14,3 +14,4 @@ title: 🐻 Cornell Statistical Science unofficial reading list 2026
 
 **Theory of Statistics** `STSCI 4090/5090 (fa26)
 - *Probability & Statistics* by DeGroot & Schervish
+

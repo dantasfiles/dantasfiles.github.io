@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell French unofficial reading list 2026
+title: 🐻 Cornell French unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -12,3 +12,4 @@ title: 🐻 Cornell French unofficial reading list 2026
 
 **French Stylistics** `FREN 3120 (fa26)`
 - *Exercices de Style* by Raymond Queneau
+

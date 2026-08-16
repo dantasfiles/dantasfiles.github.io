@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Food Science unofficial reading list 2026
+title: 🐻 Cornell Food Science unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -11,3 +11,4 @@ title: 🐻 Cornell Food Science unofficial reading list 2026
 
 **Food Engineering Principles** `FDSC 4210/5210 (fa26)` 
 - *Food Engineering Principles & Practices* by Syed S.H. Rizvi
+

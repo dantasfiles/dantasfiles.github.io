@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Natural Resources unofficial reading list 2026
+title: 🐻 Cornell Natural Resources unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -26,3 +26,4 @@ title: 🐻 Cornell Natural Resources unofficial reading list 2026
 
 **Wildlife Corridor Conservation & Crossing Design** `NTRES 4800/5800 (fa26)`
 - *Crossings: How Road Ecology Is Shaping the Future of Our Planet* by Ben Goldfarb
+

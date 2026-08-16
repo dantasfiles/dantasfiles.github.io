@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Comparative Literature unofficial reading list 2026
+title: 🐻 Cornell Comparative Literature unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -21,3 +21,4 @@ title: 🐻 Cornell Comparative Literature unofficial reading list 2026
 **Minorities of the Middle East** `COML 3743 (fa26)`
 - *The Baghdad Eucharist* by Sinan Antoon
 - *The Weight of Paradise* by Iman Humaydan
+

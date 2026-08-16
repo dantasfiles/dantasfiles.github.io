@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Linguistics unofficial reading list 2026
+title: 🐻 Cornell Linguistics unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -28,3 +28,4 @@ title: 🐻 Cornell Linguistics unofficial reading list 2026
 
 **Superlinguistics: Comics, Signs & Other Sequential Images** `LING 3344 (fa26)`
 - *Understanding Comics: The Invisible Art* by Scott McCloud
+

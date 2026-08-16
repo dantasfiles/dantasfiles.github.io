@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Russian Literature unofficial reading list 2026
+title: 🐻 Cornell Russian Literature unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -17,5 +17,6 @@ title: 🐻 Cornell Russian Literature unofficial reading list 2026
 - *Tolstoy: The Death of Ivan Ilyich & Other Stories*
 - *Nikolai Gogol: The Nose & Other Stories*
 - *The Eternal Husband* by Fyodor Dostoevsky
+
 
 

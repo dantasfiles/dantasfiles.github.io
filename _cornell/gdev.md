@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Global Development unofficial reading list 2026
+title: 🐻 Cornell Global Development unofficial reading list, fall 2026
 ---
 
 ## Junior level
@@ -10,3 +10,4 @@ title: 🐻 Cornell Global Development unofficial reading list 2026
 
 **Environmental Governance** `GDEV 3311/6320 (fa26)`
 - *The Politics of the Earth* by John S. Dryzek
+

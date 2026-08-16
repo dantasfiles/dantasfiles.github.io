@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Nutritional Science unofficial reading list 2026
+title: 🐻 Cornell Nutritional Science unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -14,3 +14,4 @@ title: 🐻 Cornell Nutritional Science unofficial reading list 2026
 
 **Intro. to Physiochemical & Biological Aspects of Foods** `NS 3450 (fa26)`
 - *Intro. to Food Science & Food Systems* by Parker & Pace
+

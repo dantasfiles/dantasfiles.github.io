@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Latino Studies unofficial reading list 2026
+title: 🐻 Cornell Latino Studies unofficial reading list, fall 2026
 ---
 
 ## Junior level
@@ -15,3 +15,4 @@ title: 🐻 Cornell Latino Studies unofficial reading list 2026
 - *Eating NAFTA: Trade, Food Policies & the Destruction of Mexico* by Alyshia Gálvez
 - *American Tacos: A History & Guide* by José R. Ralat
 - *Tequila: A Global History* by Ian Williams
+

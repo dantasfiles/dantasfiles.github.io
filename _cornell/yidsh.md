@@ -1,8 +1,9 @@
 ---
-title: 🐻 Cornell Yiddish unofficial reading list 2026
+title: 🐻 Cornell Yiddish unofficial reading list, fall 2026
 ---
 
 ## Freshman level
 
 **Elementary Yiddish I** `YIDSH 1776 (fa26)`
 - *In eynem: The New Yiddish Textbook* by Schulman et al.
+

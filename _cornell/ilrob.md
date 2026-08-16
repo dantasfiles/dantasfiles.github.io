@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Organizational Behavior unofficial reading list 2026
+title: 🐻 Cornell Organizational Behavior unofficial reading list, fall 2026
 ---
 
 ## Sophomore level 
@@ -15,3 +15,4 @@ title: 🐻 Cornell Organizational Behavior unofficial reading list 2026
 
 **Understanding and Improving Decision Making** `ILROB 3240 (fa26)`
 - *Judgment & Decision Making: Psychological Perspectives* by David Hardman
+

@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Neurobiology & Behavior unofficial reading list 2026
+title: 🐻 Cornell Neurobiology & Behavior unofficial reading list, fall 2026
 ---
 
 | Junior level | | 
@@ -9,3 +9,4 @@ title: 🐻 Cornell Neurobiology & Behavior unofficial reading list 2026
 | Senior level | |
 | :---: | --- |
 | **Visual Ecology** <br> BIONB 4720 (fa26) | • *Visual Ecology* by Thomas W. Cronin | 
+

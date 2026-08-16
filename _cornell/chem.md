@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Chemistry unofficial reading list 2026
+title: 🐻 Cornell Chemistry unofficial reading list, fall 2026
 ---
 
 | Sophomore level | |
@@ -10,3 +10,4 @@ title: 🐻 Cornell Chemistry unofficial reading list 2026
 | Junior level | |
 | :---: | --- |
 | **Organic Chemistry for the Life Sciences** <br> CHEM 3570 (fa26) | • *Organic Chemistry* by Loudon & Parise | 
+

@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Romance Studies unofficial reading list 2026
+title: 🐻 Cornell Romance Studies unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -14,3 +14,4 @@ title: 🐻 Cornell Romance Studies unofficial reading list 2026
 
 **History of Romance Languages I** `ROMS 3210 (fa26)`
 - *Romance Languages: A Historical Intro.* by Alkire & Rosen
+

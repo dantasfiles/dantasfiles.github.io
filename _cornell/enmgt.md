@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Engineering Management unofficial reading list 2026
+title: 🐻 Cornell Engineering Management unofficial reading list, fall 2026
 ---
 
 ## Masters level
@@ -9,3 +9,4 @@ title: 🐻 Cornell Engineering Management unofficial reading list 2026
 
 **Construction Planning and Operations** `ENMGT 5950 (fa26)`
 - *Construction Project Management* by Gould & Joyce
+

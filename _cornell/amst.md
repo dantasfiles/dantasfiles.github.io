@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell American Studies unofficial reading list 2026
+title: 🐻 Cornell American Studies unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -112,3 +112,4 @@ title: 🐻 Cornell American Studies unofficial reading list 2026
 - *Dead Collections* by Isaac Fellman
 - *My Bad: A Personal History of the Queer Nineties & Beyond* by Hugh Ryan
 - *Stone Butch Blues* by Leslie Feinberg 
+

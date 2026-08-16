@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell German Studies unofficial reading list 2026
+title: 🐻 Cornell German Studies unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -48,3 +48,4 @@ title: 🐻 Cornell German Studies unofficial reading list 2026
 - *The Girl from the Metropol Hotel: Growing Up in Communist Russia* by Ludmilla Petrushevskay
 - *Red Plenty* by Francis Spufford
 - *The Ministry of Pain* by Dubravka Ugresic 
+

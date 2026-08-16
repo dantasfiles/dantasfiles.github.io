@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Asian Studies unofficial reading list 2026
+title: 🐻 Cornell Asian Studies unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -58,6 +58,7 @@ Sophomore level
 **Monsoon Kingdoms: Pre-Modern Southeast Asian History** `ASIAN 3397/6697 (fa26)`
 - *A History of Early Southeast Asia: Maritime Trade & Societal Development, 100–1500* by Kenneth R. Hall
 - *Southeast Asia in the Age of Commerce, 1450-1680: v.2, Expansion & Crisis* by Anthony Reid 
+
 
 
 

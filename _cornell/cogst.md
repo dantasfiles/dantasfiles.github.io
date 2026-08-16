@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Cognitive Science unofficial reading list 2026
+title: 🐻 Cornell Cognitive Science unofficial reading list, fall 2026
 ---
 
 | Freshman level | |
@@ -16,3 +16,4 @@ title: 🐻 Cornell Cognitive Science unofficial reading list 2026
 | :---: | --- |
 | **Memory & the Law** <br> COGST 3190 (fa26) | • *Memory* by Baddeley et al. <br> • *The Science of False Memory* by Brainerd & Reyna | 
 | **Ethics in Business & Organizations** <br> COGST 3205 (fa26) | • *Business in Ethical Focus: An Anthology* by Fritz Allhoff et al. | 
+

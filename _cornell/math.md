@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Mathematics unofficial reading list 2026
+title: 🐻 Cornell Mathematics unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -38,4 +38,5 @@ title: 🐻 Cornell Mathematics unofficial reading list 2026
 
 **Theory of Statistics** `MATH 4720 (fa26)`
 - *Probability & Statistics* by DeGroot & Schervish
+
 

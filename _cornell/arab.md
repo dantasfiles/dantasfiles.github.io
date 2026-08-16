@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Arabic unofficial reading list 2026
+title: 🐻 Cornell Arabic unofficial reading list, fall 2026
 ---
 
 | Freshman level | |
@@ -10,3 +10,4 @@ title: 🐻 Cornell Arabic unofficial reading list 2026
 | Sophomore level | |
 | :---: | --- |
 | **Arabic for Heritage Speakers** <br> ARAB 2201 (fa26) | • *Riḥla ilā Bilād al-‘Arab: A Comprehensive Intro. Course for Arabic Heritage Speakers* by Munther Younes |
+

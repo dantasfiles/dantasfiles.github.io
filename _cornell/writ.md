@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Writing Program unofficial reading list 2026
+title: 🐻 Cornell Writing Program unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -7,3 +7,4 @@ title: 🐻 Cornell Writing Program unofficial reading list 2026
 **Elements of Academic Writing: Food for Thought** `WRIT 1370 (fa26)`
 - *The Transition to College Writing* by Keith Hjortshoj
 - *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
+

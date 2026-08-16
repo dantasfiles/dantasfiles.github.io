@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Science & Technology Studies unofficial reading list 2026
+title: 🐻 Cornell Science & Technology Studies unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -16,3 +16,4 @@ title: 🐻 Cornell Science & Technology Studies unofficial reading list 2026
 
 **Environmental Governance** `STS 3311 (fa26)`
 - *The Politics of the Earth* by John S. Dryzek
+

@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Applied & Engineering Physics unofficial reading list 2026
+title: 🐻 Cornell Applied & Engineering Physics unofficial reading list, fall 2026
 ---
 
 | Sophomore level | |
@@ -9,3 +9,4 @@ title: 🐻 Cornell Applied & Engineering Physics unofficial reading list 2026
 | Senior level | |
 | :---: | --- |
 | **Intermediate Mathematical Physics** <br> AEP 4200 (fa26) | • *Mathematical Physics: Applied Mathematics for Scientists & Engineers* by Kusse & Westwig | 
+

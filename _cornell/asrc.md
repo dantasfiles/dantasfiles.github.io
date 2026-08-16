@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Africana Studies & Research Center unofficial reading list 2026
+title: 🐻 Cornell Africana Studies & Research Center unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -59,3 +59,4 @@ title: 🐻 Cornell Africana Studies & Research Center unofficial reading list 2
 - *Egypt in the Future Tense: Hope, Frustration, and Ambivalence before & after 2011* by Samuli Schielke
 - *Identifying with Nationality: Europeans, Ottomans & Egyptians in Alexandria* by Will Hanley
 - *Nile Nightshade: An Egyptian Culinary History of the Tomato* by Anny Gaul 
+

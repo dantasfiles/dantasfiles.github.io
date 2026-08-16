@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Jewish Studies unofficial reading list 2026
+title: 🐻 Cornell Jewish Studies unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -27,6 +27,7 @@ title: 🐻 Cornell Jewish Studies unofficial reading list 2026
 - *Maimonides in His World: Portrait of a Mediterranean Thinker* by Sarah Stroumsa
 - *Maimonides: The Life & World of One of Civilization's Greatest Minds* by Joel L. Kraemer
 - *The Guide for the Perplexed* by Moses Maimonides
+
 
 
 

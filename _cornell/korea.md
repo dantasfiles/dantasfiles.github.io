@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Korean unofficial reading list 2026
+title: 🐻 Cornell Korean unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -18,4 +18,5 @@ title: 🐻 Cornell Korean unofficial reading list 2026
 
 **High Intermediate Korean I** `KOREA 3301 (fa26)`
 - *Integrated Korean: High Intermediate 1* by Chang et al.
+
 

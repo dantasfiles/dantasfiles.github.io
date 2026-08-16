@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Engineering Distribution unofficial reading list 2026
+title: 🐻 Cornell Engineering Distribution unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -16,3 +16,4 @@ title: 🐻 Cornell Engineering Distribution unofficial reading list 2026
 
 **Engineering Processes for Environmental Sustainability** `ENGRD 2510 (fa26)`
 - *Intro. to Environmental Engineering* by Davis & Cornwell 
+

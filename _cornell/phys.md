@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Physics unofficial reading list 2026
+title: 🐻 Cornell Physics unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -34,3 +34,4 @@ title: 🐻 Cornell Physics unofficial reading list 2026
 
 **Intro. to General Relativity** `PHYS 4445 (fa26)`
 - *Gravity: An Introduction to Einstein's General Relativity* by James B. Hartle 
+

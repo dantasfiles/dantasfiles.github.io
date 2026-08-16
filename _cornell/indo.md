@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Indonesian unofficial reading list 2026
+title: 🐻 Cornell Indonesian unofficial reading list, fall 2026
 ---
 
 ## Freshman level 
@@ -18,3 +18,4 @@ title: 🐻 Cornell Indonesian unofficial reading list 2026
 
 **High Intermediate Indonesian I** `INDO 3301 (fa26)`
 - *Indonesian Grammar in Context: Asyik Berbahasa Indonesia, v.3* by Rafferty et al.
+

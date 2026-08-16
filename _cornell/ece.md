@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list 2026
+title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -17,3 +17,4 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list 20
 
 **Digital Signal Processing & Statistical Inference** `ECE 4250/5250 (fa26)`
 - *Signals, Systems & Inference* by Oppenheim & Verghese
+

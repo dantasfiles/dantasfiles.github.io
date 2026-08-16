@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Hotel Administration unofficial reading list 2026
+title: 🐻 Cornell Hotel Administration unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -20,3 +20,4 @@ title: 🐻 Cornell Hotel Administration unofficial reading list 2026
 
 **Principles of Hospitality Real Estate** `HADM 2221 (fa26)`
 - *Real Estate Finance & Investments: Risks and Opportunities* by Linneman & Kirsch
+

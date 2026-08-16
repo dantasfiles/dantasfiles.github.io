@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Public Policy unofficial reading list 2026
+title: 🐻 Cornell Public Policy unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -37,5 +37,6 @@ title: 🐻 Cornell Public Policy unofficial reading list 2026
 - *The Economics of Public-Private Partnerships: A Basic Guide* by Engel et al.
 - *Rethinking America's Highways: A 21st-Century Vision for Better Infrastructure* by Robert W. Poole
 - *Build: Investing in America's Infrastructure* by Sadek Wahba
+
 
 

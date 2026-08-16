@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Classics unofficial reading list 2026
+title: 🐻 Cornell Classics unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -30,3 +30,4 @@ title: 🐻 Cornell Classics unofficial reading list 2026
 **Ancient Greek History** `CLASS 2675 (fa26)`
 - *A Brief History of Ancient Greece: Politics, Society & Culture* by Pomeroy et al.
  
+

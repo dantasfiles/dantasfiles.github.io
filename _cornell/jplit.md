@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Japanese Literature unofficial reading list 2026
+title: 🐻 Cornell Japanese Literature unofficial reading list, fall 2026
 ---
 
 ## Senior level 
@@ -7,3 +7,4 @@ title: 🐻 Cornell Japanese Literature unofficial reading list 2026
 **Classical Japanese I: Grammar** `JPLIT 4406/6606 (fa26)`
 - *Classical Japanese: A Grammar: Exercise Answers & Tables* by Haruo Shirane
 - *Classical Japanese Reader & Essential Dictionary* by Haruo Shirane
+

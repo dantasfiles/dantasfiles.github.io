@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell ILR Global Labor & Work unofficial reading list 2026
+title: 🐻 Cornell ILR Global Labor & Work unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -15,4 +15,5 @@ title: 🐻 Cornell ILR Global Labor & Work unofficial reading list 2026
 
 **Advocacy & Debate** `ILRGL 3300/6300 (fa26)`
 - *Argumentation: Understanding and Shaping Arguments* by James A. Herrick
+
 

@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Human Development unofficial reading list 2026
+title: 🐻 Cornell Human Development unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -36,3 +36,4 @@ title: 🐻 Cornell Human Development unofficial reading list 2026
 
 **Psychology of Gender** `HD 3310 (fa26)`
 - *Psychology of Gender/Sex* by Helgeson et al.
+

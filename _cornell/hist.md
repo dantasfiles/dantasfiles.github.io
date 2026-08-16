@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell History unofficial reading list 2026
+title: 🐻 Cornell History unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -138,4 +138,5 @@ title: 🐻 Cornell History unofficial reading list 2026
 - *The Commons in History: Culture, Conflict & Ecology* by Derek Wall
 - *The Poisoned City: Flint's Water & the American Urban Tragedy* by Anna Clark
 - *Climate Futures: Reimagining Global Climate Justice* by Bhavnani et al. 
+
 

@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Russian unofficial reading list 2026
+title: 🐻 Cornell Russian unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -13,3 +13,4 @@ title: 🐻 Cornell Russian unofficial reading list 2026
 
 **Intermediate Composition & Conversation** `RUSSA 2203 (fa26)`
 - *Intermediate Russian: The Twelve Chairs* by Paperno et al.
+

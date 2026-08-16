@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Visual Studies unofficial reading list 2026
+title: 🐻 Cornell Visual Studies unofficial reading list, fall 2026
 ---
 
 ## Sophomore level 
@@ -18,5 +18,6 @@ title: 🐻 Cornell Visual Studies unofficial reading list 2026
 **Topics in Feminist Media Arts** `VISST 4153 (fa26)`
 - *Unthought: The Power of the Cognitive Nonconscious* by N. Katherine Hayles
 - *Posthuman Feminism* by Rosi Braidotti
+
 
 

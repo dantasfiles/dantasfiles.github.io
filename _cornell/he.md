@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Human Ecology Nondepartmental unofficial reading list 2026
+title: 🐻 Cornell Human Ecology Nondepartmental unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -9,3 +9,4 @@ title: 🐻 Cornell Human Ecology Nondepartmental unofficial reading list 2026
 - *Giving Up the Ghost* by Hilary Mantel
 - *The Camera My Mother Gave Me* by Susanna Kaysen
 - *Matrescence: On Pregnancy, Childbirth, and Motherhood* by Lucy Jones
+

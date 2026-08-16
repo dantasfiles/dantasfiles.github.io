@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Psychology unofficial reading list 2026
+title: 🐻 Cornell Psychology unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -31,3 +31,4 @@ title: 🐻 Cornell Psychology unofficial reading list 2026
 **Memory & the Law** `PSYCH 3190 (fa26)`
 - *Memory* by Baddeley et al.
 - *The Science of False Memory* by Brainerd & Reyna 
+

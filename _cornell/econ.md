@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Economics unofficial reading list 2026
+title: 🐻 Cornell Economics unofficial reading list, fall 2026
 ---
 
 ## Freshman level 
@@ -29,3 +29,4 @@ title: 🐻 Cornell Economics unofficial reading list 2026
 - *Markets & the Environment* by Keohane & Olmstead 
 
  
+

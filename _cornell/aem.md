@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Applied Economics & Management unofficial reading list 2026
+title: 🐻 Cornell Applied Economics & Management unofficial reading list, fall 2026
 ---
 
 | Sophomore level | |
@@ -22,5 +22,6 @@ title: 🐻 Cornell Applied Economics & Management unofficial reading list 2026
 | **Environmental Economics** <br> AEM 4510 (fa26) | • *Markets and the Environment* by Keohane & Olmstead | 
 | **Cost-Benefit Analysis for Sustainability** <br> AEM 4516 (fa26) | • *Cost-Benefit Analysis: Concepts & Practice* by Anthony E. Boardman | 
 | **Investments** <br> AEM 4670 (fa26) | • *Investments: Analysis & Management* by Jensen & Jensen | 
+
 
 

@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Japanese unofficial reading list 2026
+title: 🐻 Cornell Japanese unofficial reading list, fall 2026
 ---
 
 ## Freshman level 
@@ -18,3 +18,4 @@ title: 🐻 Cornell Japanese unofficial reading list 2026
 
 **High Intermediate Japanese I** `JAPAN 3301 (fa26)`
 - *Quartet: Intermediate Japanese Across the Four Language Skills, v.2* by Sakamoto et al.
+

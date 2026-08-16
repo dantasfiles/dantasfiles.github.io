@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Law unofficial reading list 2026
+title: 🐻 Cornell Law unofficial reading list, fall 2026
 ---
 
 **Civil Procedure I** `LAW 5001-001 (fa26)`
@@ -23,6 +23,7 @@ title: 🐻 Cornell Law unofficial reading list 2026
 **Contracts** `LAW 5041-002 (fa26)`
 - *Contract & Related Obligation: Theory, Doctrine & Practice* by Hillman et al.
 - *Principles of Contract Law* by Robert Hillman
+
 
 
 

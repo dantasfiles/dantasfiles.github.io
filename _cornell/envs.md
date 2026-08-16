@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Environment & Sustainability unofficial reading list 2026
+title: 🐻 Cornell Environment & Sustainability unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -21,3 +21,4 @@ title: 🐻 Cornell Environment & Sustainability unofficial reading list 2026
 
 **Wildlife Corridor Conservation & Crossing Design** `ENVS 4800/5800 (fa26)`
 - *Crossings: How Road Ecology Is Shaping the Future of Our Planet* by Ben Goldfarb
+

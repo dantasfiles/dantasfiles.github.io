@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Chinese unofficial reading list 2026
+title: 🐻 Cornell Chinese unofficial reading list, fall 2026
 ---
 
 | Junior level | |
@@ -9,3 +9,4 @@ title: 🐻 Cornell Chinese unofficial reading list 2026
 | Senior level | |
 | :---: | --- |
 | **High Adv. Mandarin I** <br> CHIN 4427 (fa26) | • *A Kaleidoscope of China: An Adv. Reader of Modern Chinese* by Chou et al. | 
+

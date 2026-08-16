@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Sociology unofficial reading list 2026
+title: 🐻 Cornell Sociology unofficial reading list, fall 2026
 ---
 
 ## Sophomore level 
@@ -10,3 +10,4 @@ title: 🐻 Cornell Sociology unofficial reading list 2026
 - *The Once and Future Worker: A Vision for the Renewal of Work in America* by Oren Cass
 - *Bottlenecks: A New Theory of Equal Opportunity* by Joseph Fishkin
 - *Friends and Fortunes: Social Capital Inequality in America* by Cornwell et al.
+

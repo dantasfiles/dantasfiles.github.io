@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Anthropology unofficial reading list 2026
+title: 🐻 Cornell Anthropology unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -49,4 +49,5 @@ title: 🐻 Cornell Anthropology unofficial reading list 2026
 - *The Codex Borgia: A Full-Color Restoration of the Ancient Mexican Manuscript* by Díaz & Rodgers
 - *Portraying the Aztec Past: The Codices Boturini, Azcatitlan & Aubin* by Angela Herren Rajagopalan
 - *Deciphering Aztec Hieroglyphs: A Guide to Nahuatl Writing* by Gordon Whittaker | 
+
 

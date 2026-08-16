@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell American Indian & Indigenous Studies unofficial reading list 2026
+title: 🐻 Cornell American Indian & Indigenous Studies unofficial reading list, fall 2026
 ---
 
 | Sophomore level | |
@@ -9,3 +9,4 @@ title: 🐻 Cornell American Indian & Indigenous Studies unofficial reading list
 | Junior level | | 
 | :---: | --- |
 | **Cayuga Language & Culture** <br> AIIS 3324 (fa26) | • *Wadewayestanih: A Cayuga Teaching Grammar* by Mithun & Henry |
+

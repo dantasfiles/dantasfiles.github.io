@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Latin American Studies unofficial reading list 2026
+title: 🐻 Cornell Latin American Studies unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -15,3 +15,4 @@ title: 🐻 Cornell Latin American Studies unofficial reading list 2026
 - *The Codex Borgia: A Full-Color Restoration of the Ancient Mexican Manuscript* by Díaz & Rodgers
 - *Portraying the Aztec Past: The Codices Boturini, Azcatitlan & Aubin* by Angela Herren Rajagopalan
 - *Deciphering Aztec Hieroglyphs: A Guide to Nahuatl Writing* by Gordon Whittaker 
+

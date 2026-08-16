@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Architecture unofficial reading list 2026
+title: 🐻 Cornell Architecture unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -18,3 +18,4 @@ title: 🐻 Cornell Architecture unofficial reading list 2026
 - *City of Black Gold: Oil, Ethnicity & the Making of Modern Kirkuk* by Arbella Bet-Shlimon
 - *Brazil's Steel City: Developmentalism, Strategic Power & Industrial Relations in Volta Redonda, 1941-1964* by Oliver Dinius
 - *Extraction Ecologies & the Literature of the Long Exhaustion* by Elizabeth Carolyn Miller 
+

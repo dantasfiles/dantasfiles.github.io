@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell English unofficial reading list 2026
+title: 🐻 Cornell English unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -123,5 +123,6 @@ title: 🐻 Cornell English unofficial reading list 2026
 - *Ulysses* by James Joyce
 - *The New Bloomsday Book: A Guide Through Ulysses* by Harry Blamires
 - *Ulysses Annotated: Notes for James Joyce's Ulysses* by Gifford & Seidman
+
 
 

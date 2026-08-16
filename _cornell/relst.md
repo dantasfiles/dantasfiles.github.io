@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Religious Studies unofficial reading list 2026
+title: 🐻 Cornell Religious Studies unofficial reading list, fall 2026
 ---
 
 ## Sophomore level 
@@ -49,3 +49,4 @@ title: 🐻 Cornell Religious Studies unofficial reading list 2026
 - *Maimonides in His World: Portrait of a Mediterranean Thinker* by Sarah Stroumsa
 - *Maimonides: The Life & World of One of Civilization's Greatest Minds* by Joel L. Kraemer
 - *The Guide of the Perplexed* by Moses Maimonides
+

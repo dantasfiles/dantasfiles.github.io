@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Plant Sciences unofficial reading list 2026
+title: 🐻 Cornell Plant Sciences unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -20,3 +20,4 @@ title: 🐻 Cornell Plant Sciences unofficial reading list 2026
 
 **Plant Biochemistry** `PLSCI 4620/6620 (fa26)`
 - *Biochemistry & Molecular Biology of Plants* by Buchanan et al.
+

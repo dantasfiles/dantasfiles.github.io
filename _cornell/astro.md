@@ -1,5 +1,5 @@
 ---
-title: 🐻 Cornell Astronomy unofficial reading list 2026
+title: 🐻 Cornell Astronomy unofficial reading list, fall 2026
 ---
 
 | Freshman level | | 
@@ -14,3 +14,4 @@ title: 🐻 Cornell Astronomy unofficial reading list 2026
 | :---: | --- |
 | **Physics of the Planets** <br> ASTRO 4434/6570 (fa26) | • *Planetary Sciences* by Pater & Lissauer |
 | **Intro. to General Relativity** <br> ASTRO 4445 (fa26) | • *Gravity: An Introduction to Einstein's General Relativity* by James B. Hartle | 
+
