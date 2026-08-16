@@ -2,6 +2,7 @@
 title: "<i>Remove notes to avoid MAX_ITEMS error</i> pull request to fix Netflix Notes Chrome extension"
 author: Daniel Dantas
 # redirect: https://github.com/mmorearty/netflix-notes/pull/1
+hidden: true
 ---
 
 ## [💻Pull request](https://github.com/mmorearty/netflix-notes/pull/1) | [💻Code](https://github.com/dantasfiles/netflix-notes)
