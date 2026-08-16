@@ -5,11 +5,11 @@ layout: page
 
 I compiled these unofficial reading lists using publicly available information from the [online bookstore](https://princeton.ecampus.com/) and course webpages.<br>To keep track of my own explorations, I've marked books and papers I've read with a **bold** ✔️
 
-## Majors
-
 ## Humanities and the Arts
 
 <div style="column-count: 2;" markdown="1">
+
+**[Architecture](https://dantasfiles.com/princeton/apc)**
 
 **[Art & Archaeology](https://dantasfiles.com/princeton/art)**
 
@@ -29,6 +29,12 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Philosophy](https://dantasfiles.com/princeton/phi)**
 
+**[Religion](https://dantasfiles.com/princeton/rel)**
+
+**[Slavic Languages & Literatures](https://dantasfiles.com/princeton/sla)**
+
+**[Spanish](https://dantasfiles.com/princeton/spa)**
+
 </div>
 
 ## Social Sciences
@@ -39,17 +45,25 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Anthropology](https://dantasfiles.com/princeton/ams)**
 
+[Effron Center for the Study of **America**](https://dantasfiles.com/princeton/ams)
+
 **[Economics](https://dantasfiles.com/princeton/eco)**
 
 **[History](https://dantasfiles.com/princeton/his)**
 
 **[Politics](https://dantasfiles.com/princeton/pol)**
 
+[School of **Public & International Affairs**](https://dantasfiles.com/princeton/spi)
+
+**[Sociology](https://dantasfiles.com/princeton/soc)**
+
 </div>
 
 ## Natural Sciences
 
 <div style="column-count: 2;" markdown="1">
+
+**[Applied & Computational Mathematics](https://dantasfiles.com/princeton/apc)**
 
 **[Astrophysical Sciences](https://dantasfiles.com/princeton/ast)**
 
@@ -66,6 +80,8 @@ I compiled these unofficial reading lists using publicly available information f
 **[Neuroscience](https://dantasfiles.com/princeton/neu)**
 
 **[Physics](https://dantasfiles.com/princeton/phy)**
+
+**[Psychology](https://dantasfiles.com/princeton/psy)**
 
 </div>
 
@@ -87,41 +103,12 @@ I compiled these unofficial reading lists using publicly available information f
 
 </div>
 
-**[Architecture](https://dantasfiles.com/princeton/apc)**
-
-
-
-
-
-
-
-
-
-
-
-**[Politics](https://dantasfiles.com/princeton/pol)**
-
-**[Psychology](https://dantasfiles.com/princeton/psy)**
-
-**[Religion](https://dantasfiles.com/princeton/rel)**
-
-**[Slavic Languages & Literatures](https://dantasfiles.com/princeton/sla)**
-
-**[Spanish](https://dantasfiles.com/princeton/spa)**
-
-**[Sociology](https://dantasfiles.com/princeton/soc)**
-
-[School of **Public & International Affairs**](https://dantasfiles.com/princeton/spi)
-
-</div>
 
 ## Minors and Centers
 
 <div style="column-count: 2;" markdown="1">
 
-[Effron Center for the Study of **America**](https://dantasfiles.com/princeton/ams)
 
-**[Applied and Computational Mathematics](https://dantasfiles.com/princeton/apc)**
 
 [Lewis Center for the **Arts**](https://dantasfiles.com/princeton/lca)
 
