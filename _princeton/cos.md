@@ -10,10 +10,10 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 ## Junior level
 
 **Computing & Optimization for the Physical & Social Sciences** `COS 323`
-- *An Introduction to Optimization: With Applications to Machine Learning* by Chong, Lu & Zak
+- *An Introduction to Optimization: With Applications to Machine Learning* by Chong et al.
 - *[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)* by Boyd & Vandenberghe
 - *Linear Programming: Foundations & Extensions* by Robert J. Vanderbei
-- *Algorithms* by Dasgupta, Papadimitriou & Vazirani
+- *Algorithms* by Dasgupta et al.
 
 **[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
 - ✔️ ***[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)*** by Michael R. Clarkson
@@ -33,7 +33,7 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 ## Senior level
 
 **Design of VLSI Systems** `COS 462`
-- _Digital Integrated Circuits: A Design Perspective_ by Rabaey, Chandrakasan & Nikolic
+- _Digital Integrated Circuits: A Design Perspective_ by Rabaey et al.
 
 
 
