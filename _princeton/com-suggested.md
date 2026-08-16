@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Comparative Literature suggested reading list: Works I've read
+title: 🐯 Princeton Comparative Literature suggested reading list -- Works I've read
 ---
 
 The Department of Comparative Literature publishes a [suggested reading list](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list).<br>I use this page to track works that I've read ✔️
