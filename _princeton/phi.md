@@ -4,10 +4,10 @@ title: 🐯 Princeton Philosophy unofficial reading list, fall 2026
 
 ## Sophomore level
 
-**Tools for Thought: Logic, Probability, and Arguments for Philosophy & Life** `PHI 221 (fa26)`
+**Tools for Thought: Logic, Probability, and Arguments for Philosophy & Life** `PHI 221`
 - *How Logic Works: A User's Guide* by Hans Halvorson
 
-**African American Studies & the Philosophy of Race** `PHI 291 (fa26)`
+**African American Studies & the Philosophy of Race** `PHI 291`
 - *The Future of Whiteness* by Linda Martin Alcoff
 - ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 - *The Case for Rage: Why Anger Is Essential to Anti-Racist Struggle* by Myisha Cherry
@@ -19,14 +19,14 @@ title: 🐯 Princeton Philosophy unofficial reading list, fall 2026
 
 ## Junior level 
 
-**Aristotle & His Successors** `PHI 301 (fa26)`
+**Aristotle & His Successors** `PHI 301`
 - *Complete Works of Aristotle, v.1*
 - *Nicomachean Ethics* by Aristotle
 
-**Computability & Logic** `PHI 312 (fa26)`
+**Computability & Logic** `PHI 312`
 - *Computability and Logic* by Boolos et al. 
 
-**Philosophy of Science** `PHI 321 (fa26)`
+**Philosophy of Science** `PHI 321`
 - *Discourse on the Method of Rightly Conducting One's Reason & of Seeking Truth in the Sciences* by René Descartes
 - *The World & Man* by René Descartes
 - *Selected Philosophical Papers of Robert Boyle*
@@ -36,12 +36,13 @@ title: 🐯 Princeton Philosophy unofficial reading list, fall 2026
 - *Newton: Philosophical Writings*
 - *Francis Bacon: Selected Philosophical Works*
 
-**Semantics** `PHI 334 (fa26)`
+**Semantics** `PHI 334`
 - *Semantics in Generative Grammar* by Heim & Kratzer 
 
 ## Graduate level 
 
-**Pre-Kantian Rationalism: The Ethics & the Tractatus Theologico-Politicus** `PHI 511 (fa26)`
+**Pre-Kantian Rationalism: The Ethics & the Tractatus Theologico-Politicus** `PHI 511`
 - *The Collected Works of Spinoza, Vol. II* by Edwin Curley
+
 
 

@@ -4,7 +4,7 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 
 ## Sophomore level
 
-**Classical Mythology** `GSS 212 (fa26)`
+**Classical Mythology** `GSS 212`
 - *The Greek Tragedies: 17 Plays by Aeschylus, Sophocles, & Euripides*
 - *Metamorphoses* by Ovid
 - *Anthology of Classical Myth: Primary Sources in Translation* by Trzaskoma et al.
@@ -14,22 +14,22 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 - *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma
 - *The Argonautica* by Apollonius of Rhodes
 
-**The Modern Black Freedom Movement: From Civil Rights to Black Power** `GSS 269 (fa26)`
+**The Modern Black Freedom Movement: From Civil Rights to Black Power** `GSS 269`
 - *The March on Washington: Jobs, Freedom & the Forgotten History of Civil Rights* by William P. Jones
 - *Want to Start a Revolution?: Radical Women in the Black Freedom Struggle* by Gore et al.
 - *Bloody Lowndes: Civil Rights & Black Power in Alabama's Black Belt* by Hasan Kwame Jeffries
 
-**Queer Becomings** `GSS 279 (fa26)`
+**Queer Becomings** `GSS 279`
 - *The Struggle to Be Gay—in Mexico, for Example* by Roger N. Lancaster
 - *Gay Fathers, Their Children & the Making of Kinship* by Aaron Goodfellow
 - *Butch Queens Up in Pumps: Gender, Performance & Ballroom Culture in Detroit* by Marlon M. Bailey
 
-**The Makeover** `GSS 292 (fa26)`
+**The Makeover** `GSS 292`
 - *A Gesture Life* by Chang-rae Lee
 - *Ornamentalism* by Anne Anlin Cheng
 - *Ordinary Disasters: How I Stopped Being a Model Minority* by Anne Anlin Cheng
 
-**Girls & Dolls** `GSS 294 (fa26)`
+**Girls & Dolls** `GSS 294`
 - *The Lonely Doll* by Dare Wright
 - *What Maisie Knew* by Henry James
 - *The Age of Innocence* by Edith Wharton
@@ -39,7 +39,7 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 - *Ornamentalism* by Anne Anlin Cheng
 - *Ordinary Disasters: How I Stopped Being a Model Minority* by Anne Anlin Cheng
 
-**Gender, Sexuality & Migration** `GSS 297 (fa26)`
+**Gender, Sexuality & Migration** `GSS 297`
 - *Sex Trafficking: Inside the Business of Modern Slavery* by Siddharth Kara
 - *Intimate Migrations: Gender, Family & Illegality among Transnational Mexicans* by Deborah A. Boehm
 - *High-Tech Housewives: Indian IT Workers, Gendered Labor & Transmigration* by Amy Bhatt
@@ -48,12 +48,12 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 
 ## Junior level 
 
-**Women, Gender & the Body in Islamic Societies** `GSS 328 (fa26)`
+**Women, Gender & the Body in Islamic Societies** `GSS 328`
 - *Minor Detail* by Adania Shibli
 - *Season of Migration to the North* by Tayeb Salih
 - *So Long a Letter* by Mariama Ba
 
-**Gender & Performing Arts in South Asia** `GSS 335 (fa26)`
+**Gender & Performing Arts in South Asia** `GSS 335`
 - *The Life of Music in North India: The Organization of an Artistic Tradition* by Daniel M. Neuman
 - *Unfinished Gestures: Devadasis, Memory & Modernity in South India* by Davesh Soneji
 - *Heart to Heart: Remembering Nainaji* by Vidya Rao
@@ -62,7 +62,7 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 
 ## Graduate level
 
-**Gender in a Global Society** `GSS 507 (fa26)`
+**Gender in a Global Society** `GSS 507`
 - *Caliban & the Witch: Women, the Body & Primitive Accumulation* by Silvia Federici
 - *The Indebted Woman: Kinship, Sexuality & Capitalism* by Isabelle Guérin
 - *Patriarchy & Accumulation on a World Scale: Women in the International Division of Labour* by Maria Mies
@@ -71,7 +71,8 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 - *Illicit Flirtations: Labor, Migration & Sex Trafficking in Tokyo* by Rhacel Salazar Parreñas
 - *Do Muslim Women Need Saving?* by Lila Abu-Lughod
 
-**Contemporary Critical Theories: Marx's Capital** `GSS 535 (fa26)`
+**Contemporary Critical Theories: Marx's Capital** `GSS 535`
 - *Capital, v.1* by Karl Marx
+
 
 

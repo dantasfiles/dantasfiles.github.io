@@ -4,19 +4,19 @@ title: 🐯 Princeton Urban Studies unofficial reading list, fall 2026
 
 ## Sophomore level
 
-**The Souls of Black Folk - Reading W.E.B. Du Bois** `URB 231 (fa26)`
+**The Souls of Black Folk - Reading W.E.B. Du Bois** `URB 231`
 - *The Autobiography of W.E.B. Du Bois*
 - *Writings: The Suppression of the African Slave-Trade / The Souls of Black Folk / Dusk of Dawn / Essays & Articles* by W.E.B. Du Bois
 - ✔️ ***Darkwater: Voices from Within the Veil*** by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 - *Black Reconstruction in America, 1860-1880* by W.E.B. Du Bois
 - *The World & Africa* by W.E.B. Du Bois
 
-**Revisiting Paris** `URB 258 (fa26)`
+**Revisiting Paris** `URB 258`
 - *Kiffe Kiffe demain* by Faïza Guène
 - *Cannibale* by Didier Daeninckx
 - *Dora Bruder* by Patrick Modiano
 
-**Intro. to African American History Since Emancipation** `URB 268 (fa26)`
+**Intro. to African American History Since Emancipation** `URB 268`
 - *Let Nobody Turn Us Around: An African American Anthology* by Marable & Mullings
 - *I Saw Death Coming: A History of Terror & Survival in the War against Reconstruction* by Kidada E. Williams
 - *Home to Harlem* by Claude McKay
@@ -25,10 +25,10 @@ title: 🐯 Princeton Urban Studies unofficial reading list, fall 2026
 
 ## Junior level
 
-**Food, Health & Justice** `URB 312 (fa26)`
+**Food, Health & Justice** `URB 312`
 - *Food Justice Undone: Lessons for Building a Better Movement* by Hanna Garth
 
-**20th-Century Japan** `URB 324 (fa26)`
+**20th-Century Japan** `URB 324`
 - *Peasants, Rebels, Women & Outcastes: The Underside of Modern Japan* by Mikiso Hane
 - *Japan at War: An Oral History* by Cook & Cook
 - *Embracing Defeat: Japan in the Wake of World War II* by John W. Dower
@@ -38,7 +38,8 @@ title: 🐯 Princeton Urban Studies unofficial reading list, fall 2026
 
 ## Senior level
 
-**Intro. to Water Pollution Technology** `URB 471 (fa26)`
+**Intro. to Water Pollution Technology** `URB 471`
 - *Water Quality: Characteristics, Modeling & Modification* by Tchobanoglous & Schoeder 
+
 
 

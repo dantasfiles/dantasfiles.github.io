@@ -5,23 +5,24 @@ layout: reading-list
 
 | Freshman level | |
 | :---: | --- |
-| **Beginner's French I** / **II** <br> FRE 101 / 102 (fa26) | • *Motifs: An Intro. to French* by Jansma & Kassen |
-| **Intensive Beginner's & Intermediate French** <br> FRE 103 (fa26) | • *Motifs: An Intro. to French* by Jansma & Kassen <br> • *Entre Les Murs* by Francois Begaudeau | 
-| **Intermediate French** <br> FRE 105 (fa26) | • *English Grammar for Students of French: The Study Guide for Those Learning French* by Jacqueline Morton <br> • *Grammaire Progressive du Francais: Livre Intermediaire* by Gregoire & Thievenaz | 
+| **Beginner's French I** / **II** <br> FRE 101 / 102 | • *Motifs: An Intro. to French* by Jansma & Kassen |
+| **Intensive Beginner's & Intermediate French** <br> FRE 103 | • *Motifs: An Intro. to French* by Jansma & Kassen <br> • *Entre Les Murs* by Francois Begaudeau | 
+| **Intermediate French** <br> FRE 105 | • *English Grammar for Students of French: The Study Guide for Those Learning French* by Jacqueline Morton <br> • *Grammaire Progressive du Francais: Livre Intermediaire* by Gregoire & Thievenaz | 
 | **Intermediate / Adv. French** <br> FRE 107 | • *Grammaire Progressive du Francais: Livre Intermediaire* by Gregoire & Thievenaz | 
 
 | Sophomore level | |
 | :---: | --- |
-| **Francophone Language & Cultures through the Supernatural** <br> FRE 207 (fa26) | • *Le Roi Se Meurt* by Eugène Ionesco <br> • *Les Contes d'Amadou Koumba* by Birago Diop <br> • *La Cantatrice Chauve: Anti-Piece / La Lecon: Drame Comique* by Eugene Ionesco <br> • *Les Aventures de Tintin: Les Sept Boules de Cristal: Tome 13* by Herge <br> • *Astérix: Astérix le Gaulois: n°1* by Goscinny & Uderzo <br> ◦ *Contrastes: Grammaire du Français Courant* by Denise Rochat <br> ◦ *Grammaire Progressive du Français: Niveau Avancé* by Boularès & Frérot <br> • *Hadriana Dans Tous Mes Rêves* by René Depestre <br> • *Pluie et Vent sur Télumée Miracle* by Simone Schwarz-Bart <br> • *Une Tempete* by Aime Cesaire |
-| **French Theater Workshop** <br> FRE 211 (fa26) | • *Le Malade Imaginaire* by Molière <br> • *Un Fil à la Patte* by Georges Feydeau | 
-| **Revisiting Paris** <br> FRE 217 (fa26) | • *Kiffe Kiffe demain* by Faïza Guène <br> • *Cannibale* by Didier Daeninckx <br> • *Dora Bruder* by Patrick Modiano |
+| **Francophone Language & Cultures through the Supernatural** <br> FRE 207 | • *Le Roi Se Meurt* by Eugène Ionesco <br> • *Les Contes d'Amadou Koumba* by Birago Diop <br> • *La Cantatrice Chauve: Anti-Piece / La Lecon: Drame Comique* by Eugene Ionesco <br> • *Les Aventures de Tintin: Les Sept Boules de Cristal: Tome 13* by Herge <br> • *Astérix: Astérix le Gaulois: n°1* by Goscinny & Uderzo <br> ◦ *Contrastes: Grammaire du Français Courant* by Denise Rochat <br> ◦ *Grammaire Progressive du Français: Niveau Avancé* by Boularès & Frérot <br> • *Hadriana Dans Tous Mes Rêves* by René Depestre <br> • *Pluie et Vent sur Télumée Miracle* by Simone Schwarz-Bart <br> • *Une Tempete* by Aime Cesaire |
+| **French Theater Workshop** <br> FRE 211 | • *Le Malade Imaginaire* by Molière <br> • *Un Fil à la Patte* by Georges Feydeau | 
+| **Revisiting Paris** <br> FRE 217 | • *Kiffe Kiffe demain* by Faïza Guène <br> • *Cannibale* by Didier Daeninckx <br> • *Dora Bruder* by Patrick Modiano |
 
 | Junior level | |
 | :---: | --- |
-| **Wandering Utopias: Writing & Rewriting Reality** <br> FRE 306 (fa26) | • *Vendredi ou la vie sauvage* by Michel Tournier | 
+| **Wandering Utopias: Writing & Rewriting Reality** <br> FRE 306 | • *Vendredi ou la vie sauvage* by Michel Tournier | 
 
 | Graduate level | |
 | :---: | --- |
-| **20th-Century French Narrative Prose: Reading Proust** <br> FRE 524 (fa26) | • *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust | 
+| **20th-Century French Narrative Prose: Reading Proust** <br> FRE 524 | • *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust | 
+
 
 

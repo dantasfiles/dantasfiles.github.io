@@ -4,7 +4,7 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 
 ## Sophomore level
 
-**The Byzantine Empire** `HIS 205 (fa26)`
+**The Byzantine Empire** `HIS 205`
 - ✔️ ***Byzantium: A Very Short Intro.*** by Peter Sarris
 - *The Social History of Byzantium* by John Haldon
 - *A Cabinet of Byzantine Curiosities: Strange Tales & Surprising Facts from History's Most Orthodox Empire* by Anthony Kaldellis
@@ -14,7 +14,7 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 - *Accounts of Medieval Constantinople: The Patria* by Albrecht Berger
 - *Digenis Akritis: The Grottaferrata and Escorial Versions* by Elizabeth Jeffreys
 
-**Europe from Antiquity to 1700** `HIS 211 (fa26)`
+**Europe from Antiquity to 1700** `HIS 211`
 - *The West: A New History* by Grafton & Bell
 - *Confessions* by Augustine
 - *On the Freedom of a Christian* by Martin Luther
@@ -22,41 +22,41 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 - *Letters of Abelard and Heloise*
 - *The Crusades Through Arab Eyes* by Amin Maalouf
 
-**Hellenism: The 1st 3000 Years** `HIS 222 (fa26)`
+**Hellenism: The 1st 3000 Years** `HIS 222`
 - *The Greeks: A Global History* by Roderick Beaton
 
-**The World of the Cairo Geniza** `HIS 251 (fa26)`
+**The World of the Cairo Geniza** `HIS 251`
 - *In an Antique Land: History in the Guise of a Traveler's Tale* by Amitav Ghosh
 - *Sacred Trash: The Lost and Found World of the Cairo Geniza* by Hoffman & Cole
 - *Trade & Institutions in the Medieval Mediterranean: The Geniza Merchants & their Business World* by Jessica L. Goldberg
 - *Slavery and the Jews of Medieval Egypt: A History* by Craig Perry 
 
-**Intro. to African American History to 1863** `HIS 266 (fa26)`
+**Intro. to African American History to 1863** `HIS 266`
 - *The Interesting Narrative of the Life of Olaudah Equiano*
 - *Narrative of the Life of Frederick Douglass: An American Slave*
 - *David Walker's Appeal*
 - *Dred Scott v. Sandford: A Brief History with Documents* by Paul Finkelman
 - *Incidents in the Life of a Slave Girl*
 
-**Intro. to African American History Since Emancipation** `HIS 268 (fa26)`
+**Intro. to African American History Since Emancipation** `HIS 268`
 - *Let Nobody Turn Us Around: An African American Anthology* by Marable & Mullings
 - *I Saw Death Coming: A History of Terror & Survival in the War against Reconstruction* by Kidada E. Williams
 - *Home to Harlem* by Claude McKay
 - *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s Through the 1980s* by Hampton & Fayer
 - *From #BlackLivesMatter to Black Liberation* by Keeanga-Yamahtta Taylor
 
-**The Modern Black Freedom Movement: From Civil Rights to Black Power** `HIS 269 (fa26)`
+**The Modern Black Freedom Movement: From Civil Rights to Black Power** `HIS 269`
 - *The March on Washington: Jobs, Freedom & the Forgotten History of Civil Rights* by William P. Jones
 - *Want to Start a Revolution?: Radical Women in the Black Freedom Struggle* by Gore et al.
 - *Bloody Lowndes: Civil Rights & Black Power in Alabama's Black Belt* by Hasan Kwame Jeffries 
 
 ## Junior level
 
-**Colonial Latin America to 1810** `HIS 303 (fa26)`
+**Colonial Latin America to 1810** `HIS 303`
 - *Colonial Latin America* by Burkholder & Johnson
 - *Colonial Latin America: A Documentary History* by Mills et al.
 
-**20th-Century Japan** `HIS 322 (fa26)`
+**20th-Century Japan** `HIS 322`
 - *Peasants, Rebels, Women & Outcastes: The Underside of Modern Japan* by Mikiso Hane
 - *Japan at War: An Oral History* by Cook & Cook
 - *Embracing Defeat: Japan in the Wake of World War II* by John W. Dower
@@ -64,21 +64,21 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 - *A Modern History of Japan: From Tokugawa Times to the Present* by Andrew Gordon
 - *Naomi* by Junichiro Tanizaki
 
-**Everyday Writing in the Roman World** `HIS 326 (fa26)`
+**Everyday Writing in the Roman World** `HIS 326`
 - *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall
 
-**The Heike as History & Art** `HIS 339 (fa26)`
+**The Heike as History & Art** `HIS 339`
 - *The Tale of the Heike*
 - *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler
 
-**American Origins: The Colonization of North America** `HIS 371 (fa26)`
+**American Origins: The Colonization of North America** `HIS 371`
 - *The Jesuit Relations: Natives & Missionaries in 17th-Century North America* by Allan Greer
 - *The Narrative of Cabeza de Vaca*
 - ✔️ ***The Autobiography of Benjamin Franklin*** ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
 - *The Sovereignty & Goodness of God: w/ Related Documents*
 - *Interesting Narrative of the Life of Olaudah Equiano*
 
-**A More Perfect Union: The United States, 1920-1974** `HIS 383 (fa26)`
+**A More Perfect Union: The United States, 1920-1974** `HIS 383`
 - *The Rise of Conservatism in America, 1945-2000* by Story & Laurie
 - *Lyndon B. Johnson and American Liberalism* by Bruce Schulman
 - *My Soul is Rested: The Story of the Civil Rights Movement in the Deep South* by Howell Raines
@@ -88,7 +88,7 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 
 ## Senior level
 
-**World After Empire** `HIS 411 (fa26)`
+**World After Empire** `HIS 411`
 - ✔️ ***The Wretched of the Earth*** by Frantz Fanon
 - *Worldmaking after Empire: The Rise & Fall of Self-Determination* by Adom Getachew
 - *Return to the Source: Selected Texts of Amilcar Cabral*
@@ -98,7 +98,7 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 - *The Colonizer and the Colonized* by Albert Memmi
 - ✔️ ***Darkwater: Voices from Within the Veil*** by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 
-**Memory, History & the Archive** `HIS 426 (fa26)`
+**Memory, History & the Archive** `HIS 426`
 - *Memorial Drive: A Daughter's Memoir* by Natasha Trethewey
 - *Black History Is for Everyone* by Brian Jones
 - *Silencing the Past: Power & the Production of History* by Michel-Rolph Trouillot
@@ -108,7 +108,7 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 - *South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation* by Imani Perry
 - *Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women & Queer Radicals* by Saidiya Hartman
 
-**The Age of Democratic Revolutions** `HIS 487 (fa26)`
+**The Age of Democratic Revolutions** `HIS 487`
 - *The Revolution to Come: A History of an Idea from Thucydides to Lenin* by Dan Edelstein
 - ✔️ ***The Birth of the Republic, 1763–89*** by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
 - *The Freedoms We Lost: Consent & Resistance in Revolutionary America* by Barbara Clark Smith
@@ -120,13 +120,14 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 
 ## Graduate level
 
-**Comparative Slavery** `HIS 516 (fa26)`
+**Comparative Slavery** `HIS 516`
 - *Soul by Soul: Life Inside the Antebellum Slave Market* by Walter Johnson
 - *The Diligent: A Voyage Through the Worlds Of The Slave Trade* by Robert Harms
 - *The Reaper's Garden: Death & Power in the World of Atlantic Slavery* by Vincent Brown
 - *Closer to Freedom: Enslaved Women & Everyday Resistance in the Plantation South* by Stephanie M.H. Camp
 
-**Pre-Kantian Rationalism: The Ethics & the Tractatus Theologico-Politicus** `HIS 591 (fa26)`
+**Pre-Kantian Rationalism: The Ethics & the Tractatus Theologico-Politicus** `HIS 591`
 - *The Collected Works of Spinoza, Vol. II* by Edwin Curley 
+
 
 

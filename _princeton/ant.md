@@ -4,7 +4,7 @@ title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 
 ## Sophomore level
 
-**Violence** `ANT 264 (fa26)`
+**Violence** `ANT 264`
 - *Righteous Dopefiend* by Bourgois & Schonberg
 - *After the Last Sky: Palestinian Lives* by Edward W. Said
 - *Hollow Land: Israel's Architecture of Occupation* by Eyal Weizman
@@ -24,7 +24,7 @@ title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 - ✔️ ***The Wretched of the Earth*** by Frantz Fanon
 - *Illuminations: Essays & Reflections* by Walter Benjamin
 
-**The Anthropology of Lying & Deception** `ANT 295 (fa26)`
+**The Anthropology of Lying & Deception** `ANT 295`
 - *How to Do Things with Words* by J.L. Austin
 - *The Modernity Bluff: Crime, Consumption & Citizenship in Côte d'Ivoire* by Sasha Newell
 - *Given Time: I. Counterfeit Money* by Jacques Derrida
@@ -33,35 +33,35 @@ title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 - *Mules & Men* by Zora Neale Hurston
 - *Defacement: Public Secrecy & the Labor of the Negative* by Michael Taussig
 
-**People-Centered: Doing Anthropology** `ANT 299 (fa26)`
+**People-Centered: Doing Anthropology** `ANT 299`
 - *The Ethnographer's Way: A Handbook for Multidimensional Research Design* by Peterson & Olson
 - *Making Livable Worlds: Afro-Puerto Rican Women Building Environmental Justice* by Hilda Llorens
 
 ## Junior level
 
-**Ethnography, Evidence & Experience** `ANT 300 (fa26)`
+**Ethnography, Evidence & Experience** `ANT 300`
 - *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale
 - *Crooked Cats: Beastly Encounters in the Anthropocene* by Nayanika Mathur
 - *Returning to Reims* by Didier Eribon
 
-**Food, Health & Justice** `ANT 311 (fa26)`
+**Food, Health & Justice** `ANT 311`
 - *Food Justice Undone: Lessons for Building a Better Movement* by Hanna Garth
 
-**Japanese Society & Culture** `ANT 323 (fa26)`
+**Japanese Society & Culture** `ANT 323`
 - *Lost in Transition: Youth, Work & Instability in Postindustrial Japan* by Mary C. Brinton
 - *Learning to Be Adolescent: Growing Up in U.S. & Japanese Middle Schools* by Gerald K. LeTendre
 - *The Too-Good Wife: Alcohol, Codependency & the Politics of Nurturance in Postwar Japan* by Amy Borovoy
 - *Food Safety after Fukushima: Scientific Citizenship & the Politics of Risk* by Nicolas Sternsdorff-Cisterna 
 
-**Queer Becomings** `ANT 337 (fa26)`
+**Queer Becomings** `ANT 337`
 - *The Struggle to Be Gay—in Mexico, for Example* by Roger N. Lancaster
 - *Gay Fathers, Their Children & the Making of Kinship* by Aaron Goodfellow
 - *Butch Queens Up in Pumps: Gender, Performance & Ballroom Culture in Detroit* by Marlon M. Bailey
 
-**Art & Archaeology of Ancient Mesoamerica** `ANT 366 (fa26)`
+**Art & Archaeology of Ancient Mesoamerica** `ANT 366`
 - *The Art of Mesoamerica: From Olmec to Aztec* by Mary Ellen Miller 
 
-**Ethnography of Schools & Schooling** `ANT 368 (fa26)`
+**Ethnography of Schools & Schooling** `ANT 368`
 - *Privilege: The Making of an Adolescent Elite at St. Paul's School* by Shamus Khan
 - *Police in the Hallways: Discipline in an Urban High School* by Kathleen Nolan
 - *Made in America: Immigrant Students in Our Public Schools* by Laurie Olsen
@@ -74,7 +74,7 @@ title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 - *Moving across Differences: How Students Engage LGBTQ+ Themes in a High School Literature Class* by Mollie V. Blackburn
 - *Lives in Limbo: Undocumented & Coming of Age in America* by Roberto G. Gonzales
 
-**Anthropological Theory** `ANT 390 (fa26)`
+**Anthropological Theory** `ANT 390`
 - *Learning to Labor: How Working-Class Kids Get Working-Class Jobs* by Paul Willis
 - *The Practice of Everyday Life* by Michel de Certeau
 - *Carnal Knowledge & Imperial Power: Race & the Intimate in Colonial Rule* by Ann Laura Stoler
@@ -88,7 +88,8 @@ title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 
 ## Senior level
 
-**Visible Evidence: Wildlife Films & Multispecies Documentary** `ANT 455 (fa26)`
+**Visible Evidence: Wildlife Films & Multispecies Documentary** `ANT 455`
 - *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor 
+
 
 

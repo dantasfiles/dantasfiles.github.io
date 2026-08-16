@@ -4,24 +4,24 @@ title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list, fa
 
 ## Freshman level
 
-**Beginning Bosnian-Croatian-Serbian I** `BCS 101 (fa26)`
+**Beginning Bosnian-Croatian-Serbian I** `BCS 101`
 - *Bosnian, Croatian, Serbian* by Alexander & Elias-Bursac
 
-**Beginner's Russian I** `RUS 101 (fa26)`
+**Beginner's Russian I** `RUS 101`
 - *Golosa: A Basic Course in Russian, Book 1* by Robin et al. 
 
-**Intermediate Polish** `PLS 105 (fa26)`
+**Intermediate Polish** `PLS 105`
 - *Basic Polish: A Grammar & Workbook* by Dana Bielec 
 
-**Intermediate Russian I** `RUS 105 (fa26)`
+**Intermediate Russian I** `RUS 105`
 - *Etazhi: Second Year Russian Language & Culture* by Dengub & Nazarova
 
 ## Sophomore level 
 
-**Adv. Russian Reading and Conversation I** `RUS 207 (fa26)`
+**Adv. Russian Reading and Conversation I** `RUS 207`
 - *Cinema for Russian Conversation, Vol. 2* by Kashper et al. 
 
-**Pushkin, Gogol, Dostoevsky** `SLA 219 (fa26)`
+**Pushkin, Gogol, Dostoevsky** `SLA 219`
 - *Alexander Pushkin: Boris Godunov & Other Dramatic Works*
 - *Eugene Onegin: A Novel in Verse* by Alexander Pushkin
 - *Novels, Tales, Journeys: The Complete Prose of Alexander Pushkin*
@@ -32,7 +32,7 @@ title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list, fa
 
 ## Junior level
 
-**East European Literature** `SLA 345 (fa26)`
+**East European Literature** `SLA 345`
 - *The Death of a Soldier Told by His Sister* by Olesya Khromeychuk
 - *Chernobyl Prayer: A Chronicle of the Future* by Svetlana Alexievich
 - *The Radetzky March* by Joseph Roth
@@ -47,7 +47,7 @@ title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list, fa
 
 ## Senior level
 
-**Dostoevsky** `SLA 416 (fa26)`
+**Dostoevsky** `SLA 416`
 - *The Brothers Karamazov* by Fyodor Dostoyevsky
 - *Crime & Punishment* by Fyodor Dostoyevsky
 - *Demons* by Fyodor Dostoevsky
@@ -58,5 +58,6 @@ title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list, fa
 - *The Double* by Fyodor Dostoyevsky
 - *Nikolai Gogol: Plays & Petersburg Tales*
 - *Fyodor Dostoyevsky: Poor Folk & Other Stories*
+
 
 

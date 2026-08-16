@@ -2,7 +2,7 @@
 title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 ---
 
-**Exploring the Graphic Novel** `FRS 111 (fa26)`
+**Exploring the Graphic Novel** `FRS 111`
 - *Doctor Fate Vol. 1: The Blood Price* by Levitz et al.
 - *Grass* by Keum Suk Gendry-Kim
 - *Blankets* by Craig Thompson
@@ -15,14 +15,14 @@ title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 - *Incognegro: A Graphic Mystery* by Johnson & Pleece
 - *Breaking the Chain: The Guard Dog Story* by Patrick McDonnell
 
-**Rise & Fall: Geodesy & the History of Roman Floods** `FRS 113 (fa26)`
+**Rise & Fall: Geodesy & the History of Roman Floods** `FRS 113`
 - *Floods of the Tiber in Ancient Rome* by Gregory S. Aldrete
 
-**How to Write About Art** `FRS 119 (fa26)`
+**How to Write About Art** `FRS 119`
 - *The Sexuality of Christ in Renaissance Art & in Modern Oblivion* by Leo Steinberg
 - *The Sight of Death: An Experiment in Art Writing* by T.J. Clark
 
-**What Makes for a Meaningful Life? A Search** `FRS 121 (fa26)`
+**What Makes for a Meaningful Life? A Search** `FRS 121`
 - *Alone Together: Why We Expect More from Technology & Less from Each Other* by Sherry Turkle
 - *The Nature Principle: Reconnecting with Life in a Virtual Age* by Richard Louv
 - ✔️ ***Winnie-the-Pooh*** by A.A. Milne
@@ -35,10 +35,10 @@ title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 - *Dogs Never Lie About Love: Reflections on the Emotional World of Dogs* by Jeffrey Moussaieff Masson
 - *The Sound of a Wild Snail Eating* by Elisabeth Tova Bailey
 
-**Sizing Up The Universe** `FRS 131 (fa26)`
+**Sizing Up The Universe** `FRS 131`
 - *Welcome to the Universe in 3D: A Visual Tour* by Tyson et al.
 
-**Once More, With Feeling: American Musical Theater** `FRS 132 (fa26)`
+**Once More, With Feeling: American Musical Theater** `FRS 132`
 - *My Fair Lady* by Alan Jay Lerner
 - *Company* by Sondheim & Furth
 - *Oklahoma!* by Rodgers & Hammerstein
@@ -49,7 +49,7 @@ title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 - *Fun Home* by Tesori et al.
 - *A Strange Loop* by Michael R. Jackson
  
-**History of Freedom** `FRS 137 (fa26)`
+**History of Freedom** `FRS 137`
 - *The Penguin Book of Modern Speeches* by Brian MacArthur
 - *Essays on Sex Equality* by Mill & Mill
 - *On Liberty* by Mill & Mill
@@ -66,23 +66,23 @@ title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 - *Liberty: Incorporating Four Essays on Liberty* by Isaiah Berlin
 - *Political Writings* by Benjamin Constant
 
-**Representation in Documentary Filmmaking** `FRS 138 (fa26)`
+**Representation in Documentary Filmmaking** `FRS 138`
 - *A Guide to (Short) Documentary Filmmaking* by Jamie Meltze
 - *Directing the Documentary* by Rabiger and Hermann
 
-**Is Politics a Performance?** `FRS 143 (fa26)`
+**Is Politics a Performance?** `FRS 143`
 - *Ideas Arrangements Effects* by The Design Studio for Social Intervention
 
-**How People Change: Short Stories & Life's Transitions** `FRS 147 (fa26)`
+**How People Change: Short Stories & Life's Transitions** `FRS 147`
 - *How People Change: The Short Story as Case History* by William Tucker
 
-**Ethics in Finance** `FRS 149 (fa26)`
+**Ethics in Finance** `FRS 149`
 - *Blind Spots: Why We Fail to Do What's Right & What to Do about It* by Bazerman & Tenbrunsel
 - *What Money Can't Buy: The Moral Limits of Markets* by Michael J. Sandel
 - *Finance & the Good Society* by Robert J. Shiller
 - *Seeking Virtue in Finance: Contributing to Society in a Conflicted Industry* by J.C. de Swaan
 
-**Gaslight! Control, Coercion, or Just Conflict?: The Cultural History of a TikTok Term** `FRS 153 (fa26)`
+**Gaslight! Control, Coercion, or Just Conflict?: The Cultural History of a TikTok Term** `FRS 153`
 - *The Crucible* by Arthur Miller
 - *The Age of McCarthyism: A Brief History with Documents* by Schrecker & Deery
 - *For Her Own Good: Two Centuries of the Experts' Advice to Women* by Ehrenreich & English
@@ -92,7 +92,7 @@ title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 - *John Proctor is the Villain* by Kimberly Belflower
 - *The Birds & Other Stories* by Daphne Du Maurier
 
-**Marx in the 21st Century** `FRS 167 (fa26)`
+**Marx in the 21st Century** `FRS 167`
 - *Capital, v.1* by Karl Marx
 - *Everything for Everyone: An Oral History of the New York Commune, 2052–2072* O'Brien & Abdelhadi
 - *Slow Down: The Degrowth Manifesto* by Kohei Saito
@@ -101,11 +101,11 @@ title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 - ✔️ ***[The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)*** by Marx & Engels
 - *24/7: Late Capitalism and the Ends of Sleep* by Jonathan Crary
 
-**Rembrandt** `FRS 168 (fa26)`
+**Rembrandt** `FRS 168`
 - *Rembrandt: Biography of a Rebel* by Jonathan Bikker
 - *Rembrandt* by Mariët Westermann
 
-**Neurons & Narratives: Genes & Disease in the Nervous System** `FRS 171 (fa26)`
+**Neurons & Narratives: Genes & Disease in the Nervous System** `FRS 171`
 - *Sheila: Unlocking the Treatment for PKU* by Anne Green
 - *Inside the O'Briens* by Lisa Genova
 - *My Life, My Science: Pursuing a Cure for Huntington’s Disease* by Nancy Sabin Wexler
@@ -117,21 +117,21 @@ title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 - *The Disordered Mind: What Unusual Brains Tell Us About Ourselves* by Eric R. Kandel
 - *Understanding the Brain: From Cells to Behavior to Cognition* by John E. Dowling
 
-**America 250: Natural Law & American Constitutional Democracy** `FRS 175 (fa26)`
+**America 250: Natural Law & American Constitutional Democracy** `FRS 175`
 - *The Common Good of Constitutional Democracy: Essays in Political Philosophy & on Catholic Social Teaching* by Martin Rhonheimer
 - *Natural Law & Natural Rights* by John Finnis
 
-**Love Songs** `FRS 181 (fa26)`
+**Love Songs** `FRS 181`
 - *How to Write One Song* by Jeff Tweedy
 - *Symposium* by Plato
 - *The Agony of Eros* by Byung-Chul Han
 - *The Art of Loving* by Erich Fromm
 - *All About Love: New Visions* by bell hooks
 
-**Medicine on Screen** `FRS 185 (fa26)`
+**Medicine on Screen** `FRS 185`
 - *The Invisible Kingdom: Reimagining Chronic Illness* by Meghan O'Rourke
 
-**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189 (fa26)`
+**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
 - *Heart of a Dog* by Mikhail Bulgakov
 - ✔️ ***The Time Machine*** by H.G. Wells
 - *The Cyberiad* by Stanislaw Lem
@@ -141,5 +141,6 @@ title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 - ✔️ ***I, Robot*** by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas))
 - ✔️ ***Roadside Picnic*** by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas))
 - ✔️ ***Do Androids Dream of Electric Sheep?*** by Philip K. Dick 
+
 
 
