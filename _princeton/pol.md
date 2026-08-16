@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Politics unofficial reading list 2026
+title: 🐯 Princeton Politics unofficial reading list, fall 2026
 ---
 
 ## Junior level
@@ -59,5 +59,7 @@ title: 🐯 Princeton Politics unofficial reading list 2026
 
 **International Security Studies** `POL 554 (fa26)`
 - *Arms & Influence* by Thomas C. Schelling
+
+
 
 

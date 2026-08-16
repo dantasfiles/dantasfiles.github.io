@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Geosciences unofficial reading list 2026
+title: 🐯 Princeton Geosciences unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -16,3 +16,5 @@ layout: reading-list
 | Senior level | | 
 | :---: | --- |
 | **Intro. to Water Pollution Technology** <br> GEO 471 (fa26) | ◦ *Water Quality: Characteristics, Modeling & Modification* by Tchobanoglous & Schoeder | 
+
+

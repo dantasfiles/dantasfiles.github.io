@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Urban Studies unofficial reading list 2026
+title: 🐯 Princeton Urban Studies unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -40,3 +40,5 @@ title: 🐯 Princeton Urban Studies unofficial reading list 2026
 
 **Intro. to Water Pollution Technology** `URB 471 (fa26)`
 - *Water Quality: Characteristics, Modeling & Modification* by Tchobanoglous & Schoeder 
+
+

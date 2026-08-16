@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Mathematics unofficial reading list 2026
+title: 🐯 Princeton Mathematics unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -32,6 +32,8 @@ layout: reading-list
 | :---: | --- |
 | **Geometry & Number Theory: Arithmetic of Elliptic Curves** <br> MAT 419 (fa26) | • *The Arithmetic of Elliptic Curves* by Joseph H. Silverman |
 | **Algebraic Geometry** <br> MAT 457 (fa26) | • *Basic Algebraic Geometry 1: Varieties in Projective Space* by Shafarevich & Reid | 
+
+
 
 
 

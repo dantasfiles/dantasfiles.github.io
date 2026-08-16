@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Latin American Studies unofficial reading list 2026
+title: 🐯 Princeton Latin American Studies unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -30,4 +30,6 @@ title: 🐯 Princeton Latin American Studies unofficial reading list 2026
 
 **Contemporary Critical Theories: Marx's Capital** `LAS 535 (fa26)`
 - *Capital, v.1* by Karl Marx
+
+
 

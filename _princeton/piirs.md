@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton International & Regional Studies unofficial reading list 2026
+title: 🐯 Princeton International & Regional Studies unofficial reading list, fall 2026
 ---
 
 <div style="column-count: 2;" markdown="1">
@@ -166,3 +166,5 @@ title: 🐯 Princeton International & Regional Studies unofficial reading list 2
 - *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli
 - *In Other Words* by Jhumpa Lahiri
 - *Translations* by Brian Friel
+
+

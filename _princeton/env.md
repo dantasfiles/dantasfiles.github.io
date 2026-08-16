@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Environmental Studies unofficial reading list 2026
+title: 🐯 Princeton Environmental Studies unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -21,3 +21,5 @@ layout: reading-list
 | Graduate level | |
 | :---: | --- |
 | **Ecohydrology** <br> ENV 587 (fa26) | • *Ecohydrology: Dynamics of Life and Water in the Critical Zone* by Porporato & Yin | 
+
+

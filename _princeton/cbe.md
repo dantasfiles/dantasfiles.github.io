@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Chemical & Biological Engineering unofficial reading list 2026
+title: 🐯 Princeton Chemical & Biological Engineering unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -14,3 +14,5 @@ layout: reading-list
 | **Membrane Separations for Energy & the Environment** <br> CBE 513 (fa26) | • *Membrane Technology & Applications* by Richard W. Baker |
 | **Intro. to Statistical Mechanics** <br> CBE 524 (fa26) | • *Intro. to Modern Statistical Mechanics* by David Chandler <br> ◦ *Random Heterogeneous Materials: Microstructure & Macroscopic Properties* by Salvatore Torquato |
 | **Technical Leadership in Engineering** <br> CBE 531 (fa26) | ◦ *The 8 Dimensions of Leadership: DiSC Strategies for Becoming a Better Leader* by Sugerman et al. <br> ◦ *Grit: The Power of Passion and Perseverance* by Angela Duckworth <br> ✔️ ***Designing Your Life: How to Build a Well-Lived, Joyful Life*** by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas)) <br> ◦ *Managing Scientists: Leadership Strategies in Scientific Research* by Alice M. Sapienza <br> ◦ *Leadership by Engineers & Scientists: Professional Skills Needed to Succeed in a Changing World* by Dennis W. Hess |
+
+

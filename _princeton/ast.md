@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Astrophysical Sciences unofficial reading list 2026
+title: 🐯 Princeton Astrophysical Sciences unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -13,3 +13,5 @@ title: 🐯 Princeton Astrophysical Sciences unofficial reading list 2026
 
 **Diffuse Matter in Space** `AST 517 (fa26)`
 - *Physics of the Interstellar & Intergalactic Medium* by Bruce T. Draine
+
+

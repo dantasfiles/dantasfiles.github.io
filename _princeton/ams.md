@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Study of America unofficial reading list 2026
+title: 🐯 Princeton Study of America unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -64,3 +64,5 @@ title: 🐯 Princeton Study of America unofficial reading list 2026
 **Musical Theatre & Fan Cultures** `AMS 440 (fa26)`
 - *Fandom in Musical Theatre* by Jessica Hillman-McCord
 - *John Proctor is the Villain* by Kimberly Belflower 
+
+

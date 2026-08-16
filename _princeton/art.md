@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Art & Archaeology unofficial reading list 2026
+title: 🐯 Princeton Art & Archaeology unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -24,3 +24,5 @@ layout: reading-list
 | :---: | --- |
 | **Holistic Analysis of Heritage Structures** <br> ART 538 (fa26) | ◦ *Concrete Vaulted Construction in Imperial Rome: Innovations in Context* by Lynne C. Lancaster <br> ◦ *Innovative Vaulting in the Architecture of the Roman Empire: 1st to 4th Centuries CE* by Lynne C. Lancaster <br> ◦ *Building Construction Before Mechanization* by John Fitchen <br> ◦ *The Oxford Handbook of Engineering & Technology in the Classical World* by John Peter Oleson |
 | **Modern Art: Science & Its Fictions in the Long 19th Century** <br> ART 577 (fa26) | ✔️ [***Frankenstein***](https://standardebooks.org/ebooks/mary-shelley/frankenstein) by Mary Shelley <br> ✔️ [***Journey to the Center of the Earth***](https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson) by Jules Verne <br> ✔️ [***The Island of Doctor Moreau***](https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau) by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) |
+
+

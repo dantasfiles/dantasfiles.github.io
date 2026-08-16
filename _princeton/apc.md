@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Applied & Computational Mathematics unofficial reading list 2026
+title: 🐯 Princeton Applied & Computational Mathematics unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -10,4 +10,6 @@ layout: reading-list
 | Graduate level | |
 | :---: | --- | 
 | **Mathematical Methods of Engineering Analysis I** <br> APC 501 (fa26) | • *Mathematical Methods for Physics & Engineering* by Riley et al. <br> • *Mathematical Methods for Physicists* by Arfken et al. |
+
+
 

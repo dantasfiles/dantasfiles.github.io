@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Religion unofficial reading list 2026
+title: 🐯 Princeton Religion unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -70,4 +70,6 @@ title: 🐯 Princeton Religion unofficial reading list 2026
 - *A Sanskrit English Dictionary* by M Monier-Williams
 - *Scholastic Sanskrit: A Manual for Students* by Tubb & Boose
 - *A Concise Elementary Grammar of the Sanskrit Language* by Jan Gonda
+
+
 

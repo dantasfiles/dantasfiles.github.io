@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Economics unofficial reading list 2026
+title: 🐯 Princeton Economics unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -21,6 +21,8 @@ layout: reading-list
 | **Econometric Theory I** <br> ECO 517 (fa26) | ◦ *Econometrics* by Fumio Hayashi <br> ◦ *Econometrics* by Bruce Hansen | 
 | **Asset Pricing** <br> ECO 525 (fa26) | ◦ *Dynamic Asset Pricing Theory* by Darrell Duffie | 
 | **International Trade I** <br> ECO 551 (fa26) | ◦ *Theory of International Trade: A Dual, General Equilibrium Approach* by Dixit & Norman <br> ◦ *Advanced International Trade: Theory & Evidence* by Robert C. Feenstra <br> ◦ *Market Structure & Foreign Trade: Increasing Returns, Imperfect Competition & the International Economy* by Helpman & Krugman | 
+
+
 
 
 

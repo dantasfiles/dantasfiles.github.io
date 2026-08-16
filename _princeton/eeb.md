@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Ecology & Evolutionary Biology unofficial reading list 2026
+title: 🐯 Princeton Ecology & Evolutionary Biology unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -10,3 +10,5 @@ layout: reading-list
 | Junior level | |
 | :---: | --- |
 | **Conservation Biology** <br> EEB 308 (fa26) | • *Fundamentals of Conservation Biology* by Hunter et al. | 
+
+

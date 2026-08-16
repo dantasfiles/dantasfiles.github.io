@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton unofficial reading lists 2026
+title: 🐯 Princeton unofficial reading lists, fall 2026
 layout: page
 ---
 
@@ -142,4 +142,6 @@ I compiled these unofficial reading lists using publicly available information f
 **[Urban Studies](https://dantasfiles.com/princeton/urb)**
 
 </div>
+
+
 

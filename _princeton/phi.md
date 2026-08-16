@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Philosophy unofficial reading list 2026
+title: 🐯 Princeton Philosophy unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -43,3 +43,5 @@ title: 🐯 Princeton Philosophy unofficial reading list 2026
 
 **Pre-Kantian Rationalism: The Ethics & the Tractatus Theologico-Politicus** `PHI 511 (fa26)`
 - *The Collected Works of Spinoza, Vol. II* by Edwin Curley
+
+

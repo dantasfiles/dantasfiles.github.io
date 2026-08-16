@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Judaic Studies unofficial reading list 2026
+title: 🐯 Princeton Judaic Studies unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -12,3 +12,5 @@ layout: reading-list
 | Junior level | |
 | :---: | --- |
 | **The World of the Cairo Geniza** <br> JDS 351 (fa26) | • *In an Antique Land: History in the Guise of a Traveler's Tale* by Amitav Ghosh <br> • *Sacred Trash: The Lost and Found World of the Cairo Geniza* by Hoffman & Cole <br> • *Trade & Institutions in the Medieval Mediterranean: The Geniza Merchants & their Business World* by Jessica L. Goldberg <br> • *Slavery and the Jews of Medieval Egypt: A History* by Craig Perry | 
+
+

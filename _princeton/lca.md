@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Lewis Center for the Arts unofficial reading list 2026
+title: 🐯 Princeton Lewis Center for the Arts unofficial reading list, fall 2026
 ---
 
 <div style="column-count: 2;" markdown="1">
@@ -64,3 +64,5 @@ title: 🐯 Princeton Lewis Center for the Arts unofficial reading list 2026
 
 **Intro. to Screenwriting: Writing the Short Film** `VIS 348 (fa26)`
 - *The Screenwriter's Bible: A Complete Guide to Writing, Formatting & Selling Your Script* by David Trottier
+
+

@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Classics unofficial reading list 2026
+title: 🐯 Princeton Classics unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -88,3 +88,5 @@ title: 🐯 Princeton Classics unofficial reading list 2026
 - *The Ides of March* by Thornton Wilder
 - *The Correspondent* by Virginia Evans
 - *Selected Letters* by Seneca
+
+

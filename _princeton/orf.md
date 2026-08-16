@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Operations Research & Financial Engineering unofficial reading list 2026
+title: 🐯 Princeton Operations Research & Financial Engineering unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -31,3 +31,5 @@ layout: reading-list
 | **Probability Theory** <br> ORF 526 (fa26) | ◦ *Probability: Theory & Examples* by Rick Durrett <br> ◦ *Probability & Stochastics* by Erhan Çınlar | 
 | **Computational Finance in C++** <br> ORF 531 (fa26) | ◦ *Options, Futures & Other Derivatives* by John Hull <br> ◦ *Modern C++ for Absolute Beginners: A Friendly Introduction to the C++ Programming Language & C++11 to C++23 Standards* by Slobodan Dmitrović <br> ◦ *Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14* by Scott Meyers <br> ◦ *C++ Design Patterns & Derivatives Pricing* by M.S. Joshi <br> ◦ *Numerical Recipes: The Art of Scientific Computing* by William H. Press |
 | **Energy & Commodities Markets** <br> ORF 555 (fa26) | ◦ *Optimization Models in Electricity Markets* by Anthony Papavasiliou | 
+
+

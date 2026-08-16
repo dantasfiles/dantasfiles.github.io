@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton European Cultural Studies unofficial reading list 2026
+title: 🐯 Princeton European Cultural Studies unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -63,3 +63,5 @@ layout: reading-list
 - *When the King Took Flight* by Timothy Tackett
 - *A Concise History of the Haitian Revolution* by Jeremy D. Popkin
 - *The Age of Revolutions: And the Generations Who Made It* by Nathan Perl-Rosenthal  
+
+

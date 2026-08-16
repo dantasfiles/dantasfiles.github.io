@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Hellenic Studies unofficial reading list 2026
+title: 🐯 Princeton Hellenic Studies unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -49,4 +49,6 @@ title: 🐯 Princeton Hellenic Studies unofficial reading list 2026
 **Aristotle & His Successors** `HLS 302 (fa26)`
 - *Complete Works of Aristotle, v.1*
 - *Nicomachean Ethics* by Aristotle
+
+
 

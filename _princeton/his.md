@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton History unofficial reading list 2026
+title: 🐯 Princeton History unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -128,3 +128,5 @@ title: 🐯 Princeton History unofficial reading list 2026
 
 **Pre-Kantian Rationalism: The Ethics & the Tractatus Theologico-Politicus** `HIS 591 (fa26)`
 - *The Collected Works of Spinoza, Vol. II* by Edwin Curley 
+
+

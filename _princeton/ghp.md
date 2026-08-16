@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Global Health & Health Policy unofficial reading list 2026
+title: 🐯 Princeton Global Health & Health Policy unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -10,3 +10,5 @@ layout: reading-list
 | Senior level | | 
 | :---: | --- |
 | **Viruses: Strategy & Tactics** <br> GHP 459 (fa26) | • *Principles of Virology* by Flint et al. | 
+
+

@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Engineering unofficial reading list 2026
+title: 🐯 Princeton Engineering unofficial reading list, fall 2026
 ---
 
 ## Freshman level 
@@ -96,3 +96,5 @@ title: 🐯 Princeton Engineering unofficial reading list 2026
 - ✔️ ***Designing Your Life: How to Build a Well-Lived, Joyful Life*** by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
 - *Managing Scientists: Leadership Strategies in Scientific Research* by Alice M. Sapienza
 - *Leadership by Engineers & Scientists: Professional Skills Needed to Succeed in a Changing World* by Dennis W. Hess
+
+

@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Anthropology unofficial reading list 2026
+title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -90,3 +90,5 @@ title: 🐯 Princeton Anthropology unofficial reading list 2026
 
 **Visible Evidence: Wildlife Films & Multispecies Documentary** `ANT 455 (fa26)`
 - *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor 
+
+

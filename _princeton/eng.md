@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton English unofficial reading list 2026
+title: 🐯 Princeton English unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -141,3 +141,5 @@ title: 🐯 Princeton English unofficial reading list 2026
 - *The Canterbury Tales* by Geoffrey Chaucer
 - *The Middle English Breton Lays* by Laskaya & Salisbury
 - *Sir Gawain and the Green Knight* 
+
+

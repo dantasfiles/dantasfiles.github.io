@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Science & Technology Center unofficial reading list 2026
+title: 🐯 Princeton Science & Technology Center unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -12,3 +12,5 @@ layout: reading-list
 | Senior level | |
 | :---: | --- |
 | **Visible Evidence: Wildlife Films & Multispecies Documentary** <br> STC 455 (fa26) | • *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor | 
+
+

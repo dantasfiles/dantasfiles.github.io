@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list 2026
+title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list, fall 2026
 ---
 
 ## Freshman level
@@ -58,3 +58,5 @@ title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list 202
 - *The Double* by Fyodor Dostoyevsky
 - *Nikolai Gogol: Plays & Petersburg Tales*
 - *Fyodor Dostoyevsky: Poor Folk & Other Stories*
+
+

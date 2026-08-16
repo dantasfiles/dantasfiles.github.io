@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Computer Science unofficial reading list 2026
+title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 ---
 
 ## Sophomore level 
@@ -121,4 +121,6 @@ title: 🐯 Princeton Computer Science unofficial reading list 2026
 | [**Sum-of-Squares Proofs & Efficient Algorithms**](https://www.cs.princeton.edu/~kothari/spring26.html) <br> COS 598C (sp26) | |
 | [**Empirical Research Methods for CS**](https://humans.cs.princeton.edu/teaching/spring2026_empirical_methods.html) <br> COS 598D (sp26) | See website for paper list | 
 | [**Machine Learning for Structural Biology**](https://www.cs.princeton.edu/courses/archive/spring26/cos598L/) <br> COS 598L (sp26) | See website for paper list | 
+
+
 

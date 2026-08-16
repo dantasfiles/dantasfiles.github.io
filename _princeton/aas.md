@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton African American Studies unofficial reading list 2026
+title: 🐯 Princeton African American Studies unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -79,4 +79,6 @@ title: 🐯 Princeton African American Studies unofficial reading list 2026
 - *When Home Is a Photograph: Blackness & Belonging in the World* by Leigh Raiford
 - *South to America: A Journey Below the Mason-Dixon to Understand the Soul of a Nation* by Imani Perry
 - *Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women & Queer Radicals* by Saidiya Hartman
+
+
 

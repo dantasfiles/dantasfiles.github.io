@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton First Year Seminars unofficial reading list 2026
+title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 ---
 
 **Exploring the Graphic Novel** `FRS 111 (fa26)`
@@ -141,3 +141,5 @@ title: 🐯 Princeton First Year Seminars unofficial reading list 2026
 - ✔️ ***I, Robot*** by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas))
 - ✔️ ***Roadside Picnic*** by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas))
 - ✔️ ***Do Androids Dream of Electric Sheep?*** by Philip K. Dick 
+
+

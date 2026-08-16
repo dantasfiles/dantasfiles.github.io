@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Medieval Studies unofficial reading list 2026
+title: 🐯 Princeton Medieval Studies unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -46,3 +46,5 @@ title: 🐯 Princeton Medieval Studies unofficial reading list 2026
 - *Nibelungenlied*
 - *Middle High German Verbs* by Scott Shay
 - *An Introduction to Middle High German* by Jones & Jones 
+
+

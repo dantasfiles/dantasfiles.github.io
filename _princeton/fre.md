@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton French unofficial reading list 2026
+title: 🐯 Princeton French unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -23,3 +23,5 @@ layout: reading-list
 | Graduate level | |
 | :---: | --- |
 | **20th-Century French Narrative Prose: Reading Proust** <br> FRE 524 (fa26) | • *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust | 
+
+

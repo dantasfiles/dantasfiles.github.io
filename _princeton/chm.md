@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Chemistry unofficial reading list 2026
+title: 🐯 Princeton Chemistry unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -23,4 +23,6 @@ layout: reading-list
 | **Inorganic Chem.: Modern Electrochem.** <br> CHM 524 (fa26) | • *Electrochemical Methods: Fundamentals & Applications* by Bard et al. | 
 | **Synthetic Organic Chem.** <br> CHM 530 (fa26) | ◦ *Advanced Organic Chem.: Part B: Reaction & Synthesis* by Carey & Sundberg <br> ◦ *Modern Physical Organic Chem.* by Anslyn & Dougherty <br> ◦ *Strategic Applications of Named Reactions in Organic Synthesis* by Kurti & Czako |
 | **Mechanistic & Physical Organic Chem.** <br> CHM 532 (fa26) | • *Modern Physical Organic Chem.* by Anslyn & Dougherty | 
+
+
 

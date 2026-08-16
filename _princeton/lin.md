@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Linguistics unofficial reading list 2026
+title: 🐯 Princeton Linguistics unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -21,3 +21,5 @@ title: 🐯 Princeton Linguistics unofficial reading list 2026
  
 **Semantics** `LIN 334 (fa26)`
 - *Semantics in Generative Grammar* by Heim & Kratzer 
+
+

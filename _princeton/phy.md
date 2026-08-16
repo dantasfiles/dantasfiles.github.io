@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Physics unofficial reading list 2026
+title: 🐯 Princeton Physics unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -11,3 +11,5 @@ layout: reading-list
 | Graduate level | |
 | :---: | --- |
 | **Electronic Methods in Experimental Physics** <br> PHY 557 (fa26) | • *Learning the Art of Electronics: A Hands-On Lab Course* by Hayes et al. |
+
+

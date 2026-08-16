@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Italian unofficial reading list 2026
+title: 🐯 Princeton Italian unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -11,3 +11,5 @@ layout: reading-list
 | Junior level | | 
 | :---: | --- |
 | **Medieval Italian Literature & Culture: Dante Pop: The Divine Comedy in Popular Culture** <br> ITA 302 (fa26) | • *Il Dante di Tutti: Un'Icona Pop* by Giuseppe Antonelli <br> • *Dante's Divine Comedy: A Biography* by Joseph Luzzi <br> ◦ *Dante Alive: Essays on a Cultural Icon* by Ciabattoni & Marchesi |
+
+

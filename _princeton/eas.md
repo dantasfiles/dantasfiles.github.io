@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton East Asian Studies unofficial reading list 2026
+title: 🐯 Princeton East Asian Studies unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -38,4 +38,6 @@ layout: reading-list
 | Graduate level | |
 | :---: | --- |
 | **Readings in Japanese Academic Style** <br> EAS 563 (fa26) | • *A Practical Guide for Scholarly Reading in Japanese* by Nazikian et al. | 
+
+
 

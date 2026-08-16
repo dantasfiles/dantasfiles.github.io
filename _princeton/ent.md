@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Entrepreneurship unofficial reading list 2026
+title: 🐯 Princeton Entrepreneurship unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -23,3 +23,5 @@ title: 🐯 Princeton Entrepreneurship unofficial reading list 2026
 **Entrepreneurial Leadership** `ENT 497 (fa26)`
 - *How Will You Measure Your Life?* by Clayton M. Christensen
 - *Startup Leadership: How Savvy Entrepreneurs Turn Their Ideas Into Successful Enterprises* by Derek Lidow 
+
+

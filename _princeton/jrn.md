@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Journalism unofficial reading list 2026
+title: 🐯 Princeton Journalism unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -10,3 +10,5 @@ layout: reading-list
 | Senior level | |
 | :---: | --- |
 | **International News: Migration Reporting** <br> JRN 449 (fa26) | • *The New Censorship: How the War on the Media is Taking Us Down* by Ayala Panievsky | 
+
+

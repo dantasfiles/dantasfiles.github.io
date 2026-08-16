@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list 2026
+title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2026
 ---
 
 ## Sophomore level
@@ -73,3 +73,5 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list 2026
 
 **Contemporary Critical Theories: Marx's Capital** `GSS 535 (fa26)`
 - *Capital, v.1* by Karl Marx
+
+

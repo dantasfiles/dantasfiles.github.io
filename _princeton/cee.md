@@ -1,5 +1,5 @@
 ---
-title: 🐯 Princeton Civil & Environmental Engineering unofficial reading list 2026
+title: 🐯 Princeton Civil & Environmental Engineering unofficial reading list, fall 2026
 layout: reading-list
 ---
 
@@ -30,6 +30,8 @@ layout: reading-list
 | **Holistic Analysis of Heritage Structures** <br> CEE 538 (fa26) | ◦ *Concrete Vaulted Construction in Imperial Rome: Innovations in Context* by Lynne C. Lancaster <br> ◦ *Innovative Vaulting in the Architecture of the Roman Empire: 1st to 4th Centuries CE* by Lynne C. Lancaster <br> ◦ *Building Construction Before Mechanization* by John Fitchen <br> ◦ *The Oxford Handbook of Engineering & Technology in the Classical World* by John Peter Oleson |
 | **Ecohydrology** <br> CEE 587 (fa26) | • *Ecohydrology: Dynamics of Life & Water in the Critical Zone* by Porporato & Yin | 
 | **Modeling Environmental Geochemistry** <br> CEE 599 (fa26) | • *Aqueous Environmental Geochemistry* by Donald Langmuir <br> ◦ *Description of Input & Examples for PHREEQC Version 3: A Computer Program for Speciation, Batch-Reaction, One-Dimensional Transport & Inverse Geochemical Calculations* by Parkhurst & Apello <br> ◦ *Kinetics of Water-Rock Interaction* by Brantley et al. <br> ◦ *Environmental Modeling: Fate & Transport of Pollutants in Water, Air & Soil* by Jerald L. Schnoor |
+
+
 
 
 
