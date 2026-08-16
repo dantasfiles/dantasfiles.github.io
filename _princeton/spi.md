@@ -12,7 +12,7 @@ title: 🐯 Princeton Public & International Affairs unofficial reading list
 - *Histories* by Herodotus
 - *The Politics* by Aristotle
 
-**Critical Perspectives in Global Health Policy** `SPI 380`
+**Critical Perspectives in Global Health Policy** `GHP 350 / SPI 380`
 - *Reimagining Global Health: An Intro.* by Farmer et al.
 - *Textbook of Global Health* by Birn et al.
  
@@ -31,6 +31,9 @@ title: 🐯 Princeton Public & International Affairs unofficial reading list
 - *The State & Federal Courts: A Complete Guide to History, Powers & Controversy* by Christopher P. Banks
 - *51 Imperfect Solutions: States & the Making of American Constitutional Law* by Jeffrey S. Sutton
 - *Who Decides?: States as Laboratories of Constitutional Experimentation* by Jeffrey S. Sutton 
+
+**Viruses: Strategy & Tactics** `GHP 459`
+- *Principles of Virology* by Flint et al.
 
 ## Graduate level
 
