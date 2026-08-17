@@ -45,6 +45,9 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 
 ## Senior level
 
+**Patterns, Proofs & Problems** `MATH 4040`
+- *The Art & Craft of Problem Solving* by Paul Zeitz
+
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
 
