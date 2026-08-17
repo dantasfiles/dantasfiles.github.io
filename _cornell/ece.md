@@ -18,4 +18,4 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list, f
 **Digital Signal Processing & Statistical Inference** `ECE 4250/5250`
 - *Signals, Systems & Inference* by Oppenheim & Verghese
 
-
+**[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `ECE 4750/5740`
