@@ -9,11 +9,17 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[American Indian & Indigenous Studies](https://dantasfiles.com/cornell/aiis)**
 
+## Architecture, Art & Planning
+
+**[Architecture](https://dantasfiles.com/cornell/arch)**
+
 ## Arts & Sciences
 
 **[American Studies](https://dantasfiles.com/cornell/amst)**
 
 **[Anthropology](https://dantasfiles.com/cornell/anthr)**
+
+**[Archaeology](https://dantasfiles.com/cornell/arkeo)**
 
 ## Business
 
@@ -24,9 +30,6 @@ I compiled these unofficial reading lists using publicly available information f
 **[Applied & Engineering Physics](https://dantasfiles.com/cornell/aep)**
 
 
-
-arab.md
-arch.md
 arkeo.md
 arth.md
 asian.md
