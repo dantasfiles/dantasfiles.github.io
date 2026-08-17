@@ -40,6 +40,8 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)* by Ulrich Drepper
 - *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
+**[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `CS 4420`
+
 **Intro. to Computational Complexity** `CS 4814/5814`
 - *Intro. to the Theory of Computation* by Michael Sipser
 - *Computational Complexity: A Modern Approach* by Arora & Barak
