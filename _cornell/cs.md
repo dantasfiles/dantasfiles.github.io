@@ -28,6 +28,13 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)*
 - *[Rust Design Patterns](https://rust-unofficial.github.io/patterns/)*
 - *[The Rust Performance Book](https://nnethercote.github.io/perf-book/)* by Nethercote et al.
+- *[Rust Atomics & Locks: Low-Level Concurrency in Practice](https://mara.nl/atomics/)* by Mara Bos
+- *Programming Rust: Fast, Safe Systems Development* by Blandy et al.
+- *Rust in Action* by Tim McNamara
+- *Rust for Rustaceans: Idiomatic Programming for Experienced Developers* by Jon Gjengset
+- *[Operating Systems: 3 Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau
+- *Advanced Programming in the UNIX Environment* by Stevens & Rago
+- *[Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/)* by Brian Hall
 - 
 
 **Intro. to Computational Complexity** `CS 4814/5814`
