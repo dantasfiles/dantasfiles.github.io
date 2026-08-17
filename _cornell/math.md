@@ -55,6 +55,10 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 - *Differential Equations, Dynamical Systems & an Intro. to Chaos* by Hirsch et al.
 - *Nonlinear Dynamics & Chaos: W/ Applications to Physics, Biology, Chemistry & Engineering* by Steven H. Strogatz
 
+**Applied Complex Analysis** `MATH 4220/5220`
+- *Complex Analysis w/ Applications* by Asmar & Grafakos
+
+
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
 
