@@ -64,7 +64,10 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 
 **Linear Algebra** `MATH 4310`
 - *Linear Algebra* by Friedberg et al.
-- *Advanced Linear Algebra* by Bruce Cooperstein
+- *Adv. Linear Algebra* by Bruce Cooperstein
+
+**Honors Linear Algebra** `MATH 4330`
+- *Adv. Linear Algebra* by Steven Roman
 
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
