@@ -1,3 +1,10 @@
+---
+title: 🐻 Cornell unofficial reading lists, fall 2026
+layout: page
+---
+
+I compiled these unofficial reading lists using publicly available information from the [online bookstore](https://cornellstore.com/), [library course reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages.<br>To keep track of my own explorations, I've marked books and papers I've read with a **bold** ✔️
+
 ## Agriculture & Life Sciences
 
 **[American Indian & Indigenous Studies](https://dantasfiles.com/cornell/aiis)**
