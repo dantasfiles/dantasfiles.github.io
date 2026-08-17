@@ -58,6 +58,9 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 **Applied Complex Analysis** `MATH 4220/5220`
 - *Complex Analysis w/ Applications* by Asmar & Grafakos
 
+**Numerical Analysis & Differential Equations** `MATH 4250/5250`
+- *Numerical Analysis: Mathematics of Scientific Computing* by Kincaid & Cheney
+- *Numerical Computing with MATLAB* by Cleve B. Moler
 
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
