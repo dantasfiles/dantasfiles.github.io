@@ -89,3 +89,7 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 **Mathematical Logic** `MATH 4810`
 - *Mathematical Logic* by Ebbinghaus et al.
 
+## Doctoral level
+
+**Real Analysis** `MATH 6110`
+- *Real Analysis: Measure Theory, Integration & Hilbert Spaces* by Stein & Shakarchi
