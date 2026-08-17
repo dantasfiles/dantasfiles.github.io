@@ -17,6 +17,10 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 ## Senior level
 
+**Numerical Analysis & Differential Equations** `CS 4210`
+- *Numerical Analysis: Mathematics of Scientific Computing* by Kincaid & Cheney
+- *Numerical Computing with MATLAB* by Cleve B. Moler
+
 **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414/5416`
 - *Computer Systems: A Programmer's Perspective* by Bryant & O'Hallaron
 - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al.
