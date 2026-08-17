@@ -115,6 +115,19 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 - *Introduction to Lie Algebras & Representation Theory* by James E. Humphreys
 - *Linear Algebraic Groups* by T.A. Springer
 
+**Enumerative Combinatorics** `MATH 6410`
+- *A Course in Enumeration* by Martin Aigner
+- *A Course in Combinatorics* by van Lint & Wilson
+
+**Probability Theory I** `MATH 6710`
+- *Probability: Theory & Examples* by Rick Durrett
+
+**Set Theory** `MATH 6870`
+- *The Higher Infinite: Large Cardinals in Set Theory from Their Beginnings* by Akihiro Kanamori
+
+**Topics in Dynamical Systems** `MATH 7280`
+- *Advanced Mathematical Methods for Scientists & Engineers: Asymptotic Methods & Perturbation Theory* by Bender & Orszag
+
 
 
 
