@@ -48,6 +48,9 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 **Patterns, Proofs & Problems** `MATH 4040`
 - *The Art & Craft of Problem Solving* by Paul Zeitz
 
+**Honors Intro. to Analysis I** `MATH 4130`
+- *The Way of Analysis* by Robert S. Strichartz
+
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
 
