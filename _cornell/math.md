@@ -24,6 +24,22 @@ title: 🐻 Cornell Mathematics unofficial reading list, fall 2026
 **Theoretical Linear Algebra & Vector Calculus I** `MATH 2230`
 - *Vector Calculus, Linear Algebra & Differential Forms: A Unified Approach* by Hubbard & Hubbard
 
+**Differential Equations for Engineers** `MATH 2930`
+- *Elementary Differential Equations & Boundary Value Problems* by Boyce et al.
+
+**Linear Algebra for Engineers** `MATH 2940`
+- *Linear Algebra & Its Applications* by Lay et al.
+
+## Junior level
+
+**Introduction to Analysis** `MATH 3110`
+- *Understanding Analysis* by Stephen Abbott
+
+**Manifolds & Differential Forms** `MATH 3210`
+- *[Manifolds & Differential Forms](https://sites.google.com/view/reyersjamaar/manifolds-and-differential-forms)* by Reyer Sjamaar
+
+
+
 ## Senior level
 
 **Theory of Statistics** `MATH 4720`
