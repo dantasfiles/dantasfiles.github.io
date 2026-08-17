@@ -2,6 +2,8 @@
 title: 🐻 Cornell Mathematics unofficial reading list, fall 2026
 ---
 
+The department publishes an official **[textbook list](https://math.cornell.edu/textbooks)**
+
 ## Freshman level
 
 **Modeling w/ Calculus for the Life Sciences** `MATH 1106`
