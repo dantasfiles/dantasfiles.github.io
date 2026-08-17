@@ -94,7 +94,7 @@ title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 
 **Marx in the 21st Century** `FRS 167`
 - *Capital, v.1* by Karl Marx
-- *Everything for Everyone: An Oral History of the New York Commune, 2052–2072* O'Brien & Abdelhadi
+- *Everything for Everyone: An Oral History of the New York Commune, 2052–2072* by O'Brien & Abdelhadi
 - *Slow Down: The Degrowth Manifesto* by Kohei Saito
 - *Caliban & the Witch: Women, the Body & Primitive Accumulation* by Silvia Federici
 - *Are Prisons Obsolete?* by Angela Y. Davis
