@@ -7,7 +7,7 @@ title: 🐻 Cornell Mathematics unofficial reading list, fall 2026
 **Modeling w/ Calculus for the Life Sciences** `MATH 1106`
 - *Modeling Life: The Mathematics of Biological Systems* by Garfinkel et al.
 
-**Calculus I** `MATH 1110` / **Calculus II** `MATH 1120`
+**Calculus I** `MATH 1110` / **II** `MATH 1120`
 - *[Active Calculus: Single Variable](https://activecalculus.org/acs2e/)* by Boelkins et al.
 
 **Calculus for Engineers** `MATH 1910` / **Multivariable Calculus for Engineers** `MATH 1920`
