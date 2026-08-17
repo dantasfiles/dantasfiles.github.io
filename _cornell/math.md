@@ -62,6 +62,10 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 - *Numerical Analysis: Mathematics of Scientific Computing* by Kincaid & Cheney
 - *Numerical Computing with MATLAB* by Cleve B. Moler
 
+**Linear Algebra** `MATH 4310`
+- *Linear Algebra* by Friedberg et al.
+- *Advanced Linear Algebra* by Bruce Cooperstein
+
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
 
