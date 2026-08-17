@@ -58,7 +58,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[Category Theory in Context](https://math.jhu.edu/~eriehl/context/)* by Emily Riehl
 - *Categorical Logic & Type Theory* by B. Jacobs
 - ✔️ ***Practical Foundations for Programming Languages*** by Robert Harper
-
+- *Types & Programming Languages* by Benjamin C. Pierce
 
 
 
