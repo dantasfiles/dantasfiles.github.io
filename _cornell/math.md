@@ -73,6 +73,9 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 - *Ideals, Varieties & Algorithms: An Intro. to Computational Algebraic Geometry & Commutative Algebra* by Cox et al.
 - *Concrete Abstract Algebra: From Numbers to Gröbner Bases* by Niels Lauritzen
 
+**Intro. to Combinatorics I** `MATH 4410/5410`
+- *Basic Graph Theory* by Bollobás & Morris
+
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
 
