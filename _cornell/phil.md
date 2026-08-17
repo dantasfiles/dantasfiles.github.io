@@ -40,4 +40,8 @@ title: 🐻 Cornell Philosophy unofficial reading list, fall 2026
 **Moral Dilemmas in the Law** `PHIL 2430`
 - *The Routledge Companion to Philosophy of Law* by Andrei Marmor
 
+## Senior level
+
+**Mathematical Logic** `PHIL 4310`
+- *Mathematical Logic* by Ebbinghaus et al.
 
