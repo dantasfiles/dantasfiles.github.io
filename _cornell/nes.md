@@ -4,11 +4,20 @@ title: 🐻 Cornell Near Eastern Studies unofficial reading list, fall 2026
 
 ## Freshman level
 
+**Elementary Arabic I** `ARAB 1201`
+- *Arabiyyat al-Naas, Part 1: An Intro. Course in Arabic* by Younes et al.
+
+**Intermediate Arabic I** `ARAB 1203`
+- *Arabiyyat al-Naas, Part 2: An Intermediate Course in Arabic* by Younes et al.
+
 **Introduction to the Ottoman Empire** `NES 1561`
 - *A Short History of the Ottoman Empire* by Renée Worringer
 - *The White Castle* by Orhan Pamuk
 
 ## Sophomore level
+
+**Arabic for Heritage Speakers** `ARAB 2201`
+- *Riḥla ilā Bilād al-‘Arab: A Comprehensive Intro. Course for Arabic Heritage Speakers* by Munther Younes
 
 **The History & Politics of Modern Egypt** `NES 2670`
 - *Ordinary Egyptians: Creating the Modern Nation through Popular Culture* by Ziad Fahmy
