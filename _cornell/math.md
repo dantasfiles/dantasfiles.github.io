@@ -51,6 +51,10 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 **Honors Intro. to Analysis I** `MATH 4130`
 - *The Way of Analysis* by Robert S. Strichartz
 
+**Nonlinear Dynamics & Chaos** `MATH 4210`
+- *Differential Equations, Dynamical Systems & an Intro. to Chaos* by Hirsch et al.
+- *Nonlinear Dynamics & Chaos: W/ Applications to Physics, Biology, Chemistry & Engineering* by Steven H. Strogatz
+
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
 
