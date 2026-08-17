@@ -23,6 +23,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html#rust-by-example)*
 - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)*
 - *[C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)*
+- *[How to Learn Rust in 2026: A Complete Beginner's Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
 - *[The Rustonomicon](https://doc.rust-lang.org/nomicon/)*
 - *[Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)*
 - *[Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)*
