@@ -9,15 +9,15 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
 
-**[General](#general)**
+**[General →](#general)**
 
-**[Humanities & the Arts](#humanities--the-arts)**
+**[Humanities & the Arts →](#humanities--the-arts)**
 
-**[Social Sciences](#social-sciences)**
+**[Social Sciences →](#social-sciences)**
 
-**[Natural Sciences](#natural-sciences)**
+**[Natural Sciences →](#natural-sciences)**
 
-**[Engineering](#engineering)**
+**[Engineering →](#engineering)**
 
 </div>
 
