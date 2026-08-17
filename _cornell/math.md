@@ -40,7 +40,8 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 **Manifolds & Differential Forms** `MATH 3210`
 - *[Manifolds & Differential Forms](https://sites.google.com/view/reyersjamaar/manifolds-and-differential-forms)* by Reyer Sjamaar
 
-
+**Intro. to Ordinary Differential Equations** `MATH 3270`
+- *A Textbook on Ordinary Differential Equations* by Ahmad & Ambrosetti
 
 ## Senior level
 
