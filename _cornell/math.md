@@ -76,6 +76,10 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 **Intro. to Combinatorics I** `MATH 4410/5410`
 - *Basic Graph Theory* by Bollobás & Morris
 
+**Intro. to Topology** `MATH 4530`
+- *Basic Topology* by M.A. Armstrong
+- *Counterexamples in Topology* by Steen & Seebach
+
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
 
