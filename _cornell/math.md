@@ -97,3 +97,24 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 **Measure Theory & Lebesgue Integration** `MATH 6210`
 - *Measure, Integration & Real Analysis* by Sheldon Axler
 - *An Introduction to Measure Theory* by Terence Tao
+
+**Algebra** `MATH 6310`
+- *Algebra* by Serge Lang
+- *Algebra: Chapter 0* by Paolo Aluffi
+
+**Noncommutative Algebra** `MATH 6330`
+- *Associative Algebras* by Richard S. Pierce
+- *Noncommutative Algebra* by Farb & Dennis
+- *Graduate Algebra: Noncommutative View* by Louis Halle Rowen
+- *A 1st Course in Noncommutative Rings* by T.Y. Lam
+
+**Lie Groups & Lie Algebras** `MATH 6390`
+- *An Intro. to Lie Groups & Lie Algebras* by Alexander Kirillov, Jr.
+- *Differential Geometry & Symmetric Spaces* by Sigurdur Helgason
+- *Foundations of Differentiable Manifolds & Lie Groups* by Frank W. Warner
+- *Introduction to Lie Algebras & Representation Theory* by James E. Humphreys
+- *Linear Algebraic Groups* by T.A. Springer
+
+
+
+
