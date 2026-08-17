@@ -15,12 +15,20 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
 
-
-
 ## Senior level
 
-**Systems Programming** `CS 4414/5416`
+**[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414/5416`
 - *Computer Systems: A Programmer's Perspective* by Bryant & O'Hallaron
+- *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al.
+- *[Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html#rust-by-example)*
+- *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)*
+- *[C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)*
+- *[The Rustonomicon](https://doc.rust-lang.org/nomicon/)*
+- *[Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)*
+- *[Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)*
+- *[Rust Design Patterns](https://rust-unofficial.github.io/patterns/)*
+- *[The Rust Performance Book](https://nnethercote.github.io/perf-book/)* by Nethercote et al.
+- 
 
 **Intro. to Computational Complexity** `CS 4814/5814`
 - *Intro. to the Theory of Computation* by Michael Sipser
