@@ -86,5 +86,6 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
 
-
+**Mathematical Logic** `MATH 4810`
+- *Mathematical Logic* by Ebbinghaus et al.
 
