@@ -80,6 +80,9 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 - *Basic Topology* by M.A. Armstrong
 - *Counterexamples in Topology* by Steen & Seebach
 
+**Basic Probability** `MATH 4710`
+- *Intro. to Probability* by Anderson et al.
+
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
 
