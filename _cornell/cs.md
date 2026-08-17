@@ -32,10 +32,13 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *Programming Rust: Fast, Safe Systems Development* by Blandy et al.
 - *Rust in Action* by Tim McNamara
 - *Rust for Rustaceans: Idiomatic Programming for Experienced Developers* by Jon Gjengset
-- *[Operating Systems: 3 Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau
+- *[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau
 - *Advanced Programming in the UNIX Environment* by Stevens & Rago
 - *[Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/)* by Brian Hall
-- 
+- *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
+- *Linkers & Loaders* by John R. Levine
+- *[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)* by Ulrich Drepper
+- *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
 **Intro. to Computational Complexity** `CS 4814/5814`
 - *Intro. to the Theory of Computation* by Michael Sipser
