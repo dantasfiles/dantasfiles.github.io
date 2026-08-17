@@ -93,3 +93,7 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 
 **Real Analysis** `MATH 6110`
 - *Real Analysis: Measure Theory, Integration & Hilbert Spaces* by Stein & Shakarchi
+
+**Measure Theory & Lebesgue Integration** `MATH 6210`
+- *Measure, Integration & Real Analysis* by Sheldon Axler
+- *An Introduction to Measure Theory* by Terence Tao
