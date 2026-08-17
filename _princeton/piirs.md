@@ -4,17 +4,17 @@ title: 🐯 Princeton International & Regional Studies unofficial reading list, 
 
 <div style="column-count: 2;" markdown="1">
 
-**[African Studies](#african-studies)**
+**[African Studies →](#african-studies)**
 
-**[Contemporary European Politics & Society](#contemporary-european-politics--society)**
+**[Contemporary European Politics & Society →](#contemporary-european-politics--society)**
 
-**[Latin American Studies](#latin-american-studies)**
+**[Latin American Studies →](#latin-american-studies)**
 
-**[Russian, East European & Eurasian Studies](#russian-east-european--eurasian-studies)**
+**[Russian, East European & Eurasian Studies →](#russian-east-european--eurasian-studies)**
 
-**[South Asian Studies](#south-asian-studies)**
+**[South Asian Studies →](#south-asian-studies)**
 
-**[Translation & Intercultural Communication](#translation--intercultural-communication)**
+**[Translation & Intercultural Communication →](#translation--intercultural-communication)**
 
 </div>
 
