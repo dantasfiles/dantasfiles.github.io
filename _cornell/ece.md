@@ -19,3 +19,11 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list, f
 - *Signals, Systems & Inference* by Oppenheim & Verghese
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `ECE 4750/5740`
+
+**[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002/6950`
+- *[How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)* by Austin et al.
+- *[The Perceptron & All the Things It Can't Perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
+- *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* by Dally et al.
+- *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
+
+
