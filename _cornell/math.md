@@ -69,6 +69,10 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 **Honors Linear Algebra** `MATH 4330`
 - *Adv. Linear Algebra* by Steven Roman
 
+**Computational Algebra** `MATH 4370`
+- *Ideals, Varieties & Algorithms: An Intro. to Computational Algebraic Geometry & Commutative Algebra* by Cox et al.
+- *Concrete Abstract Algebra: From Numbers to Gröbner Bases* by Niels Lauritzen
+
 **Theory of Statistics** `MATH 4720`
 - *Probability & Statistics* by DeGroot & Schervish
 
