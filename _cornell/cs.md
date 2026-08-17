@@ -49,6 +49,18 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Frontiers of Computer Vision](https://www.cs.cornell.edu/courses/cs5672/2026fa/)** `CS 5672`
 
+## Doctoral level
+
+**[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
+- *Categories for Types* by Roy L. Crole
+- *[Basic Category Theory](https://arxiv.org/abs/1612.09375)* by Tom Leinster
+- *Category Theory* by Steve Awodey
+- *[Category Theory in Context](https://math.jhu.edu/~eriehl/context/)* by Emily Riehl
+- *Categorical Logic & Type Theory* by B. Jacobs
+- ✔️ ***Practical Foundations for Programming Languages*** by Robert Harper
+
+
+
 
 
 
