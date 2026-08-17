@@ -45,6 +45,10 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *Computational Complexity: A Modern Approach* by Arora & Barak
 - *Mathematics & Computation: A Theory Revolutionizing Technology & Science* by Avi Wigderson
 
+## Master's level
+
+**[Frontiers of Computer Vision](https://www.cs.cornell.edu/courses/cs5672/2026fa/)** `CS 5672`
+
 
 
 
