@@ -11,6 +11,12 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - ✔️ [***Principled Programming: Intro. to Coding in Any Imperative Language***](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
 - *Data Structures & Algorithms in Java: A Project-Based Approach* by Dan S. Myers
 
+## Junior level
+
+**[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
+
+
+
 ## Senior level
 
 **Systems Programming** `CS 4414/5416`
