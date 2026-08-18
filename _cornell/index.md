@@ -143,11 +143,37 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Computer Science](https://dantasfiles.com/cornell/bowers-cs)**
 
+**[Information Science](https://dantasfiles.com/cornell/bowers-info)**
+
+**[Statistical Science](https://dantasfiles.com/cornell/bowers-stsci)**
+
 </div>
 
 ## Engineering
 
 <div style="column-count: 2;" markdown="1">
+
+**[Applied & Engineering Physics](https://dantasfiles.com/cornell/duffield-aep)**
+
+**[Biomedical Engineering](https://dantasfiles.com/cornell/duffield-bme)**
+
+**[Chemical Engineering](https://dantasfiles.com/cornell/duffield-cheme)**
+
+**[Civil & Environmental Engineering](https://dantasfiles.com/cornell/duffield-cee)**
+
+**[Earth & Atmospheric Sciences](https://dantasfiles.com/cornell/duffield-eas)**
+
+**[Electrical & Computer Engineering](https://dantasfiles.com/cornell/duffield-ece)**
+
+**[Engineering Distribution](https://dantasfiles.com/cornell/duffield-engrd)**
+
+**[Engineering Introduction](https://dantasfiles.com/cornell/duffield-engri)**
+
+**[Engineering Management](https://dantasfiles.com/cornell/duffield-enmgt)**
+
+**[Materials Science & Engineering](https://dantasfiles.com/cornell/duffield-mse)**
+
+**[Mechanical & Aerospace Engineering](https://dantasfiles.com/cornell/duffield-mae)**
 
 </div>
 
