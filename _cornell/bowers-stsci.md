@@ -12,7 +12,7 @@ title: 🐻 Cornell Statistical Science unofficial reading list, fall 2026
 
 ## Senior level
 
-**Theory of Statistics** `STSCI 4090/5090
+**Theory of Statistics** `STSCI 4090/5090`
 - *Probability & Statistics* by DeGroot & Schervish
 
 
