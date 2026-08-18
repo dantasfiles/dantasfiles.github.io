@@ -4,6 +4,9 @@ title: 🐻 Cornell Near Eastern Studies unofficial reading list, fall 2026
 
 ## Freshman level
 
+**Elementary Modern Hebrew I** `HEBRW 1101`
+- *Shalom 1: A Beginners Comprehensive Course in Modern Hebrew* by Shoer & Shoer
+- 
 **Elementary Arabic I** `ARAB 1201`
 - *Arabiyyat al-Naas, Part 1: An Intro. Course in Arabic* by Younes et al.
 
