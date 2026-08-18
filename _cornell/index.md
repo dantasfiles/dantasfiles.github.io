@@ -9,53 +9,53 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
 
-**[Agriculture & Life Sciences](https://dantasfiles.com/cornell/als)**
+**[Agriculture & Life Sciences](https://dantasfiles.com/cornell/cals-als)**
 
-**[American Indian and Indigenous Studies](https://dantasfiles.com/cornell/aiis)**
+**[American Indian and Indigenous Studies](https://dantasfiles.com/cornell/cals-aiis)**
 
-**[Animal Physiology & Anatomy](https://dantasfiles.com/cornell/bioap)**
+**[Animal Physiology & Anatomy](https://dantasfiles.com/cornell/cals-bioap)**
 
-**[Animal Science](https://dantasfiles.com/cornell/ansc)**
+**[Animal Science](https://dantasfiles.com/cornell/cals-ansc)**
 
-**[Biomedical Sciences](https://dantasfiles.com/cornell/bioms)**
+**[Biomedical Sciences](https://dantasfiles.com/cornell/cals-bioms)**
 
-**[Biological & Environmental Engineering](https://dantasfiles.com/cornell/bee)**
+**[Biological & Environmental Engineering](https://dantasfiles.com/cornell/cals-bee)**
 
-**[Biology: General Courses](https://dantasfiles.com/cornell/biog)**
+**[Biology: General Courses](https://dantasfiles.com/cornell/cals-biog)**
 
-**[Communication](https://dantasfiles.com/cornell/comm)**
+**[Communication](https://dantasfiles.com/cornell/cals-comm)**
 
-**[Computational Biology](https://dantasfiles.com/cornell/biocb)**
+**[Computational Biology](https://dantasfiles.com/cornell/cals-biocb)**
 
-**[Ecology & Evolutionary Biology](https://dantasfiles.com/cornell/bioee)**
+**[Ecology & Evolutionary Biology](https://dantasfiles.com/cornell/cals-bioee)**
 
-**[Education](https://dantasfiles.com/cornell/educ)**
+**[Education](https://dantasfiles.com/cornell/cals-educ)**
 
-**[Entomology](https://dantasfiles.com/cornell/entom)**
+**[Entomology](https://dantasfiles.com/cornell/cals-entom)**
 
-**[Environment & Sustainability](https://dantasfiles.com/cornell/envs)**
+**[Environment & Sustainability](https://dantasfiles.com/cornell/cals-envs)**
 
-**[Food Science](https://dantasfiles.com/cornell/fdsc)**
+**[Food Science](https://dantasfiles.com/cornell/cals-fdsc)**
 
-**[Global Development](https://dantasfiles.com/cornell/gdev)**
+**[Global Development](https://dantasfiles.com/cornell/cals-gdev)**
 
-**[Landscape Architecture](https://dantasfiles.com/cornell/la)**
+**[Landscape Architecture](https://dantasfiles.com/cornell/cals-la)**
 
-**[Leadership](https://dantasfiles.com/cornell/lead)**
+**[Leadership](https://dantasfiles.com/cornell/cals-lead)**
 
-**[Microbiology](https://dantasfiles.com/cornell/biomi)**
+**[Microbiology](https://dantasfiles.com/cornell/cals-biomi)**
 
-**[Molecular Biology and Genetics](https://dantasfiles.com/cornell/biomg)**
+**[Molecular Biology and Genetics](https://dantasfiles.com/cornell/cals-biomg)**
 
-**[Natural Resources](https://dantasfiles.com/cornell/ntres)**
+**[Natural Resources](https://dantasfiles.com/cornell/cals-ntres)**
 
-**[Neurobiology & Behavior](https://dantasfiles.com/cornell/bionb)**
+**[Neurobiology & Behavior](https://dantasfiles.com/cornell/cals-bionb)**
 
-**[Plant Sciences](https://dantasfiles.com/cornell/plsci)**
+**[Plant Sciences](https://dantasfiles.com/cornell/cals-plsci)**
 
-**[Toxicology](https://dantasfiles.com/cornell/tox)**
+**[Toxicology](https://dantasfiles.com/cornell/cals-tox)**
 
-**[Viticulture and Enology](https://dantasfiles.com/cornell/vien)**
+**[Viticulture and Enology](https://dantasfiles.com/cornell/cals-vien)**
 
 </div>
 
@@ -80,30 +80,190 @@ I compiled these unofficial reading lists using publicly available information f
 ## Arts & Sciences
 
 <div style="column-count: 2;" markdown="1">
+  
+**[Africana Studies](https://dantasfiles.com/cornell/)**  ASRC
 
-**[American Studies](https://dantasfiles.com/cornell/amst)**
+**[American Sign Language](https://dantasfiles.com/cornell/)**  ASL
 
-**[Anthropology](https://dantasfiles.com/cornell/anthr)**
+**[American Studies](https://dantasfiles.com/cornell/)**  AMST
 
-**[Archaeology](https://dantasfiles.com/cornell/arkeo)**
+**[Anthropology](https://dantasfiles.com/cornell/)**  ANTHR
 
-**[History of Art](https://dantasfiles.com/cornell/arth)**
+**[Arabic](https://dantasfiles.com/cornell/)**  ARAB
 
-**[Asian Studies](https://dantasfiles.com/cornell/asian)**
+**[Archaeology](https://dantasfiles.com/cornell/)**  ARKEO
 
-**[Africana Studies](https://dantasfiles.com/cornell/asrc)**
+**[History of Art](https://dantasfiles.com/cornell/)**  ARTH
 
-**[Astronomy](https://dantasfiles.com/cornell/astro)**
+**[Arts & Sciences](https://dantasfiles.com/cornell/)**  AS
 
-**[Chemistry](https://dantasfiles.com/cornell/chem)**
+**[Asian American Studies](https://dantasfiles.com/cornell/)**  AAS
 
-**[China & Asia Pacific Studies](https://dantasfiles.com/cornell/caps)**
+**[Asian Studies](https://dantasfiles.com/cornell/)**  ASIAN
 
-**[Classics](https://dantasfiles.com/cornell/class)**
+**[Astronomy](https://dantasfiles.com/cornell/)**  ASTRO
 
-**[Cognitive Science](https://dantasfiles.com/cornell/cogst)**
+**[Bengali](https://dantasfiles.com/cornell/)**  BENGL
 
-**[Comparative Literature](https://dantasfiles.com/cornell/coml)** 
+**[Biology & Society](https://dantasfiles.com/cornell/)**  BSOC
+
+**[Bosnian, Croatian, Serbian](https://dantasfiles.com/cornell/)**  BCS
+
+**[Burmese](https://dantasfiles.com/cornell/)**  BURM
+
+**[Catalan](https://dantasfiles.com/cornell/)**  CATAL
+
+**[Chemistry](https://dantasfiles.com/cornell/)**  CHEM
+
+**[China & Asia Pacific Studies](https://dantasfiles.com/cornell/)**  CAPS
+
+**[Chinese](https://dantasfiles.com/cornell/)**  CHIN
+
+**[Chinese Literature](https://dantasfiles.com/cornell/)**  CHLIT
+
+**[Classics](https://dantasfiles.com/cornell/)**  CLASS
+
+**[Cognitive Science](https://dantasfiles.com/cornell/)**  COGST
+
+**[College Scholar Program](https://dantasfiles.com/cornell/)**  COLLS
+
+**[Comparative Literature](https://dantasfiles.com/cornell/)**  COML
+
+**[Czech](https://dantasfiles.com/cornell/)**  CZECH
+
+**[Dutch](https://dantasfiles.com/cornell/)**  DUTCH
+
+**[Economics](https://dantasfiles.com/cornell/)**  ECON
+
+**[English](https://dantasfiles.com/cornell/)**  ENGL
+
+**[English Language Support](https://dantasfiles.com/cornell/)**  ELSO
+
+**[Feminist, Gender & Sexuality Studies](https://dantasfiles.com/cornell/)**  FGSS
+
+**[Finnish](https://dantasfiles.com/cornell/)**  FINN
+
+**[French](https://dantasfiles.com/cornell/)**  FREN
+
+**[German Studies](https://dantasfiles.com/cornell/)**  GERST
+
+**[Government](https://dantasfiles.com/cornell/)**  GOVT
+
+**[Greek](https://dantasfiles.com/cornell/)**  GREEK
+
+**[Hebrew](https://dantasfiles.com/cornell/)**  HEBRW
+
+**[Hieroglyphic Egyptian](https://dantasfiles.com/cornell/)**  HIERO
+
+**[Hindi](https://dantasfiles.com/cornell/)**  HINDI
+
+**[History](https://dantasfiles.com/cornell/)**  HIST
+
+**[Hungarian](https://dantasfiles.com/cornell/)**  HUNGR
+
+**[Indonesian](https://dantasfiles.com/cornell/)**  INDO
+
+**[Italian](https://dantasfiles.com/cornell/)**  ITAL
+
+**[Japanese](https://dantasfiles.com/cornell/)**  JAPAN
+
+**[Japanese Literature](https://dantasfiles.com/cornell/)**  JPLIT
+
+**[Jewish Studies](https://dantasfiles.com/cornell/)**  JWST
+
+**[Khmer](https://dantasfiles.com/cornell/)**  KHMER
+
+**[Korean](https://dantasfiles.com/cornell/)**  KOREA
+
+**[Latin](https://dantasfiles.com/cornell/)**  LATIN
+
+**[Latin American Studies](https://dantasfiles.com/cornell/)**  LATA
+
+**[Latino Studies Program](https://dantasfiles.com/cornell/lsp)**  LSP
+
+**[Lesbian, Gay, Bisexual & Transgender Studies](https://dantasfiles.com/cornell/lgbt)**  LGBT
+
+**[Linguistics](https://dantasfiles.com/cornell/ling)**  LING
+
+**[Mathematics](https://dantasfiles.com/cornell/math)**  MATH
+
+**[Medieval Studies](https://dantasfiles.com/cornell/medvl)**  MEDVL
+
+**[Music](https://dantasfiles.com/cornell/music)**  MUSIC
+
+**[Near Eastern Studies](https://dantasfiles.com/cornell/nes)**  NES
+
+**[Nepali](https://dantasfiles.com/cornell/nepal)**  NEPAL
+
+**[Performing & Media Arts](https://dantasfiles.com/cornell/pma)**  PMA
+
+**[Persian](https://dantasfiles.com/cornell/persn)**  PERSN
+
+**[Philosophy](https://dantasfiles.com/cornell/phil)**  PHIL
+
+**[Physics](https://dantasfiles.com/cornell/phys)**  PHYS
+
+**[Polish](https://dantasfiles.com/cornell/polsh)**  POLSH
+
+**[Portuguese](https://dantasfiles.com/cornell/port)**  PORT
+
+**[Psychology](https://dantasfiles.com/cornell/psych)**  PSYCH
+
+**[Punjabi](https://dantasfiles.com/cornell/punjb)**  PUNJB
+
+**[Religious Studies](https://dantasfiles.com/cornell/relst)**  RELST
+
+**[Romance Studies](https://dantasfiles.com/cornell/roms)**  ROMS
+
+**[Russian](https://dantasfiles.com/cornell/russa)**  RUSSA
+
+**[Russian Literature](https://dantasfiles.com/cornell/russl)**  RUSSL
+
+**[Sanskrit](https://dantasfiles.com/cornell/sansk)**  SANSK
+
+**[Sanskrit Literature](https://dantasfiles.com/cornell/snlit)**  SNLIT
+
+**[Science & Technology Studies](https://dantasfiles.com/cornell/sts)**  STS
+
+**[Sinhala](https://dantasfiles.com/cornell/sinha)**  SINHA
+
+**[Society for the Humanities](https://dantasfiles.com/cornell/shum)**  SHUM
+
+**[Sociology](https://dantasfiles.com/cornell/soc)**  SOC
+
+**[Spanish](https://dantasfiles.com/cornell/span)**  SPAN
+
+**[Swahili](https://dantasfiles.com/cornell/swahl)**  SWAHL
+
+**[Swedish](https://dantasfiles.com/cornell/swed)**  SWED
+
+**[Tagalog](https://dantasfiles.com/cornell/tag)**  TAG
+
+**[Tamil](https://dantasfiles.com/cornell/tamil)**  TAMIL
+
+**[Telugu](https://dantasfiles.com/cornell/telu)**  TELU
+
+**[Thai](https://dantasfiles.com/cornell/thai)**  THAI
+
+**[Tibetan](https://dantasfiles.com/cornell/tibet)**  TIBET
+
+**[Turkish](https://dantasfiles.com/cornell/turk)**  TURK
+
+**[Ukrainian](https://dantasfiles.com/cornell/ukran)**  UKRAN
+
+**[Vietnamese](https://dantasfiles.com/cornell/viet)**  VIET
+
+**[Visual Studies](https://dantasfiles.com/cornell/visst)**  VISST
+
+**[Wolof](https://dantasfiles.com/cornell/wolof)**  WOLOF
+
+**[Writing Program](https://dantasfiles.com/cornell/writ)**  WRIT
+
+**[Yiddish](https://dantasfiles.com/cornell/yidsh)**  YIDSH
+
+**[Yoruba](https://dantasfiles.com/cornell/yorub)**  YORUB
+
+**[Zulu](https://dantasfiles.com/cornell/zulu)**  ZULU
 
 </div>
 
