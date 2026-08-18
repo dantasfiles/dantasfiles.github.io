@@ -43,7 +43,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
 - *Linkers & Loaders* by John R. Levine
 - *[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)* by Ulrich Drepper
-- *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
+- ✔️ ***[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)*** by John Ousterhout
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `CS 4420`
 
