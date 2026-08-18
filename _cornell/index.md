@@ -51,6 +51,77 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
   
+**[Africana Studies](https://dantasfiles.com/cornell/as-asrc)**
+
+**[American Studies](https://dantasfiles.com/cornell/as-amst)**
+
+**[Anthropology](https://dantasfiles.com/cornell/as-anthr)**
+
+**[Archaeology](https://dantasfiles.com/cornell/as-arkeo)**
+
+**[History of Art & Visual Studies](https://dantasfiles.com/cornell/as-arth)**
+
+**[Asian Studies](https://dantasfiles.com/cornell/as-asian)**
+
+**[Astronomy](https://dantasfiles.com/cornell/as-astro)**
+
+**[China & Asia Pacific Studies](https://dantasfiles.com/cornell/as-caps)**
+
+**[Chemistry](https://dantasfiles.com/cornell/as-chem)**
+
+**[Classics](https://dantasfiles.com/cornell/as-class)**
+
+**[Cognitive Science](https://dantasfiles.com/cornell/as-cogst)**
+
+**[Comparative Literature](https://dantasfiles.com/cornell/as-coml)**
+
+**[Economics](https://dantasfiles.com/cornell/as-econ)**
+
+**[English](https://dantasfiles.com/cornell/as-engl)**
+
+**[Feminist, Gender & Sexuality Studies](https://dantasfiles.com/cornell/as-fgss)**
+
+**[German Studies](https://dantasfiles.com/cornell/as-gerst)**
+
+**[Government](https://dantasfiles.com/cornell/as-govt)**
+
+**[History](https://dantasfiles.com/cornell/as-hist)**
+
+**[Jewish Studies](https://dantasfiles.com/cornell/as-jwst)**
+
+**[Latin American Studies](https://dantasfiles.com/cornell/as-lata)**
+
+**[Latino Studies Program](https://dantasfiles.com/cornell/as-lsp)**
+
+**[Linguistics](https://dantasfiles.com/cornell/as-ling)**
+
+**[Mathematics](https://dantasfiles.com/cornell/as-math)**
+
+**[Medieval Studies](https://dantasfiles.com/cornell/as-medvl)**
+
+**[Music](https://dantasfiles.com/cornell/as-music)**
+
+**[Near Eastern Studies](https://dantasfiles.com/cornell/as-nes)**
+
+**[Performing and Media Arts](https://dantasfiles.com/cornell/as-pma)**
+
+**[Philosophy](https://dantasfiles.com/cornell/as-phil)**
+
+**[Physics](https://dantasfiles.com/cornell/as-phys)**
+
+**[Psychology](https://dantasfiles.com/cornell/as-psych)**
+
+**[Religious Studies](https://dantasfiles.com/cornell/as-relst)**
+
+**[Romance Studies](https://dantasfiles.com/cornell/as-roms)**
+
+**[Science & Technology Studies](https://dantasfiles.com/cornell/as-sts)**
+
+**[Society for the Humanities](https://dantasfiles.com/cornell/as-shum)**
+
+**[Sociology](https://dantasfiles.com/cornell/as-soc)**
+
+**[Writing Program](https://dantasfiles.com/cornell/as-fws)**
 
 </div>
 
