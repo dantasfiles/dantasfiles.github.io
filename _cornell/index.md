@@ -38,6 +38,12 @@ I compiled these unofficial reading lists using publicly available information f
 ## Architecture, Art & Planning
 
 <div style="column-count: 2;" markdown="1">
+
+**[Architecture](https://dantasfiles.com/cornell/aap-arch)**
+
+**[City & Regional Planning](https://dantasfiles.com/cornell/aap-crp)**
+
+**[Real Estate](https://dantasfiles.com/cornell/aap-real)**
   
 </div>
 
