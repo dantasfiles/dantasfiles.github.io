@@ -9,6 +9,16 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[American Indian & Indigenous Studies](https://dantasfiles.com/cornell/aiis)**
 
+**[Animal Physiology & Anatomy](https://dantasfiles.com/cornell/bioap)**
+
+**[Biological & Environmental Engineering](https://dantasfiles.com/cornell/bee)**
+
+**[Biomedical Sciences](https://dantasfiles.com/cornell/bioms)**
+
+**[Molecular Biology & Genetics](https://dantasfiles.com/cornell/biomg)**
+
+**[Neurobiology & Behavior](https://dantasfiles.com/cornell/bionb)**
+
 ## Architecture, Art & Planning
 
 **[Architecture](https://dantasfiles.com/cornell/arch)**
@@ -21,28 +31,28 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Archaeology](https://dantasfiles.com/cornell/arkeo)**
 
+**[History of Art](https://dantasfiles.com/cornell/arth)**
+
+**[Asian Studies](https://dantasfiles.com/cornell/asian)**
+
+**[Africana Studies](https://dantasfiles.com/cornell/asrc)**
+
+**[Astronomy](https://dantasfiles.com/cornell/astro)**
+
 ## Business
 
 **[Applied Economics & Management](https://dantasfiles.com/cornell/aem)**
+
+**[Graduate Management Business Analytics](https://dantasfiles.com/cornell/bana)**
 
 ## Engineering
 
 **[Applied & Engineering Physics](https://dantasfiles.com/cornell/aep)**
 
+**[Biomedical Engineering](https://dantasfiles.com/cornell/bme)**
 
-arkeo.md
-arth.md
-asian.md
-asrc.md
-astro.md
-bana.md
-bee.md
-bioap.md
-biomg.md
-bioms.md
-bionb.md
-bme.md
-bsoc.md
+
+
 caps.md
 cee.md
 chem.md
