@@ -2,6 +2,11 @@
 title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list, fall 2026
 ---
 
+## Sophomore level
+
+**Contemporary Logic Design** `ECE 206`
+- *Digital Design w/ RTL Design, VHDL & Verilog* by Frank Vahid
+
 ## Junior level
 
 **Machine Learning for Predictive Data Analytics** `ECE 364`
