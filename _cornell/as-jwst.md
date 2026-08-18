@@ -4,7 +4,7 @@ title: 🐻 Cornell Jewish Studies unofficial reading list, fall 2026
 
 ## Freshman level
 
-**Elementary Modern Hebrew I** `HEBRW/JWST 1101`
+**Elementary Modern Hebrew I** `JWST 1101`
 - *Shalom 1: A Beginners Comprehensive Course in Modern Hebrew* by Shoer & Shoer
 
 **Elementary Yiddish I** `YIDSH/JWST 1776`
