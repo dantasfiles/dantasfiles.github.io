@@ -21,11 +21,19 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Neurobiology & Behavior](https://dantasfiles.com/cornell/bionb)**
 
+**[Communication](https://dantasfiles.com/cornell/comm)**
+
 </div>
 
 ## Architecture, Art & Planning
 
+<div style="column-count: 2;" markdown="1">
+  
 **[Architecture](https://dantasfiles.com/cornell/arch)**
+
+**[City & Regional Planning](https://dantasfiles.com/cornell/crp)**
+
+</div>
 
 ## Arts & Sciences
 
@@ -51,6 +59,10 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Classics](https://dantasfiles.com/cornell/class)**
 
+**[Cognitive Science](https://dantasfiles.com/cornell/cogst)**
+
+**[Comparative Literature](https://dantasfiles.com/cornell/coml)** 
+
 </div>
 
 ## Business
@@ -60,6 +72,14 @@ I compiled these unofficial reading lists using publicly available information f
 **[Applied Economics & Management](https://dantasfiles.com/cornell/aem)**
 
 **[Graduate Management Business Analytics](https://dantasfiles.com/cornell/bana)**
+
+</div>
+
+## Computing & Information Sci
+
+<div style="column-count: 2;" markdown="1">
+
+**[Computer Science](https://dantasfiles.com/cornell/cs)**
 
 </div>
 
@@ -78,11 +98,8 @@ I compiled these unofficial reading lists using publicly available information f
 </div>
 
 
-cogst.md
-coml.md
-comm.md
-crp.md
-cs.md
+
+
 dea.md
 eas.md
 ece.md
