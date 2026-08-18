@@ -9,6 +9,9 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 
 ## Junior level
 
+**Contemporary Logic Design** `COS 306`
+- *Digital Design w/ RTL Design, VHDL & Verilog* by Frank Vahid
+
 **Computing & Optimization for the Physical & Social Sciences** `COS 323`
 - *An Introduction to Optimization: With Applications to Machine Learning* by Chong et al.
 - *[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)* by Boyd & Vandenberghe
