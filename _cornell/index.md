@@ -11,7 +11,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Agriculture & Life Sciences →](#agriculture--life-sciences)**
 
-**[Architecture, Art & Planning →](#architecture--art--planning)**
+**[Architecture, Art & Planning →](#architecture-art--planning)**
 
 **[Arts & Sciences →](#arts--sciences)**
 
