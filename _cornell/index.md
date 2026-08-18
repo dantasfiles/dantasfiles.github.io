@@ -129,6 +129,11 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
 
+**[Applied Economics & Management](https://dantasfiles.com/cornell/business-aem)**
+
+**[Hotel Administration](https://dantasfiles.com/cornell/business-hadm)**
+
+**[Management](https://dantasfiles.com/cornell/business-mgmt)**
 
 </div>
 
