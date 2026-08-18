@@ -2,17 +2,19 @@
 title: 🐻 Cornell Astronomy unofficial reading list, fall 2026
 ---
 
-| Freshman level | | 
-| :---: | --- |
-| **The Universe** <br> ASTRO 1105 / 1107 (su26) | • *A Path Where No Man Thought: Nuclear Winter & the End of the Arms Race* by Sagan & Turco <br> • *Physics, Book VIII* by Aristotle <br> • *Dialogue Concerning the Two Chief World Systems: Ptolemaic & Copernican* by Galileo Galilei <br> • *Galileo's Commandment: 2,500 Years of Great Science Writing* by Edmund Blair Bolles <br> • *Kepler's Conversation with Galileo's Sidereal Messenger* <br> • *Lonely Hearts of the Cosmos: The Story of the Scientific Quest for the Secret of the Universe* by Dennis Overbye <br> • *Making Climate Change History: Documents from Global Warming's Past* by Joshua P. Howe <br> • *On Motion, and On Mechanics: Comprising De Motu & Le Meccaniche* by Galileo Galilei <br> • *On the Revolutions of the Heavenly Spheres* by Nicolaus Copernicus <br> • *Redefining Science: Scientists, the National Security State & Nuclear Weapons in Cold War America* by Paul Rubinson <br> • *Relativity: The Special and the General Theory* by Albert Einstein <br> • *The Sidereal Messenger* by Galileo Galilei <br> • *The Almagest* by Ptolemy <br> • *Epitome of Copernican Astronomy, Books IV & V* By Johannes Kepler <br> • *The Harmonies of the World, Book V* by Johannes Kepler <br> • *The Book Of The Cosmos: Imagining The Universe From Heraclitus To Hawking* by Dennis Danielson <br> • *The Dark Forest* by Cixin Liu <br> • *The Principia: Mathematical Principles of Natural Philosophy* by Isaac Newton <br> • *The Principle of Relativity: A Collection of Original Memoirs on the Special & General Theory of Relativity* by Lorentz et al. <br> ✔️ ***The Three-Body Problem*** by Cixin Liu <br> • *Two New Sciences: Including Centers of Gravity & Force of Percussion* by Galileo Galilei | 
+## Sophomore level
 
-| Sophomore level | |
-| :---: | --- |
-| **A Spacecraft Tour of the Solar System: Science, Policy & Exploration** <br> ASTRO 2202 | • *Astronomy: A Physical Perspective* by Marc L. Kutner <br> • *Astrophysics: A Very Short Intro.* by James Binney <br> • *An Intro. to Modern Astrophysics* by Carroll & Ostlie | 
+**A Spacecraft Tour of the Solar System: Science, Policy & Exploration** `ASTRO 2202`
+- *Astronomy: A Physical Perspective* by Marc L. Kutner
+- *Astrophysics: A Very Short Intro.* by James Binney
+- *An Intro. to Modern Astrophysics* by Carroll & Ostlie | 
 
-| Senior level | |
-| :---: | --- |
-| **Physics of the Planets** <br> ASTRO 4434/6570 | • *Planetary Sciences* by Pater & Lissauer |
-| **Intro. to General Relativity** <br> ASTRO 4445 | • *Gravity: An Introduction to Einstein's General Relativity* by James B. Hartle | 
+## Senior level
+
+**Physics of the Planets** `ASTRO 4434/6570`
+- *Planetary Sciences* by Pater & Lissauer
+
+**Intro. to General Relativity** `ASTRO 4445`
+- *Gravity: An Introduction to Einstein's General Relativity* by James B. Hartle 
 
 
