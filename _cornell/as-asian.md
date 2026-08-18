@@ -66,6 +66,9 @@ title: 🐻 Cornell Asian Studies unofficial reading list, fall 2026
 - *Indonesian Grammar in Context: Asyik Berbahasa Indonesia, v.1* by Rafferty et al.
 - *Let’s Speak Indonesian: Ayo Berbahasa Indonesia, v.1* by Rafferty et al.
 
+**Elementary Tagalog-Filipino I** `TAG 1121`
+- *Pilipino through Self-Instruction, Part One* by Wolff et al.
+
 **Intermediate Indonesian I** `INDO 2201`
 - *Let’s Speak Indonesian: Ayo Berbahasa Indonesia, v.2 by Rafferty et al.
 - *Indonesian Grammar in Context: Asyik Berbahasa Indonesia, v.3* by Rafferty et al.
