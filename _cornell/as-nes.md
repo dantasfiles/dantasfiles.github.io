@@ -6,12 +6,18 @@ title: 🐻 Cornell Near Eastern Studies unofficial reading list, fall 2026
 
 **Elementary Modern Hebrew I** `HEBRW 1101`
 - *Shalom 1: A Beginners Comprehensive Course in Modern Hebrew* by Shoer & Shoer
-- 
+
 **Elementary Arabic I** `ARAB 1201`
 - *Arabiyyat al-Naas, Part 1: An Intro. Course in Arabic* by Younes et al.
 
 **Intermediate Arabic I** `ARAB 1203`
 - *Arabiyyat al-Naas, Part 2: An Intermediate Course in Arabic* by Younes et al.
+
+**Elementary Persian-Farsi I** `PERSN 1320`
+- *Modern Persian, Elementary Level: beh farsi begoo* by Iago Gocheleishvili
+
+**Elementary Turkish through TV Series I** `TURK 1330`
+- *Yedi İklim Türkçe A1*
 
 **Introduction to the Ottoman Empire** `NES 1561`
 - *A Short History of the Ottoman Empire* by Renée Worringer
