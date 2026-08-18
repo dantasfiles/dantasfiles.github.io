@@ -181,7 +181,15 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
 
+**[Design & Environmental Analysis](https://dantasfiles.com/cornell/human-dea)**
 
+**[Fiber Science & Apparel Design](https://dantasfiles.com/cornell/human-fsad)**
+
+**[Human Development](https://dantasfiles.com/cornell/human-hd)**
+
+**[Nondepartmental](https://dantasfiles.com/cornell/human-he)**
+
+**[Nutritional Science](https://dantasfiles.com/cornell/human-ns)**
 
 </div>
 
