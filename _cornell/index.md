@@ -3,7 +3,7 @@ title: 🐻 Cornell unofficial reading lists, fall 2026
 layout: page
 ---
 
-I compiled these unofficial reading lists using publicly available information from the [online bookstore](https://cornellstore.com/), [library course reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages.<br>To keep track of my own explorations, I've marked books and papers I've read with a **bold** ✔️
+I compiled these unofficial reading lists using publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages.<br>To keep track of my own explorations, I've marked books and papers I've read with a **bold** ✔️
 
 ## Agriculture & Life Sciences
 
@@ -45,6 +45,12 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Astronomy](https://dantasfiles.com/cornell/astro)**
 
+**[Chemistry](https://dantasfiles.com/cornell/chem)**
+
+**[China & Asia Pacific Studies](https://dantasfiles.com/cornell/caps)**
+
+**[Classics](https://dantasfiles.com/cornell/class)**
+
 </div>
 
 ## Business
@@ -65,14 +71,13 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Biomedical Engineering](https://dantasfiles.com/cornell/bme)**
 
+**[Chemical Engineering](https://dantasfiles.com/cornell/cheme)**
+
+**[Civil & Environmental Engineering](https://dantasfiles.com/cornell/cee)**
+
 </div>
 
-caps.md
-cee.md
-chem.md
-cheme.md
-chin.md
-class.md
+
 cogst.md
 coml.md
 comm.md
