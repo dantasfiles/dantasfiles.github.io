@@ -14,7 +14,7 @@ title: 🐻 Cornell Asian Studies unofficial reading list, fall 2026
 - *The Mahabharata, v.2: The Book of Assembly & the Book of the Forest*
 - *The Mahabharata, v.3: The Book of the Virata & the Book of the Effort*  
 
-Sophomore level 
+## Sophomore level 
 
 **Gamelan in Indonesian History & Cultures** `ASIAN 2245`
 - *Music in Central Java: Experiencing Music, Expressing Culture* by Benjamin Brinner 
@@ -55,11 +55,17 @@ Sophomore level
 - *Revelatory Events: 3 Case Studies of the Emergence of New Spiritual Paths* by Ann Taves
 - *How God Becomes Real: Kindling the Presence of Invisible Others* by T.M. Luhrmann 
 
+**High Intermediate Mandarin I** `CHIN 3301`
+- *Eyes on China: An Intermediate-Adv. Reader of Modern Chinese* by Dr. Jincheng Liu et al. 
+
 **Monsoon Kingdoms: Pre-Modern Southeast Asian History** `ASIAN 3397/6697`
 - *A History of Early Southeast Asia: Maritime Trade & Societal Development, 100–1500* by Kenneth R. Hall
 - *Southeast Asia in the Age of Commerce, 1450-1680: v.2, Expansion & Crisis* by Anthony Reid 
 
+## Senior level
 
+**High Adv. Mandarin I** `CHIN 4427`
+- *A Kaleidoscope of China: An Adv. Reader of Modern Chinese* by Chou et al. 
 
 
 
