@@ -53,7 +53,7 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list, fall 2026
 - ✔️ ***Frankenstein; or, The Modern Prometheus*** by Mary Shelley
 
 **Writing the Environment: Enchanting Nature** `ENGL 1130-101`
-- *A Midsummer Night's Dream* by William Shakespeare
+- ✔️ ***A Midsummer Night's Dream*** by William Shakespeare
 
 **Writing the Environment: Climates of Resistance** `ENGL 1130-102`
 - *Gardens in the Dunes* by Leslie Marmon Silko
