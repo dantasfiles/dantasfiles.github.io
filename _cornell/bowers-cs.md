@@ -54,6 +54,11 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 ## Master's level
 
+**[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
+- *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
+- *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
+- *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
+
 **[Frontiers of Computer Vision](https://www.cs.cornell.edu/courses/cs5672/2026fa/)** `CS 5672`
 
 ## Doctoral level
