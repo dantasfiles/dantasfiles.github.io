@@ -36,8 +36,19 @@ title: 🐻 Cornell Asian Studies unofficial reading list, fall 2026
 
 ## Southeast Asia
 
+**Elementary Indonesian I** `INDO 1121`
+- *Indonesian Grammar in Context: Asyik Berbahasa Indonesia, v.1* by Rafferty et al.
+- *Let’s Speak Indonesian: Ayo Berbahasa Indonesia, v.1* by Rafferty et al.
+
+**Intermediate Indonesian I** `INDO 2201`
+- *Let’s Speak Indonesian: Ayo Berbahasa Indonesia, v.2 by Rafferty et al.
+- *Indonesian Grammar in Context: Asyik Berbahasa Indonesia, v.3* by Rafferty et al.
+
 **Gamelan in Indonesian History & Cultures** `ASIAN 2245`
 - *Music in Central Java: Experiencing Music, Expressing Culture* by Benjamin Brinner
+
+**High Intermediate Indonesian I** `INDO 3301`
+- *Indonesian Grammar in Context: Asyik Berbahasa Indonesia, v.3* by Rafferty et al.
 
 **Monsoon Kingdoms: Pre-Modern Southeast Asian History** `ASIAN 3397/6697`
 - *A History of Early Southeast Asia: Maritime Trade & Societal Development, 100–1500* by Kenneth R. Hall
