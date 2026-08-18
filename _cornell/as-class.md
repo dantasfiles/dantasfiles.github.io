@@ -4,6 +4,9 @@ title: 🐻 Cornell Classics unofficial reading list, fall 2026
 
 ## Freshman level
 
+**Homeric Greek II** `GREEK 1105/5115`
+- *Homeric Greek: A Book for Beginners* by Pharr et al.
+
 **Classics & Comics** `CLASS 1812`
 - *Understanding Comics: The Invisible Art* by Scott McCloud
 - *300* by Miller & Varley
@@ -29,6 +32,10 @@ title: 🐻 Cornell Classics unofficial reading list, fall 2026
 
 **Ancient Greek History** `CLASS 2675`
 - *A Brief History of Ancient Greece: Politics, Society & Culture* by Pomeroy et al.
- 
+
+ ## Junior level
+
+ **Rapid Reading in Latin** `LATIN 3220/5230`
+- *Aeneid* by Virgil
 
 
