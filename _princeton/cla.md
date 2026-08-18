@@ -80,7 +80,7 @@ title: 🐯 Princeton Classics unofficial reading list, fall 2026
 - *Greek Lyric Poetry: A Selection of Early Greek Lyric, Elegiac & Iambic Poetry* by David A. Campbell
 - *Pindar: Pythian Eleven* by P.J. Finglass
 
-| **Between Selves: Living Letters from Antiquity to the Present** `CLA 415`
+**Between Selves: Living Letters from Antiquity to the Present** `CLA 415`
 - *Letter to the Father* by Franz Kafka
 - *The Letters of Abelard and Heloise*
 - ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
