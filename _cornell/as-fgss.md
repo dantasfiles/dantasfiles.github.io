@@ -21,7 +21,7 @@ title: 🐻 Cornell Feminist, Gender & Sexuality Studies unofficial reading list
 - *Unthought: The Power of the Cognitive Nonconscious* by N. Katherine Hayles
 - *Posthuman Feminism* by Rosi Braidotti
   
-**Queer Archives & Archiving Queerness** `FGSS 4695`
+**Queer Archives & Archiving Queerness** `FGSS/LGBT 4695`
 - ✔️ ***Fun Home: A Family Tragicomic*** by Alison Bechdel
 - *Wayward Lives, Beautiful Experiments: Intimate Histories of Riotous Black Girls, Troublesome Women & Queer Radicals* by Saidiya Hartman
 - *Dead Collections* by Isaac Fellman
