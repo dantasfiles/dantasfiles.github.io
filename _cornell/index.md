@@ -7,6 +7,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 ## Agriculture & Life Sciences
 
+<div style="column-count: 2;" markdown="1">
+
 **[American Indian & Indigenous Studies](https://dantasfiles.com/cornell/aiis)**
 
 **[Animal Physiology & Anatomy](https://dantasfiles.com/cornell/bioap)**
@@ -19,11 +21,15 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Neurobiology & Behavior](https://dantasfiles.com/cornell/bionb)**
 
+</div>
+
 ## Architecture, Art & Planning
 
 **[Architecture](https://dantasfiles.com/cornell/arch)**
 
 ## Arts & Sciences
+
+<div style="column-count: 2;" markdown="1">
 
 **[American Studies](https://dantasfiles.com/cornell/amst)**
 
@@ -39,19 +45,27 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Astronomy](https://dantasfiles.com/cornell/astro)**
 
+</div>
+
 ## Business
+
+<div style="column-count: 2;" markdown="1">
 
 **[Applied Economics & Management](https://dantasfiles.com/cornell/aem)**
 
 **[Graduate Management Business Analytics](https://dantasfiles.com/cornell/bana)**
 
+</div>
+
 ## Engineering
+
+<div style="column-count: 2;" markdown="1">
 
 **[Applied & Engineering Physics](https://dantasfiles.com/cornell/aep)**
 
 **[Biomedical Engineering](https://dantasfiles.com/cornell/bme)**
 
-
+</div>
 
 caps.md
 cee.md
