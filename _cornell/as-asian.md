@@ -2,7 +2,48 @@
 title: 🐻 Cornell Asian Studies unofficial reading list, fall 2026
 ---
 
-## Freshman level
+<div style="column-count: 2;" markdown="1">
+
+**[East Asia →](#east-asia)**
+
+**[Southest Asia →](#southeast-asia)**
+
+**[South Asia →](#south-asia)**
+
+</div>
+
+**Buddhism** `ASIAN 2299`
+- *The Norton Anthology of World Religions: Buddhism* by Donald S. Lopez, Jr.
+- *The Foundations of Buddhism* by Rupert Gethin
+
+**History, Theory & Methods in the Academic Study of Religion** `ASIAN 3049/6049`
+- *Natural Symbols: Explorations in Cosmology* by Mary Douglas
+- *Fetishizing Tradition: Desire & Reinvention in Buddhist & Christian Narratives* by Alan Cole
+- *Revelatory Events: 3 Case Studies of the Emergence of New Spiritual Paths* by Ann Taves
+- *How God Becomes Real: Kindling the Presence of Invisible Others* by T.M. Luhrmann 
+
+## East Asia
+
+**Medicine & Healing in China** `ASIAN 2262`
+- *Chinese Medicine & Healing* by Hinrichs & Barnes
+- *Early Chinese Medical Literature: The Mawangdui Medical Manuscripts* by Donald Harper
+
+**High Intermediate Mandarin I** `CHIN 3301`
+- *Eyes on China: An Intermediate-Adv. Reader of Modern Chinese* by Dr. Jincheng Liu et al.
+
+**High Adv. Mandarin I** `CHIN 4427`
+- *A Kaleidoscope of China: An Adv. Reader of Modern Chinese* by Chou et al.
+
+## Southeast Asia
+
+**Gamelan in Indonesian History & Cultures** `ASIAN 2245`
+- *Music in Central Java: Experiencing Music, Expressing Culture* by Benjamin Brinner
+
+**Monsoon Kingdoms: Pre-Modern Southeast Asian History** `ASIAN 3397/6697`
+- *A History of Early Southeast Asia: Maritime Trade & Societal Development, 100–1500* by Kenneth R. Hall
+- *Southeast Asia in the Age of Commerce, 1450-1680: v.2, Expansion & Crisis* by Anthony Reid 
+
+## South Asia
 
 **Songs of Love & War: South Asian Lyrics** `ASIAN 1104`
 - *They Say / I Say: The Moves That Matter in Academic Writing* by Graff & Birkenstein
@@ -14,11 +55,6 @@ title: 🐻 Cornell Asian Studies unofficial reading list, fall 2026
 - *The Mahabharata, v.2: The Book of Assembly & the Book of the Forest*
 - *The Mahabharata, v.3: The Book of the Virata & the Book of the Effort*  
 
-## Sophomore level 
-
-**Gamelan in Indonesian History & Cultures** `ASIAN 2245`
-- *Music in Central Java: Experiencing Music, Expressing Culture* by Benjamin Brinner 
-
 **South Asian Religions in Practice: The Healing Traditions** `ASIAN 2254`
 - *The Indian Way: An Introduction to the Philosophies & Religions of India* by John M Koller
 - *Shamans, Mystics & Doctors: A Psychological Inquiry into India & its Healing Traditions* by Sudhir Kakar
@@ -29,43 +65,15 @@ title: 🐻 Cornell Asian Studies unofficial reading list, fall 2026
 - *Gabriel of Madness: Islamic Poetry & Ethics in an Age of Hindu Nationalism* by Anand Vivek Taneja
 - *Mudpacks & Prozac: Experiencing Ayurvedic, Biomedical & Religious Healing* by Murphy Halliburton
 
-**Medicine & Healing in China** `ASIAN 2262`
-- *Chinese Medicine & Healing* by Hinrichs & Barnes
-- *Early Chinese Medical Literature: The Mawangdui Medical Manuscripts* by Donald Harper
-
 **Mughal India & the Early Modern World, c. 1500-1800** `ASIAN 2274`
 - *A Short History of the Mughal Empire* by Michael H. Fisher
 - *The Empires of the Near East & India: Source Studies of the Safavid, Ottoman & Mughal Literate Communities* by Hani Khafipour
 - *The Baburnama: Memoirs of Babur, Prince & Emperor* 
 
-**Buddhism** `ASIAN 2299`
-- *The Norton Anthology of World Religions: Buddhism* by Donald S. Lopez, Jr.
-- *The Foundations of Buddhism* by Rupert Gethin 
-
-## Junior level
-
 **Partition: Violence, Citizenship & the Making of Modern South Asia** `ASIAN 3023`
 - *The Partition of India* by Haimanti Roy
 - *From Raj to Republic: Sovereignty, Violence & Democracy in India* by Sunil Purushotham
 - *Munnu: A Boy from Kashmir* by Malik Sajad
-
-**History, Theory & Methods in the Academic Study of Religion** `ASIAN 3049/6049`
-- *Natural Symbols: Explorations in Cosmology* by Mary Douglas
-- *Fetishizing Tradition: Desire & Reinvention in Buddhist & Christian Narratives* by Alan Cole
-- *Revelatory Events: 3 Case Studies of the Emergence of New Spiritual Paths* by Ann Taves
-- *How God Becomes Real: Kindling the Presence of Invisible Others* by T.M. Luhrmann 
-
-**High Intermediate Mandarin I** `CHIN 3301`
-- *Eyes on China: An Intermediate-Adv. Reader of Modern Chinese* by Dr. Jincheng Liu et al. 
-
-**Monsoon Kingdoms: Pre-Modern Southeast Asian History** `ASIAN 3397/6697`
-- *A History of Early Southeast Asia: Maritime Trade & Societal Development, 100–1500* by Kenneth R. Hall
-- *Southeast Asia in the Age of Commerce, 1450-1680: v.2, Expansion & Crisis* by Anthony Reid 
-
-## Senior level
-
-**High Adv. Mandarin I** `CHIN 4427`
-- *A Kaleidoscope of China: An Adv. Reader of Modern Chinese* by Chou et al. 
 
 
 
