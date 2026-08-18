@@ -9,6 +9,29 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
 
+**[American Indian & Indigenous Studies](https://dantasfiles.com/cornell/cals-aiis)**
+
+**[Animal Physiology & Anatomy](https://dantasfiles.com/cornell/cals-bioap)**
+
+**[Biological & Environmental Engineering](https://dantasfiles.com/cornell/cals-bee)**
+
+**[Biomedical Sciences](https://dantasfiles.com/cornell/cals-bioms)**
+
+**[Communication](https://dantasfiles.com/cornell/cals-comm)**
+
+**[Molecular Biology and Genetics](https://dantasfiles.com/cornell/cals-biomg)**
+
+**[Neurobiology & Behavior](https://dantasfiles.com/cornell/cals-bionb)**
+
+**[](https://dantasfiles.com/cornell/cals-envs)**
+
+**[](https://dantasfiles.com/cornell/cals-fdsc)**
+
+**[](https://dantasfiles.com/cornell/cals-gdev)**
+
+**[](https://dantasfiles.com/cornell/cals-ntres)**
+
+**[](https://dantasfiles.com/cornell/cals-plsci)**
 
 </div>
 
