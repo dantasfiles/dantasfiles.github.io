@@ -6,7 +6,7 @@ title: 🐻 Cornell Africana Studies & Research Center unofficial reading list, 
 
 **Elementary Swahili I** `SWAHL 1100`
 - *Tuseme Kiswahili: Multidimensional Approach to the Teaching & Learning of Swahili as a Foreign Language* by Fikeni E. M. K. Senkoro
-- 
+
 **Elementary Arabic I** `ASRC 1201`
 - *Arabiyyat al-Naas, Part 1: An Intro. Course in Arabic* by Younes et al.  
 
