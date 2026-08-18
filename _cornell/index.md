@@ -5,6 +5,30 @@ layout: page
 
 I compiled these unofficial reading lists using publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages.<br>To keep track of my own explorations, I've marked books and papers I've read with a **bold** ✔️
 
+<!-- https://www.cornell.edu/academics/colleges.cfm -->
+
+<div style="column-count: 2;" markdown="1">
+
+**[Agriculture & Life Sciences →](#agriculture--life-sciences)**
+
+**[Architecture, Art & Planning →](#architecture--art--planning)**
+
+**[Arts & Sciences →](#arts--sciences)**
+
+**[Business →](#business)**
+
+**[Computing & Information Science →](#computing--information-science)**
+
+**[Engineering →](#engineering)**
+
+**[Human Ecology →](#human-ecology)**
+
+**[Industrial & Labor Relations →](https://dantasfiles.com/cornell/ilr)**
+
+**[Public Policy →](https://dantasfiles.com/cornell/pubpol)**
+
+</div>
+
 ## Agriculture & Life Sciences
 
 <div style="column-count: 2;" markdown="1">
@@ -137,7 +161,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 </div>
 
-## Computing & Information Sci
+## Computing & Information Science
 
 <div style="column-count: 2;" markdown="1">
 
