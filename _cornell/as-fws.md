@@ -43,6 +43,9 @@ title: 🐻 Cornell Freshman Writing Seminars unofficial reading list, fall 2026
 - *The Dark Forest* by Cixin Liu
 - *Exhalation* by Ted Chiang
 
+**Cannibal Cultures** `COML 1127`
+- *The Witness* by Juan José Saer
+
 ## English
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
