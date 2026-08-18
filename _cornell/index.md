@@ -63,17 +63,17 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
   
-**[Architecture](https://dantasfiles.com/cornell/arch)**
+**[Architecture](https://dantasfiles.com/cornell/aap-arch)**
 
-**[Architecture, Art, and Planning](https://dantasfiles.com/cornell/aap)**
+**[Architecture, Art, and Planning](https://dantasfiles.com/cornell/aap-aap)**
 
-**[Art](https://dantasfiles.com/cornell/art)**
+**[Art](https://dantasfiles.com/cornell/aap-art)**
 
-**[City & Regional Planning](https://dantasfiles.com/cornell/crp)**
+**[City & Regional Planning](https://dantasfiles.com/cornell/aap-crp)**
 
-**[Design Tech](https://dantasfiles.com/cornell/design)**
+**[Design Tech](https://dantasfiles.com/cornell/aap-design)**
 
-**[Real Estate](https://dantasfiles.com/cornell/real)**
+**[Real Estate](https://dantasfiles.com/cornell/aap-real)**
 
 </div>
 
