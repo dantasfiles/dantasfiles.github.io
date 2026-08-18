@@ -3,6 +3,6 @@ title: 🐻 Cornell Graduate Management Common Core unofficial reading list, fal
 ---
 
 **Financial Accounting** `NCC 5000`
-- Financial Accounting* by Libby et al.
+- *Financial Accounting* by Libby et al.
 
 
