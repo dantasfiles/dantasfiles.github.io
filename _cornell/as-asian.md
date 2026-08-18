@@ -24,12 +24,38 @@ title: 🐻 Cornell Asian Studies unofficial reading list, fall 2026
 
 ## East Asia
 
+**Elementary Japanese I** `JAPAN 1101`
+- *Kanji Look and Learn* by Banno et al.
+- *Genki: An Integrated Course in Elementary Japanese v.1* by Banno et al.
+
+**Elementary Korean Reading and Writing I** `KOREA 1109`
+- *Frog's Tears & Other Stories* by Hye-Sook Wang
+- *Integrated Korean: Beginning 1* by Cho et al.
+
+**Intermediate Japanese I** `JAPAN 2201`
+- *Genki: An Integrated Course in Elementary Japanese v.2* by Banno et al.
+- *Quartet: Intermediate Japanese Across the Four Language Skills, v.1* by Sakamoto et al.
+
+**Intermediate Korean I** `KOREA 2201`
+- *Integrated Korean: Intermediate 1* by Cho et al.
+- *Integrated Korean Workbook: Intermediate 1* by Park et al.
+
 **Medicine & Healing in China** `ASIAN 2262`
 - *Chinese Medicine & Healing* by Hinrichs & Barnes
 - *Early Chinese Medical Literature: The Mawangdui Medical Manuscripts* by Donald Harper
 
 **High Intermediate Mandarin I** `CHIN 3301`
 - *Eyes on China: An Intermediate-Adv. Reader of Modern Chinese* by Dr. Jincheng Liu et al.
+
+**High Intermediate Japanese I** `JAPAN 3301`
+- *Quartet: Intermediate Japanese Across the Four Language Skills, v.2* by Sakamoto et al.
+
+**High Intermediate Korean I** `KOREA 3301`
+- *Integrated Korean: High Intermediate 1* by Chang et al.
+
+**Classical Japanese I: Grammar** `JPLIT 4406/6606`
+- *Classical Japanese: A Grammar: Exercise Answers & Tables* by Haruo Shirane
+- *Classical Japanese Reader & Essential Dictionary* by Haruo Shirane
 
 **High Adv. Mandarin I** `CHIN 4427`
 - *A Kaleidoscope of China: An Adv. Reader of Modern Chinese* by Chou et al.
