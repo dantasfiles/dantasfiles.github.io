@@ -9,19 +9,53 @@ I compiled these unofficial reading lists using publicly available information f
 
 <div style="column-count: 2;" markdown="1">
 
-**[American Indian & Indigenous Studies](https://dantasfiles.com/cornell/aiis)**
+**[Agriculture & Life Sciences](https://dantasfiles.com/cornell/als)**
+
+**[American Indian and Indigenous Studies](https://dantasfiles.com/cornell/aiis)**
 
 **[Animal Physiology & Anatomy](https://dantasfiles.com/cornell/bioap)**
 
-**[Biological & Environmental Engineering](https://dantasfiles.com/cornell/bee)**
+**[Animal Science](https://dantasfiles.com/cornell/ansc)**
 
 **[Biomedical Sciences](https://dantasfiles.com/cornell/bioms)**
 
-**[Molecular Biology & Genetics](https://dantasfiles.com/cornell/biomg)**
+**[Biological & Environmental Engineering](https://dantasfiles.com/cornell/bee)**
+
+**[Biology: General Courses](https://dantasfiles.com/cornell/biog)**
+
+**[Communication](https://dantasfiles.com/cornell/comm)**
+
+**[Computational Biology](https://dantasfiles.com/cornell/biocb)**
+
+**[Ecology & Evolutionary Biology](https://dantasfiles.com/cornell/bioee)**
+
+**[Education](https://dantasfiles.com/cornell/educ)**
+
+**[Entomology](https://dantasfiles.com/cornell/entom)**
+
+**[Environment & Sustainability](https://dantasfiles.com/cornell/envs)**
+
+**[Food Science](https://dantasfiles.com/cornell/fdsc)**
+
+**[Global Development](https://dantasfiles.com/cornell/gdev)**
+
+**[Landscape Architecture](https://dantasfiles.com/cornell/la)**
+
+**[Leadership](https://dantasfiles.com/cornell/lead)**
+
+**[Microbiology](https://dantasfiles.com/cornell/biomi)**
+
+**[Molecular Biology and Genetics](https://dantasfiles.com/cornell/biomg)**
+
+**[Natural Resources](https://dantasfiles.com/cornell/ntres)**
 
 **[Neurobiology & Behavior](https://dantasfiles.com/cornell/bionb)**
 
-**[Communication](https://dantasfiles.com/cornell/comm)**
+**[Plant Sciences](https://dantasfiles.com/cornell/plsci)**
+
+**[Toxicology](https://dantasfiles.com/cornell/tox)**
+
+**[Viticulture and Enology](https://dantasfiles.com/cornell/vien)**
 
 </div>
 
@@ -31,7 +65,15 @@ I compiled these unofficial reading lists using publicly available information f
   
 **[Architecture](https://dantasfiles.com/cornell/arch)**
 
+**[Architecture, Art, and Planning](https://dantasfiles.com/cornell/aap)**
+
+**[Art](https://dantasfiles.com/cornell/art)**
+
 **[City & Regional Planning](https://dantasfiles.com/cornell/crp)**
+
+**[Design Tech](https://dantasfiles.com/cornell/design)**
+
+**[Real Estate](https://dantasfiles.com/cornell/real)**
 
 </div>
 
