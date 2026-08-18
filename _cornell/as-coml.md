@@ -7,12 +7,15 @@ title: 🐻 Cornell Comparative Literature unofficial reading list, fall 2026
 **Robots** `COML 1106-103`
 - *Severance* by Ling Ma
 - *The Dark Forest* by Cixin Liu
-- *Exhalation* by Ted Chiang 
+- *Exhalation* by Ted Chiang
 
 **Elementary Russian through Film** `RUSSA 1121` / **Self-Paced Elementary Russian I** `RUSSA 1131`
 - *What I Saw* by Boris Zhitkov
 - *Beginning Russian* by Leed et al.
 - *5000 Russian Words: With All Their Inflected Forms and Other Grammatical Information* by Leed & Paperno
+
+**Cannibal Cultures** `COML 1127`
+- *The Witness* by Juan José Saer
 
 ## Sophomore level 
 
