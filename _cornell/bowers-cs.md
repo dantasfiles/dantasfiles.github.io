@@ -34,15 +34,15 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - ✔️ ***[Mathematics for Machine Learning](https://mml-book.github.io/)*** by Deisenroth et al.
 - *Machine Learning* by Tom Mitchell
 - *[Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/)* by Kevin Murphy
-- *An Introduction to Support Vector Machines & Other Kernel-based Learning Methods* by Cristianini & Shawe-Taylor
+- *An Intro. to Support Vector Machines & Other Kernel-based Learning Methods* by Cristianini & Shawe-Taylor
 - *Learning with Kernels: Support Vector Machines, Regularization, Optimization & Beyond* by Scholkopf & Smola
 - *Pattern Recognition & Machine Learning* by Christopher M. Bishop
-- *Introduction to Machine Learning* by Ethem Alpaydin
+- *Intro. to Machine Learning* by Ethem Alpaydin
 - *Pattern Classification* by Duda et al.
 - *[The Elements of Statistical Learning: Data Mining, Inference & Prediction](https://hastie.su.domains/ElemStatLearn/)* by Hastie et al.
 - *Causal Inference for Statistics, Social & Biomedical Sciences: An Introduction* by Imbens & Rubin
 - *Foundations of Statistical Natural Language Processing* by Hamming & Schutze
-- *[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)* by Manning et al.
+- *[Intro. to Information Retrieval](https://nlp.stanford.edu/IR-book/)* by Manning et al.
 - *Statistical Learning Theory* by Vladimir N. Vapnik
 
 ## Senior level
