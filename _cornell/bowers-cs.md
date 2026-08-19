@@ -29,7 +29,21 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
 
-**[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3700/5700
+**[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3700/5700`
+- *[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)* by Shalev-Shwartz & Ben-David
+- ✔️ ***[Mathematics for Machine Learning](https://mml-book.github.io/)*** by Deisenroth et al.
+- *Machine Learning* by Tom Mitchell
+- *[Machine Learning: A Probabilistic Perspective](https://probml.github.io/pml-book/)* by Kevin Murphy
+- *An Introduction to Support Vector Machines & Other Kernel-based Learning Methods* by Cristianini & Shawe-Taylor
+- *Learning with Kernels: Support Vector Machines, Regularization, Optimization & Beyond* by Scholkopf & Smola
+- *Pattern Recognition & Machine Learning* by Christopher M. Bishop
+- *Introduction to Machine Learning* by Ethem Alpaydin
+- *Pattern Classification* by Duda et al.
+- *[The Elements of Statistical Learning: Data Mining, Inference & Prediction](https://hastie.su.domains/ElemStatLearn/)* by Hastie et al.
+- *Causal Inference for Statistics, Social & Biomedical Sciences: An Introduction* by Imbens & Rubin
+- *Foundations of Statistical Natural Language Processing* by Hamming & Schutze
+- *[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)* by Manning et al.
+- *Statistical Learning Theory* by Vladimir N. Vapnik
 
 ## Senior level
 
