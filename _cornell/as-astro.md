@@ -7,7 +7,7 @@ title: 🐻 Cornell Astronomy unofficial reading list, fall 2026
 **A Spacecraft Tour of the Solar System: Science, Policy & Exploration** `ASTRO 2202`
 - *Astronomy: A Physical Perspective* by Marc L. Kutner
 - *Astrophysics: A Very Short Intro.* by James Binney
-- *An Intro. to Modern Astrophysics* by Carroll & Ostlie | 
+- *An Intro. to Modern Astrophysics* by Carroll & Ostlie 
 
 ## Senior level
 
