@@ -21,13 +21,15 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *Data Structures & Problem Solving Using Java* by Mark Allen Weiss
 - *Program Development in Java: Abstraction, Specification & Object-Oriented Design* by Liskov & Guttag
 - *Java Precisely* by Peter Sestoft
-- ✔️ ***Design Patterns: Elements of Reusable Object-Oriented Software*** by Gamma, Helm, Johnson & Vlissides
-- *Java in a Nutshell: A Desktop Quick Reference* by Evans, Clark & Flanagan
+- ✔️ ***Design Patterns: Elements of Reusable Object-Oriented Software*** by Gamma et al.
+- *Java in a Nutshell: A Desktop Quick Reference* by Evans et al.
 - ✔️ ***Effective Java: Best Practices for the Java Platform*** by Joshua Bloch
 
 ## Junior level
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
+
+**[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3700/5700
 
 ## Senior level
 
