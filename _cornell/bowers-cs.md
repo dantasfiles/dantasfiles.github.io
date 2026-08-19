@@ -2,6 +2,10 @@
 title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 ---
 
+## Freshman level
+
+**[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
+
 ## Sophomore level
 
 **[C++ Programming](https://www.cs.cornell.edu/courses/cs2024/2026fa/)** `CS 2024`
@@ -10,6 +14,16 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
 - ✔️ [***Principled Programming: Intro. to Coding in Any Imperative Language***](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
 - *Data Structures & Algorithms in Java: A Project-Based Approach* by Dan S. Myers
+
+**[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
+- ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
+- *Data Structures & Abstractions with Java* by Carrano & Henry
+- *Data Structures & Problem Solving Using Java* by Mark Allen Weiss
+- *Program Development in Java: Abstraction, Specification & Object-Oriented Design* by Liskov & Guttag
+- *Java Precisely* by Peter Sestoft
+- ✔️ ***Design Patterns: Elements of Reusable Object-Oriented Software*** by Gamma, Helm, Johnson & Vlissides
+- *Java in a Nutshell: A Desktop Quick Reference* by Evans, Clark & Flanagan
+- ✔️ ***Effective Java: Best Practices for the Java Platform*** by Joshua Bloch
 
 ## Junior level
 
