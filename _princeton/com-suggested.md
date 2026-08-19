@@ -2,7 +2,7 @@
 title: 🐯 Princeton Comparative Literature suggested reading list -- Works I've read
 ---
 
-The department also publishes an official **[Comparative Literature Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**.<br>I use this page to track the books I've read from that list ✔️
+I use this page to track the books I've read from the **[Princeton Comparative Literature Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**
 
 ## Fiction (including novels & short story collections)
 
