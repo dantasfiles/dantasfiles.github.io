@@ -28,5 +28,4 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list, f
 - *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
 - *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
 
-</details>
 
