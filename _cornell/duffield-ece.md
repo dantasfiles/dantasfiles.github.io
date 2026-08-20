@@ -29,4 +29,8 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list, f
   - *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
   - *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
 
+## Doctoral level
+
+**[Modern Datacenter Architecture](https://www.csl.cornell.edu/courses/ece6765/)** `ECE 6765`
+- *[The Data Center as a Computer: Designing Warehouse-Scale Machines](https://link.springer.com/book/10.1007/978-3-031-99489-0)* by Barroso et al.
 
