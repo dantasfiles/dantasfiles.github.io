@@ -100,14 +100,16 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[Basic Category Theory](https://arxiv.org/abs/1612.09375)* by Tom Leinster
 - *Category Theory* by Steve Awodey
 - *[Category Theory in Context](https://math.jhu.edu/~eriehl/context/)* by Emily Riehl
-- *Categorical Logic & Type Theory* by B. Jacobs
-- ✔️ ***Practical Foundations for Programming Languages*** by Robert Harper
-- *Types & Programming Languages* by Benjamin C. Pierce
-- *[The Category-Theoretic Solution of Recursive Domain Equations](https://homepages.inf.ed.ac.uk/gdp/publications/)* by Smyth & Plotkin
-- *[Fixed Points of Functors](https://www.sciencedirect.com/science/article/pii/S2352220816301201)* by Adámek et al.
-- *[A Mixed Linear & Non-Linear Logic: Proofs, Terms & Models](https://nickbenton.name/publications.html)* by P.N. Benton
-- *[Notions of Computation & Monads](https://www.sciencedirect.com/science/article/pii/0890540191900524)* by Eugenio Moggi
-- *[What is Algebraic about Algebraic Effects & Handlers?](https://arxiv.org/abs/1807.05923)* by Andrej Bauer
+- Programming language semantics
+  - *Categorical Logic & Type Theory* by B. Jacobs
+  - ✔️ ***Practical Foundations for Programming Languages*** by Robert Harper
+  - *Types & Programming Languages* by Benjamin C. Pierce
+  - *[The Category-Theoretic Solution of Recursive Domain Equations](https://homepages.inf.ed.ac.uk/gdp/publications/)* by Smyth & Plotkin
+- Papers
+  - *[Fixed Points of Functors](https://www.sciencedirect.com/science/article/pii/S2352220816301201)* by Adámek et al.
+  - *[A Mixed Linear & Non-Linear Logic: Proofs, Terms & Models](https://nickbenton.name/publications.html)* by P.N. Benton
+  - *[Notions of Computation & Monads](https://www.sciencedirect.com/science/article/pii/0890540191900524)* by Eugenio Moggi
+  - *[What is Algebraic about Algebraic Effects & Handlers?](https://arxiv.org/abs/1807.05923)* by Andrej Bauer
 
 
 
