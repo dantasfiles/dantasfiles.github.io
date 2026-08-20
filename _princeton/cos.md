@@ -43,6 +43,8 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 
 ## Senior level
 
+**[Reasoning with Data](https://humans.cs.princeton.edu/teaching/fall2026_reasoning_with_data.html)** `COS 424`
+
 **Design of VLSI Systems** `COS 462`
 - _Digital Integrated Circuits: A Design Perspective_ by Rabaey et al.
 
