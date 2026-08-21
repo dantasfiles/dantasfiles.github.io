@@ -126,6 +126,10 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
   - *[Notions of Computation & Monads](https://www.sciencedirect.com/science/article/pii/0890540191900524)* by Eugenio Moggi
   - *[What is Algebraic about Algebraic Effects & Handlers?](https://arxiv.org/abs/1807.05923)* by Andrej Bauer
 
+## Seminars
+
+**[Theory of Algorithms & Computing](https://www.cs.cornell.edu/events/theory-seminar)** `CS 7890`
+- *[Online Orthogonal Vectors Revisited](https://arxiv.org/abs/2605.04798)* by Gajulapalli et al.
 
 
 
