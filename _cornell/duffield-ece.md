@@ -20,6 +20,13 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list, f
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `ECE 4750/5740`
 
+**[Foundations of Robotics](https://www.cs.cornell.edu/courses/cs5750/2026fa/)** `ECE 4770`
+- *Probabilistic Robotics* by Thrun et al.
+- *[Planning Algorithms](https://lavalle.pl/planning/)* by Steven M. LaValle
+- *Artificial Intelligence: A Modern Approach* by Russell & Norvig
+- *Modelling & Control of Robot Manipulators* by Sciavicco & Siciliano
+- *[Modern Robotics: Mechanics, Planning & Control](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)* by Lynch & Park
+
 **[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002/6950`
 - *[How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)* by Austin et al.
 - Papers
