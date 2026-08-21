@@ -47,7 +47,6 @@ title: 🐯 Princeton Classics unofficial reading list, fall 2026
 - *The Women of Trachis* by Sophocles
 - *Philoctetes* by Sophocles
 - *The Trackers* by Sophocles
-- *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma
 - *Library* by Apollodorus
 - *Fabulae* by Hyginus
 - ✔️ ***Jason & the Golden Fleece*** by Apollonius of Rhodes
