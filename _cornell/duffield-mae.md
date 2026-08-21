@@ -10,6 +10,7 @@ title: 🐻 Cornell Mechanical & Aerospace Engineering unofficial reading list, 
 - *Artificial Intelligence: A Modern Approach* by Russell & Norvig
 - *Modelling & Control of Robot Manipulators* by Sciavicco & Siciliano
 - *[Modern Robotics: Mechanics, Planning & Control](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)* by Lynch & Park
+- [*The Python Tutorial*](https://docs.python.org/3/tutorial/)
  
 **Robot Perception** `MAE 4810/5810`
 - *Information-Driven Planning and Control* by Ferrari & Wettergren 
