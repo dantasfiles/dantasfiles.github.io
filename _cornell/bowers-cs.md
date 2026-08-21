@@ -65,7 +65,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
   - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html#rust-by-example)*
   - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)*
   - *[C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)*
-  - ✔️ ***[How to Learn Rust in 2026: A Complete Beginner's Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)*** by Vitaly Bragilevsky
+  - ✔️ *[How to Learn Rust in 2026: A Complete Beginner's Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
   - *[The Rustonomicon](https://doc.rust-lang.org/nomicon/)*
   - *[Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)*
   - *[Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)*
@@ -82,7 +82,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
   - *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
   - *Linkers & Loaders* by John R. Levine
   - *[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)* by Ulrich Drepper
-  - ✔️ ***[Always Measure 1 Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)*** by John Ousterhout
+  - ✔️ *[Always Measure 1 Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `CS 4420`
 
@@ -103,7 +103,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
 - *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
-- ✔️ ***[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)*** by Jay Alammar
+- ✔️ *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
 - *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
 
 **[Frontiers of Computer Vision](https://www.cs.cornell.edu/courses/cs5672/2026fa/)** `CS 5672`
