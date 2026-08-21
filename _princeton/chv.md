@@ -3,9 +3,14 @@ title: 🐯 Princeton Center for Human Values unofficial reading list, fall 2026
 layout: reading-list
 ---
 
-| Junior level | |
-| :---: | --- | 
-| **The Just Society** <br> CHV 307 | • [*2nd Treatise on Government*](https://standardebooks.org/ebooks/john-locke/two-treatises-of-government/text/book-2) by John Locke <br> ✔️ ***[The Communist Manifesto](https://standardebooks.org/ebooks/karl-marx_friedrich-engels/the-communist-manifesto/samuel-moore)*** by Marx & Engels <br> • [*Capital: A Critique of Political Economy: Volume One: The Process of Production of Capital*](https://www.marxists.org/archive/marx/works/1867-c1/index.htm) by Karl Marx <br> • *The Classical Utilitarians: Bentham & Mill* <br> • *A Theory of Justice* by John Rawls |
+## Junior level
+
+**The Just Society** `CHV 307`
+- *2nd Treatise on Government* by John Locke
+- ✔️ ***[The Communist Manifesto](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/)*** by Marx & Engels
+- Capital, v.1 by Karl Marx
+- *The Classical Utilitarians: Bentham & Mill*
+- *A Theory of Justice* by John Rawls
 
 
 
