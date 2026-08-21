@@ -6,7 +6,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 
-**[Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
+**[Short Course in Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
 - ✔️ **[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)*** by Allen B. Downey
 
 ## Sophomore level
