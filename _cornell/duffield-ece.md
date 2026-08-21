@@ -26,6 +26,7 @@ title: 🐻 Cornell Electrical & Computer Engineering unofficial reading list, f
 - *Artificial Intelligence: A Modern Approach* by Russell & Norvig
 - *Modelling & Control of Robot Manipulators* by Sciavicco & Siciliano
 - *[Modern Robotics: Mechanics, Planning & Control](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)* by Lynch & Park
+- [*The Python Tutorial*](https://docs.python.org/3/tutorial/)
 
 **[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002/6950`
 - *[How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)* by Austin et al.
