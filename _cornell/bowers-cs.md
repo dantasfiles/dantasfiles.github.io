@@ -79,6 +79,13 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `CS 4420`
 
+**[Foundations of Robotics](https://www.cs.cornell.edu/courses/cs5750/2026fa/)** `CS 4750/5750`
+- *Probabilistic Robotics* by Thrun et al.
+- *[Planning Algorithms](https://lavalle.pl/planning/)* by Steven M. LaValle
+- *Artificial Intelligence: A Modern Approach* by Russell & Norvig
+- *Modelling & Control of Robot Manipulators* by Sciavicco & Siciliano
+- *[Modern Robotics: Mechanics, Planning & Control](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)* by Lynch & Park
+
 **Intro. to Computational Complexity** `CS 4814/5814`
 - *Intro. to the Theory of Computation* by Michael Sipser
 - *Computational Complexity: A Modern Approach* by Arora & Barak
