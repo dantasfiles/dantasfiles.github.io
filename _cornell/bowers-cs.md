@@ -29,7 +29,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
 
-**[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3700/5700`
+**[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
 - *[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)* by Shalev-Shwartz & Ben-David
 - ✔️ ***[Mathematics for Machine Learning](https://mml-book.github.io/)*** by Deisenroth et al.
 - *Machine Learning* by Tom Mitchell
