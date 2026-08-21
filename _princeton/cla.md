@@ -21,14 +21,34 @@ title: 🐯 Princeton Classics unofficial reading list, fall 2026
 ## Sophomore level
 
 **Classical Mythology** `CLA 212`
-- *The Greek Tragedies: 17 Plays by Aeschylus, Sophocles, & Euripides*
+- *Persians* by Aeschylus
+- *Prometheus Bound* by Aeschylus
+- *Agamemnon* by Aeschylus
+- *The Libation Bearers* by Aeschylus
+- *The Eumenides* by Aeschylus
+- *Antigone* by Sophocles
+- *Oedipus the King* by Sophocles
+- *Oedipus at Colonus* by Sophocles
+- *Electra* by Sophocles
+- *Alcestis* by Euripides
+- *Medea* by Euripides
+- *Hippolytus* by Euripides
+- *Hecuba* by Euripides
+- *Electra* by Euripides
+- *The Trojan Women* by Euripides
+- *Iphigenia among the Taurians* by Euripides
+- *The Bacchae* by Euripides
 - *Metamorphoses* by Ovid
 - *Anthology of Classical Myth: Primary Sources in Translation* by Trzaskoma et al.
 - *The Odyssey* by Homer
-- *The Poems of Hesiod* by R.M. Frazer
-- *Sophocles II: Ajax, The Women of Trachis, Electra, Philoctetes, The Trackers*
+- *Theogony* by Hesiod
+- *Work & Days* by Hesiod
+- *Ajax* by Sophocles
+- *The Women of Trachis* by Sophocles
+- *Philoctetes* by Sophocles
+- *The Trackers* by Sophocles
 - *Apollodorus' Library & Hyginus' Fabulae: Two Handbooks of Greek Mythology* by Smith & Trzaskoma
-- *The Argonautica* by Apollonius of Rhodes
+- ✔️ ***Jason & the Golden Fleece*** by Apollonius of Rhodes
 
 **Democracy in Ancient Greece** `CLA 220`
 - *Democracy & Classical Greece* by J.K. Davies
