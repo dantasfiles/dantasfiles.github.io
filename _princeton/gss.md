@@ -4,7 +4,7 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 
 ## Sophomore level
 
-**Classical Mythology** `CLA 212`
+**Classical Mythology** `GSS 212`
 - *Persians* by Aeschylus
 - *Prometheus Bound* by Aeschylus
 - *Agamemnon* by Aeschylus
