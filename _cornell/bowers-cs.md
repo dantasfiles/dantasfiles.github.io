@@ -85,6 +85,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *Artificial Intelligence: A Modern Approach* by Russell & Norvig
 - *Modelling & Control of Robot Manipulators* by Sciavicco & Siciliano
 - *[Modern Robotics: Mechanics, Planning & Control](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)* by Lynch & Park
+- [*The Python Tutorial*](https://docs.python.org/3/tutorial/)
 
 **Intro. to Computational Complexity** `CS 4814/5814`
 - *Intro. to the Theory of Computation* by Michael Sipser
