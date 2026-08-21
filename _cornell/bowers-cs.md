@@ -107,6 +107,8 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
 
 **[Frontiers of Computer Vision](https://www.cs.cornell.edu/courses/cs5672/2026fa/)** `CS 5672`
+- *[Computer Vision: Algorithms & Applications](https://szeliski.org/Book/)* by Richard Szeliski
+- *[Foundations of Computer Vision](https://visionbook.mit.edu/)* by Torralba et al.
 
 ## Doctoral level
 
