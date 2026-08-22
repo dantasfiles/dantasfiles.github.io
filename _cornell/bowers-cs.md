@@ -94,10 +94,9 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[Modern Robotics: Mechanics, Planning & Control](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)* by Lynch & Park
 - [*The Python Tutorial*](https://docs.python.org/3/tutorial/)
 
-**Intro. to Computational Complexity** `CS 4814/5814`
-- *Intro. to the Theory of Computation* by Michael Sipser
+**[Intro. to Computational Complexity](https://www.cs.cornell.edu/courses/cs4814/2026fa/)** `CS 4814/5814`
 - *Computational Complexity: A Modern Approach* by Arora & Barak
-- *Mathematics & Computation: A Theory Revolutionizing Technology & Science* by Avi Wigderson
+- *Intro. to the Theory of Computation* by Michael Sipser
 
 ## Master's level
 
