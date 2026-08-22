@@ -130,7 +130,7 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 
 **Dynamical Systems** `MATH 7280`
 - *Advanced Mathematical Methods for Scientists & Engineers: Asymptotic Methods & Perturbation Theory* by Bender & Orszag
-- 
+
 **[Scientific Computing & Numerics](https://cornell-scan.github.io/index.html)** `MATH 7290`
 
 
