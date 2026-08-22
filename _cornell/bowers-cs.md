@@ -132,6 +132,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 **[Computer Science](https://www.cs.cornell.edu/events/computer-science-colloquium)** `CS 7090`
 
 **[Programming Languages](https://pl.cs.cornell.edu/pldg/2026fa/)** `CS 7190`
+- *[Coalgebraic Path Constraints](https://arxiv.org/abs/2603.12204)* by Todd Schmid
 
 **[Scientific Computing & Numerics](https://cornell-scan.github.io/index.html)** `CS 7290`
 
