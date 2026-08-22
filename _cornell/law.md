@@ -24,7 +24,7 @@ title: 🐻 Cornell Law unofficial reading list, fall 2026
 - *Contract & Related Obligation: Theory, Doctrine & Practice* by Hillman et al.
 - *Principles of Contract Law* by Robert Hillman
 
-
+**[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688`<br>There is an exhaustive list of papers and articles at the link--I'm only going to list those I've read here
 
 
 
