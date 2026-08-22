@@ -125,9 +125,12 @@ The department publishes an official **[textbook list](https://math.cornell.edu/
 **Set Theory** `MATH 6870`
 - *The Higher Infinite: Large Cardinals in Set Theory from Their Beginnings* by Akihiro Kanamori
 
-**Topics in Dynamical Systems** `MATH 7280`
+
+## Seminars
+
+**Dynamical Systems** `MATH 7280`
 - *Advanced Mathematical Methods for Scientists & Engineers: Asymptotic Methods & Perturbation Theory* by Bender & Orszag
-
-
+- 
+**[Scientific Computing & Numerics](https://cornell-scan.github.io/index.html)** `MATH 7290`
 
 
