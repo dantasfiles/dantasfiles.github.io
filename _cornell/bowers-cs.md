@@ -136,6 +136,14 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Scientific Computing & Numerics](https://cornell-scan.github.io/index.html)** `CS 7290`
 
+**[Systems Research](https://www.cs.cornell.edu/events/systems-research-seminar)** `CS 7490`
+
+**[Computer Graphics & Vision](https://www.cs.cornell.edu/events/graphics-vision-research-seminars)** `CS 7690`
+
+**[Artificial Intelligence](https://www.cs.cornell.edu/events/artificial-intelligence-seminars)** `CS 7790`
+
+**[Robotics](https://www.cs.cornell.edu/events/robotics-seminar)** `CS 7796`
+
 **[Theory of Algorithms & Computing](https://www.cs.cornell.edu/events/theory-seminar)** `CS 7890`
 - *[Online Orthogonal Vectors Revisited](https://arxiv.org/abs/2605.04798)* by Gajulapalli et al.
 
