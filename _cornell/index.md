@@ -27,6 +27,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Public Policy →](https://dantasfiles.com/cornell/pubpol)**
 
+**[Law →](https://dantasfiles.com/cornell/law)**
+
 </div>
 
 ## Agriculture & Life Sciences
@@ -220,3 +222,5 @@ I compiled these unofficial reading lists using publicly available information f
 ## [Industrial & Labor Relations](https://dantasfiles.com/cornell/ilr)
 
 ## [Public Policy](https://dantasfiles.com/cornell/pubpol)
+
+## [Law](https://dantasfiles.com/cornell/law)
