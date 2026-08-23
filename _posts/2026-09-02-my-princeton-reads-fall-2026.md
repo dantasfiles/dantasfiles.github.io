@@ -168,11 +168,13 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 - *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
 
 ## Comparative Literature Reading Selection List
+
 The Comparative Literature department publishes a **[Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**
+
+✔️ I've read the following from that list:
 
 ### Fiction (including novels & short story collections)
 
-I've read the following from the list:
 - Chinua Achebe: *Things Fall Apart*
 - Jane Austen: *Sense & Sensibility*
 - Umberto Eco: *The Name of the Rose*
@@ -187,15 +189,12 @@ I've read the following from the list:
 
 ### Drama
 
-I've seen or read the following from the list:
 - William Shakespeare:
   - Comedies: *A Midsummer Night's Dream* / *Much Ado About Nothing* / *The Tempest* / *The Winter's Tale*
   - Tragedies: *Coriolanus*
   - Histories:  *Henry V* / *Henry VIII* 
 
 ### Nonfiction (essays, criticism, memoirs, travelogues & so on)
-
-I've read the following from the list:
 
 - Frantz Fanon: *The Wretched of the Earth*
 - *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
