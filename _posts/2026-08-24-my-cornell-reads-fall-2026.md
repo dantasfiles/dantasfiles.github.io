@@ -85,4 +85,11 @@ I've read the following:
 - *[How to Learn Rust in 2026: A Complete Beginner's Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
 - *[Always Measure 1 Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
+**[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
+- *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
+- *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
+- *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
+
+**[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
+- *Practical Foundations for Programming Languages* by Robert Harper
 
