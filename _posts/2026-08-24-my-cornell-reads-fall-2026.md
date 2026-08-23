@@ -13,5 +13,5 @@ I've read the following books and papers:
 - *Hiroshima* by John Hersey
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
-**Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695/6695`
+**Queer Archives & Archiving Queerness** `PMA / AMST / FGSS / LGBT / SHUM 4695/6695`
 - *Fun Home: A Family Tragicomic* by Alison Bechdel
