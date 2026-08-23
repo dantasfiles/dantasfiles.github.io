@@ -81,6 +81,8 @@ I've read the following:
 **[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
 - *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
 
-
+**[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414/5416`
+- *[How to Learn Rust in 2026: A Complete Beginner's Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
+- *[Always Measure 1 Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
 
