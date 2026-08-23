@@ -102,8 +102,8 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Software Testing](https://www.cs.cornell.edu/courses/cs5154/2026fa/)** `CS 5154`
 
-**[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
-- *[Teaching Rigorous Distributed Systems With Efficient Model Checking](https://dl.acm.org/doi/10.1145/3302424.3303947)* by Michael et al.
+**[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`<br>See website for full paper list -- I'm only going to list those I've read here
+<!-- - *[Teaching Rigorous Distributed Systems With Efficient Model Checking](https://dl.acm.org/doi/10.1145/3302424.3303947)* by Michael et al.
 - *[Knowledge & Common Knowledge in a Distributed Environment](https://dl.acm.org/doi/10.1145/79147.79161)* by Halpern & Moses
 - *[Distributed Snapshots: Determining Global States of Distributed Systems](https://dl.acm.org/doi/10.1145/214451.214456)* by Chandy & Lamport
 - *[Chain Replication for Supporting High Throughput & Availability](https://www.usenix.org/conference/osdi-04/chain-replication-supporting-high-throughput-and-availability)* by van Renesse & Schneider
@@ -114,6 +114,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[A Survey of Rollback-Recovery Protocols in Message-Passing Systems](https://dl.acm.org/doi/10.1145/568522.568525)* by Elnozahy et al.
 - *[Respec: Efficient Online Multiprocessor Replay via Speculation & External Determinism](https://dl.acm.org/doi/10.1145/1735971.1736031)* by Lee et al.
 - *[DoublePlay: Parallelizing Sequential Logging & Replay](https://dl.acm.org/doi/epdf/10.1145/2110356.2110359)* by Veeraraghavan et al.
+- *Impossibility of Distributed Consensus with One Faulty Process* by Fischer et al. -->
 
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
 - ✔️ *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
@@ -147,7 +148,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 **[Computer Science](https://www.cs.cornell.edu/events/computer-science-colloquium)** `CS 7090`
 
 **[Programming Languages](https://pl.cs.cornell.edu/pldg/2026fa/)** `CS 7190`
-- *[Coalgebraic Path Constraints](https://arxiv.org/abs/2603.12204)* by Todd Schmid
+<!-- - *[Coalgebraic Path Constraints](https://arxiv.org/abs/2603.12204)* by Todd Schmid -->
 
 **[Scientific Computing & Numerics](https://cornell-scan.github.io/index.html)** `CS 7290`
 
@@ -160,7 +161,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 **[Robotics](https://www.cs.cornell.edu/events/robotics-seminar)** `CS 7796`
 
 **[Theory of Algorithms & Computing](https://www.cs.cornell.edu/events/theory-seminar)** `CS 7890`
-- *[Online Orthogonal Vectors Revisited](https://arxiv.org/abs/2605.04798)* by Gajulapalli et al.
+<!-- - *[Online Orthogonal Vectors Revisited](https://arxiv.org/abs/2605.04798)* by Gajulapalli et al. -->
 
 
 
