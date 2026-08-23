@@ -43,6 +43,9 @@ I've read the following:
 **The Modern Period** `COM 318 / ECS 319 / LAS 308`
 - *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 
+**Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** `COM 351`
+- *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
 **American Literature: 1930-Present** `ENG 368 / AMS 340`
 - *The Road* by Cormac McCarthy
 - *Maus: A Survivor's Tale* by Art Spiegelman
@@ -84,3 +87,16 @@ I've read the following:
 
 **Technical Leadership in Engineering** `CBE/EGR 531`
 - *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
+
+**Algorithms & Data Structures** `COS 226`
+- *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
+
+**[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
+- *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
+
+**[Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/fall26/cos333/)** `COS 333`
+- *The Practice of Programming* by Kernighan & Pike
+
+**Computer Architecture & Organization** `COS/ECE 375`
+- *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
+
