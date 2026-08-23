@@ -156,4 +156,9 @@ I've read the following:
 **The Just Society** `POL/CHV 307`
 - *The Communist Manifesto* by Marx & Engels
 
+**Causes of War** `POL/SPI 388`
+- *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
+
+**The Comparative Political Economy of Development** `SPI 561 / POL 523`
+- *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
 
