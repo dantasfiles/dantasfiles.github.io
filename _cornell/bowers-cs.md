@@ -143,6 +143,8 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
   - *[Notions of Computation & Monads](https://www.sciencedirect.com/science/article/pii/0890540191900524)* by Eugenio Moggi
   - *[What is Algebraic about Algebraic Effects & Handlers?](https://arxiv.org/abs/1807.05923)* by Andrej Bauer
 
+**[Software Engineering in the Era of Machine Learning](https://www.cs.cornell.edu/courses/cs6158/2026fa/)** `CS 6158`
+
 ## Seminars
 
 **[Computer Science](https://www.cs.cornell.edu/events/computer-science-colloquium)** `CS 7090`
