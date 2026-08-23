@@ -76,6 +76,10 @@ I've read the following:
 - *Maus: A Survivor's Tale* by Art Spiegelman
 - *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
 
+**Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
+- *The Consolation of Philosophy* by Boethius
+- *Apology* by Plato
+
 **East Asian Humanities I: The Classical Foundations** `HUM/EAS/COM 233`
 - *Analects* by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
 
@@ -99,9 +103,24 @@ I've read the following:
 **Violence** `ANT/HUM 264`
 - *The Wretched of the Earth* by Frantz Fanon
 
+**Landmarks of European Identity** `EPS/ECS 302`
+- *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
+
+**The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
+- *Byzantium: A Very Short Intro.* by Peter Sarris
+
+**Europe from Antiquity to 1700** `HIS/MED 211`
+- *The Prince* by Niccolò Machiavelli ([my highlights](https://www.goodreads.com/notes/9571349-the-prince/185327722-daniel-dantas))
+
+**American Origins: The Colonization of North America** `HIS 371`
+- *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
+
 **World After Empire** `HIS 411 / AAS 416`
 - *The Wretched of the Earth* by Frantz Fanon
 - *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+
+**The Age of Democratic Revolutions** `HIS 487`
+- *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
 
 **The Just Society** `POL/CHV 307`
 - *The Communist Manifesto* by Marx & Engels
