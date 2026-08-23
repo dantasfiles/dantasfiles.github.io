@@ -22,6 +22,31 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 </div>
 
+## General
+
+**Exploring the Graphic Novel** `FRS 111`
+- *Maus: A Survivor's Tale* by Art Spiegelman
+- *Fun Home: A Family Tragicomic* by Alison Bechdel
+- *American Born Chinese* by Gene Luen Yang
+- *Watchmen* by Moore & Gibbons
+
+**What Makes for a Meaningful Life? A Search** `FRS 121`
+- *Winnie-the-Pooh* by A.A. Milne
+- *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas?ref=rsp))
+
+**History of Freedom** `FRS 137`
+- *Letter from Birmingham Jail* by Martin Luther King Jr.
+
+**Marx in the 21st Century** `FRS 167`
+- *The Communist Manifesto* by Marx & Engels
+
+**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
+- *The Time Machine* by H.G. Wells
+- *Brave New World* by Aldous Huxley
+- *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas))
+- *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas))
+- *Do Androids Dream of Electric Sheep?* by Philip K. Dick 
+
 ## Humanities & the Arts
 
 I've read the following:
