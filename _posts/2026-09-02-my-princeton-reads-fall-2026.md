@@ -111,6 +111,9 @@ I've read the following:
 **Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
 - *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
+**Dostoevsky** `SLA/RES 416`
+- *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
 ## Social Sciences
 
 I've read the following:
