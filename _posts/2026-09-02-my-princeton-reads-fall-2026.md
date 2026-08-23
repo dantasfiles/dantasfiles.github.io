@@ -31,7 +31,7 @@ I've read the following:
 - *Journey to the Center of the Earth* by Jules Verne
 - *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
 
-**Classical Mythology** `CLA / HUM / GSS / HLS 212`
+**Classical Mythology** `CLA/HUM/GSS/HLS 212`
 - *Jason & the Golden Fleece* by Apollonius of Rhodes
 
 **The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
@@ -45,7 +45,7 @@ I've read the following:
 - *Maus: A Survivor's Tale* by Art Spiegelman
 - *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
 
-**East Asian Humanities I: The Classical Foundations** `HUM / EAS / COM 233`
+**East Asian Humanities I: The Classical Foundations** `HUM/EAS/COM 233`
 - *Analects* by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
 
 **Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
@@ -65,19 +65,19 @@ I've read the following:
 **Art, Apartheid & South Africa** `AAS 411 / ART 471 / AFS 411`
 - *Disgrace* by J. M. Coetzee
 
-**Violence** `ANT 264 / HUM 264`
+**Violence** `ANT/HUM 264`
 - *The Wretched of the Earth* by Frantz Fanon
 
 **World After Empire** `HIS 411 / AAS 416`
 - *The Wretched of the Earth* by Frantz Fanon
 - *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 
-**The Just Society** `POL / CHV 307`
+**The Just Society** `POL/CHV 307`
 - *The Communist Manifesto* by Marx & Engels
 
 ## Engineering
 
 I've read the following:
 
-**Technical Leadership in Engineering** `CBE / EGR 531`
+**Technical Leadership in Engineering** `CBE/EGR 531`
 - *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
