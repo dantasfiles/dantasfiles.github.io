@@ -11,6 +11,10 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 **[Computing & Information Science →](#computing--information-science)**
 
+**[Engineering →](#engineering)**
+
+**[Law →](https://dantasfiles.com/cornell/law)**
+
 </div>
 
 ## Arts & Sciences
@@ -93,3 +97,22 @@ I've read the following:
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - *Practical Foundations for Programming Languages* by Robert Harper
 
+## Engineering
+
+I've read the following:
+
+**[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002/6950`
+- *[The Perceptron & All the Things It Can't Perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
+- *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* by Dally et al.
+- *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
+- *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
+- *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
+
+## Law
+
+I've read the following:
+
+**[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688`
+- *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
+- *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
+- *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
