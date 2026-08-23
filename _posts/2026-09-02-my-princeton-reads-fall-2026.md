@@ -173,7 +173,7 @@ The Comparative Literature department publishes a **[Reading Selection List](htt
 
 ✔️ I've read the following from that list:
 
-### Fiction (including novels & short story collections)
+**Fiction**
 
 - Chinua Achebe: *Things Fall Apart*
 - Jane Austen: *Sense & Sensibility*
@@ -187,26 +187,20 @@ The Comparative Literature department publishes a **[Reading Selection List](htt
 - Mary Shelley: *Frankenstein*
 - Mark Twain: *The Adventures of Tom Sawyer* / *The Adventures of Huckleberry Finn*
 
-### Drama
-
+**Drama**
 - William Shakespeare:
   - Comedies: *A Midsummer Night's Dream* / *Much Ado About Nothing* / *The Tempest* / *The Winter's Tale*
   - Tragedies: *Coriolanus*
   - Histories:  *Henry V* / *Henry VIII* 
 
-### Nonfiction (essays, criticism, memoirs, travelogues & so on)
-
+**Nonfiction**
 - Frantz Fanon: *The Wretched of the Earth*
 - *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
 - Nelson Mandela: *Long Walk to Freedom*
 - Karl Marx: *The Communist Manifesto*
 - Virginia Woolf: *A Room of One's Own* ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 
-### Film & other visual media
-
-I've compiled a [Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/) of the films in this section
-
-I've seen the following from the list:
+**Film** ([my Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/))
 - Michelangelo Antonioni: *L'Avventura*
 - Ingmar Bergman: *The Virgin Spring* / *Winter Light*
 - Charlie Chaplin: *Gold Rush* / *Modern Times* / *The Kid* / *City Lights*
