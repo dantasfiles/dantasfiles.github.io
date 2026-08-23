@@ -118,6 +118,6 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 - *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
 - *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
 - *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
-- *Encryption Source Code and the First Amendment* by Robert Post
+- *Encryption Source Code & the 1st Amendment* by Robert Post
 - *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen
-- *[The Law of AI is the Law of Risky Agents Without Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
+- *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
