@@ -34,6 +34,9 @@ I've read the following:
 **Classical Mythology** `CLA / HUM / GSS / HLS 212`
 - *Jason & the Golden Fleece* by Apollonius of Rhodes
 
+**The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
+- *The Trojan War: A Very Short Intro.* by Eric H. Cline
+
 **Socrates** `CLG 105`
 - *Apology* by Plato
 
