@@ -31,6 +31,12 @@ I've read the following:
 - *Journey to the Center of the Earth* by Jules Verne
 - *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
 
+**Classical Mythology** `CLA / HUM / GSS / HLS 212`
+- *Jason & the Golden Fleece* by Apollonius of Rhodes
+
+**Socrates** `CLG 105`
+- *Apology* by Plato
+
 **American Literature: 1930-Present** `ENG 368 / AMS 340`
 - *The Road* by Cormac McCarthy
 - *Maus: A Survivor's Tale* by Art Spiegelman
@@ -56,6 +62,9 @@ I've read the following:
 **World After Empire** `HIS 411 / AAS 416`
 - *The Wretched of the Earth* by Frantz Fanon
 - *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+
+**The Just Society** `POL / CHV 307`
+- *The Communist Manifesto)* by Marx & Engels
 
 ## Engineering
 
