@@ -22,6 +22,15 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 </div>
 
+## Humanities & the Arts
+
+I've read the following:
+
+**American Literature: 1930-Present** `ENG 368 / AMS 340`
+- *The Road* by Cormac McCarthy
+- *Maus: A Survivor's Tale* by Art Spiegelman
+- *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+
 ## Social Sciences
 
 I've read the following:
@@ -30,5 +39,14 @@ I've read the following:
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 - *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
 
-**The Souls of Black Folk - Reading W.E.B. Du Bois** `AAS 231 / ENG 245 / URB 231`
+**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS 231 / ENG 245 / URB 231`
 - *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+
+**Art, Apartheid & South Africa** `AAS 411 / ART 471 / AFS 411`
+- *Disgrace* by J. M. Coetzee
+
+**World After Empire** `HIS 411 / AAS 416`
+- *The Wretched of the Earth* by Frantz Fanon
+- *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+
+
