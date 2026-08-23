@@ -27,8 +27,8 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 - *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
-- *The Hobbit, or There & Back Again* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
-- *Frankenstein; or, The Modern Prometheus* by Mary Shelley
+- *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
+- *Frankenstein* by Mary Shelley
 
 **Writing the Environment: Enchanting Nature** `ENGL 1130-101`
 - *A Midsummer Night's Dream* by William Shakespeare
@@ -53,7 +53,7 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 - *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750`
-- *Frankenstein; or, The Modern Prometheus* by Mary Shelley
+- *Frankenstein* by Mary Shelley
 - *The Adventures of Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas))
 
 **Language, Thought & Reality: Words & Pictures** `LING 1100-001`
