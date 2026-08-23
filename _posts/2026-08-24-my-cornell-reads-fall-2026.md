@@ -15,6 +15,7 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 </div>
 
 ## Arts & Sciences
+
 I've read the following:
 
 ### Classics
@@ -72,6 +73,8 @@ I've read the following:
 
 ## Computing & Information Science
 
+I've read the following:
+
 ### Computer Science
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
@@ -82,5 +85,8 @@ I've read the following:
 **[Short Course in Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
 - *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
 
+**[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS / ENGRD 2110`
+- [*Object-Oriented Design & Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
+- [*Principled Programming: Intro. to Coding in Any Imperative Language*](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
 
 
