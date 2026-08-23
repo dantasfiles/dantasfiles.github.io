@@ -1,5 +1,6 @@
 ---
 title: 🐻 My Cornell reads, fall 2026
+description: I use this page to track books and papers I've read that are used in Fall 2026 Cornell classes
 author: Daniel Dantas
 ---
 
