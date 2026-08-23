@@ -119,6 +119,9 @@ I've read the following:
 **The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS 231 / ENG 245 / URB 231`
 - *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 
+**Toni Morrison & Her Circle** `AAS/ENG 320`
+- *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+
 **Art, Apartheid & South Africa** `AAS 411 / ART 471 / AFS 411`
 - *Disgrace* by J. M. Coetzee
 
