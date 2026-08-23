@@ -14,13 +14,13 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 **[Engineering →](#engineering)**
 
-**[Law →](https://dantasfiles.com/cornell/law)**
+**[Law →](#law)**
 
 </div>
 
 ## Arts & Sciences
 
-I've read the following:
+✔️ I've read the following:
 
 **Classics & Comics** `CLASS 1812`
 - *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas))
@@ -64,7 +64,7 @@ I've read the following:
 
 ## Computing & Information Science
 
-I've read the following:
+✔️ I've read the following:
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - *[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
@@ -100,7 +100,7 @@ I've read the following:
 
 ## Engineering
 
-I've read the following:
+✔️ I've read the following:
 
 **[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002/6950`
 - *[The Perceptron & All the Things It Can't Perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
@@ -111,7 +111,7 @@ I've read the following:
 
 ## Law
 
-I've read the following:
+✔️ I've read the following:
 
 **[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688`
 - *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
