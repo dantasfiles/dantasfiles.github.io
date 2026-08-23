@@ -6,7 +6,16 @@ hidden: true
 
 I use this page to track books and papers I've read that are used in Fall 2026 Cornell classes<br>I compiled this from publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
 
+<div style="column-count: 2;" markdown="1">
+
+**[Arts & Sciences →](#arts--sciences)**
+
+**[Computing & Information Science →](#computing--information-science)**
+
+</div>
+
 ## Arts & Sciences
+I've read the following:
 
 ### Classics
 **Classics & Comics** `CLASS 1812`
@@ -51,7 +60,7 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 - *Frankenstein; or, The Modern Prometheus* by Mary Shelley
 - *The Adventures of Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas))
 
-## Linguistics
+### Linguistics
 
 **Language, Thought & Reality: Words & Pictures** `LING 1100-001`
 - *Maus: A Survivor's Tale* by Art Spiegelman
@@ -60,3 +69,18 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 **Queer Archives & Archiving Queerness** `PMA / AMST / FGSS / LGBT / SHUM 4695/6695`
 - *Fun Home: A Family Tragicomic* by Alison Bechdel
+
+## Computing & Information Science
+
+### Computer Science
+
+**[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
+- *[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
+- *[How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)*
+- *[PEP 257: Docstring Conventions](https://peps.python.org/pep-0257/)* by Goodger & van Rossum
+
+**[Short Course in Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
+- *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
+
+
+
