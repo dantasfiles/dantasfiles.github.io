@@ -57,4 +57,9 @@ I've read the following:
 - *The Wretched of the Earth* by Frantz Fanon
 - *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 
+## Engineering
 
+I've read the following:
+
+**Technical Leadership in Engineering** `CBE / EGR 531`
+- *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
