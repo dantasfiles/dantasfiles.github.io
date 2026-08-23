@@ -40,6 +40,9 @@ I've read the following:
 **Socrates** `CLG 105`
 - *Apology* by Plato
 
+**The Modern Period** `COM 318 / ECS 319 / LAS 308`
+- *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+
 **American Literature: 1930-Present** `ENG 368 / AMS 340`
 - *The Road* by Cormac McCarthy
 - *Maus: A Survivor's Tale* by Art Spiegelman
