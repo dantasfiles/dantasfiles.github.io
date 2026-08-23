@@ -109,6 +109,11 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[Chain Replication for Supporting High Throughput & Availability](https://www.usenix.org/conference/osdi-04/chain-replication-supporting-high-throughput-and-availability)* by van Renesse & Schneider
 - *[Hypervisor-based Fault Tolerance](https://dl.acm.org/doi/10.1145/225535.225538)* by Bressoud & Schneider
 - *[Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial](https://dl.acm.org/doi/10.1145/98163.98167)* by Fred B. Schneider
+- *[Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/)* by Leslie Lamport
+- *[The Part-Time Parliament](https://dl.acm.org/doi/abs/10.1145/279227.279229)* by Leslie Lamport
+- *[A Survey of Rollback-Recovery Protocols in Message-Passing Systems](https://dl.acm.org/doi/10.1145/568522.568525)* by Elnozahy et al.
+- *[Respec: Efficient Online Multiprocessor Replay via Speculation & External Determinism](https://dl.acm.org/doi/10.1145/1735971.1736031)* by Lee et al.
+- *[DoublePlay: Parallelizing Sequential Logging & Replay](https://dl.acm.org/doi/epdf/10.1145/2110356.2110359)* by Veeraraghavan et al.
 
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
 - ✔️ *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
