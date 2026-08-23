@@ -100,6 +100,8 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 ## Master's level
 
+**[Software Testing](https://www.cs.cornell.edu/courses/cs5154/2026fa/)** `CS 5154`
+
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
 - ✔️ *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
 - ✔️ *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
