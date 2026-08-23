@@ -108,6 +108,9 @@ I've read the following:
 **Introduction to Theater Making** `MTD/THR 101`
 - *Waiting for Godot: A Tragicomedy in Two Acts* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
 
+**Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
+- *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
 ## Social Sciences
 
 I've read the following:
