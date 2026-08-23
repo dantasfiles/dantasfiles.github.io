@@ -28,7 +28,7 @@ title: 🐻 Cornell Law unofficial reading list, fall 2026
 - *[Information Property](https://james.grimmelmann.net/information-property)* by James Grimmelmann
 - *Understanding Intellectual Property Law* by Ochoa et al.
 
-**[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688`<br>There is an exhaustive list of papers and articles at the link -- I'm only going to list those I've read here
+**[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688`<br>See website for full paper list -- I'm only going to list those I've read
 - The Law of the Horse
   - ✔️ *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
 - Software patents
