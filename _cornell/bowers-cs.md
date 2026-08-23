@@ -102,6 +102,14 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Software Testing](https://www.cs.cornell.edu/courses/cs5154/2026fa/)** `CS 5154`
 
+**[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
+- *[Teaching Rigorous Distributed Systems With Efficient Model Checking](https://dl.acm.org/doi/10.1145/3302424.3303947)* by Michael et al.
+- *[Knowledge & Common Knowledge in a Distributed Environment](https://dl.acm.org/doi/10.1145/79147.79161)* by Halpern & Moses
+- *[Distributed Snapshots: Determining Global States of Distributed Systems](https://dl.acm.org/doi/10.1145/214451.214456)* by Chandy & Lamport
+- *[Chain Replication for Supporting High Throughput & Availability](https://www.usenix.org/conference/osdi-04/chain-replication-supporting-high-throughput-and-availability)* by van Renesse & Schneider
+- *[Hypervisor-based Fault Tolerance](https://dl.acm.org/doi/10.1145/225535.225538)* by Bressoud & Schneider
+- *[Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial](https://dl.acm.org/doi/10.1145/98163.98167)* by Fred B. Schneider
+
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
 - ✔️ *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
 - ✔️ *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
