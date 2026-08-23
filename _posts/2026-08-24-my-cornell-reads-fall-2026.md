@@ -22,11 +22,25 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 **Writing the Environment: Enchanting Nature** `ENGL 1130-101`
 - *A Midsummer Night's Dream* by William Shakespeare
 
+**True Stories** `ENGL 1134`
+- *They Called Us Enemy* by George Takei
+
+**American Voices: Lost in the City: The Great Migration & Imagining the Urban Space through Black Art** `ENGL 1158-102`
+- *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+**Short Stories** `ENGL 1170-105`
+- *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+ 
 ### History
 
 **U.S. History through Literature** `HIST / AMST 1770`
 - *Hiroshima* by John Hersey
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+### Italian
+
+**Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century** `ITAL 1113`
+- *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
 ### Performing & Media Arts
 
