@@ -10,4 +10,4 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 **U.S. History through Literature** `HIST / AMST 1770`
 - *Hiroshima* by John Hersey
-- *The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
