@@ -45,6 +45,9 @@ I've read the following:
 - *Maus: A Survivor's Tale* by Art Spiegelman
 - *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
 
+**East Asian Humanities I: The Classical Foundations** `HUM / EAS / COM 233`
+- *Analects* by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
+
 **Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
