@@ -102,7 +102,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 
 **[Software Testing](https://www.cs.cornell.edu/courses/cs5154/2026fa/)** `CS 5154`
 
-**[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`<br>See website for full paper list -- I'm only going to list those I've read here
+**[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
 <!-- - *[Teaching Rigorous Distributed Systems With Efficient Model Checking](https://dl.acm.org/doi/10.1145/3302424.3303947)* by Michael et al.
 - *[Knowledge & Common Knowledge in a Distributed Environment](https://dl.acm.org/doi/10.1145/79147.79161)* by Halpern & Moses
 - *[Distributed Snapshots: Determining Global States of Distributed Systems](https://dl.acm.org/doi/10.1145/214451.214456)* by Chandy & Lamport
