@@ -30,7 +30,12 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 **Short Stories** `ENGL 1170-105`
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
- 
+
+### Government
+
+**Making Sense of World Politics** `GOVT 1817`
+- *The Cold War: A Very Short Intro.* by Robert J. McMahon
+
 ### History
 
 **U.S. History through Literature** `HIST / AMST 1770`
@@ -41,6 +46,10 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 **Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century** `ITAL 1113`
 - *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
+
+**Pinocchio: Adventures in Literature & Film** `ITAL 3750`
+- *Frankenstein; or, The Modern Prometheus* by Mary Shelley
+- *The Adventures of Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas))
 
 ## Linguistics
 
