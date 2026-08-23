@@ -42,6 +42,11 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 **Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century** `ITAL 1113`
 - *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
+## Linguistics
+
+**Language, Thought & Reality: Words & Pictures** `LING 1100-001`
+- *Maus: A Survivor's Tale* by Art Spiegelman
+
 ### Performing & Media Arts
 
 **Queer Archives & Archiving Queerness** `PMA / AMST / FGSS / LGBT / SHUM 4695/6695`
