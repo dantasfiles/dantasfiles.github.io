@@ -18,11 +18,11 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 **[Social Sciences →](#social-sciences)**
 
-
-
 </div>
 
 ## General
+
+✔️ I've read the following:
 
 **Exploring the Graphic Novel** `FRS 111`
 - *Maus: A Survivor's Tale* by Art Spiegelman
@@ -49,7 +49,7 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 ## Engineering
 
-I've read the following:
+✔️ I've read the following:
 
 **Technical Leadership in Engineering** `CBE/EGR 531`
 - *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
@@ -68,7 +68,7 @@ I've read the following:
 
 ## Humanities & the Arts
 
-I've read the following:
+✔️ I've read the following:
 
 **Modern Art: Science & Its Fictions in the Long 19th Century** `ART/HUM 577`
 - *Frankenstein; or, The Modern Prometheus* by Mary Shelley
@@ -119,7 +119,7 @@ I've read the following:
 
 ## Social Sciences
 
-I've read the following:
+✔️ I've read the following:
 
 **African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
