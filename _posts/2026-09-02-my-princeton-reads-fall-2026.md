@@ -45,6 +45,9 @@ I've read the following:
 - *Maus: A Survivor's Tale* by Art Spiegelman
 - *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
 
+**Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
+- *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
 ## Social Sciences
 
 I've read the following:
@@ -67,7 +70,7 @@ I've read the following:
 - *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 
 **The Just Society** `POL / CHV 307`
-- *The Communist Manifesto)* by Marx & Engels
+- *The Communist Manifesto* by Marx & Engels
 
 ## Engineering
 
