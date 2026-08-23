@@ -89,4 +89,12 @@ I've read the following:
 - [*Object-Oriented Design & Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
 - [*Principled Programming: Intro. to Coding in Any Imperative Language*](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
 
+**[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
+- [*Object-Oriented Design & Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
+- *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma et al.
+- *Effective Java: Best Practices for the Java Platform* by Joshua Bloch
+
+
+
+
 
