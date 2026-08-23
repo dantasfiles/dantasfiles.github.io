@@ -26,6 +26,11 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 I've read the following:
 
+**Modern Art: Science & Its Fictions in the Long 19th Century** `ART / HUM 577`
+- *Frankenstein; or, The Modern Prometheus* by Mary Shelley
+- *Journey to the Center of the Earth* by Jules Verne
+- *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
+
 **American Literature: 1930-Present** `ENG 368 / AMS 340`
 - *The Road* by Cormac McCarthy
 - *Maus: A Survivor's Tale* by Art Spiegelman
@@ -44,6 +49,9 @@ I've read the following:
 
 **Art, Apartheid & South Africa** `AAS 411 / ART 471 / AFS 411`
 - *Disgrace* by J. M. Coetzee
+
+**Violence** `ANT 264 / HUM 264`
+- *The Wretched of the Earth* by Frantz Fanon
 
 **World After Empire** `HIS 411 / AAS 416`
 - *The Wretched of the Earth* by Frantz Fanon
