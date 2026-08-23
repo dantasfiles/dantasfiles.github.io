@@ -64,7 +64,7 @@ I've read the following:
 - *The Practice of Programming* by Kernighan & Pike
 
 **Computer Architecture & Organization** `COS/ECE 375`
-- *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights]
+- *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
 
 ## Humanities & the Arts
 
@@ -147,6 +147,4 @@ I've read the following:
 **The Just Society** `POL/CHV 307`
 - *The Communist Manifesto* by Marx & Engels
 
-
-(https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
 
