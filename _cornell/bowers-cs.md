@@ -116,7 +116,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 - *[DoublePlay: Parallelizing Sequential Logging & Replay](https://dl.acm.org/doi/epdf/10.1145/2110356.2110359)* by Veeraraghavan et al.
 - *Impossibility of Distributed Consensus with One Faulty Process* by Fischer et al. -->
 
-**[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
+**[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`<br>See website for full paper list -- I only list those I've read
 - ✔️ *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
 - ✔️ *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
 - ✔️ *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
