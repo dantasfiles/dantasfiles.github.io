@@ -97,6 +97,9 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 - *Maus: A Survivor's Tale* by Art Spiegelman
 - *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
 
+**Junior Independent Work Seminar** `ENG 397`
+- *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
 - *The Consolation of Philosophy* by Boethius
 - *Apology* by Plato
