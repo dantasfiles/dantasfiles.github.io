@@ -73,7 +73,7 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 ✔️ I've read the following:
 
 **Modern Art: Science & Its Fictions in the Long 19th Century** `ART/HUM 577`
-- *Frankenstein; or, The Modern Prometheus* by Mary Shelley
+- *Frankenstein* by Mary Shelley
 - *Journey to the Center of the Earth* by Jules Verne
 - *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
 
@@ -185,7 +185,7 @@ The Comparative Literature department publishes a **[Reading Selection List](htt
 - Toni Morrison: *Beloved*
 - Vladimir Nabokov: *Pale Fire*
 - Mary Shelley: *Frankenstein*
-- Mark Twain: *The Adventures of Tom Sawyer* / *The Adventures of Huckleberry Finn*
+- Mark Twain: *Tom Sawyer* / *Huck Finn*
 
 **Drama**
 - William Shakespeare:
