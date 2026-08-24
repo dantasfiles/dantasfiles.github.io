@@ -120,4 +120,5 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 - *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
 - *Encryption Source Code & the 1st Amendment* by Robert Post
 - *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen
+- *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann
 - *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
