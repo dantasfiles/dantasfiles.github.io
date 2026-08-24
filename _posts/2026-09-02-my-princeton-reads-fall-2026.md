@@ -18,6 +18,8 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 </div>
 
+---
+
 ## Engineering
 
 ✔️ I've read the following:
@@ -36,6 +38,8 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 **Computer Architecture & Organization** `COS/ECE 375`
 - *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
+
+---
 
 ## Social Sciences
 
@@ -84,6 +88,8 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 **The Comparative Political Economy of Development** `SPI 561 / POL 523`
 - *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
+
+---
 
 ## Humanities & the Arts
 
