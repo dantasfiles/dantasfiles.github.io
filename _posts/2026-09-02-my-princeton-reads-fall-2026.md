@@ -24,8 +24,12 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 ✔️ I've read the following:
 
+### Chemical & Biological Engineering
+
 **Technical Leadership in Engineering** `CBE/EGR 531`
 - *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
+
+### Computer Science
 
 **Algorithms & Data Structures** `COS 226`
 - *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
