@@ -178,7 +178,7 @@ The Comparative Literature department publishes a **[Reading Selection List](htt
 - Chinua Achebe: *Things Fall Apart*
 - Jane Austen: *Sense & Sensibility*
 - Umberto Eco: *The Name of the Rose*
-- F. Scott Fitzgerald: *The Great Gatsby* / *The Beautiful & the Damned*
+- F. Scott Fitzgerald: *The Great Gatsby* ([my highlights](https://www.goodreads.com/notes/73662330-the-great-gatsby-mint-editions/185327722-daniel-dantas)) / *The Beautiful & the Damned*
 - Kazuo Ishiguro: *Klara & the Sun*
 - Henry James: *The Outcry*
 - Min Jin Lee: *Pachinko*
