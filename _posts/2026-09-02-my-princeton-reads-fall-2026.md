@@ -10,44 +10,13 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 <div style="column-count: 2;" markdown="1">
 
-**[General →](#general)**
-
 **[Engineering →](#engineering)**
 
 **[Social Sciences →](#social-sciences)**
 
 **[Humanities & the Arts →](#humanities--the-arts)**
 
-**[Comparative Literature Reading Selection List →](#comparative-literature-reading-selection-list)**
-
 </div>
-
-## General
-
-✔️ I've read the following:
-
-**Exploring the Graphic Novel** `FRS 111`
-- *Maus: A Survivor's Tale* by Art Spiegelman
-- *Fun Home: A Family Tragicomic* by Alison Bechdel
-- *American Born Chinese* by Gene Luen Yang
-- *Watchmen* by Moore & Gibbons
-
-**What Makes for a Meaningful Life? A Search** `FRS 121`
-- *Winnie-the-Pooh* by A.A. Milne
-- *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas?ref=rsp))
-
-**History of Freedom** `FRS 137`
-- *Letter from Birmingham Jail* by Martin Luther King Jr.
-
-**Marx in the 21st Century** `FRS 167`
-- *The Communist Manifesto* by Marx & Engels
-
-**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
-- *The Time Machine* by H.G. Wells
-- *Brave New World* by Aldous Huxley
-- *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas))
-- *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas))
-- *Do Androids Dream of Electric Sheep?* by Philip K. Dick 
 
 ## Engineering
 
@@ -148,6 +117,29 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 **Junior Independent Work Seminar** `ENG 397`
 - *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 
+**Exploring the Graphic Novel** `FRS 111`
+- *Maus: A Survivor's Tale* by Art Spiegelman
+- *Fun Home: A Family Tragicomic* by Alison Bechdel
+- *American Born Chinese* by Gene Luen Yang
+- *Watchmen* by Moore & Gibbons
+
+**What Makes for a Meaningful Life? A Search** `FRS 121`
+- *Winnie-the-Pooh* by A.A. Milne
+- *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas?ref=rsp))
+
+**History of Freedom** `FRS 137`
+- *Letter from Birmingham Jail* by Martin Luther King Jr.
+
+**Marx in the 21st Century** `FRS 167`
+- *The Communist Manifesto* by Marx & Engels
+
+**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
+- *The Time Machine* by H.G. Wells
+- *Brave New World* by Aldous Huxley
+- *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas))
+- *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas))
+- *Do Androids Dream of Electric Sheep?* by Philip K. Dick 
+
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
 - *The Consolation of Philosophy* by Boethius
 - *Apology* by Plato
@@ -170,7 +162,7 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 **Dostoevsky** `SLA/RES 416`
 - *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
-## Comparative Literature Reading Selection List
+### Comparative Literature Reading Selection List
 
 The Comparative Literature department publishes a **[Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**
 
