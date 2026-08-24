@@ -14,9 +14,9 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 **[Engineering →](#engineering)**
 
-**[Humanities & the Arts →](#humanities--the-arts)**
-
 **[Social Sciences →](#social-sciences)**
+
+**[Humanities & the Arts →](#humanities--the-arts)**
 
 **[Comparative Literature Reading Selection List →](#comparative-literature-reading-selection-list)**
 
@@ -67,6 +67,54 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 **Computer Architecture & Organization** `COS/ECE 375`
 - *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
+
+## Social Sciences
+
+✔️ I've read the following:
+
+**African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
+- *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+
+**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS 231 / ENG 245 / URB 231`
+- *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+
+**Toni Morrison & Her Circle** `AAS/ENG 320`
+- *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+
+**Art, Apartheid & South Africa** `AAS 411 / ART 471 / AFS 411`
+- *Disgrace* by J. M. Coetzee
+
+**Violence** `ANT/HUM 264`
+- *The Wretched of the Earth* by Frantz Fanon
+
+**Landmarks of European Identity** `EPS/ECS 302`
+- *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
+
+**The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
+- *Byzantium: A Very Short Intro.* by Peter Sarris
+
+**Europe from Antiquity to 1700** `HIS/MED 211`
+- *The Prince* by Niccolò Machiavelli ([my highlights](https://www.goodreads.com/notes/9571349-the-prince/185327722-daniel-dantas))
+
+**American Origins: The Colonization of North America** `HIS 371`
+- *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
+
+**World After Empire** `HIS 411 / AAS 416`
+- *The Wretched of the Earth* by Frantz Fanon
+- *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+
+**The Age of Democratic Revolutions** `HIS 487`
+- *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
+
+**The Just Society** `POL/CHV 307`
+- *The Communist Manifesto* by Marx & Engels
+
+**Causes of War** `POL/SPI 388`
+- *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
+
+**The Comparative Political Economy of Development** `SPI 561 / POL 523`
+- *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
 
 ## Humanities & the Arts
 
@@ -121,54 +169,6 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 **Dostoevsky** `SLA/RES 416`
 - *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
-
-## Social Sciences
-
-✔️ I've read the following:
-
-**African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
-- *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
-- *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
-
-**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS 231 / ENG 245 / URB 231`
-- *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
-
-**Toni Morrison & Her Circle** `AAS/ENG 320`
-- *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
-
-**Art, Apartheid & South Africa** `AAS 411 / ART 471 / AFS 411`
-- *Disgrace* by J. M. Coetzee
-
-**Violence** `ANT/HUM 264`
-- *The Wretched of the Earth* by Frantz Fanon
-
-**Landmarks of European Identity** `EPS/ECS 302`
-- *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
-
-**The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
-- *Byzantium: A Very Short Intro.* by Peter Sarris
-
-**Europe from Antiquity to 1700** `HIS/MED 211`
-- *The Prince* by Niccolò Machiavelli ([my highlights](https://www.goodreads.com/notes/9571349-the-prince/185327722-daniel-dantas))
-
-**American Origins: The Colonization of North America** `HIS 371`
-- *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
-
-**World After Empire** `HIS 411 / AAS 416`
-- *The Wretched of the Earth* by Frantz Fanon
-- *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
-
-**The Age of Democratic Revolutions** `HIS 487`
-- *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
-
-**The Just Society** `POL/CHV 307`
-- *The Communist Manifesto* by Marx & Engels
-
-**Causes of War** `POL/SPI 388`
-- *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
-
-**The Comparative Political Economy of Development** `SPI 561 / POL 523`
-- *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
 
 ## Comparative Literature Reading Selection List
 
