@@ -152,6 +152,7 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
 - *The Consolation of Philosophy* by Boethius
+- *The Odyssey* by Homer
 - *Apology* by Plato
 
 **East Asian Humanities I: The Classical Foundations** `HUM/EAS/COM 233`
