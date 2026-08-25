@@ -18,6 +18,8 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 </div>
 
+---
+
 ## Arts & Sciences
 
 ✔️ I've read the following:
@@ -62,6 +64,8 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 **Queer Archives & Archiving Queerness** `PMA / AMST / FGSS / LGBT / SHUM 4695/6695`
 - *Fun Home: A Family Tragicomic* by Alison Bechdel
 
+---
+
 ## Computing & Information Science
 
 ✔️ I've read the following:
@@ -98,6 +102,8 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - *Practical Foundations for Programming Languages* by Robert Harper
 
+---
+
 ## Engineering
 
 ✔️ I've read the following:
@@ -109,13 +115,13 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 - *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
 - *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
 
+---
+
 ## Law
 
 ✔️ I've read the following:
 
-**[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688`
-<details><summary>Papers</summary>
-  
+**[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
 - *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
 - *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
 - *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
@@ -125,4 +131,3 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 - *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann
 - *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
 
-</details>
