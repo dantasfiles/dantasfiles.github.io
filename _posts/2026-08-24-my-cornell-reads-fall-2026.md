@@ -94,6 +94,9 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 - *[How to Learn Rust in 2026: A Complete Beginner's Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
 - *[Always Measure 1 Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
+**[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
+- *[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)* by Abraham et al.
+
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
 - *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
 - *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
