@@ -128,34 +128,22 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 <details markdown="1"><summary>Introduction</summary>
 
 - *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
+- *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
 
-</details>
-<details markdown="1"><summary>Software Patents</summary>
-
-  - *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
-
-</details>
-
-<details markdown="1"><summary>Software Copyright.</summary>
+</details><details markdown="1"><summary>Copyright</summary>
 
 - *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
-
-</details>
-<details markdown="1"><summary>AI & Authorship</summary>
-
 - *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
 
-</details><details markdown="1"><summary>Software & the 1st Amendment</summary>
+</details><details markdown="1"><summary>Speech</summary>
 
 - *Encryption Source Code & the 1st Amendment* by Robert Post
+- *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen
+- *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann
+- *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
+
+</details><details markdown="1"><summary>Internet Architecture</summary>
+
+- *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
 
 </details>
-- Legal Citation
-  - *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen
-- Algorithmic Speech
-  - *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann
-- AI Defamation
-  - *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
-- Abstract Writing
-  - *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
-
