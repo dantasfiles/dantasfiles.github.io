@@ -144,6 +144,7 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 </details><details markdown="1"><summary>Internet Architecture</summary>
 
+- *[Planet Telex](https://laboratorium.net/archive/2011/07/24/planet_telex)* by James Grimmelmann
 - *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
 
 </details>
