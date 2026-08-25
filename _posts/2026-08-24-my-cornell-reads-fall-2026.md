@@ -112,6 +112,9 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 ✔️ I've read the following:
 
+**[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `ECE 4750/5740 / CS 4420`
+- *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
+
 **[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002/6950`
 - *[The Perceptron & All the Things It Can't Perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
 - *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* by Dally et al.
