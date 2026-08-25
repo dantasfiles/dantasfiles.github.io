@@ -133,26 +133,14 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 - *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
 - *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
-
-</details><details markdown="1"><summary>Copyright</summary>
-
 - *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
 - *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
-
-</details><details markdown="1"><summary>Speech</summary>
-
 - *Encryption Source Code & the 1st Amendment* by Robert Post
 - *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen
 - *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann
 - *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
-
-</details><details markdown="1"><summary>Internet Architecture</summary>
-
 - *[Planet Telex](https://laboratorium.net/archive/2011/07/24/planet_telex)* by James Grimmelmann
 - *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
-
-</details><details markdown="1"><summary>Legal Formalization</summary>
-
 - *[When Law is Code](https://cyber.jotwell.com/when-law-is-code/)* by James Grimmelmann
 
-</details>
+
