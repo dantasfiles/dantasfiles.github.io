@@ -125,10 +125,17 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 ✔️ I've read the following:
 
 **[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
-- Introduction
-  - *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
-- Software Patents
-  - *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
+<details><summary>Introduction</summary>
+
+- *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
+
+</details>
+<details><summary>Software Patents</summary>
+
+- *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
+
+</details>
+
 - Software Copyright.
   - *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
 - AI & Authorship
