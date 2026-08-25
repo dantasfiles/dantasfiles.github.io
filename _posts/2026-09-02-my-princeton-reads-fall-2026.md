@@ -136,6 +136,9 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 **History of Freedom** `FRS 137`
 - *Letter from Birmingham Jail* by Martin Luther King Jr.
 
+**Gaslight! Control, Coercion, or Just Conflict?: The Cultural History of a TikTok Term** `FRS 153`
+- *1984* by George Orwell
+
 **Marx in the 21st Century** `FRS 167`
 - *The Communist Manifesto* by Marx & Engels
 
