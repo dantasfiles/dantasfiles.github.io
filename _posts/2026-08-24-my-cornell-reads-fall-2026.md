@@ -130,11 +130,7 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 - *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
 
 </details>
-<details markdown="1"><summary markdown="1">
-
-- Software Patents
-
-</summary>
+<details markdown="1"><summary>Software Patents</summary>
 
   - *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
 
