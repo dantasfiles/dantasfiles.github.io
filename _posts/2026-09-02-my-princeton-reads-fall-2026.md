@@ -156,9 +156,6 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 **Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
-**Intro. to Theater Making** `MTD/THR 101`
-- *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
-
 **Religion & the Public Conversation** `REL 100`
 - *Religion: A Very Short Intro.* by Thomas A. Tweed
 
@@ -167,6 +164,9 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 
 **Dostoevsky** `SLA/RES 416`
 - *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
+**Intro. to Theater Making** `THR/MTD 101`
+- *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
 
 ### Comparative Literature Reading Selection List
 
