@@ -125,14 +125,22 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 ✔️ I've read the following:
 
 **[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
-- *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
-- *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
-- *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
-- *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
-- *Encryption Source Code & the 1st Amendment* by Robert Post
-- *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen
-- *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann
-- *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
+- Introduction
+  - *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
+- Software Patents
+  - *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
+- Software Copyright.
+  - *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
+- AI & Authorship
+  - *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
+- Software & the 1st Amendment
+  - *Encryption Source Code & the 1st Amendment* by Robert Post
+- Legal Citation
+  - *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen
+- Algorithmic Speech
+  - *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann
+- AI Defamation
+  - *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
 - Abstract Writing Workshop
   - *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
 
