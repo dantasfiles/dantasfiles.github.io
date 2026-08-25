@@ -101,6 +101,7 @@ I use this page to track books and papers I've read that are used in Fall 2026 P
 - *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
 
 **Classical Mythology** `CLA/HUM/GSS/HLS 212`
+- *The Odyssey* by Homer
 - *Jason & the Golden Fleece* by Apollonius of Rhodes
 
 **The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
