@@ -141,6 +141,6 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
   - *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann
 - AI Defamation
   - *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
-- Abstract Writing Workshop
+- Abstract Writing
   - *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
 
