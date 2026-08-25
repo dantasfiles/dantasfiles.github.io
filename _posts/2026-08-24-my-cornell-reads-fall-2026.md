@@ -136,12 +136,20 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 </details>
 
-- Software Copyright.
-  - *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
-- AI & Authorship
-  - *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
-- Software & the 1st Amendment
-  - *Encryption Source Code & the 1st Amendment* by Robert Post
+<details markdown="1"><summary>Software Copyright.</summary>
+
+- *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
+
+</details>
+<details markdown="1"><summary>AI & Authorship</summary>
+
+- *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
+
+</details><details markdown="1"><summary>Software & the 1st Amendment</summary>
+
+- *Encryption Source Code & the 1st Amendment* by Robert Post
+
+</details>
 - Legal Citation
   - *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen
 - Algorithmic Speech
