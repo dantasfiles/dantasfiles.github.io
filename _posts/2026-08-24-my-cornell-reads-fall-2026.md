@@ -59,7 +59,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
 - *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
-- *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
+- *[The illustrated transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
 - *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
 
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
