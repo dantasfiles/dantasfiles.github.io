@@ -79,7 +79,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
 
 **Ethics of Computing & Artificial Intelligence Technologies** `ENGRG 3605 / PHIL 2473 / STS 3605`
-- *[Stand out of our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams 
+- *[Stand Out of Our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams 
 
 ---
 
