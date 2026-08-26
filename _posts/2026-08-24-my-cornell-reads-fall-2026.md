@@ -28,6 +28,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas))
 - *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower
 
+**Greek Mythology** `CLASS 2604`
+- *The Odyssey* by Homer
+
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
 - *Frankenstein* by Mary Shelley
