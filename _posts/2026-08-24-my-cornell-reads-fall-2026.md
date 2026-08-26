@@ -6,17 +6,74 @@ author: Daniel Dantas
 
 I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Fall 2026 Cornell classes<br>I connected publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
 
+<!-- https://irp.cornell.edu/university-factbook/student-enrollment -->
+
 <div style="column-count: 2;" markdown="1">
 
-**[Arts & Sciences →](#arts--sciences)**
-
-**[Computing & Information Science →](#computing--information-science)**
-
 **[Engineering →](#engineering)**
+
+**[Arts & Sciences →](#arts--sciences)** <!-- 6,096 -->
 
 **[Law →](#law)**
 
 </div>
+
+---
+
+## Engineering
+
+✔️ I've read the following:
+
+**[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
+- *[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
+- *[How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)*
+- *[PEP 257: Docstring Conventions](https://peps.python.org/pep-0257/)* by Goodger & van Rossum
+
+**[Short Course in Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
+- *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
+
+**[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS / ENGRD 2110`
+- [*Object-Oriented Design & Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
+- [*Principled Programming: Intro. to Coding in Any Imperative Language*](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
+
+**[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
+- [*Object-Oriented Design & Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
+- *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma et al.
+- *Effective Java: Best Practices for the Java Platform* by Joshua Bloch
+
+**[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
+- *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
+
+**[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414/5416`
+- *[How to Learn Rust in 2026: A Complete Beginner's Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
+- *[Always Measure 1 Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
+
+**[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
+- *[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://dl.acm.org/doi/10.1145/800221.806707)* by Michael Ben-Or
+- *[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)* by Abraham et al.
+
+**[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
+- *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
+- *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
+- *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
+
+**[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
+- *Practical Foundations for Programming Languages* by Robert Harper
+**Design w/ Embedded Operating Systems** `ECE 4725/5725`
+- *The C Programming Language* by Kernighan & Ritchie
+
+**[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `ECE 4750/5740 / CS 4420`
+- *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
+
+**[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002/6950`
+- *[The Perceptron & All the Things It Can't Perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
+- *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* by Dally et al.
+- *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
+- *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
+- *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
+
+**Ethics of Computing & Artificial Intelligence Technologies** `ENGRG 3605 / PHIL 2473 / STS 3605`
+- *[Stand out of our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams 
 
 ---
 
@@ -66,70 +123,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695/6695`
 - *Fun Home: A Family Tragicomic* by Alison Bechdel
-
----
-
-## Computing & Information Science
-
-✔️ I've read the following:
-
-**[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
-- *[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
-- *[How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)*
-- *[PEP 257: Docstring Conventions](https://peps.python.org/pep-0257/)* by Goodger & van Rossum
-
-**[Short Course in Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
-- *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
-
-**[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS / ENGRD 2110`
-- [*Object-Oriented Design & Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
-- [*Principled Programming: Intro. to Coding in Any Imperative Language*](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
-
-**[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
-- [*Object-Oriented Design & Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
-- *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma et al.
-- *Effective Java: Best Practices for the Java Platform* by Joshua Bloch
-
-**[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
-- *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
-
-**[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414/5416`
-- *[How to Learn Rust in 2026: A Complete Beginner's Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
-- *[Always Measure 1 Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
-
-**[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
-- *[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://dl.acm.org/doi/10.1145/800221.806707)* by Michael Ben-Or
-- *[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)* by Abraham et al.
-
-**[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
-- *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
-- *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
-- *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
-
-**[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
-- *Practical Foundations for Programming Languages* by Robert Harper
-
----
-
-## Engineering
-
-✔️ I've read the following:
-
-**Design w/ Embedded Operating Systems** `ECE 4725/5725`
-- *The C Programming Language* by Kernighan & Ritchie
-
-**[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `ECE 4750/5740 / CS 4420`
-- *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
-
-**[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002/6950`
-- *[The Perceptron & All the Things It Can't Perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
-- *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* by Dally et al.
-- *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
-- *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
-- *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
-
-**Ethics of Computing & Artificial Intelligence Technologies** `ENGRG 3605 / PHIL 2473 / STS 3605`
-- *[Stand out of our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams 
 
 ---
 
