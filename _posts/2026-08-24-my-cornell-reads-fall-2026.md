@@ -59,6 +59,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - *Practical Foundations for Programming Languages* by Robert Harper
+
 **Design w/ Embedded Operating Systems** `ECE 4725/5725`
 - *The C Programming Language* by Kernighan & Ritchie
 
