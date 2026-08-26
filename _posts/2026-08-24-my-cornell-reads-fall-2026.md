@@ -25,9 +25,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ✔️ I've read the following:
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
-- *[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
-- *[How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)*
-- *[PEP 257: Docstring Conventions](https://peps.python.org/pep-0257/)* by Goodger & van Rossum
+- *[How to use the terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
+- *[How to write doc comments for the Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)*
+- *[PEP 257: Docstring conventions](https://peps.python.org/pep-0257/)* by Goodger & van Rossum
 
 **[Short Course in Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
 - *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
