@@ -24,6 +24,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
+#### Computer Science
+
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - *[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
 - *[How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)*
@@ -63,6 +65,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - *Practical Foundations for Programming Languages* by Robert Harper
 
+#### Electrical & Computer Engineering
+
 **Design w/ Embedded Operating Systems** `ECE 4725/5725`
 - *The C Programming Language* by Kernighan & Ritchie
 
@@ -85,12 +89,16 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
+#### Classics
+
 **Classics & Comics** `CLASS 1812`
 - *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas))
 - *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower
 
 **Greek Mythology** `CLASS 2604`
 - *The Odyssey* by Homer
+
+#### English
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
@@ -108,12 +116,18 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Short Stories** `ENGL 1170-105`
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
+#### Government
+
 **Making Sense of World Politics** `GOVT 1817`
 - *The Cold War: A Very Short Intro.* by Robert J. McMahon
+
+#### History
 
 **U.S. History through Literature** `HIST/AMST 1770`
 - *Hiroshima* by John Hersey
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+#### Romance Studies
 
 **Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century** `ITAL 1113`
 - *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
@@ -122,8 +136,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - *Frankenstein* by Mary Shelley
 - *The Adventures of Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas))
 
+#### Linguistics
+
 **Language, Thought & Reality: Words & Pictures** `LING 1100-001`
 - *Maus: A Survivor's Tale* by Art Spiegelman
+
+#### Performing Arts
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695/6695`
 - *Fun Home: A Family Tragicomic* by Alison Bechdel
