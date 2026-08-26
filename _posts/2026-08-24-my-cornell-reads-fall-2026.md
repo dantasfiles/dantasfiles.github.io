@@ -112,6 +112,9 @@ I use this page to track books and papers I've read that are used in Fall 2026 C
 
 ✔️ I've read the following:
 
+**Design w/ Embedded Operating Systems** `ECE 4725/5725`
+- *The C Programming Language* by Kernighan & Ritchie
+
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `ECE 4750/5740 / CS 4420`
 - *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
 
