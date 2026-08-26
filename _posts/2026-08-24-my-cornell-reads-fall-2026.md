@@ -41,6 +41,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma et al.
 - *Effective Java: Best Practices for the Java Platform* by Joshua Bloch
 
+**[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
+- *[UNIX Tutorial for Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank
+
 **[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
 - *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
 
