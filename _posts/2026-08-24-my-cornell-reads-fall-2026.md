@@ -35,7 +35,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS/ENGRD 2110`
 - *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen
 - *[Principled Programming: Intro. to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html)* by Tim Teitelbaum
-- *[Two Hard Things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler
+- *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler
 
 **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
 - *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen
@@ -43,14 +43,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - *Effective Java: Best Practices for the Java Platform* by Joshua Bloch
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
-- *[A Proactive Approach to More Secure Code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* by Microsoft Security Response Center
-- *[UNIX Tutorial for Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank
+- *[A proactive approach to more secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* by Microsoft Security Response Center
+- *[UNIX tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank
 
 **[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
 - *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
 
 **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414/5416`
-- *[How to Learn Rust in 2026: A Complete Beginner's Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
+- *[How to learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
 - *[Always Measure 1 Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
 **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
@@ -72,7 +72,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
 
 **[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002/6950`
-- *[The Perceptron & All the Things It Can't Perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
+- *[The perceptron & all the things it can't perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
 - *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* by Dally et al.
 - *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
 - *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
