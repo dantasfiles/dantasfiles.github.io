@@ -41,6 +41,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen
 - *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma et al.
 - *Effective Java: Best Practices for the Java Platform* by Joshua Bloch
+- *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* by John Sargeant
 - *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al.
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
