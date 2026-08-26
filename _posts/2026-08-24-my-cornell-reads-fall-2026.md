@@ -66,6 +66,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - *Practical Foundations for Programming Languages* by Robert Harper
 
+**[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `CS/INFO 6850`
+- *An Experimental Study of Search in Global Social Networks* by Dodds et al.
+
 **Design w/ Embedded Operating Systems** `ECE 4725/5725`
 - *The C Programming Language* by Kernighan & Ritchie
 
