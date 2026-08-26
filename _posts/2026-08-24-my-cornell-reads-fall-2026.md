@@ -47,7 +47,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Making Sense of World Politics** `GOVT 1817`
 - *The Cold War: A Very Short Intro.* by Robert J. McMahon
 
-**U.S. History through Literature** `HIST / AMST 1770`
+**U.S. History through Literature** `HIST/AMST 1770`
 - *Hiroshima* by John Hersey
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
@@ -61,7 +61,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Language, Thought & Reality: Words & Pictures** `LING 1100-001`
 - *Maus: A Survivor's Tale* by Art Spiegelman
 
-**Queer Archives & Archiving Queerness** `PMA / AMST / FGSS / LGBT / SHUM 4695/6695`
+**Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695/6695`
 - *Fun Home: A Family Tragicomic* by Alison Bechdel
 
 ---
