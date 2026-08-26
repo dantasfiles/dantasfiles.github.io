@@ -22,7 +22,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Engineering
 
-✔️ I've read the following:
+✔️ I've previously read the following:
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - *[How to use the terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
@@ -90,8 +90,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Arts & Sciences
 
-✔️ I've read the following:
-
+✔️ I've previously read the following:
 **Classics & Comics** `CLASS 1812`
 - *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas))
 - *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower
@@ -139,7 +138,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Law
 
-✔️ I've read the following:
+✔️ I've previously read the following:
 
 **[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
 - *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
