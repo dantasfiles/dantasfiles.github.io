@@ -43,6 +43,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - *Effective Java: Best Practices for the Java Platform* by Joshua Bloch
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
+- *[A Proactive Approach to More Secure Code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* by Microsoft Security Response Center
 - *[UNIX Tutorial for Beginners](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank
 
 **[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
