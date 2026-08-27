@@ -25,34 +25,34 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ✔️ I've previously read the following:
 
 **Classics & Comics** `CLASS 1812`
-- *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas))
-- *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower
+- 📔 *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas))
+- 📔 *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower
 
 **Greek Mythology** `CLASS 2604`
-- *The Odyssey* by Homer
+- 📕 *The Odyssey* by Homer
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
-- *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
-- *Frankenstein* by Mary Shelley
+- 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
+- 📕 *Frankenstein* by Mary Shelley
 
 **Writing the Environment: Enchanting Nature** `ENGL 1130-101`
-- *A Midsummer Night's Dream* by William Shakespeare
+- 🎭 *A Midsummer Night's Dream* by William Shakespeare
 
 **True Stories** `ENGL 1134`
-- *They Called Us Enemy* by George Takei
+- 📕 *They Called Us Enemy* by George Takei
 
 **American Voices: Lost in the City: The Great Migration & Imagining the Urban Space through Black Art** `ENGL 1158-102`
-- *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
 **Short Stories** `ENGL 1170-105`
-- *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
 **Making Sense of World Politics** `GOVT 1817`
-- *The Cold War: A Very Short Intro.* by Robert J. McMahon
+- 📕 *The Cold War: A Very Short Intro.* by Robert J. McMahon
 
 **U.S. History through Literature** `HIST/AMST 1770`
-- *Hiroshima* by John Hersey
-- *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- 📕 *Hiroshima* by John Hersey
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
 **[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `INFO/CS 6850`
 - 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al.
@@ -62,14 +62,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750`
-- *Frankenstein* by Mary Shelley
-- *The Adventures of Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas))
+- 📕 *Frankenstein* by Mary Shelley
+- 📕 *The Adventures of Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas))
 
 **Language, Thought & Reality: Words & Pictures** `LING 1100-001`
-- *Maus: A Survivor's Tale* by Art Spiegelman
+- 📔 *Maus: A Survivor's Tale* by Art Spiegelman
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695/6695`
-- *Fun Home: A Family Tragicomic* by Alison Bechdel
+- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
 
 ---
 
