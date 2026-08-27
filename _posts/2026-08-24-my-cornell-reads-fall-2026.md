@@ -77,7 +77,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al.
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
 
-**Digital Logic & Computer Organization** `ECE/ENGRD 2300`
+**[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New, and Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
 
 **Design w/ Embedded Operating Systems** `ECE 4725/5725`
