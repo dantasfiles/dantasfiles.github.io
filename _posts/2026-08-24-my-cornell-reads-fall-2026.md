@@ -23,6 +23,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ## Arts & Sciences
 
 ✔️ I've previously read the following:
+
 **Classics & Comics** `CLASS 1812`
 - *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas))
 - *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower
@@ -70,6 +71,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - *Fun Home: A Family Tragicomic* by Alison Bechdel
 
 ---
+
 ## Engineering
 
 ✔️ I've previously read the following:
