@@ -55,10 +55,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
 **[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `INFO/CS 6850`
-- *An Experimental Study of Search in Global Social Networks* by Dodds et al.
+- 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al.
+- 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
 
 **Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century** `ITAL 1113`
-- *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
+- 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750`
 - *Frankenstein* by Mary Shelley
