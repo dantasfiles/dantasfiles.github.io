@@ -58,7 +58,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
 **[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787/5777`
-- 🔗 *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* by Fidan Boylu Uz
+- 🔗 *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* by Fidan Boylu Uz <!-- 23 -->
 
 **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
 - 📄 *[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://dl.acm.org/doi/10.1145/800221.806707)* by Michael Ben-Or
@@ -75,7 +75,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `CS/INFO 6850`
 - 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al.
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
-
 
 **Design w/ Embedded Operating Systems** `ECE 4725/5725`
 - 📕 *The C Programming Language* by Kernighan & Ritchie
