@@ -154,6 +154,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
 - 🔗 *[Planet Telex](https://laboratorium.net/archive/2011/07/24/planet_telex)* by James Grimmelmann
 - 📕 *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
-- 🔗 *[When Law is Code](https://cyber.jotwell.com/when-law-is-code/)* by James Grimmelmann
+- 🔗 *[When law is code](https://cyber.jotwell.com/when-law-is-code/)* by James Grimmelmann
 
 
