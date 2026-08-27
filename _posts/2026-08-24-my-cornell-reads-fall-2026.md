@@ -78,7 +78,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
-- 📄 *[The IEEE Verilog 1364-2001 Standard: What's New, and Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
+- 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
 
 **Design w/ Embedded Operating Systems** `ECE 4725/5725`
 - 📕 *The C Programming Language* by Kernighan & Ritchie
@@ -132,7 +132,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Hiroshima* by John Hersey
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
-**Writing Italy, Writing the Self: Jewish-Italian Lit and the Long 20th Century** `ITAL 1113`
+**Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750`
