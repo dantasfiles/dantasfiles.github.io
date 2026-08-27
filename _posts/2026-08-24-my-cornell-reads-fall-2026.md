@@ -58,7 +58,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
 **[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787/5777`
-- 🔗 *[Introducing GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* by Yanping Huang
+- 📄 *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
+- 🔗 *[Introducing GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* by Yanping Huang <!-- 20 -->
 - 🔗 *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* by Fidan Boylu Uz <!-- 23 -->
 
 **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
