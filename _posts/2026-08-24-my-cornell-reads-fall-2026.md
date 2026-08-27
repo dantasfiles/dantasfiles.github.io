@@ -46,8 +46,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🔗 *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)* by Peter Norvig
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
-- 🔗 *[A proactive approach to more secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* by Microsoft Security Response Center
-- 🔗 *[UNIX tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank
+- 🔗 *[A proactive approach to more secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* by Microsoft Security Response Center <!-- Lecture Notes: The Stack, The Heap, and Dynamic Memory Allocation -->
+- 🔗 *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank <!-- Resources: Unix Shell -->
 
 **[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
