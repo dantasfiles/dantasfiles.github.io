@@ -82,7 +82,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🔗 *[How to write doc comments for the Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)*
 - 🔗 *[PEP 257: Docstring conventions](https://peps.python.org/pep-0257/)* by Goodger & van Rossum
 
-**[Short Course in Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
+**[Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
 - 📕 *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
 
 **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS/ENGRD 2110`
