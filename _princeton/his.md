@@ -78,7 +78,7 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 - *Interesting Narrative of the Life of Olaudah Equiano*
 
 **U.S. Foreign Relations** `HIS 380`
-- The Tragedy of American Diplomacy* by William Appleman Williams <!-- 9780393334746 -->
+- *The Tragedy of American Diplomacy* by William Appleman Williams <!-- 9780393334746 -->
 
 **A More Perfect Union: The United States, 1920-1974** `HIS 383`
 - *The Rise of Conservatism in America, 1945-2000* by Story & Laurie
