@@ -15,6 +15,10 @@ title: 🐯 Princeton African American Studies unofficial reading list, fall 202
 **Methods in African American Studies** `AAS 202`
 - *Close Reading for the 21st Century* by Sinykin & Winant
 
+**Race, Racism & Racial Justice** `AAS 209`
+- *Color Conscious: The Political Morality of Race* by Appiah & Gutmann <!-- 9780691059099 -->
+- *Are Prisons Obsolete?* by Angela Y. Davis <!-- 9781583225813 -->
+
 **Intro. to Law & Public Policy in African American History** `AAS 230`
 - *Reconsidering Reparations: Why Climate Justice & Constructive Politics Are Needed in the Wake of Slavery & Colonialism* by Olúfẹ́mi O. Táíwò
 - *Racecraft: The Soul of Inequality* in American Life by Fields & Fields
