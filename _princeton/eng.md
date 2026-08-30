@@ -22,6 +22,11 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 - *Black Reconstruction in America, 1860-1880* by W.E.B. Du Bois
 - *The World & Africa* by W.E.B. Du Bois
 
+**Intro. to African American Literature to 1910** `ENG 253`
+- *The Autobiography of an Ex-Colored Man* by James Weldon Johnson <!-- 9780140184020 -->
+- *Iola Leroy* by Frances Ellen Watkins Harper <!-- 9780143106043 -->
+- *Incidents in the Life of a Slave Girl* by Harriet Jacobs <!-- 9780393870787 -->
+
 **The Makeover** `ENG 296`
 - *A Gesture Life* by Chang-rae Lee
 - *Ornamentalism* by Anne Anlin Cheng
