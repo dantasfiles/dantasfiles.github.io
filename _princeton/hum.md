@@ -84,6 +84,14 @@ title: 🐯 Princeton Humanities Council unofficial reading list, fall 2026
 - *Accounts of Medieval Constantinople: The Patria* by Albrecht Berger
 - *Digenis Akritis: The Grottaferrata and Escorial Versions* by Elizabeth Jeffreys
 
+**Arabian Nights** `HUM 208`
+- *101 Nights* <!-- 9781479873234 -->
+- *Orientalism* by Edward W. Said <!-- 9780394740676 -->
+- *Arabian Nights & Days* by Naguib Mahfouz <!-- 9780385469012 -->
+- *Aladdin* <!-- 9781324091110 -->
+- *Sindbad & Other Stories from the Arabian Nights* <!-- 9780393332469 -->
+- *The Arabian Nights* <!-- 9780393331660 -->
+
 **Classical Mythology** `HUM 212`
 - *Persians* by Aeschylus
 - *Prometheus Bound* by Aeschylus
