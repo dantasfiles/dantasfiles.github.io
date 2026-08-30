@@ -22,6 +22,9 @@ title: 🐯 Princeton Study of America unofficial reading list, fall 2026
 - *The Implacable Urge to Defame: Cartoon Jews in the American Press, 1877-1935* by Matthew Baigell
 - *Jews Across the Americas: A Sourcebook, 1492–Present* by Brodsky & Leibman
 
+**Native American History** `AMS 271`
+- *The Night Watchman* by Louise Erdrich <!-- 9780062671196 -->
+
 **The Makeover** `AMS 296`
 - *A Gesture Life* by Chang-rae Lee
 - *Ornamentalism* by Anne Anlin Cheng
