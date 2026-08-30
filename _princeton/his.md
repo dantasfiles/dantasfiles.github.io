@@ -77,6 +77,9 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 - *The Sovereignty & Goodness of God: w/ Related Documents*
 - *Interesting Narrative of the Life of Olaudah Equiano*
 
+**U.S. Foreign Relations** `HIS 380`
+- The Tragedy of American Diplomacy* by William Appleman Williams <!-- 9780393334746 -->
+
 **A More Perfect Union: The United States, 1920-1974** `HIS 383`
 - *The Rise of Conservatism in America, 1945-2000* by Story & Laurie
 - *Lyndon B. Johnson and American Liberalism* by Bruce Schulman
@@ -84,8 +87,6 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 - *The Age of McCarthyism* by Schrecker & Deery
 - *The Era of Franklin D. Roosevelt, 1933-1945* by Richard Polenberg
 - *Only Yesterday: An Informal History of the 1920s* by Frederick Lewis Allen
-
-## Senior level
 
 **World After Empire** `HIS 411`
 - ✔️ ***The Wretched of the Earth*** by Frantz Fanon
