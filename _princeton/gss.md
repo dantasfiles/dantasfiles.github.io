@@ -2,8 +2,6 @@
 title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2026
 ---
 
-## Sophomore level
-
 **Classical Mythology** `GSS 212`
 - *Persians* by Aeschylus
 - *Prometheus Bound* by Aeschylus
@@ -67,8 +65,6 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 - *The Trafficker Next Door: How Household Employers Exploit Domestic Workers* by Rhacel Salazar Parreñas
 - *The Qualities of a Citizen: Women, Immigration & Citizenship, 1870-1965* by Martha Gardner
 
-## Junior level 
-
 **Black Women & Spiritual Narrative** `GSS 318`
 - *Paradise* by Toni Morrison <!-- 9780804169882 -->
 - *Their Eyes Were Watching God* by Zora Neale Hurston <!-- 9780060838676 -->
@@ -91,7 +87,8 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 - *Illicit Worlds of Indian Dance: Cultures of Exclusion* by Anna Morcom
 - *Umrao Jan Ada* by Mirza Muhammad Hadi Rusva
 
-## Graduate level
+**Creative Intellect** `GSS 414`
+- *The Cult of Creativity: A Surprisingly Recent History* by Samuel W. Franklin <!-- 9780226836706 -->
 
 **Gender in a Global Society** `GSS 507`
 - *Caliban & the Witch: Women, the Body & Primitive Accumulation* by Silvia Federici
