@@ -2,8 +2,6 @@
 title: 🐯 Princeton Comparative Literature unofficial reading list, fall 2026
 ---
 
-The department also publishes an official **[Comparative Literature Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**.<br>I track the **[books I've read from that list](https://dantasfiles.com/princeton/com-suggested)**
-
 **Who Are You Really? Authenticity in Life, Literature & the Internet** `COM 200`
 - *The Reluctant Fundamentalist* by Mohsin Hamid
 
@@ -156,6 +154,61 @@ The department also publishes an official **[Comparative Literature Reading Sele
 - *Cheri* & *The Last of Cheri* by Colette
 - *The Age of Innocence* by Edith Wharton
 
+## Comparative Literature Reading Selection List
+
+The Comparative Literature department publishes a **[Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**
+
+✔️ I've read the following from that list:
+
+📕 **Fiction**
+
+- Chinua Achebe: *Things Fall Apart*
+- Jane Austen: *Sense & Sensibility*
+- Umberto Eco: *The Name of the Rose*
+- F. Scott Fitzgerald: *The Great Gatsby* ([my highlights](https://www.goodreads.com/notes/73662330-the-great-gatsby-mint-editions/185327722-daniel-dantas)) / *The Beautiful & the Damned*
+- Kazuo Ishiguro: *Klara & the Sun*
+- Henry James: *The Outcry*
+- Min Jin Lee: *Pachinko*
+- Toni Morrison: *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+- Vladimir Nabokov: *Pale Fire*
+- Mary Shelley: *Frankenstein*
+- Mark Twain: *Tom Sawyer* / *Huck Finn*
+
+🎭 **Drama**
+- William Shakespeare:
+  - Comedies: *A Midsummer Night's Dream* / *Much Ado About Nothing* / *The Tempest* / *The Winter's Tale*
+  - Tragedies: *Coriolanus*
+  - Histories:  *Henry V* / *Henry VIII* 
+
+📕 **Nonfiction**
+- Frantz Fanon: *The Wretched of the Earth*
+- *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
+- Nelson Mandela: *Long Walk to Freedom*
+- Karl Marx: *The Communist Manifesto*
+- Virginia Woolf: *A Room of One's Own* ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+
+🎞️ **Film** ([my Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/))
+
+- Michelangelo Antonioni: *L'Avventura*
+- Ingmar Bergman: *The Virgin Spring* / *Winter Light*
+- Charlie Chaplin: *Gold Rush* / *Modern Times* / *The Kid* / *City Lights*
+- Bernardo Bertolucci: *The Last Emperor* 
+- Francis Ford Coppola: *Apocalypse Now*
+- Federico Fellini: *La Dolce Vita*
+- Werner Herzog: *Grizzly Man* / *Cave of Forgotten Dreams* / *Into the Inferno*
+- Alfred Hitchcock: *Dial M for Murder* / *North by Northwest* / *The Birds*
+- Peter Jackson: *The Lord of the Rings*
+- Buster Keaton: *The General* / *Sherlock Jr.*
+- Fritz Lang: *Metropolis*
+- Spike Lee: *4 Little Girls* / *Inside Man*
+- George Lucas: *Star Wars*
+- Chris Marker: *La jetée*
+- Georges Méliès: *A Trip to the Moon* / *The Impossible Voyage*
+- Hayao Miyazaki: *Spirited Away*
+- Christopher Nolan: *The Dark Knight*
+- Park Chan-wook: *Oldboy*
+- Orson Welles: *Citizen Kane* / *Chimes at Midnight*
+- Wong Kar-wai: *The Grandmaster*
 
 
 
