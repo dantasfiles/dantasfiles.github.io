@@ -96,7 +96,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ✔️ I've read the following:
 
 **19th-Century European Art: Painting & Literature in 19th C. France & England** `ART/ECS/COM 450 / HUM 451`
-- *The Picture of Dorian Gray* by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
+- 📕 *The Picture of Dorian Gray* by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
 
 **Modern Art: Science & Its Fictions in the Long 19th Century** `ART/HUM 577`
 - 📕 *Frankenstein* by Mary Shelley
