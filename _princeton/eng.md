@@ -64,7 +64,7 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 - *Confessions of an English Opium Eater* by Thomas De Quincey
 - *The Longman Anthology of British Literature, Volume 2A: The Romantics & Their Contemporaries* by David Damrosch et al.
 
-**Moby-Dick, American Empire & the Oceanic Imaginary** `AMS 337`
+**Moby-Dick, American Empire & the Oceanic Imaginary** `ENG 337`
 - *Moby-Dick* by Herman Melville <!-- 9780393285000 -->
 
 **19th-Century Fiction** `ENG 345`
@@ -92,6 +92,15 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 **The Bible as Literature** `ENG 390`
 - *The Literary Guide to the Bible* by Alter & Kermode
 - *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version*
+
+**Junior Independent Work Seminar** `ENG 397`
+- ✔️ ***A Room of One's Own*** by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas)) <!-- 9780143138907 -->
+- *Sir Gawain & the Green Knight* <!-- 9780393334159 -->
+- *Incidents in the Life of a Slave Girl* by Harriet Jacobs <!-- 9780140437959 -->
+- *The Lost Daughter* by Elena Ferrante <!-- 9781609457693 -->
+- *The Poems of Emily Dickinson* <!-- 9780674018242 -->
+- *Wit* by Margaret Edson <!-- 9780571198771 -->
+- *John Donne: The Major Works* <!-- 9780199537945 -->
 
 **Forms of Literature: American Short Stories** `ENG 401`
 - *Olive Kitteridge* by Elizabeth Strout
