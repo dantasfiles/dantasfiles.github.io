@@ -4,7 +4,7 @@ title: 🐯 Princeton Linguistics unofficial reading list, fall 2026
 
 ## Sophomore level
 
-**Intro. to Language and Linguistics** `LIN 205`
+**Intro. to Language and Linguistics** `LIN 201`
 - *Language Files: Materials for an Intro. to Language & Linguistics*
 
 **The Trojan War: A Linguistic Intro.** `LIN 259`
