@@ -113,6 +113,9 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 - *Waiting for the Barbarians* by J. M. Coetzee
 - *No Telephone to Heaven* by Michelle Cliff
 
+**Creative Intellect** `ENG 408`
+- *The Cult of Creativity: A Surprisingly Recent History* by Samuel W. Franklin <!-- 9780226836706 -->
+
 **Between Selves: Living Letters from Antiquity to the Present** `ENG 410`
 - *Letter to the Father* by Franz Kafka
 - *The Letters of Abelard and Heloise*
