@@ -54,6 +54,18 @@ title: 🐯 Princeton African American Studies unofficial reading list, fall 202
 - *Want to Start a Revolution?: Radical Women in the Black Freedom Struggle* by Gore et al.
 - *Bloody Lowndes: Civil Rights & Black Power in Alabama's Black Belt* by Hasan Kwame Jeffries
 
+## Junior level
+
+**Black Women & Spiritual Narrative** `AAS 318`
+- *Paradise* by Toni Morrison <!-- 9780804169882 -->
+- *Their Eyes Were Watching God* by Zora Neale Hurston <!-- 9780060838676 -->
+- *Quicksand* by Nella Larsen <!-- 9780393932423 -->
+- *The 12 Tribes of Hattie* by Ayana Mathis <!-- 9780307949707 -->
+- *The Yellow House* by Sarah M. Broom <!-- 9780802149039 -->
+- *The Color Purple* by Alice Walker <!-- 9780143135692 -- >
+- *The Mothers* by Brit Bennett <!-- 9780399184529 -->
+- *I Know Why the Caged Bird Sings* by Maya Angelou <!-- 9780345514400 -->
+
 ## Senior level
 
 **Art, Apartheid & South Africa** `AAS 411`
