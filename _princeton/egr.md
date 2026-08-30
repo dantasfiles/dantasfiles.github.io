@@ -2,8 +2,6 @@
 title: 🐯 Princeton Keller Center unofficial reading list, fall 2026
 ---
 
-## Freshman level 
-
 **Engineering in the Modern World** `EGR 102`
 - *The Innovators, Trade: The Engineering Pioneers Who Transformed America* by David P. Billington
 - *From Insight to Innovation: Engineering Ideas That Transformed America in the 20th Century* by Billington & Littman
@@ -12,9 +10,7 @@ title: 🐯 Princeton Keller Center unofficial reading list, fall 2026
 **Foundations of Engineering: The Mathematics of Shape & Motion** `EGR 152`
 - *Thomas' Calculus: Early Transcendentals* by Hass et al.
 
-## Sophomore level
-
-**Creativity, Innovation & Design** `EGR / ENT 200`
+**Creativity, Innovation & Design** `EGR/ENT 200`
 - *A Whack on the Side of the Head: How You Can Be More Creative* by Roger von Oech
 - *Experiencing Design: The Innovator's Journey* by Liedtka et al.
 
@@ -26,11 +22,9 @@ title: 🐯 Princeton Keller Center unofficial reading list, fall 2026
 **Fundamentals of Statistics** `EGR 245`
 - *Probability & Statistics for Engineering & the Sciences* by Jay Devore
 
-**People-Centered: Doing Anthropology** `EGR / ENT 299`
+**People-Centered: Doing Anthropology** `EGR/ENT 299`
 - *The Ethnographer's Way: A Handbook for Multidimensional Research Design* by Peterson & Olson
 - *Making Livable Worlds: Afro-Puerto Rican Women Building Environmental Justice* by Hilda Llorens
-
-## Junior level 
 
 **Optimization** `EGR 307`
 - *Intro. to Linear Optimization* by Bertsimas & Tsitsiklis
@@ -41,19 +35,15 @@ title: 🐯 Princeton Keller Center unofficial reading list, fall 2026
 - *Intro. To Probability* by Bertsekas & Tsitsiklis
 - *Intro. to Probability Models* by Sheldon M. Ross 
 
-## Senior level
-
-**High-Tech Entrepreneurship** `EGR / ENT 491`
+**High-Tech Entrepreneurship** `EGR/ENT 491`
 - *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danner
 
-**Entrepreneurship: Ventures of Impact** `EGR / ENT 495`
+**Entrepreneurship: Ventures of Impact** `EGR/ENT 495`
 - *Effectual Entrepreneurship* by Sarasvathy & Wheatley
 
-**Entrepreneurial Leadership** `EGR / ENT 497`
+**Entrepreneurial Leadership** `EGR/ENT 497`
 - *How Will You Measure Your Life?* by Clayton M. Christensen
 - *Startup Leadership: How Savvy Entrepreneurs Turn Their Ideas Into Successful Enterprises* by Derek Lidow
-
-## Graduate level
 
 **Technical Leadership in Engineering** `EGR 531`
 - *The 8 Dimensions of Leadership: DiSC Strategies for Becoming a Better Leader* by Sugerman et al.
