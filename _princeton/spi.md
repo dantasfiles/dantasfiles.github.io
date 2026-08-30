@@ -2,10 +2,11 @@
 title: 🐯 Princeton Public & International Affairs unofficial reading list
 ---
 
-## Junior level
-
 **Environmental Economics** `SPI 306`
 - *Economics & the Environment* by Goodstein & Polasky
+
+**American Deaf Culture** `GHP 315`
+- *The Language of Light: A History of Silent Voices* by Gerald Shea <!-- 9780300215434 -->
 
 **Authoritarianism** `SPI 358`
 - *The Republic* by Plato
@@ -25,8 +26,6 @@ title: 🐯 Princeton Public & International Affairs unofficial reading list
 - ✔️ ***The Guns of August: The Outbreak of World War I*** by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
 - *Man, the State & War: A Theoretical Analysis* by Kenneth N. Waltz 
 
-## Senior level 
-
 **The Critical Role of State Courts in Our Federal System** `SPI 410`
 - *The State & Federal Courts: A Complete Guide to History, Powers & Controversy* by Christopher P. Banks
 - *51 Imperfect Solutions: States & the Making of American Constitutional Law* by Jeffrey S. Sutton
@@ -34,8 +33,6 @@ title: 🐯 Princeton Public & International Affairs unofficial reading list
 
 **Viruses: Strategy & Tactics** `GHP 459`
 - *Principles of Virology* by Flint et al.
-
-## Graduate level
 
 **International Politics** `SPI 541`
 - *International Politics: Enduring Concepts & Contemporary Issues* by Art et al.
