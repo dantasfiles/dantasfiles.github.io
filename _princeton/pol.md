@@ -61,6 +61,12 @@ title: 🐯 Princeton Politics unofficial reading list, fall 2026
 **International Security Studies** `POL 554`
 - *Arms & Influence* by Thomas C. Schelling
 
+**Free Speech, Free Assembly, Academic Freedom** `POL 570`
+- *The Harm in Hate Speech* by Jeremy Waldron <!-- 9780674416864 -->
+- *Academic Freedom: From Professional Norm to 1st Amendment Right* by David M. Rabban <!-- 9780674291058 -->
+- *Democracy, Expertise & Academic Freedom: A 1st Amendment Jurisprudence for the Modern State* by Robert C. Post <!-- 9780300192490 -->
+- *The Right to Freedom of Assembly: A Comparative Study* by Orsolya Salát <!-- 9781849467216 -->
+- *The Oxford Handbook of Peaceful Assembly* by Abu El-Haj et al. <!-- 9780197674871 -->
 
 
 
