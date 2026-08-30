@@ -2,12 +2,11 @@
 title: 🐯 Princeton Chemical & Biological Engineering unofficial reading list, fall 2026
 ---
 
-## Sophomore level
-
 **Introduction to Cellular & Molecular Biology** `CBE 214`
-- *Essential Cell Biology* by Alberts et al. 
+- *Essential Cell Biology* by Alberts et al.
 
-## Graduate level
+**Mass, Momentum & Energy Transport** `CBE 341`
+- *Problems for Biomedical Fluid Mechanics & Transport Phenomena* by Johnson & Ethier <!-- 9781107037694 -->
 
 **Mathematical Methods of Engineering Analysis I** `CBE 509`
 - *Mathematical Methods for Physics & Engineering* by Riley et al.
