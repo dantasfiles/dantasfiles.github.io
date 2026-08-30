@@ -2,8 +2,6 @@
 title: 🐯 Princeton History unofficial reading list, fall 2026
 ---
 
-## Sophomore level
-
 **The Byzantine Empire** `HIS 205`
 - ✔️ ***Byzantium: A Very Short Intro.*** by Peter Sarris
 - *The Social History of Byzantium* by John Haldon
@@ -50,7 +48,8 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 - *Want to Start a Revolution?: Radical Women in the Black Freedom Struggle* by Gore et al.
 - *Bloody Lowndes: Civil Rights & Black Power in Alabama's Black Belt* by Hasan Kwame Jeffries 
 
-## Junior level
+**Native American History** `HIS 271`
+- *The Night Watchman* by Louise Erdrich <!-- 9780062671196 -->
 
 **Colonial Latin America to 1810** `HIS 303`
 - *Colonial Latin America* by Burkholder & Johnson
