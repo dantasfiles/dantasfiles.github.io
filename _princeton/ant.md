@@ -2,8 +2,6 @@
 title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 ---
 
-## Sophomore level
-
 **Violence** `ANT 264`
 - *Righteous Dopefiend* by Bourgois & Schonberg
 - *After the Last Sky: Palestinian Lives* by Edward W. Said
@@ -37,8 +35,6 @@ title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 - *The Ethnographer's Way: A Handbook for Multidimensional Research Design* by Peterson & Olson
 - *Making Livable Worlds: Afro-Puerto Rican Women Building Environmental Justice* by Hilda Llorens
 
-## Junior level
-
 **Ethnography, Evidence & Experience** `ANT 300`
 - *Leave If You Can: Migration & Violence in Bordered Worlds* by Amelia Frank-Vitale
 - *Crooked Cats: Beastly Encounters in the Anthropocene* by Nayanika Mathur
@@ -52,6 +48,10 @@ title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 - *Learning to Be Adolescent: Growing Up in U.S. & Japanese Middle Schools* by Gerald K. LeTendre
 - *The Too-Good Wife: Alcohol, Codependency & the Politics of Nurturance in Postwar Japan* by Amy Borovoy
 - *Food Safety after Fukushima: Scientific Citizenship & the Politics of Risk* by Nicolas Sternsdorff-Cisterna 
+
+**Sensory Anthropology** `ANT 331`
+- *Sound and Sentiment: Birds, Weeping, Poetics & Song in Kaluli Expression* by Steven Feld <!-- 9780822353652 -->
+- *The Expressiveness of the Body & the Divergence of Greek & Chinese Medicine* by Shigehisa Kuriyama <!-- 9780942299892 -->
 
 **Queer Becomings** `ANT 337`
 - *The Struggle to Be Gay—in Mexico, for Example* by Roger N. Lancaster
@@ -85,8 +85,6 @@ title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 - *Silencing the Past: Power & the Production of History* by Michel-Rolph Trouillot
 - *Colonialism & Its Forms of Knowledge* by Bernard S. Cohn
 - *Weapons of the Weak: Everyday Forms of Peasant Resistance* by James C. Scott
-
-## Senior level
 
 **Visible Evidence: Wildlife Films & Multispecies Documentary** `ANT 455`
 - *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor 
