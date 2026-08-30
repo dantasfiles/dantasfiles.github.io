@@ -2,8 +2,6 @@
 title: 🐯 Princeton English unofficial reading list, fall 2026
 ---
 
-## Sophomore level
-
 **Lyric Language & Form I: Renaissance to Romantic** `ENG 241`
 - *The Complete Poetry* by George Herbert
 - *The Major Works: Including Songs & Sonnets & Sermons* by John Donne
@@ -42,8 +40,6 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 - *Ornamentalism* by Anne Anlin Cheng
 - *Ordinary Disasters: How I Stopped Being a Model Minority* by Anne Anlin Cheng 
 
-## Junior level
-
 **The Nature of Old English: Select Old English Literature** `ENG 315`
 - *A Choice of Anglo-Saxon Verse* by Richard Hamer
 - *The Unstill Ones* by Miller Oberman
@@ -52,6 +48,13 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 
 **Shakespeare: Toward Hamlet** `ENG 318`
 - *The Complete Pelican Shakespeare* by Orgel & Braunmuller 
+
+**Toni Morrison & Her Circle** `ENG 320`
+- ✔️ ***Beloved*** by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 9781400033416 -->
+- *Song of Solomon* by Toni Morrison <!-- 9781400033423 -->
+- *A Mercy* by Toni Morrison <!-- 9780307276766 -->
+- *Paradise* by Toni Morrison <!-- 9780804169882 -->
+- *The Bluest Eye* by Toni Morrison <!-- 9780307278449 -->
 
 **Milton** `ENG 325`
 - *To Reign in Hell* by Steven Brust
@@ -87,8 +90,6 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 - *The Literary Guide to the Bible* by Alter & Kermode
 - *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version*
 
-## Senior level
-
 **Forms of Literature: American Short Stories** `ENG 401`
 - *Olive Kitteridge* by Elizabeth Strout
 
@@ -117,14 +118,13 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 - *Troubadour Poems from the South of France* by Paden & Paden
 - *The Major Works: Including Songs & Sonnets & Sermons* by John Donne 
 
-## Graduate level
-
 **The Renaissance in England: Milton** `ENG 522`
 - *The Complete Poetry and Essential Prose* of John Milton
 - *Leviathan* by Thomas Hobbes
 - *The Oxford English Literary History: Vol. V: 1645-1714: The Later 17th Century* by Margaret J. M. Ezell 
 
-**Contemporary Critical Theories: Marx's Capital** `ENG 528`*Capital: A Critique of Political Economy, v.1* by Karl Marx
+**Contemporary Critical Theories: Marx's Capital** `ENG 528`
+- *Capital, v.1* by Karl Marx
 
 **Modernism: Surprised by Passion** `ENG 567`
 - *Death in Venice and Other Stories* by Thomas Mann
