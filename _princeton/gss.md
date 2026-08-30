@@ -69,6 +69,16 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 
 ## Junior level 
 
+**Black Women & Spiritual Narrative** `GSS 318`
+- *Paradise* by Toni Morrison <!-- 9780804169882 -->
+- *Their Eyes Were Watching God* by Zora Neale Hurston <!-- 9780060838676 -->
+- *Quicksand* by Nella Larsen <!-- 9780393932423 -->
+- *The 12 Tribes of Hattie* by Ayana Mathis <!-- 9780307949707 -->
+- *The Yellow House* by Sarah M. Broom <!-- 9780802149039 -->
+- *The Color Purple* by Alice Walker <!-- 9780143135692 -- >
+- *The Mothers* by Brit Bennett <!-- 9780399184529 -->
+- *I Know Why the Caged Bird Sings* by Maya Angelou <!-- 9780345514400 -->
+
 **Women, Gender & the Body in Islamic Societies** `GSS 328`
 - *Minor Detail* by Adania Shibli
 - *Season of Migration to the North* by Tayeb Salih
