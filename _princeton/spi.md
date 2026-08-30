@@ -34,6 +34,9 @@ title: 🐯 Princeton Public & International Affairs unofficial reading list
 **Viruses: Strategy & Tactics** `GHP 459`
 - *Principles of Virology* by Flint et al.
 
+**Policy Advocacy Clinic Seminar** `SPI 490`
+- *Just Mercy: A Story of Justice and Redemption* by Bryan Stevenson <!-- 9780812984965 -->
+
 **International Politics** `SPI 541`
 - *International Politics: Enduring Concepts & Contemporary Issues* by Art et al.
 - *A World Safe for Democracy: Liberal Internationalism & the Crises of Global Order* by G. John Ikenberry
