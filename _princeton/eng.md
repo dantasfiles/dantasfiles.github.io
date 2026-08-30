@@ -64,6 +64,9 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 - *Confessions of an English Opium Eater* by Thomas De Quincey
 - *The Longman Anthology of British Literature, Volume 2A: The Romantics & Their Contemporaries* by David Damrosch et al.
 
+**Moby-Dick, American Empire & the Oceanic Imaginary** `AMS 337`
+- *Moby-Dick* by Herman Melville <!-- 9780393285000 -->
+
 **19th-Century Fiction** `ENG 345`
 - *Emma* by Jane Austen
 - *Jane Eyre* by Charlotte Bronte
