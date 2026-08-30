@@ -2,8 +2,6 @@
 title: 🐯 Princeton African American Studies unofficial reading list, fall 2026
 ---
 
-## Sophomore level
-
 **African American Studies & the Philosophy of Race** `AAS 201`
 - *The Future of Whiteness* by Linda Martín Alcoff
 - ✔️ ***The Fire Next Time*** by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
@@ -54,8 +52,6 @@ title: 🐯 Princeton African American Studies unofficial reading list, fall 202
 - *Want to Start a Revolution?: Radical Women in the Black Freedom Struggle* by Gore et al.
 - *Bloody Lowndes: Civil Rights & Black Power in Alabama's Black Belt* by Hasan Kwame Jeffries
 
-## Junior level
-
 **Black Women & Spiritual Narrative** `AAS 318`
 - *Paradise* by Toni Morrison <!-- 9780804169882 -->
 - *Their Eyes Were Watching God* by Zora Neale Hurston <!-- 9780060838676 -->
@@ -66,7 +62,12 @@ title: 🐯 Princeton African American Studies unofficial reading list, fall 202
 - *The Mothers* by Brit Bennett <!-- 9780399184529 -->
 - *I Know Why the Caged Bird Sings* by Maya Angelou <!-- 9780345514400 -->
 
-## Senior level
+**Toni Morrison & Her Circle** `AAS 320`
+- ✔️ ***Beloved*** by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 9781400033416 -->
+- *Song of Solomon* by Toni Morrison <!-- 9781400033423 -->
+- *A Mercy* by Toni Morrison <!-- 9780307276766 -->
+- *Paradise* by Toni Morrison <!-- 9780804169882 -->
+- *The Bluest Eye* by Toni Morrison <!-- 9780307278449 -->
 
 **Art, Apartheid & South Africa** `AAS 411`
 - ✔️ ***Disgrace*** by J. M. Coetzee 
