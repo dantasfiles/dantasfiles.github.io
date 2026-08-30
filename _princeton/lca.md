@@ -16,7 +16,7 @@ title: 🐯 Princeton Lewis Center for the Arts unofficial reading list, fall 20
 - *The Mill on the Floss* by George Eliot
 - *A Century of Fiction in The New Yorker: 1925-2025* by Deborah Treisman
 
-**Advanced Creative Writing (Fiction)** `CWR 303`
+**Adv. Creative Writing (Fiction)** `CWR 303`
 - *All My Puny Sorrows* by Miriam Toews <!-- 9781635574975 -->
 - *A Century of Fiction in The New Yorker, 1925-2025* by Deborah Treisman <!-- 9780593801918 -->
 - *The Transit of Venus* by Shirley Hazzard <!-- 9780143135654 -->
