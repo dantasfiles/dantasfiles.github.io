@@ -2,8 +2,6 @@
 title: 🐯 Princeton Politics unofficial reading list, fall 2026
 ---
 
-## Junior level
-
 **Conducting Independent Research in Political Science** `POL 300`
 - *The Fundamentals of Political Science Research* by Kellstedt & Whitten
 
@@ -26,7 +24,6 @@ title: 🐯 Princeton Politics unofficial reading list, fall 2026
 **Experimental Methods in Social Science** `POL 341`
 - *Social Science Experiments: A Hands-on Intro.* by Donald P. Green
 
-
 **Causes of War** `POL 388`
 - *Immanuel Kant: Perpetual Peace & Other Essays*
 - *Hitler's World View: A Blueprint for Power* by Eberhard Jackel
@@ -35,8 +32,6 @@ title: 🐯 Princeton Politics unofficial reading list, fall 2026
 - *The History of the Peloponnesian War* by Thucydides
 - ✔️ ***The Guns of August: The Outbreak of World War I*** by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
 - *Man, the State & War: A Theoretical Analysis* by Kenneth N. Waltz 
-
-## Senior level
 
 **International Relations: Russia's Relations with Europe** `POL 440`
 - *The Russo-Ukrainian War: The Return of History* by Serhii Plokhy
@@ -48,7 +43,13 @@ title: 🐯 Princeton Politics unofficial reading list, fall 2026
 - *Massacre in Mexico* by Elena Poniatowska
 - *Knitting the Fog* by Claudia D. Hernández
 
-## Graduate level
+**Laws & Mores** `POL 503`
+- *Machiavelli: Selected Political Writings* <!-- 9780872202474 -->
+- *Rousseau: The Social Contract & Other Later Political Writings* <!-- 9781316605448 -->
+- *The Nicomachean Ethics* by Aristotle <!-- 9780140455472 -->
+- *Aquinas: Political Writings* <!-- 9780521375955 -->
+- *Rules: A Short History of What We Live By* by Lorraine Daston <!-- 9780691156989 -->
+- *Plato: Complete Works* <!-- 9780872203495 -->
 
 **The Comparative Political Economy of Development** `POL 523`
 - ✔️ ***[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)*** by Pearson et al.
