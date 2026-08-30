@@ -5,6 +5,9 @@ title: 🐯 Princeton Study of America unofficial reading list, fall 2026
 **Comparative Perspectives on Power, Resistance & Change** `AMS/ASA/LAO/NAI 101`
 - *The US War with Mexico: A Brief History with Documents* by Ernesto Chavez
 
+**American Deaf Culture** `AMS 214`
+- *The Language of Light: A History of Silent Voices* by Gerald Shea <!-- 9780300215434 -->
+
 **Intro. to Law & Public Policy in African American History** `AMS 231`
 - *Reconsidering Reparations: Why Climate Justice & Constructive Politics Are Needed in the Wake of Slavery & Colonialism* by Olúfẹ́mi O. Táíwò
 - *Racecraft: The Soul of Inequality* in American Life by Fields & Fields
