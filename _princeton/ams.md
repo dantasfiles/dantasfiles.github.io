@@ -2,12 +2,8 @@
 title: 🐯 Princeton Study of America unofficial reading list, fall 2026
 ---
 
-## Freshman level
-
 **Comparative Perspectives on Power, Resistance & Change** `AMS/ASA/LAO/NAI 101`
 - *The US War with Mexico: A Brief History with Documents* by Ernesto Chavez
-
-## Sophomore level
 
 **Intro. to Law & Public Policy in African American History** `AMS 231`
 - *Reconsidering Reparations: Why Climate Justice & Constructive Politics Are Needed in the Wake of Slavery & Colonialism* by Olúfẹ́mi O. Táíwò
@@ -38,8 +34,6 @@ title: 🐯 Princeton Study of America unofficial reading list, fall 2026
 - *The Trafficker Next Door: How Household Employers Exploit Domestic Workers* by Rhacel Salazar Parreñas
 - *The Qualities of a Citizen: Women, Immigration & Citizenship, 1870-1965* by Martha Gardner 
 
-## Junior level
-
 **American Literature: 1930-Present** `AMS 340`
 - ✔️ ***The Road*** by Cormac McCarthy
 - *American Pastoral* by Philip Roth
@@ -58,8 +52,6 @@ title: 🐯 Princeton Study of America unofficial reading list, fall 2026
 - *Princeton University Art Museum: Handbook of the Collections* by James Christen Steward
 - *Whitney Museum of American Art: Handbook of the Collection* by Dana Miller
 - *Toward Joy: New Frameworks for American Art* by Stephanie Sparling Williams
-
-## Senior level
 
 **Musical Theatre & Fan Cultures** `AMS 440`
 - *Fandom in Musical Theatre* by Jessica Hillman-McCord
