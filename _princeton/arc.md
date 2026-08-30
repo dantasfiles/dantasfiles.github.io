@@ -2,8 +2,6 @@
 title: 🐯 Princeton Architecture unofficial reading list, fall 2026
 ---
 
-## Sophomore level
-
 **Designing Sustainable Systems: Experiential Learning on Campus Energy** `ARC 208`
 - *Cradle to Cradle: Remaking the Way We Make Things* by McDonough & Braungart
 - *Biomimicry: Innovation Inspired by Nature* by Janine M. Benyus
@@ -28,7 +26,9 @@ title: 🐯 Princeton Architecture unofficial reading list, fall 2026
 - *Voices of Freedom: An Oral History of the Civil Rights Movement from the 1950s Through the 1980s* by Hampton & Fayer
 - *From #BlackLivesMatter to Black Liberation* by Keeanga-Yamahtta Taylor
 
-## Junior level
+**History of Architectural Theory** `ARC 308`
+- *Race & Modern Architecture: A Critical History from the Enlightenment to the Present* by Cheng et al. <!-- 9780822966593 -->
+- *Learning from Las Vegas: The Forgotten Symbolism of Architectural Form* by Venturi et al.<!-- 9780262720069 -->
 
 **Food, Health & Justice** `URB 312`
 - *Food Justice Undone: Lessons for Building a Better Movement* by Hanna Garth
