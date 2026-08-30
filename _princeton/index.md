@@ -21,18 +21,6 @@ I compiled these unofficial reading lists using publicly available information f
 
 </div>
 
-## General
-
-<div style="column-count: 2;" markdown="1">
-
-**[First-Year Seminars](https://dantasfiles.com/princeton/frs)**
-
-**[Science & Technology](https://dantasfiles.com/princeton/stc)**
-
-**[Teacher Preparation](https://dantasfiles.com/princeton/tpp)**
-
-</div>
-
 ## Humanities & the Arts
 
 <div style="column-count: 2;" markdown="1">
@@ -52,6 +40,8 @@ I compiled these unofficial reading lists using publicly available information f
 **[East Asian Studies](https://dantasfiles.com/princeton/eas)**
 
 **[English](https://dantasfiles.com/princeton/eng)**
+
+**[First-Year Seminars](https://dantasfiles.com/princeton/frs)**
 
 **[French & Italian](https://dantasfiles.com/princeton/fre-ita)**
 
@@ -105,6 +95,8 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Sociology](https://dantasfiles.com/princeton/soc)**
 
+**[Teacher Preparation](https://dantasfiles.com/princeton/tpp)**
+
 </div>
 
 ## Natural Sciences
@@ -134,6 +126,8 @@ I compiled these unofficial reading lists using publicly available information f
 **[Physics](https://dantasfiles.com/princeton/phy)**
 
 **[Psychology](https://dantasfiles.com/princeton/psy)**
+
+**[Science & Technology](https://dantasfiles.com/princeton/stc)**
 
 </div>
 
