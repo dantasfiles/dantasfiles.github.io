@@ -191,7 +191,7 @@ The Comparative Literature department publishes a **[Reading Selection List](htt
 - Kazuo Ishiguro: *Klara & the Sun*
 - Henry James: *The Outcry*
 - Min Jin Lee: *Pachinko*
-- Toni Morrison: *Beloved*
+- Toni Morrison: *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
 - Vladimir Nabokov: *Pale Fire*
 - Mary Shelley: *Frankenstein*
 - Mark Twain: *Tom Sawyer* / *Huck Finn*
