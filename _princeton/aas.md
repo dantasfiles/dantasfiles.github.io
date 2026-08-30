@@ -30,6 +30,11 @@ title: 🐯 Princeton African American Studies unofficial reading list, fall 202
 - *Black Reconstruction in America, 1860-1880* by W.E.B. Du Bois
 - *The World & Africa* by W.E.B. Du Bois
 
+**Intro. to African American Literature to 1910** `AAS 253`
+- *The Autobiography of an Ex-Colored Man* by James Weldon Johnson <!-- 9780140184020 -->
+- *Iola Leroy* by Frances Ellen Watkins Harper <!-- 9780143106043 -->
+- *Incidents in the Life of a Slave Girl* by Harriet Jacobs <!-- 9780393870787 -->
+
 **Intro. to African American History to 1863** `AAS 267`
 - *The Interesting Narrative of the Life of Olaudah Equiano*
 - *Narrative of the Life of Frederick Douglass: An American Slave*
