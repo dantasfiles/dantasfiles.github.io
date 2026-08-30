@@ -2,6 +2,7 @@
 title: 🐯 My Princeton reads, fall 2026
 # description: I use this page to track books and papers I've read that are used in Fall 2026 Princeton classes
 author: Daniel Dantas
+published: false
 ---
 
 I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Fall 2026 Princeton classes<br>I connected publicly available information from the [online bookstore](https://princeton.ecampus.com/) and course webpages
