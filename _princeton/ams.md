@@ -34,6 +34,9 @@ title: 🐯 Princeton Study of America unofficial reading list, fall 2026
 - *The Trafficker Next Door: How Household Employers Exploit Domestic Workers* by Rhacel Salazar Parreñas
 - *The Qualities of a Citizen: Women, Immigration & Citizenship, 1870-1965* by Martha Gardner 
 
+**Moby-Dick, American Empire & the Oceanic Imaginary** `AMS 337`
+- *Moby-Dick* by Herman Melville <!-- 9780393285000 -->
+
 **American Literature: 1930-Present** `AMS 340`
 - ✔️ ***The Road*** by Cormac McCarthy
 - *American Pastoral* by Philip Roth
