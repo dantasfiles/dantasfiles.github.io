@@ -2,7 +2,9 @@
 title: 🐯 Princeton Philosophy unofficial reading list, fall 2026
 ---
 
-## Sophomore level
+**Race, Racism & Racial Justice** `PHI 208`
+- *Color Conscious: The Political Morality of Race* by Appiah & Gutmann <!-- 9780691059099 -->
+- *Are Prisons Obsolete?* by Angela Y. Davis <!-- 9781583225813 -->
 
 **Tools for Thought: Logic, Probability, and Arguments for Philosophy & Life** `PHI 221`
 - *How Logic Works: A User's Guide* by Hans Halvorson
@@ -16,8 +18,6 @@ title: 🐯 Princeton Philosophy unofficial reading list, fall 2026
 - *More Beautiful & More Terrible: The Embrace & Transcendence of Racial Inequality in the US* by Imani Perry
 - *Race: A Philosophical Introduction* by Paul C. Taylor
 - *Sing, Unburied, Sing* by Jesmyn Ward
-
-## Junior level 
 
 **Aristotle & His Successors** `PHI 301`
 - *Complete Works of Aristotle, v.1*
@@ -38,8 +38,6 @@ title: 🐯 Princeton Philosophy unofficial reading list, fall 2026
 
 **Semantics** `PHI 334`
 - *Semantics in Generative Grammar* by Heim & Kratzer 
-
-## Graduate level 
 
 **Pre-Kantian Rationalism: The Ethics & the Tractatus Theologico-Politicus** `PHI 511`
 - *The Collected Works of Spinoza, Vol. II* by Edwin Curley
