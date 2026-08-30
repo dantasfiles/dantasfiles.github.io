@@ -4,8 +4,6 @@ title: 🐯 Princeton Comparative Literature unofficial reading list, fall 2026
 
 The department also publishes an official **[Comparative Literature Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**.<br>I track the **[books I've read from that list](https://dantasfiles.com/princeton/com-suggested)**
 
-## Sophomore level
-
 **Who Are You Really? Authenticity in Life, Literature & the Internet** `COM 200`
 - *The Reluctant Fundamentalist* by Mohsin Hamid
 
@@ -24,12 +22,18 @@ The department also publishes an official **[Comparative Literature Reading Sele
 - *The Tale of Genji* by Murasaki Shikibu
 - *A History of East Asia: From the Origins of Civilization to the 21st Century* by Charles Holcombe
 
+**Arabian Nights** `COM 251`
+- *101 Nights* <!-- 9781479873234 -->
+- *Orientalism* by Edward W. Said <!-- 9780394740676 -->
+- *Arabian Nights & Days* by Naguib Mahfouz <!-- 9780385469012 -->
+- *Aladdin* <!-- 9781324091110 -->
+- *Sindbad & Other Stories from the Arabian Nights* <!-- 9780393332469 -->
+- *The Arabian Nights* <!-- 9780393331660 -->
+
 **Revisiting Paris** `COM 258`
 - *Kiffe Kiffe demain* by Faïza Guène
 - *Cannibale* by Didier Daeninckx
 - *Dora Bruder* by Patrick Modiano
-
-## Junior level
 
 **Intro. to Comp. Lit.** `COM 300`
 - *The Epic of Gilgamesh* by Andrew George
@@ -70,8 +74,6 @@ The department also publishes an official **[Comparative Literature Reading Sele
 **The Bible as Literature** `COM 392`
 - *The Literary Guide to the Bible* by Alter & Kermode
 - *The New Oxford Annotated Bible with Apocrypha: New Revised Standard Version*
-
-## Senior level
 
 **Translation, Migration, Culture** `COM 409`
 - *Migrant Brothers: A Poet's Declaration of Human Dignity* by Patrick Chamoiseau
@@ -126,8 +128,6 @@ The department also publishes an official **[Comparative Literature Reading Sele
 - *Nervous Conditions* by Tsitsi Dangarembga
 - *Waiting for the Barbarians* by J. M. Coetzee
 - *No Telephone to Heaven* by Michelle Cliff
-
-## Graduate level 
 
 **Comp. Lit. Graduate Pedagogy** `COM 500`
 - *First Day to Final Grade: A Graduate Student's Guide to Teaching* by Curzan & Damour
