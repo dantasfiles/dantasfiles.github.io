@@ -34,7 +34,7 @@ title: 🐯 Princeton Lewis Center for the Arts unofficial reading list, fall 20
 
 ## Theater & Music Theater
 
-**Introduction to Theater Making** `MTD/THR 101`
+**Introduction to Theater Making** `THR/MTD 101`
 - *Pipeline* by Dominique Morisseau
 - ✔️ ***Waiting for Godot: A Tragicomedy in Two Acts*** by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
 - *Your Healing is Killing Me* by Virginia Grise 
@@ -49,6 +49,9 @@ title: 🐯 Princeton Lewis Center for the Arts unofficial reading list, fall 20
 **Musical Theatre & Fan Cultures** `MTD 340`
 - *Fandom in Musical Theatre* by Jessica Hillman-McCord
 - *John Proctor is the Villain* by Kimberly Belflower
+
+**Creative Intellect** `THR/MTD 405`
+- *The Cult of Creativity: A Surprisingly Recent History* by Samuel W. Franklin <!-- 9780226836706 -->
 
 ## Visual Arts
 
