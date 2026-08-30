@@ -55,7 +55,9 @@ title: 🐯 Princeton Study of America unofficial reading list, fall 2026
 - *The Nickel Boys* by Colson Whitehead
 
 **LANDBACK! Indigenous Rematriation & Restitution** `NAI 360`
-- *Allotment Stories: Indigenous Land Relations under Settler Siege* by Justice & O'Brien
+- *Marketing the Wilderness: Outdoor Recreation, Indigenous Activism & the Battle over Public Lands* by Joseph Whitson <!-- 9781517915117 -->
+- *Allotment Stories: Indigenous Land Relations under Settler Siege* by Justice & O'Brien <!-- 9781517908768 -->
+- *By the Fire We Carry: The Generations-Long Fight for Justice on Native Land* by Rebecca Nagle <!-- 9780063112049 -->
 
 **Curatorial Time: Historic American Art & its 21st Century Audiences** `AMS 362`
 - *Princeton University Art Museum: Handbook of the Collections* by James Christen Steward
