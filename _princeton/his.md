@@ -118,8 +118,6 @@ title: 🐯 Princeton History unofficial reading list, fall 2026
 - *A Concise History of the Haitian Revolution* by Jeremy D. Popkin
 - *The Age of Revolutions: And the Generations Who Made It* by Nathan Perl-Rosenthal 
 
-## Graduate level
-
 **Comparative Slavery** `HIS 516`
 - *Soul by Soul: Life Inside the Antebellum Slave Market* by Walter Johnson
 - *The Diligent: A Voyage Through the Worlds Of The Slave Trade* by Robert Harms
