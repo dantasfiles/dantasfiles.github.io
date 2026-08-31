@@ -132,6 +132,12 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 - *The Correspondent* by Virginia Evans
 - *Selected Letters* by Seneca
 
+**Capitalism, Character & Community in 4 Victorian Novels** `ENG 452`
+- *Dombey & Son* by Charles Dickens
+- *Our Mutual Friend* by Charles Dickens
+- *The Woman in White* by Wilkie Collins
+- *Silas Marner* by George Eliot
+
 **Troubadours & Sonneteers** `ENG 470`
 - *Taylor's Version: The Poetic & Musical Genius of Taylor Swift* by Stephanie Burt
 - *Bob Dylan's Poetics: How the Songs Work* by Timothy Hampton
