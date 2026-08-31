@@ -12,6 +12,13 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 - *Renaissance and Baroque Poetry of Spain: With English Prose Translations* by Elias L. Rivers
 - *Shakespeare's Sonnets* by Stephen Booth
 - *Hymns and Fragments* by Friedrich Hölderlin
+
+**Native American Literature** `ENG 242`
+- ✔️ ***Ceremony*** by Leslie Marmon Silko <!-- 9780143104919 -->
+- *Poet Warrior* by Joy Harjo <!-- 9781324022015 -->
+- *The Surrounded* by D'Arcy McNickle <!-- 9780826304698 -->
+- *Fire Exit* by Morgan Talty <!-- 9781959030553 -->
+- *Whereas* by Layli Long Soldier <!-- 9781555977672 -->
  
 **The Souls of Black Folk - Reading W.E.B. Du Bois** `ENG 245`
 - *The Autobiography of W.E.B. Du Bois*
