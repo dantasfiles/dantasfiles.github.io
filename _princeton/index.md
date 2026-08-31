@@ -135,7 +135,7 @@ I compiled these unofficial reading lists using publicly available information f
 
 **[Chemical & Biological Engineering](https://dantasfiles.com/princeton/cbe)**
 
-**[Civil and Environmental Engineering](https://dantasfiles.com/princeton/cee)**
+**[Civil & Environmental Engineering](https://dantasfiles.com/princeton/cee)**
 
 **[Computer Science](https://dantasfiles.com/princeton/cos)**
 
