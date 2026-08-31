@@ -80,6 +80,13 @@ title: 🐯 Princeton African American Studies unofficial reading list, fall 202
 - *The Young Lords: A Radical History* by Johanna Fernández <!-- 9781469653440 -->
 - *Black History Is for Everyone* by Brian Jones <!-- 9798888904473 -->
 
+**African American Religion: Black Religion & the Harlem Renaissance** `AAS 368`
+- *Black Gods of the Metropolis: Negro Religious Cults of the Urban North* by Arthur Huff Fauset <!-- 9780812210019 -->
+- *The New Negro: Voices of the Harlem Renaissance* by Alain Locke <!-- 9780684838311 -->
+- *Harlem Renaissance* by Nathan Irvin Huggins <!-- 9780195063363 -->
+- *Home to Harlem* by Claude McKay <!-- 9780486852584 -->
+- *Tambourines to Glory* by Langston Hughes <!-- 9780767923279 -->
+
 **Art, Apartheid & South Africa** `AAS 411`
 - ✔️ ***Disgrace*** by J. M. Coetzee 
 
