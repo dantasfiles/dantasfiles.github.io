@@ -2,8 +2,6 @@
 title: 🐯 Princeton Classics unofficial reading list, fall 2026
 ---
 
-## Freshman level
-
 **Beginner's Ancient Greek** `CLG 101`
 - *An Intro. to Ancient Greek: A Literary Approach* by Luschnig & Mitchell
 
@@ -11,14 +9,11 @@ title: 🐯 Princeton Classics unofficial reading list, fall 2026
 - *Intro. to Latin* by Susan C. Shelmerdine
 
 **Socrates** `CLG 105`
-- *Plato's Apology of Socrates: A Commentary* by Miller & Platter
 - ✔️ ***Apology*** by Plato
 
 **Intermediate Latin: Catullus & His Age** `LAT 105`
 - *AVARICVM: A Latin Text of Caesar's Gallic War VII 1-28 with Running Vocabulary and Commentary* by Lanier et al.
 - *The Student's Catullus* by Daniel H. Garrison 
-
-## Sophomore level
 
 **Classical Mythology** `CLA 212`
 - *Persians* by Aeschylus
@@ -75,8 +70,6 @@ title: 🐯 Princeton Classics unofficial reading list, fall 2026
 - *The World of Pompeii* by Dobbins & Foss
 - *Pompeii & Herculaneum: A Sourcebook* by Cooley & Cooley
 
-## Junior level
-
 **Aristotle & His Successors** `CLA 303`
 - *Complete Works of Aristotle, v.1*
 - *Nicomachean Ethics* by Aristotle
@@ -90,8 +83,6 @@ title: 🐯 Princeton Classics unofficial reading list, fall 2026
 
 **Ancient History: Everyday Writing in the Roman World** `CLA 326`
 - *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall
-
-## Senior level 
 
 **Greek Literature: The Greek Chorus** `CLG 405`
 - *Euripides: Bacchae* by Allan & Swift
