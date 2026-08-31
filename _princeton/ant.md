@@ -87,7 +87,22 @@ title: 🐯 Princeton Anthropology unofficial reading list, fall 2026
 - *Weapons of the Weak: Everyday Forms of Peasant Resistance* by James C. Scott
 
 **Visible Evidence: Wildlife Films & Multispecies Documentary** `ANT 455`
-- *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor 
+- *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor
+
+**Death Im/material** `ANT 503`
+- *Zong!: As told to the author by Setaey Adamu Boateng* <!-- 9781644453049 -->
+- *Western Attitudes toward Death: From the Middle Ages to the Present* by Philippe Ariès <!-- 9780801817625 -->
+- *Being Dead Otherwise* by Anne Allison <!-- 9781478019848 -->
+- *The Land of Open Graves: Living & Dying on the Migrant Trail* by Jason De Leon <!-- 9780520282759 -->
+- *Digging for the Disappeared: Forensic Science after Atrocity* by Adam Rosenblatt <!-- 9780804794916 -->
+- *Camera Lucida: Reflections on Photography* by Roland Barthes <!-- 9780374521349 -->
+- *Shamanism, Colonialism & the Wild Man: A Study in Terror & Healing* by Michael Taussig <!-- 9780226790138 -->
+- *The Last Word: Women, Death & Divination in Inner Mani* by C. Nadia Seremetakis <!-- 9780226748764 -->
+- *Beyond the Pleasure Principle* by Sigmund Freud <!-- 9780393007695 -->
+- *Subject to Death: Life and Loss in a Buddhist World* by Robert Desjarlais <!-- 9780226355870 -->
+
+
+
 
 
 
