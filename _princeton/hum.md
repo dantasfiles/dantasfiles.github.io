@@ -167,7 +167,7 @@ title: 🐯 Princeton Humanities Council unofficial reading list, fall 2026
 - *The Words of My Perfect Teacher* by Patrul Rinpoche
  
 **East Asian Humanities I: The Classical Foundations** `HUM 233`
-- ✔️ ***[Analects](https://standardebooks.org/ebooks/confucius/analects/james-legge)*** by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
+- ✔️ ***Analects*** by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
 - *Zen Sourcebook: Traditional Documents from China, Korea & Japan* by Addiss et al.
 - *The Complete Writings* by Zhuāngzï
 - *The Tale of Genji* by Murasaki Shikibu
