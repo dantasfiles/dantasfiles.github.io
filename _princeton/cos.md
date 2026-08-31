@@ -2,12 +2,8 @@
 title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 ---
 
-## Sophomore level 
-
 **Algorithms & Data Structures** `COS 226`
 - ✔️ ***[Algorithms](https://algs4.cs.princeton.edu/home/)*** by Sedgewick & Wayne
-
-## Junior level
 
 **Contemporary Logic Design** `COS 306`
 - *Digital Design w/ RTL Design, VHDL & Verilog* by Frank Vahid
@@ -40,8 +36,6 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 
 **Computer Architecture & Organization** `COS 375`
 - ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy
-
-## Senior level
 
 **[Reasoning with Data](https://humans.cs.princeton.edu/teaching/fall2026_reasoning_with_data.html)** `COS 424`
 
