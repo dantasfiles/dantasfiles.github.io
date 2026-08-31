@@ -246,9 +246,9 @@ title: 🐯 Princeton Humanities Council unofficial reading list, fall 2026
 - *In Search of Lost Time*: *Swann's Way*, *In the Shadow of Young Girls in Flower*, *The Prisoner* & *Finding Time Again* by Marcel Proust
 
 **Modern Art: Science & Its Fictions in the Long 19th Century** `HUM 577`
-- ✔️ [***Frankenstein***](https://standardebooks.org/ebooks/mary-shelley/frankenstein) by Mary Shelley
-- ✔️ [***Journey to the Center of the Earth***](https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson) by Jules Verne
-- ✔️ [***The Island of Doctor Moreau***](https://standardebooks.org/ebooks/h-g-wells/the-island-of-doctor-moreau) by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
+- ✔️ ***Frankenstein*** by Mary Shelley
+- ✔️ ***Journey to the Center of the Earth*** by Jules Verne
+- ✔️ ***The Island of Doctor Moreau*** by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
 
 ## Journalism
 
