@@ -158,7 +158,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list, fall 2026
 
 ## Reading Selection List
 
-The Comparative Literature department publishes a **[Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**
+The Comparative Literature department publishes an extensive **[Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**
 
 ✔️ I've read the following from that list:
 
