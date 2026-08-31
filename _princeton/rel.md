@@ -2,12 +2,8 @@
 title: 🐯 Princeton Religion unofficial reading list, fall 2026
 ---
 
-## Freshman level
-
 **Religion & the Public Conversation** `REL 100`
 - ✔️ ***Religion: A Very Short Intro.*** by Thomas A. Tweed
-
-## Sophomore level
 
 **Jews Across the Americas** `REL 205`
 - *Like a Bride* by Rosa Nissán
@@ -40,8 +36,6 @@ title: 🐯 Princeton Religion unofficial reading list, fall 2026
 - *The Jewish Annotated New Testament* by Levine & Brettler
 - *Early Christian Writings: The Apostolic Fathers* by Louth & Staniforth
 - *The New Testament: A Historical Intro. to the Early Christian Writings* by Ehrman & Méndez
-
-## Junior level 
 
 **Junior Seminar** `REL 300`
 - *The Elementary Forms of Religious Life* by Emile Durkheim
