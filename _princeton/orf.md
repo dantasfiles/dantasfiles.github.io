@@ -1,6 +1,5 @@
 ---
 title: 🐯 Princeton Operations Research & Financial Engineering unofficial reading list, fall 2026
-layout: reading-list
 ---
 
 **Fundamentals of Statistics** `ORF 245`
