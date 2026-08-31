@@ -40,6 +40,13 @@ title: 🐯 Princeton Study of America unofficial reading list, fall 2026
 - *The Trafficker Next Door: How Household Employers Exploit Domestic Workers* by Rhacel Salazar Parreñas
 - *The Qualities of a Citizen: Women, Immigration & Citizenship, 1870-1965* by Martha Gardner 
 
+**Native American Literature** `NAI/AMS 322`
+- ✔️ ***Ceremony*** by Leslie Marmon Silko <!-- 9780143104919 -->
+- *Poet Warrior* by Joy Harjo <!-- 9781324022015 -->
+- *The Surrounded* by D'Arcy McNickle <!-- 9780826304698 -->
+- *Fire Exit* by Morgan Talty <!-- 9781959030553 -->
+- *Whereas* by Layli Long Soldier <!-- 9781555977672 -->
+
 **Moby-Dick, American Empire & the Oceanic Imaginary** `AMS 337`
 - *Moby-Dick* by Herman Melville <!-- 9780393285000 -->
 
