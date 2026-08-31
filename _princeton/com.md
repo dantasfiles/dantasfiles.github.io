@@ -2,7 +2,7 @@
 title: 🐯 Princeton Comparative Literature unofficial reading list, fall 2026
 ---
 
-**[Reading Selection List →](#reading-selection-list)**
+<!-- **[Reading Selection List →](#reading-selection-list)** -->
 
 **Who Are You Really? Authenticity in Life, Literature & the Internet** `COM 200`
 - *The Reluctant Fundamentalist* by Mohsin Hamid
@@ -156,6 +156,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list, fall 2026
 - *Cheri* & *The Last of Cheri* by Colette
 - *The Age of Innocence* by Edith Wharton
 
+<!-- 
 ## Reading Selection List
 
 The Comparative Literature department publishes an extensive **[Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**
@@ -217,6 +218,7 @@ The Comparative Literature department publishes an extensive **[Reading Selectio
 - Orson Welles: *Citizen Kane* / *Chimes at Midnight*
 - Wong Kar-wai: *The Grandmaster*
 
+-->
 
 
-
+--
