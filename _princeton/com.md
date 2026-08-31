@@ -100,7 +100,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list, fall 2026
 - *The Chukchi Bible* by Yuri Rytkheu
 
 **19th-Century European Art: Painting & Literature in 19th C. France and England** `COM 450`
-- *The Picture of Dorian Gray* by Oscar Wilde
+- ✔️ ***The Picture of Dorian Gray*** by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
 - *The Masterpiece* by Émile Zola
 - *The Unknown Masterpiece* by Honoré de Balzac
 - *Like Death* by Guy de Maupassant
