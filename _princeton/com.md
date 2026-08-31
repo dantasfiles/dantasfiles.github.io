@@ -205,6 +205,7 @@ The Comparative Literature department publishes a **[Reading Selection List](htt
 - Chris Marker: *La jetée*
 - Georges Méliès: *A Trip to the Moon* / *The Impossible Voyage*
 - Hayao Miyazaki: *Spirited Away*
+- F.W. Murnau: *Nosferatu*
 - Christopher Nolan: *The Dark Knight*
 - Park Chan-wook: *Oldboy*
 - Orson Welles: *Citizen Kane* / *Chimes at Midnight*
