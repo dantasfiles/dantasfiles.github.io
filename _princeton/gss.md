@@ -22,7 +22,7 @@ title: 🐯 Princeton Gender & Sexuality Studies unofficial reading list, fall 2
 - *The Bacchae* by Euripides
 - *Metamorphoses* by Ovid
 - *Anthology of Classical Myth: Primary Sources in Translation* by Trzaskoma et al.
-- *The Odyssey* by Homer
+- ✔️ ***The Odyssey*** by Homer
 - *Theogony* by Hesiod
 - *Work & Days* by Hesiod
 - *Ajax* by Sophocles
