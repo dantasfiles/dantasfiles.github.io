@@ -1,17 +1,20 @@
 ---
 title: 🐯 Princeton Science & Technology Center unofficial reading list, fall 2026
-layout: reading-list
 ---
 
-| Junior level | |
-| :---: | --- |
-| **Origami Engineering** <br> STC 345 | • *How to Fold It: The Mathematics of Linkages, Origami & Polyhedra* by Joseph O'Rourke | 
-| **Writing about Science** <br> STC 349 | • *The Perpetual Now: A Story of Amnesia, Memory & Love* by Michael D. Lemonick <br> • *Gulp: Adventures on the Alimentary Canal* by Mary Roach | 
-| **Autonomous Fabrication & Robotics** <br> STC 374 | ◦ *3D Printing of Concrete: Properties, Materials & Modeling* by Zhanzhao Li and Aleksandra Radlińska <br> ◦ *Robotics: Theory & Industrial Applications* by Ross et al. |
+**Origami Engineering** `STC 345`
+- *How to Fold It: The Mathematics of Linkages, Origami & Polyhedra* by Joseph O'Rourke
 
-| Senior level | |
-| :---: | --- |
-| **Visible Evidence: Wildlife Films & Multispecies Documentary** <br> STC 455 | • *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor | 
+**Writing about Science** `STC 349`
+- *The Perpetual Now: A Story of Amnesia, Memory & Love* by Michael D. Lemonick
+- *Gulp: Adventures on the Alimentary Canal* by Mary Roach
+
+**Autonomous Fabrication & Robotics** `STC 374`
+- *3D Printing of Concrete: Properties, Materials & Modeling* by Li & Radlińska
+- *Robotics: Theory & Industrial Applications* by Ross et al.
+
+**Visible Evidence: Wildlife Films & Multispecies Documentary** `STC 455`
+- *Cross-Cultural Filmmaking: A Handbook for Making Documentary & Ethnographic Films & Videos* by Barbash & Taylor 
 
 
 
