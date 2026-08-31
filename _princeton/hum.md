@@ -75,7 +75,7 @@ title: 🐯 Princeton Humanities Council unofficial reading list, fall 2026
 ## Humanistic Studies
 
 **The Byzantine Empire** `HUM 204`
-- ✔️ *Byzantium: A Very Short Intro.* by Peter Sarris
+- ✔️ ***Byzantium: A Very Short Intro.*** by Peter Sarris
 - *The Social History of Byzantium* by John Haldon
 - *A Cabinet of Byzantine Curiosities: Strange Tales & Surprising Facts from History's Most Orthodox Empire* by Anthony Kaldellis
 - *Secret History* by Procopius
