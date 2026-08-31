@@ -1,11 +1,9 @@
 ---
 title: 🐯 Princeton Neuroscience unofficial reading list, fall 2026
-layout: reading-list
 ---
 
-| Sophomore level | |
-| :---: | --- | 
-| **Functional Neuroanatomy** / **Fundamentals of Neuroscience** <br> NEU 200 / 201 | • *Neuroscience: Exploring the Brain* by Mark Bear | 
+**Functional Neuroanatomy** / **Fundamentals of Neuroscience** `NEU 200 / 201`
+- *Neuroscience: Exploring the Brain* by Mark Bear
 
 
 
