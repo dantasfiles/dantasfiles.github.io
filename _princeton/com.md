@@ -157,6 +157,7 @@ title: 🐯 Princeton Comparative Literature unofficial reading list, fall 2026
 - *The Age of Innocence* by Edith Wharton
 
 <!-- 
+
 ## Reading Selection List
 
 The Comparative Literature department publishes an extensive **[Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**
@@ -220,5 +221,3 @@ The Comparative Literature department publishes an extensive **[Reading Selectio
 
 -->
 
-
---
