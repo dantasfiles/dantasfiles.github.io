@@ -2,8 +2,6 @@
 title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list, fall 2026
 ---
 
-## Freshman level
-
 **Beginning Bosnian-Croatian-Serbian I** `BCS 101`
 - *Bosnian, Croatian, Serbian* by Alexander & Elias-Bursac
 
@@ -15,8 +13,6 @@ title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list, fa
 
 **Intermediate Russian I** `RUS 105`
 - *Etazhi: Second Year Russian Language & Culture* by Dengub & Nazarova
-
-## Sophomore level 
 
 **Adv. Russian Reading and Conversation I** `RUS 207`
 - *Cinema for Russian Conversation, Vol. 2* by Kashper et al. 
@@ -30,8 +26,6 @@ title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list, fa
 - ✔️ ***Notes from Underground*** by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 - *Crime & Punishment* by Fyodor Dostoyevsky
 
-## Junior level
-
 **East European Literature** `SLA 345`
 - *The Death of a Soldier Told by His Sister* by Olesya Khromeychuk
 - *Chernobyl Prayer: A Chronicle of the Future* by Svetlana Alexievich
@@ -44,8 +38,6 @@ title: 🐯 Princeton Slavic Languages & Literatures unofficial reading list, fa
 - *The Door* by Magda Szabo
 - *The Trial* by Franz Kafka
 - *Satantango* by László Krasznahorkai 
-
-## Senior level
 
 **Dostoevsky** `SLA 416`
 - *The Brothers Karamazov* by Fyodor Dostoyevsky
