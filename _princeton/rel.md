@@ -75,6 +75,12 @@ title: 🐯 Princeton Religion unofficial reading list, fall 2026
 - *Scholastic Sanskrit: A Manual for Students* by Tubb & Boose
 - *A Concise Elementary Grammar of the Sanskrit Language* by Jan Gonda
 
+**African American Religion: Black Religion & the Harlem Renaissance** `REL 368`
+- *Black Gods of the Metropolis: Negro Religious Cults of the Urban North* by Arthur Huff Fauset <!-- 9780812210019 -->
+- *The New Negro: Voices of the Harlem Renaissance* by Alain Locke <!-- 9780684838311 -->
+- *Harlem Renaissance* by Nathan Irvin Huggins <!-- 9780195063363 -->
+- *Home to Harlem* by Claude McKay <!-- 9780486852584 -->
+- *Tambourines to Glory* by Langston Hughes <!-- 9780767923279 -->
 
 
 
