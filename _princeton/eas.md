@@ -55,6 +55,11 @@ title: 🐯 Princeton East Asian Studies unofficial reading list, fall 2026
 **3rd-Year** / **Intensive 3rd-Year Modern Chinese I** `CHI 303/305`
 - *Eyes on China: An Intermediate-Adv. Reader of Modern Chinese* by Chou et al.
 
+**Japanese Horror: Cognitive & Embodied Approaches** `EAS 313`
+- *Uzumaki* by Junji Ito <!-- 9781421561325 -->
+- *Nails and Eyes* by Kaori Fujino <!-- 9781782279549 -->
+- *March Was Made of Yarn: Reflections on the Japanese Earthquake, Tsunami & Nuclear Meltdown* by Luke & Karashima <!-- 9780307948861 -->
+
 **The Heike as History & Art** `EAS 318`
 - *The Tale of the Heike*
 - *The Dawn of the Warrior Age: War Tales from Medieval Japan* by Royall Tyler
