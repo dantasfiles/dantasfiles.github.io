@@ -1,6 +1,5 @@
 ---
 title: 🐯 Princeton Material Science & Engineering unofficial reading list, fall 2026
-layout: reading-list
 ---
 
 **Structure & Properties of Materials** `MSE 324`
