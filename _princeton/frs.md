@@ -89,7 +89,7 @@ title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 - *The Crucible* by Arthur Miller
 - *The Age of McCarthyism: A Brief History with Documents* by Schrecker & Deery
 - *For Her Own Good: Two Centuries of the Experts' Advice to Women* by Ehrenreich & English
-- *1984* by George Orwell
+- ✔️ ***1984*** by George Orwell
 - *The Haunting of Hill House* by Shirley Jackson
 - *Passing* by Nella Larsen
 - *John Proctor is the Villain* by Kimberly Belflower
