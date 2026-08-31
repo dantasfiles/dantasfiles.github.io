@@ -54,7 +54,7 @@ title: 🐯 Princeton English unofficial reading list, fall 2026
 - *Intro. to Old English* by Peter S. Baker
 
 **Shakespeare: Toward Hamlet** `ENG 318`
-- *The Complete Pelican Shakespeare* by Orgel & Braunmuller 
+- *The Complete Pelican Shakespeare*
 
 **Toni Morrison & Her Circle** `ENG 320`
 - ✔️ ***Beloved*** by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 9781400033416 -->
