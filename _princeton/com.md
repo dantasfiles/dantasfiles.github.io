@@ -178,7 +178,7 @@ The Comparative Literature department publishes an extensive **[Reading Selectio
 - Mark Twain: *Tom Sawyer* / *Huck Finn*
 
 📜 **Epic, Sacred Texts, Folktales**
-Homer: *The Odyssey*
+- Homer: *The Odyssey*
 
 🎭 **Drama**
 - William Shakespeare:
