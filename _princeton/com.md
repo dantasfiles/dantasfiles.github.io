@@ -177,6 +177,9 @@ The Comparative Literature department publishes an extensive **[Reading Selectio
 - Bram Stoker: *Dracula* ([my highlights](https://www.goodreads.com/notes/35619410-dracula/185327722-daniel-dantas))
 - Mark Twain: *Tom Sawyer* / *Huck Finn*
 
+📜 **Epic, Sacred Texts, Folktales**
+Homer: *The Odyssey*
+
 🎭 **Drama**
 - William Shakespeare:
   - Comedies: *A Midsummer Night's Dream* / *Much Ado About Nothing* / *The Tempest* / *The Winter's Tale*
