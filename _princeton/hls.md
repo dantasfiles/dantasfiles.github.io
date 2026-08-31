@@ -2,12 +2,8 @@
 title: 🐯 Princeton Hellenic Studies unofficial reading list, fall 2026
 ---
 
-## Freshman level
-
 **Elementary** / **Intermediate Modern Greek I** `HLS/MOG 101/105`
 - *Ellinika A / Greek 1: Method for Learning Greek as a Foreign Language* by Giorgos Simopoulos
-
-## Sophomore level
 
 **The Byzantine Empire** `HLS 209`
 - ✔️ ***Byzantium: A Very Short Intro.*** by Peter Sarris
@@ -64,8 +60,6 @@ title: 🐯 Princeton Hellenic Studies unofficial reading list, fall 2026
 - *The Jewish Annotated New Testament* by Levine & Brettler
 - *Early Christian Writings: The Apostolic Fathers* by Louth & Staniforth
 - *The New Testament: A Historical Intro. to the Early Christian Writings* by Ehrman & Méndez
-
-## Junior level
 
 **Aristotle & His Successors** `HLS 302`
 - *Complete Works of Aristotle, v.1*
