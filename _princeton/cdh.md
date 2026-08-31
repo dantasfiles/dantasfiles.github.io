@@ -2,8 +2,6 @@
 title: 🐯 Princeton Computational / Data Humanities unofficial reading list, fall 2026
 ---
 
-## Junior level
- 
 **Everyday Writing in the Roman World** `CDH 326`
 - *Everyday Writing in the Graeco-Roman East* by Roger S. Bagnall
 
