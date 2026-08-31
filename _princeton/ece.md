@@ -2,20 +2,14 @@
 title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list, fall 2026
 ---
 
-## Sophomore level
-
 **Contemporary Logic Design** `ECE 206`
 - *Digital Design w/ RTL Design, VHDL & Verilog* by Frank Vahid
-
-## Junior level
 
 **Machine Learning for Predictive Data Analytics** `ECE 364`
 - *Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples & Case Studies* by John D. Kelleher 
 
 **Computer Architecture & Organization** `ECE 375`
 - ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy 
-
-## Senior level 
 
 **Solid-State Physics I** `ECE 441`
 - *Solid State Physics* by Ashcroft & Mermin
@@ -28,8 +22,6 @@ title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list,
 
 **High-Tech Entrepreneurship** `ECE 491`
 - *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danne
-
-## Graduate level 
 
 **Energy & the Environment: Critical Assessment of Energy, Sustainability & Climate** `ECE 537`
 - *The Simple Physics of Energy Use* by Peter Rez
