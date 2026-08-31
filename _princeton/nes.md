@@ -1,6 +1,5 @@
 ---
 title: 🐯 Princeton Near Eastern Studies unofficial reading list, fall 2026
-layout: reading-list
 ---
 
 **Intermediate** / **Advanced Arabic I** `ARA 105/301`
