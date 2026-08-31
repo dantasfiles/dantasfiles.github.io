@@ -56,7 +56,7 @@ title: 🐯 Princeton Humanities Council unofficial reading list, fall 2026
 - *The Longman Anthology of British Literature, Volume 2A: The Romantics & Their Contemporaries* by David Damrosch et al.
 
 **19th-Century European Art: Painting & Literature in 19th C. France and England** `ECS 450`
-- *The Picture of Dorian Gray* by Oscar Wilde
+- ✔️ ***The Picture of Dorian Gray*** by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
 - *The Masterpiece* by Émile Zola
 - *The Unknown Masterpiece* by Honoré de Balzac
 - *Like Death* by Guy de Maupassant
