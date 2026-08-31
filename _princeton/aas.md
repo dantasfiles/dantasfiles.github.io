@@ -73,6 +73,13 @@ title: 🐯 Princeton African American Studies unofficial reading list, fall 202
 - *Paradise* by Toni Morrison <!-- 9780804169882 -->
 - *The Bluest Eye* by Toni Morrison <!-- 9780307278449 -->
 
+**Black Latinidad: from Frederick Douglass to Cardi B** `AAS 354`
+- *We Are Owed* by Ariana Brown <!-- 9781735352763 -->
+- *Down These Mean Streets* by Piri Thomas <!-- 9780679781424 -->
+- *Song of the Water Saints* by Nelly Rosario <!-- 9780375420870 -->
+- *The Young Lords: A Radical History* by Johanna Fernández <!-- 9781469653440 -->
+- *Black History Is for Everyone* by Brian Jones <!-- 9798888904473 -->
+
 **Art, Apartheid & South Africa** `AAS 411`
 - ✔️ ***Disgrace*** by J. M. Coetzee 
 
