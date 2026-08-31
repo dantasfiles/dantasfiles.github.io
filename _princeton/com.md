@@ -174,6 +174,7 @@ The Comparative Literature department publishes an extensive **[Reading Selectio
 - Toni Morrison: *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
 - Vladimir Nabokov: *Pale Fire*
 - Mary Shelley: *Frankenstein*
+- Bram Stoker: *Dracula* ([my highlights](https://www.goodreads.com/notes/35619410-dracula/185327722-daniel-dantas))
 - Mark Twain: *Tom Sawyer* / *Huck Finn*
 
 🎭 **Drama**
