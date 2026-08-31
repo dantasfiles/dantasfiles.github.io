@@ -2,6 +2,9 @@
 title: 🐯 Princeton First Year Seminars unofficial reading list, fall 2026
 ---
 
+**[Pre-read](https://president.princeton.edu/princeton-pre-read)**
+- ✔️ ***Reader, Come Home: The Reading Brain in a Digital World*** by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
+
 **Exploring the Graphic Novel** `FRS 111`
 - *Doctor Fate Vol. 1: The Blood Price* by Levitz et al.
 - *Grass* by Keum Suk Gendry-Kim
