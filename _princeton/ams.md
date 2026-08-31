@@ -71,6 +71,13 @@ title: 🐯 Princeton Study of America unofficial reading list, fall 2026
 - *Whitney Museum of American Art: Handbook of the Collection* by Dana Miller
 - *Toward Joy: New Frameworks for American Art* by Stephanie Sparling Williams
 
+**Black Latinidad: from Frederick Douglass to Cardi B** `LAO 362`
+- *We Are Owed* by Ariana Brown <!-- 9781735352763 -->
+- *Down These Mean Streets* by Piri Thomas <!-- 9780679781424 -->
+- *Song of the Water Saints* by Nelly Rosario <!-- 9780375420870 -->
+- *The Young Lords: A Radical History* by Johanna Fernández <!-- 9781469653440 -->
+- *Black History Is for Everyone* by Brian Jones <!-- 9798888904473 -->
+
 **Musical Theatre & Fan Cultures** `AMS 440`
 - *Fandom in Musical Theatre* by Jessica Hillman-McCord
 - *John Proctor is the Villain* by Kimberly Belflower 
