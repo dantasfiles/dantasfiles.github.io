@@ -112,7 +112,7 @@ title: 🐯 Princeton Humanities Council unofficial reading list, fall 2026
 - *The Bacchae* by Euripides
 - *Metamorphoses* by Ovid
 - *Anthology of Classical Myth: Primary Sources in Translation* by Trzaskoma et al.
-- *The Odyssey* by Homer
+- ✔️ ***The Odyssey*** by Homer
 - *Theogony* by Hesiod
 - *Work & Days* by Hesiod
 - *Ajax* by Sophocles
@@ -139,7 +139,8 @@ title: 🐯 Princeton Humanities Council unofficial reading list, fall 2026
 - *The Divine Comedy* by Dante
 - *Cyclops* by Euripides
 - *The Histories* by Herodotus
-- *The Iliad* & *The Odyssey* by Homer
+- *The Iliad* by Homer
+- ✔️ ***The Odyssey*** by Homer
 - *The Epistles of Horace*
 - *Hannibal's War* by Livy
 - *The Nature of Things* by Lucretius
