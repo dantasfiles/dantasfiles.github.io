@@ -73,6 +73,13 @@ title: 🐯 Princeton International & Regional Studies unofficial reading list, 
 - *Massacre in Mexico* by Elena Poniatowska
 - *Knitting the Fog* by Claudia D. Hernández
 
+**Black Latinidad: from Frederick Douglass to Cardi B** `LAS 362`
+- *We Are Owed* by Ariana Brown <!-- 9781735352763 -->
+- *Down These Mean Streets* by Piri Thomas <!-- 9780679781424 -->
+- *Song of the Water Saints* by Nelly Rosario <!-- 9780375420870 -->
+- *The Young Lords: A Radical History* by Johanna Fernández <!-- 9781469653440 -->
+- *Black History Is for Everyone* by Brian Jones <!-- 9798888904473 -->
+
 **Contemporary Critical Theories: Marx's Capital** `LAS 535`
 - *Capital, v.1* by Karl Marx
 
