@@ -2,6 +2,13 @@
 title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 ---
 
+**Intro. to Programming Systems** `COS 217`
+- 📕 *C Programming: A Modern Approach* by K.N. King <!-- 9780393979503 -->
+- 📕 *ARM 64-Bit Assembly Language* by Pyeatt & Ughetta <!-- 9780128192214 -->
+- ✔️📕 ***The Practice of Programming*** by Kernighan & Pike <!-- 9780201615869 -->
+- 📕✔️ ***The Practice of Programming*** by Kernighan & Pike <!-- 9780201615869 -->
+- 📕 *Linux Pocket Guide: Essential Commands* by Daniel J. Barrett <!-- 9781098157968 -->
+
 **Algorithms & Data Structures** `COS 226`
 - ✔️ ***[Algorithms](https://algs4.cs.princeton.edu/home/)*** by Sedgewick & Wayne
 
