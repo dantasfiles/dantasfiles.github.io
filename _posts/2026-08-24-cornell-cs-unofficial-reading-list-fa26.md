@@ -15,8 +15,6 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 **[Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
 - ✔️ ***[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)*** by Allen B. Downey
 
-## Sophomore level
-
 **[C++ Programming](https://www.cs.cornell.edu/courses/cs2024/2026fa/)** `CS 2024`
 
 **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS 2110`
