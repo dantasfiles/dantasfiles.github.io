@@ -81,8 +81,6 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *[Intro. to Information Retrieval](https://nlp.stanford.edu/IR-book/)* by Manning et al.
 - *Statistical Learning Theory* by Vladimir N. Vapnik
 
-## Senior level
-
 **Numerical Analysis & Differential Equations** `CS 4210`
 - *Numerical Analysis: Mathematics of Scientific Computing* by Kincaid & Cheney
 - *Numerical Computing with MATLAB* by Cleve B. Moler
