@@ -58,7 +58,7 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 - *Probabilistic Robotics* by Thrun et al.
 
 **Computer Architecture & Organization** `COS 375`
-- 📕✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy
+- ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy
 
 **[Intro. to Quantum Computing](https://www.cs.princeton.edu/courses/archive/fall26/cos396/)** `COS 396`
 - *Quantum Computer Science: An Intro.* by N. David Mermin
@@ -67,6 +67,19 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 - *[Quantum Computing for the Very Curious](https://quantum.country/qcvc)* by Matuschak & Nielsen
 - *The Not So Short Intro. to LaTeX2e: Or LaTeX2e in 139 minutes* by Oetiker et al.
 
+**[Distributed Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos418/)** `COS 418`
+- 📕 Books
+  - *The Go Programming Language* by Donovan & Kernighan
+  - *Distributed Systems: Principles & Paradigms* by Tanenbaum & van Steen
+  - *Guide to Reliable Distributed Systems: Building High-Assurance Applications & Cloud-Hosted Services* by Kenneth P. Birman
+- 📄 Papers
+  - *[Time, Clocks & the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/pubs.html#time-clocks)* by Leslie Lamport
+  - *[Distributed Snapshots: Determining Global States of a Distributed System](https://lamport.azurewebsites.net/pubs/pubs.html#chandy)* by Chandy & Lamport
+  - *[Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](https://dl.acm.org/doi/10.1145/224056.224070)* by Terry et al.
+  - *[Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](https://dl.acm.org/doi/10.1145/964723.383071)* by Stoica et al.
+  - *[In Search of an Understandable Consensus Algorithm](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro)* by Ongaro & John Ousterhout
+  - *[Don't Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](https://dl.acm.org/doi/10.1145/2043556.2043593)* by Lloyd et al.
+  - *[Spanner: Google's Globally-Distributed Database](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett)* by Corbett et al.
 
 **[Reasoning with Data](https://humans.cs.princeton.edu/teaching/fall2026_reasoning_with_data.html)** `COS 424`
 
