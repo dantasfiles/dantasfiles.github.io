@@ -9,7 +9,7 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 - 📕 *Linux Pocket Guide: Essential Commands* by Daniel J. Barrett <!-- 9781098157968 -->
 - 🔗✔️ [***Unix tutorial for beginners***](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank
 - 🔗✔️ [***A guided tour of Emacs***](https://www.gnu.org/software/emacs/tour/)
-- 🔗 [*Debugging with GDB: The GNU source-Level debugger*](https://sourceware.org/gdb/current/onlinedocs/gdb.html/)
+- 🔗 [*Debugging with GDB: The GNU source-level debugger*](https://sourceware.org/gdb/current/onlinedocs/gdb.html/)
 - 🔗 [*The GNU Make manual*](https://www.gnu.org/software/make/manual/make.html)
 
 **Algorithms & Data Structures** `COS 226`
