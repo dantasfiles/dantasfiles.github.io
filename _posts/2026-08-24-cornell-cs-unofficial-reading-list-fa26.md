@@ -72,6 +72,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - 📕 Books
   - *[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau <!-- Lecture Notes: OS Processes -->
   - *[Crafting Interpreters](https://craftinginterpreters.com/)* by Robert Nystrom <!-- Lecture Notes: Rust -->
+  - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al. <!-- Lecture Notes: Rust -->
   - *[Pro Git](https://git-scm.com/book/)* by Chacon & Straub <!-- Resources: Git -->
 - 📄 Papers & Webpages
   - *[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://dl.acm.org/doi/10.1145/103162.103163)* by David Goldberg <!-- Lecture Notes: Floating Point -->
@@ -80,7 +81,6 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - *[Distilling the Real Cost of Production Garbage Collectors](https://arxiv.org/abs/2112.07880)* by Cai et al. <!-- Lecture Notes: Rust -->
   - *[Quantifying the Performance of Garbage Collection vs. Explicit Memory Management](https://dl.acm.org/doi/10.1145/1094811.1094836)* by Hertz & Berger <!-- Lecture Notes: Rust -->
   - *[Back to the Building Blocks: A Path Toward Secure and Measurable Software](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)* <!-- Lecture Notes: Rust -->
-  - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al. <!-- Lecture Notes: Rust -->
   - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)* by Google <!-- Lecture Notes: Rust -->
   - *[Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)* <!-- Lecture Notes: Rust -->
   - ✔️ *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank <!-- Resources: Unix Shell -->
@@ -112,10 +112,19 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *Numerical Computing with MATLAB* by Cleve B. Moler
 
 **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414/5416`
-- *Computer Systems: A Programmer's Perspective* by Bryant & O'Hallaron
-- Rust
+- 📕 Books
+  - *Computer Systems: A Programmer's Perspective* by Bryant & O'Hallaron
   - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al.
-  - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html#rust-by-example)*
+  - *Programming Rust: Fast, Safe Systems Development* by Blandy et al.
+  - *Rust in Action* by Tim McNamara
+  - *Rust for Rustaceans: Idiomatic Programming for Experienced Developers* by Jon Gjengset
+  - *[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau
+  - *Advanced Programming in the UNIX Environment* by Stevens & Rago
+  - *[Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/)* by Brian Hall
+  - *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
+  - *Linkers & Loaders* by John R. Levine
+- 📄 Papers & Webpages
+  - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
   - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)*
   - *[C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)*
   - ✔️ *[How to Learn Rust in 2026: A Complete Beginner's Guide to Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
@@ -125,17 +134,8 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - *[Rust Design Patterns](https://rust-unofficial.github.io/patterns/)*
   - *[The Rust Performance Book](https://nnethercote.github.io/perf-book/)* by Nethercote et al.
   - *[Rust Atomics & Locks: Low-Level Concurrency in Practice](https://mara.nl/atomics/)* by Mara Bos
-  - *Programming Rust: Fast, Safe Systems Development* by Blandy et al.
-  - *Rust in Action* by Tim McNamara
-  - *Rust for Rustaceans: Idiomatic Programming for Experienced Developers* by Jon Gjengset
-- Systems
-  - *[Operating Systems: 3 Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau
-  - *Advanced Programming in the UNIX Environment* by Stevens & Rago
-  - *[Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/)* by Brian Hall
-  - *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
-  - *Linkers & Loaders* by John R. Levine
   - *[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)* by Ulrich Drepper
-  - ✔️ *[Always Measure 1 Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
+  - ✔️ *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `CS 4420`
 
