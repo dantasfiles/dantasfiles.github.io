@@ -60,6 +60,14 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 **Computer Architecture & Organization** `COS 375`
 - 📕✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy
 
+**[Intro. to Quantum Computing](https://www.cs.princeton.edu/courses/archive/fall26/cos396/)** `COS 396`
+- *Quantum Computer Science: An Intro.* by N. David Mermin
+- *Quantum Computation and Quantum Information* by Nielsen & Chuang
+- *Quantum Mechanics: A Paradigms Approach* by David H. McIntyre
+- *[Quantum Computing for the Very Curious](https://quantum.country/qcvc)* by Matuschak & Nielsen
+- *The Not So Short Intro. to LaTeX2e: Or LaTeX2e in 139 minutes* by Oetiker et al.
+
+
 **[Reasoning with Data](https://humans.cs.princeton.edu/teaching/fall2026_reasoning_with_data.html)** `COS 424`
 
 **Design of VLSI Systems** `COS 462`
