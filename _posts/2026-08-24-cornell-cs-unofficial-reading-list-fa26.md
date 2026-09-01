@@ -24,7 +24,11 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
   - ✔️ [***Principled Programming: Intro. to Coding in Any Imperative Language***](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
   - *Data Structures & Algorithms in Java: A Project-Based Approach* by Dan S. Myers
-- 🔗✔️ *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler
+  - *[Software Engineering at Google: Lessons Learned from Programming Over Time](https://abseil.io/resources/swe-book)* by Winters et al. <!-- Code Style Guidelines -->
+  - *[Numerical Recipes: The Art of Scientific Computing](https://numerical.recipes/)* by Press et al. <!-- Code Style Guidelines -->
+- 🔗 Webpages
+  - *[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)* <!-- Code Style Guidelines -->
+  - ✔️ *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler <!-- Code Style Guidelines -->
 
 **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
 - ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
