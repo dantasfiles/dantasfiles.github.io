@@ -12,8 +12,8 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 - 🔗 [*Debugging with GDB: The GNU source-level debugger*](https://sourceware.org/gdb/current/onlinedocs/gdb.html/)
 - 🔗 [*The GNU Make manual*](https://www.gnu.org/software/make/manual/make.html)
 
-**Algorithms & Data Structures** `COS 226`
-- ✔️ ***[Algorithms](https://algs4.cs.princeton.edu/home/)*** by Sedgewick & Wayne
+**[Algorithms & Data Structures](https://www.cs.princeton.edu/courses/archive/fall26/cos226/)** `COS 226`
+- 📕✔️ ***[Algorithms](https://algs4.cs.princeton.edu/home/)*** by Sedgewick & Wayne
 
 **Contemporary Logic Design** `COS 306`
 - *Digital Design w/ RTL Design, VHDL & Verilog* by Frank Vahid
