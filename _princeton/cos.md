@@ -9,7 +9,7 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
   - ✔️ ***The Practice of Programming*** by Kernighan & Pike <!-- 9780201615869 -->
   - *Linux Pocket Guide: Essential Commands* by Daniel J. Barrett <!-- 9781098157968 -->
 - 🔗 Websites
-  - ✔️ [***Unix tutorial for beginners***](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank
+  - ✔️ [***Unix tutorial***](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank
   - ✔️ [***A guided tour of Emacs***](https://www.gnu.org/software/emacs/tour/)
   -  [*Debugging with GDB: The GNU source-level debugger*](https://sourceware.org/gdb/current/onlinedocs/gdb.html/) 
   -  [*The GNU Make manual*](https://www.gnu.org/software/make/manual/make.html)
@@ -128,7 +128,7 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 - *[End-to-End Arguments in System Design](https://dl.acm.org/doi/10.1145/357401.357402)* by Saltzer et al.
 - *[Hints for Computer System Design](https://dl.acm.org/doi/10.1145/773379.806614)* by Butler W. Lampson
 - *[The Unix Time-sharing System](https://dl.acm.org/doi/10.1145/361011.361061)* by Ritchie & Thompson
-- *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672) by E.W. Dijkstra
+- *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by E.W. Dijkstra
 - *[The design and implementation of a log-structured file system](https://dl.acm.org/doi/10.1145/146941.146943)* by Rosenblum & Ousterhout
 - *[A Fast File System for Unix](https://dl.acm.org/doi/10.1145/989.990)* by McKusick et al.
 - *[On the duality of operating system structures](https://dl.acm.org/doi/10.1145/850657.850658)* by Lauer & Needham
