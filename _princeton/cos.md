@@ -88,6 +88,17 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 
 **[Elements of Tokenized Finance](https://web3.princeton.edu/elements-of-defi/)** `COS 473`
 
+**[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/)** `COS 516`
+- 📕 Books
+  - *The Calculus of Computation: Decision Procedures with Applications to Verification* by Bradley & Manna
+  - *Handbook of Satisfiability* by Biere et al.
+- 📄 Papers
+  - *Graph-Based Algorithms for Boolean Function Manipulation* by Randal E. Bryant
+  - *[Satisfiability Modulo Theories: Intro. & Applications](https://dl.acm.org/doi/10.1145/1995376.1995394)* by De Moura & Bjørner
+  - *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare
+  - *[Algebraic Program Analysis](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_3)* by Kincaid et al.
+  - *[Software Model Checking](https://dl.acm.org/doi/10.1145/1592434.1592438)* by Jhala & Majumdar
+
 **[Advanced Computer Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos418/518.html)** `COS 518`
 - *[MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters)* by Dean & Ghemawat
 - *[The Google File System](https://dl.acm.org/doi/10.1145/945445.945450)* by Ghemawat et al.
