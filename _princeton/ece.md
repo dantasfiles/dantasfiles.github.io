@@ -5,6 +5,10 @@ title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list,
 **Contemporary Logic Design** `ECE 206`
 - *Digital Design w/ RTL Design, VHDL & Verilog* by Frank Vahid
 
+**[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `ECE 305`
+- ✔️ [***Mathematics for Machine Learning***](https://mml-book.github.io/) by Deisenroth et al.
+- *[Don't invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)* by John D. Cook
+
 **Machine Learning for Predictive Data Analytics** `ECE 364`
 - *Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples & Case Studies* by John D. Kelleher 
 
