@@ -4,15 +4,15 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 
 **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
 - 📕 Books
- - *C Programming: A Modern Approach* by K.N. King <!-- 9780393979503 -->
- - *ARM 64-Bit Assembly Language* by Pyeatt & Ughetta <!-- 9780128192214 -->
- - ✔️ ***The Practice of Programming*** by Kernighan & Pike <!-- 9780201615869 -->
- - *Linux Pocket Guide: Essential Commands* by Daniel J. Barrett <!-- 9781098157968 -->
+  - *C Programming: A Modern Approach* by K.N. King <!-- 9780393979503 -->
+  - *ARM 64-Bit Assembly Language* by Pyeatt & Ughetta <!-- 9780128192214 -->
+  - ✔️ ***The Practice of Programming*** by Kernighan & Pike <!-- 9780201615869 -->
+  - *Linux Pocket Guide: Essential Commands* by Daniel J. Barrett <!-- 9781098157968 -->
 - 🔗 Websites
- - ✔️ [***Unix tutorial for beginners***](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank
- - ✔️ [***A guided tour of Emacs***](https://www.gnu.org/software/emacs/tour/)
- -  [*Debugging with GDB: The GNU source-level debugger*](https://sourceware.org/gdb/current/onlinedocs/gdb.html/) 
- -  [*The GNU Make manual*](https://www.gnu.org/software/make/manual/make.html)
+  - ✔️ [***Unix tutorial for beginners***](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank
+  - ✔️ [***A guided tour of Emacs***](https://www.gnu.org/software/emacs/tour/)
+  -  [*Debugging with GDB: The GNU source-level debugger*](https://sourceware.org/gdb/current/onlinedocs/gdb.html/) 
+  -  [*The GNU Make manual*](https://www.gnu.org/software/make/manual/make.html)
 
 **[Algorithms & Data Structures](https://www.cs.princeton.edu/courses/archive/fall26/cos226/)** `COS 226`
 - 📕✔️ ***[Algorithms](https://algs4.cs.princeton.edu/home/)*** by Sedgewick & Wayne
