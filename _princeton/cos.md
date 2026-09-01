@@ -43,8 +43,7 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
   - [*Pattern Recognition & Machine Learning*](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) by Christopher M. Bishop
   - [*Intro. to Machine Learning*](https://www.wolfram.com/language/introduction-machine-learning/) by Etienne Bernard
   - [*Intro. to Machine Learning*](https://www.wolfram.com/language/introduction-machine-learning/) by Etienne Bernard
-- 📄 Papers
-  - [*Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification*](http://gendershades.org/) by Buolamwini & Gerb
+  - *Fairness & Machine Learning: Limitations & Opportunities* by Barocas et al.
 - 🔗 Webpages
   - [*Python Numpy Tutorial (with Jupyter & Colab)*](https://cs231n.github.io/python-numpy-tutorial/) by Justin Johnson
   - *[Python Tutorial](https://www.w3schools.com/python/)* by W3Schools
@@ -53,6 +52,7 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
   - [*Linear Regression: A Visual Intro. To (Almost) Everything You Should Know*](https://mlu-explain.github.io/linear-regression/) by Jared Wilber
   - [*How Linear Regression Actually Works: Theory & Implementation*](https://towardsdatascience.com/how-linear-regression-actually-works-theory-and-implementation-8d8dcae3222c/) by Stefan Hrouda-Rasmussen
   - [*Attacking Machine Learning w/ Adversarial Examples*](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/) by OpenAI
+  - [*Gender Shades*](http://gendershades.org/) by Buolamwini & Gerb
   - [*Dealing With Bias in Artificial Intelligence*](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html) by Craig S. Smith
   - [*A Visual Explanation of Gradient Descent Methods (Momentum, AdaGrad, RMSProp, Adam)*](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c) by Lili Jiang
   - [*Federated Learning: Challenges, Methods, and Future Directions*](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/) by Tian Li
@@ -61,6 +61,8 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
   - [*Cross Validation: Reduce, Reuse, Resample*](https://mlu-explain.github.io/cross-validation/) by Wilber & Croome
   - [*Logistic Regression: Regression for Classification*](https://mlu-explain.github.io/logistic-regression/) by Bugbee Wilber
   - [*The Bias Variance Tradeoff*](https://mlu-explain.github.io/bias-variance/) by Wilber & Werness
+  - *[K-Means Clustering: An Explorable Explainer](https://k-means-explorable.vercel.app/)* by Yi Zhe Ang
+  - *[In the hallways of Princeton, a fascination with the human mind unlocked the power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* by Julia Schwarz
 
 **[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
 - ✔️ ***[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)*** by Michael R. Clarkson
