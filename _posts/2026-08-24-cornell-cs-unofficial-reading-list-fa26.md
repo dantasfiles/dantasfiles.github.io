@@ -45,6 +45,22 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - ✔️ *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)* by Peter Norvig
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
+- 📕 Books
+  - *Operating Systems: Three Easy Pieces* by Arpaci-Dusseau & Arpaci-Dusseau <!-- Lecture Notes: OS Processes -->
+  - *[Crafting Interpreters](https://craftinginterpreters.com/)* by Robert Nystrom <!-- Lecture Notes: Rust -->
+  - *[Pro Git](https://git-scm.com/book/)* by Chacon & Straub <!-- Resources: Git -->
+- 📄 Papers & Webpages
+  - *[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://dl.acm.org/doi/10.1145/103162.103163)* by David Goldberg <!-- Lecture Notes: Floating Point -->
+  - ✔️ *[A proactive approach to more secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* by Microsoft Security Response Center <!-- Lecture Notes: The Stack, The Heap, and Dynamic Memory Allocation -->
+  - ✔️ *[Safe from compiler bugs?](https://blog.regehr.org/archives/539)* by John Regehr <!-- Lecture Notes: Introduction to RISC-V -->
+  - *[Distilling the Real Cost of Production Garbage Collectors](https://arxiv.org/abs/2112.07880)* by Cai et al. <!-- Lecture Notes: Rust -->
+  - *[Quantifying the Performance of Garbage Collection vs. Explicit Memory Management](https://dl.acm.org/doi/10.1145/1094811.1094836)* by Hertz & Berger <!-- Lecture Notes: Rust -->
+  - *[Back to the Building Blocks: A Path Toward Secure and Measurable Software](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)* <!-- Lecture Notes: Rust -->
+  - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al. <!-- Lecture Notes: Rust -->
+  - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)* by Google <!-- Lecture Notes: Rust -->
+  - *[Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)* <!-- Lecture Notes: Rust -->
+  - ✔️ *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank <!-- Resources: Unix Shell -->
+  - *[Makefile Tutorial](https://makefiletutorial.com/)* <!-- Resources: Makefiles -->
 
 **[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
 - *[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)* by Shalev-Shwartz & Ben-David
