@@ -29,16 +29,20 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - ✔️ *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler <!-- Code Style Guidelines -->
 
 **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
-- ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
-- *Data Structures & Abstractions with Java* by Carrano & Henry
-- *Data Structures & Problem Solving Using Java* by Mark Allen Weiss
-- *Program Development in Java: Abstraction, Specification & Object-Oriented Design* by Liskov & Guttag
-- *Java Precisely* by Peter Sestoft
-- ✔️ ***Design Patterns: Elements of Reusable Object-Oriented Software*** by Gamma et al.
-- *Java in a Nutshell: A Desktop Quick Reference* by Evans et al.
-- ✔️ ***Effective Java: Best Practices for the Java Platform*** by Joshua Bloch
-
-## Junior level
+- 📕 Books
+  - ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
+  - *Data Structures & Abstractions with Java* by Carrano & Henry
+  - *Data Structures & Problem Solving Using Java* by Mark Allen Weiss
+  - *Program Development in Java: Abstraction, Specification & Object-Oriented Design* by Liskov & Guttag
+  - *Java Precisely* by Peter Sestoft
+  - ✔️ ***Design Patterns: Elements of Reusable Object-Oriented Software*** by Gamma et al.
+  - *Java in a Nutshell: A Desktop Quick Reference* by Evans et al.
+  - ✔️ ***Effective Java: Best Practices for the Java Platform*** by Joshua Bloch
+- 📄 Papers & Webpages
+  - ✔️ *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* by John Sargeant
+  - ✔️ *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al.
+  - *Please Don’t Learn to Code* by Jeff Atwood
+  - ✔️ *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)* by Peter Norvig
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
 
