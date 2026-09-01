@@ -4,7 +4,7 @@ title: 🐻 Cornell Computer Science unofficial reading list, fall 2026
 author: Daniel Dantas
 ---
 
-I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Cornell computer science classes<br>I connected publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
+I compiled this unofficial Cornell computer science reading list using publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages.<br>To track my own explorations, I marked books and papers I've previously read with a **bold** ✔️
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - ✔️ *[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
