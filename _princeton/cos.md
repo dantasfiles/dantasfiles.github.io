@@ -86,6 +86,17 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 **Design of VLSI Systems** `COS 462`
 - 📕 *Digital Integrated Circuits: A Design Perspective* by Rabaey et al.
 
+**[Advanced Computer Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos418/518.html)** `COS 518`
+- *[MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters)* by Dean & Ghemawat
+- *[The Google File System](https://dl.acm.org/doi/10.1145/945445.945450)* by Ghemawat et al.
+- *[The Chubby Lock Service for Loosely-Coupled Distributed Systems](https://www.usenix.org/conference/osdi-06/chubby-lock-service-loosely-coupled-distributed-systems)* by Mike Burrows
+- *[RocksDB: Evolution of Development Priorities in a Key-value Store Serving Large-scale Applications](https://dl.acm.org/doi/10.1145/3483840)* by Dong et al.
+- *[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)* by Zaharia et al.
+- *[No Compromises: Distributed Transactions with Consistency, Availability & Performance](https://dl.acm.org/doi/10.1145/2815400.2815425)* by Dragojević et al.
+- *[A Low-bandwidth Network File System](https://dl.acm.org/doi/10.1145/502034.502052)* by Muthitacharoen et al.
+- *[Copysets: Reducing the Frequency of Data Loss in Cloud Storage](https://www.usenix.org/conference/atc13/technical-sessions/presentation/cidon)* by Cidon et al.
+- *[There Is More Consensus in Egalitarian Parliaments](https://dl.acm.org/doi/10.1145/2517349.2517350)* by Moraru et al.
+
 
 
 
