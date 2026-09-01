@@ -41,6 +41,17 @@ title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list,
 **High-Tech Entrepreneurship** `ECE 491`
 - *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danne
 
+**[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/)** `ECE 516`
+- 📕 Books
+  - *The Calculus of Computation: Decision Procedures with Applications to Verification* by Bradley & Manna
+  - *Handbook of Satisfiability* by Biere et al.
+- 📄 Papers
+  - *Graph-Based Algorithms for Boolean Function Manipulation* by Randal E. Bryant
+  - *[Satisfiability Modulo Theories: Intro. & Applications](https://dl.acm.org/doi/10.1145/1995376.1995394)* by De Moura & Bjørner
+  - *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare
+  - *[Algebraic Program Analysis](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_3)* by Kincaid et al.
+  - *[Software Model Checking](https://dl.acm.org/doi/10.1145/1592434.1592438)* by Jhala & Majumdar
+
 **Energy & the Environment: Critical Assessment of Energy, Sustainability & Climate** `ECE 537`
 - *The Simple Physics of Energy Use* by Peter Rez
 - *Fundamentals of Materials for Energy & Environmental Sustainability* by Ginley and Cahen
