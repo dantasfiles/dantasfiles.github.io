@@ -123,6 +123,33 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 - *[End-to-End Arguments in System Design](https://dl.acm.org/doi/10.1145/357401.357402)* by Saltzer et al.
 - *[Supercomputer Networking to Accelerate Large Scale AI Training](https://openai.com/index/mrc-supercomputer-networking/)* by OpenAI
 
+**[Foundational Papers in Networks & Operating Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos597L/)** `COS 597L`
+- *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav
+- *[End-to-End Arguments in System Design](https://dl.acm.org/doi/10.1145/357401.357402)* by Saltzer et al.
+- *[Hints for Computer System Design](https://dl.acm.org/doi/10.1145/773379.806614)* by Butler W. Lampson
+- *[The Unix Time-sharing System](https://dl.acm.org/doi/10.1145/361011.361061)* by Ritchie & Thompson
+- *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672) by E.W. Dijkstra
+- *[The design and implementation of a log-structured file system](https://dl.acm.org/doi/10.1145/146941.146943)* by Rosenblum & Ousterhout
+- *[A Fast File System for Unix](https://dl.acm.org/doi/10.1145/989.990)* by McKusick et al.
+- *[On the duality of operating system structures](https://dl.acm.org/doi/10.1145/850657.850658)* by Lauer & Needham
+- *[Capriccio: scalable threads for internet services](https://dl.acm.org/doi/10.1145/1165389.945471)* by von Behren et al.
+- *Mach: A New Kernel Foundation for Unix Development* by Accetta et al.
+- *[The performance of microkernel-based systems](https://dl.acm.org/doi/10.1145/268998.266660)* by Härtig et al.
+- *[Exokernel: an operating system architecture for application-level resource management](https://dl.acm.org/doi/10.1145/224057.224076)* by Engler et al.
+- *[Extensibility, Safety & Performance in the SPIN Operating System](https://dl.acm.org/doi/10.1145/224056.224077)* by Bershad et al.
+- *[seL4: formal verification of an OS kernel](https://dl.acm.org/doi/10.1145/1743546.1743574)* by Klein et al.
+- *[Xen and the art of virtualization](https://dl.acm.org/doi/10.1145/945445.945462)* by Barham et al.
+- *[Dune: Safe user-level access to privileged CPU features](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/belay)* by Belay et al.
+- *[Multiprogramming a 64kB Computer Safely and Efficiently](https://dl.acm.org/doi/10.1145/3132747.3132786)* by Levy et al.
+- *[Arrakis: the operating system is the control plane](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/peter)* by Peter et al.
+- *[OpenFlow: enabling innovation in campus networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al.
+- *[Congestion Avoidance & Control](https://dl.acm.org/doi/10.1145/52324.52356)* by V. Jacobson
+- *[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper)* by Satoshi Nakamoto
+- *[Frenetic: a network programming language](https://dl.acm.org/doi/10.1145/2034574.2034812)* by Foster et al.
+- *[Composing software-defined networks](https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/monsanto)* by Monsanto et al.
+- *[fresco: Modular composable security services for software-defined networks](https://www.ndss-symposium.org/ndss2013/ndss-2013-programme/fresco-modular-composable-security-services-software-defined-networks/)* by Shin et al.
+- *Sphinx: detecting security attacks in software-defined networks* by Dhawan et al.
+
 
 
 
