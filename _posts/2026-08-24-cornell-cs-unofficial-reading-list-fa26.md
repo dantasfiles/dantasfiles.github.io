@@ -46,7 +46,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
 - 📕 Books
-  - *Operating Systems: Three Easy Pieces* by Arpaci-Dusseau & Arpaci-Dusseau <!-- Lecture Notes: OS Processes -->
+  - *[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau <!-- Lecture Notes: OS Processes -->
   - *[Crafting Interpreters](https://craftinginterpreters.com/)* by Robert Nystrom <!-- Lecture Notes: Rust -->
   - *[Pro Git](https://git-scm.com/book/)* by Chacon & Straub <!-- Resources: Git -->
 - 📄 Papers & Webpages
