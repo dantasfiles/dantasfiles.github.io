@@ -60,7 +60,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - ✔️ ***Design Patterns: Elements of Reusable Object-Oriented Software*** by Gamma et al.
   - *Java in a Nutshell: A Desktop Quick Reference* by Evans et al.
   - ✔️ ***Effective Java: Best Practices for the Java Platform*** by Joshua Bloch
-- 📄 Papers & Webpages
+- 📄 Papers & webpages
   - ✔️ *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* by John Sargeant
   - ✔️ *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al.
   - *[Please Don’t Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/)* by Jeff Atwood
@@ -74,7 +74,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - *[Crafting Interpreters](https://craftinginterpreters.com/)* by Robert Nystrom <!-- Lecture Notes: Rust -->
   - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al. <!-- Lecture Notes: Rust -->
   - *[Pro Git](https://git-scm.com/book/)* by Chacon & Straub <!-- Resources: Git -->
-- 📄 Papers & Webpages
+- 📄 Papers & webpages
   - *[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://dl.acm.org/doi/10.1145/103162.103163)* by David Goldberg <!-- Lecture Notes: Floating Point -->
   - ✔️ *[A proactive approach to more secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* by Microsoft Security Response Center <!-- Lecture Notes: The Stack, The Heap, and Dynamic Memory Allocation -->
   - ✔️ *[Safe from compiler bugs?](https://blog.regehr.org/archives/539)* by John Regehr <!-- Lecture Notes: Introduction to RISC-V -->
@@ -123,7 +123,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - *[Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/)* by Brian Hall
   - *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
   - *Linkers & Loaders* by John R. Levine
-- 📄 Papers & Webpages
+- 📄 Papers & webpages
   - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
   - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)*
   - *[C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)*
