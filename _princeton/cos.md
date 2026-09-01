@@ -148,7 +148,7 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 - *[Frenetic: a network programming language](https://dl.acm.org/doi/10.1145/2034574.2034812)* by Foster et al.
 - *[Composing software-defined networks](https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/monsanto)* by Monsanto et al.
 - *[fresco: Modular composable security services for software-defined networks](https://www.ndss-symposium.org/ndss2013/ndss-2013-programme/fresco-modular-composable-security-services-software-defined-networks/)* by Shin et al.
-- *Sphinx: detecting security attacks in software-defined networks* by Dhawan et al.
+- *[Sphinx: detecting security attacks in software-defined networks](https://www.ndss-symposium.org/ndss2015/ndss-2015-programme/sphinx-detecting-security-attacks-software-defined-networks/)* by Dhawan et al.
 
 
 
