@@ -2,7 +2,7 @@
 title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 ---
 
-**Intro. to Programming Systems** `COS 217`
+**[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
 - 📕 *C Programming: A Modern Approach* by K.N. King <!-- 9780393979503 -->
 - 📕 *ARM 64-Bit Assembly Language* by Pyeatt & Ughetta <!-- 9780128192214 -->
 - 📕✔️ ***The Practice of Programming*** by Kernighan & Pike <!-- 9780201615869 -->
