@@ -9,6 +9,11 @@ title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list,
 - ✔️ [***Mathematics for Machine Learning***](https://mml-book.github.io/) by Deisenroth et al.
 - *[Don't invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)* by John D. Cook
 
+**[Intro. to Robotics](https://irom-lab.princeton.edu/intro-to-robotics/)** `ECE 345`
+- *[Principles of Robot Autonomy](https://arxiv.org/abs/2608.03496)* by Gammelli et al.
+- *[Planning Algorithms](https://lavalle.pl/planning/)* by Steven M. LaValle
+- *Probabilistic Robotics* by Thrun et al.
+
 **Machine Learning for Predictive Data Analytics** `ECE 364`
 - *Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples & Case Studies* by John D. Kelleher 
 
