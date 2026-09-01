@@ -8,6 +8,10 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 - ✔️📕 ***The Practice of Programming*** by Kernighan & Pike <!-- 9780201615869 -->
 - 📕✔️ ***The Practice of Programming*** by Kernighan & Pike <!-- 9780201615869 -->
 - 📕 *Linux Pocket Guide: Essential Commands* by Daniel J. Barrett <!-- 9781098157968 -->
+- 🔗✔️ [***UNIX Tutorial for Beginners***](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank
+- ✔️🔗 [***A Guided Tour of Emacs***](https://www.gnu.org/software/emacs/tour/)
+- [*Debugging with GDB: The GNU Source-Level Debugger*](https://sourceware.org/gdb/current/onlinedocs/gdb.html/)
+- [*The GNU Make Manual*](https://www.gnu.org/software/make/manual/make.html)
 
 **Algorithms & Data Structures** `COS 226`
 - ✔️ ***[Algorithms](https://algs4.cs.princeton.edu/home/)*** by Sedgewick & Wayne
