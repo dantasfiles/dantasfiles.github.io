@@ -26,20 +26,20 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 
 ## Freshman level
 
-### **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
+**[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - ✔️ *[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
 - ✔️ *[How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)*
 - ✔️ *[PEP 257: Docstring Conventions](https://peps.python.org/pep-0257/)* by Goodger & van Rossum
 - *[The Python Standard Library](https://docs.python.org/3/library/)*
 
-#### **[Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
+**[Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
 - ✔️ ***[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)*** by Allen B. Downey
 
 ## Sophomore level
 
 **[C++ Programming](https://www.cs.cornell.edu/courses/cs2024/2026fa/)** `CS 2024`
 
-##### **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS 2110`
+**[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS 2110`
 - 📕 Books
   - ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
   - ✔️ [***Principled Programming: Intro. to Coding in Any Imperative Language***](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
