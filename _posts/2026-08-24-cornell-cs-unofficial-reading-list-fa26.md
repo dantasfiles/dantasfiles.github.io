@@ -6,23 +6,12 @@ author: Daniel Dantas
 
 I compiled this unofficial Cornell computer science reading list using publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages.<br>To track my own explorations, I marked books and papers I've previously read with a **bold** ✔️
 
-<div style="column-count: 2;" markdown="1">
-
-**[Freshman →](#freshman-level)**
-
-**[Sophomore →](#sophomore-level)**
-
-**[Junior →](#junior-level)**
-
-**[Senior →](#senior-level)**
-
-**[Masters →](#masters-level)**
-
-**[Doctoral →](#doctoral-level)**
-
-**[Seminars →](#seminars)**
-
-</div>
+| | |
+| --- | --- | 
+| **[Freshman →](#freshman-level)** | **[Sophomore →](#sophomore-level)** |
+| **[Junior →](#junior-level)** | **[Senior →](#senior-level)** |
+| **[Masters →](#masters-level)** | **[Doctoral →](#doctoral-level)** |
+| **[Seminars →](#seminars)** | | 
 
 ## Freshman level
 
