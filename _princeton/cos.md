@@ -110,6 +110,19 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 - *[Copysets: Reducing the Frequency of Data Loss in Cloud Storage](https://www.usenix.org/conference/atc13/technical-sessions/presentation/cidon)* by Cidon et al.
 - *[There Is More Consensus in Egalitarian Parliaments](https://dl.acm.org/doi/10.1145/2517349.2517350)* by Moraru et al.
 
+**[Advanced Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
+- *[Resilient AI Supercomputer Networking Using MRC and SRv6](https://doi.org/10.48550/arXiv.2605.04333)* by Araujo et al.
+- *TCP Vegas: End to End Congestion Avoidance on a Global Internet* by Brakmo & Peterson
+- *[BBR: Congestion-Based Congestion Control](https://dl.acm.org/doi/10.1145/3009824)* by Cardwell et al.
+- *A Protocol for Packet Network Intercommunication* by Cerf & Kahn
+- *[The Design Philosophy of the DARPA Internet Protocols](https://dl.acm.org/doi/10.1145/205447.205458)* by David D. Clark
+- *[Re-Architecting Datacenter Networks & Stacks for Low Latency & High Performance](https://dl.acm.org/doi/10.1145/3098822.3098825)* by Handley et al.
+- *[Congestion Avoidance & Control](https://dl.acm.org/doi/10.1145/205447.205462)* by V. Jacobson
+- *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav
+- *[Neural Adaptive Video Streaming w/ Pensieve](https://dl.acm.org/doi/10.1145/3098822.3098843)* by Mao et al.
+- *[End-to-End Arguments in System Design](https://dl.acm.org/doi/10.1145/357401.357402)* by Saltzer et al.
+- *[Supercomputer Networking to Accelerate Large Scale AI Training](https://openai.com/index/mrc-supercomputer-networking/)* by OpenAI
+
 
 
 
