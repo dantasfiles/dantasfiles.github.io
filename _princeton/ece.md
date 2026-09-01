@@ -36,6 +36,8 @@ title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list,
 **Design of VLSI Systems** `ECE 462 / 562`
 - *Digital Integrated Circuits: A Design Perspective* by Rabaey et al.
 
+**[Elements of Tokenized Finance](https://web3.princeton.edu/elements-of-defi/)** `ECE 473`
+
 **High-Tech Entrepreneurship** `ECE 491`
 - *Built for Growth: How Builder Personality Shapes Your Business, Your Team & Your Ability to Win* by Kuenne & Danne
 
