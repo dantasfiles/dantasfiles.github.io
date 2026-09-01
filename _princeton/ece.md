@@ -20,6 +20,13 @@ title: 🐯 Princeton Electrical & Computer Engineering unofficial reading list,
 **Computer Architecture & Organization** `ECE 375`
 - ✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy 
 
+**[Intro. to Quantum Computing](https://www.cs.princeton.edu/courses/archive/fall26/cos396/)** `ECE 396`
+- *Quantum Computer Science: An Intro.* by N. David Mermin
+- *Quantum Computation and Quantum Information* by Nielsen & Chuang
+- *Quantum Mechanics: A Paradigms Approach* by David H. McIntyre
+- *[Quantum Computing for the Very Curious](https://quantum.country/qcvc)* by Matuschak & Nielsen
+- *The Not So Short Intro. to LaTeX2e: Or LaTeX2e in 139 minutes* by Oetiker et al.
+
 **Solid-State Physics I** `ECE 441`
 - *Solid State Physics* by Ashcroft & Mermin
 
