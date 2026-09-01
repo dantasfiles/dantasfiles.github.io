@@ -86,6 +86,8 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 **Design of VLSI Systems** `COS 462`
 - *Digital Integrated Circuits: A Design Perspective* by Rabaey et al.
 
+**[Elements of Tokenized Finance](https://web3.princeton.edu/elements-of-defi/)** `COS 473`
+
 **[Advanced Computer Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos418/518.html)** `COS 518`
 - *[MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters)* by Dean & Ghemawat
 - *[The Google File System](https://dl.acm.org/doi/10.1145/945445.945450)* by Ghemawat et al.
