@@ -6,6 +6,26 @@ author: Daniel Dantas
 
 I compiled this unofficial Cornell computer science reading list using publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages.<br>To track my own explorations, I marked books and papers I've previously read with a **bold** ✔️
 
+<div style="column-count: 2;" markdown="1">
+
+**[Freshman →](#freshman-level)**
+
+**[Sophomore →](#sophomore-level)**
+
+**[Junior →](#junior-level)**
+
+**[Senior →](#senior-level)**
+
+**[Masters →](#masters-level)**
+
+**[Doctoral →](#doctoral-level)**
+
+**[Seminars →](#seminars)**
+
+</div>
+
+## Freshman level
+
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - ✔️ *[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
 - ✔️ *[How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)*
@@ -14,6 +34,8 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 
 **[Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
 - ✔️ ***[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)*** by Allen B. Downey
+
+## Sophomore level
 
 **[C++ Programming](https://www.cs.cornell.edu/courses/cs2024/2026fa/)** `CS 2024`
 
@@ -43,6 +65,8 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - ✔️ *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al.
   - *[Please Don’t Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/)* by Jeff Atwood
   - ✔️ *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)* by Peter Norvig
+
+## Junior level
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
 - 📕 Books
@@ -80,6 +104,8 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *Foundations of Statistical Natural Language Processing* by Hamming & Schutze
 - *[Intro. to Information Retrieval](https://nlp.stanford.edu/IR-book/)* by Manning et al.
 - *Statistical Learning Theory* by Vladimir N. Vapnik
+
+## Senior level
 
 **Numerical Analysis & Differential Equations** `CS 4210`
 - *Numerical Analysis: Mathematics of Scientific Computing* by Kincaid & Cheney
@@ -125,7 +151,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *Computational Complexity: A Modern Approach* by Arora & Barak
 - *Intro. to the Theory of Computation* by Michael Sipser
 
-## Master's level
+## Masters level
 
 **[Software Testing](https://www.cs.cornell.edu/courses/cs5154/2026fa/)** `CS 5154`
 
