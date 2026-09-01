@@ -52,6 +52,11 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
   - [*CSS Tutorial*](https://www.w3schools.com/css/) by W3Schools
   - [*Bootstrap 5 Tutorial*](https://www.w3schools.com/bootstrap5/) by W3Schools
 
+**[Intro. to Robotics](https://irom-lab.princeton.edu/intro-to-robotics/)** `COS 345`
+- *[Principles of Robot Autonomy](https://arxiv.org/abs/2608.03496)* by Gammelli et al.
+- *[Planning Algorithms](https://lavalle.pl/planning/)* by Steven M. LaValle
+- *Probabilistic Robotics* by Thrun et al.
+
 **Computer Architecture & Organization** `COS 375`
 - 📕✔️ ***Computer Organization & Design: The Hardware Software Interface*** by Patterson & Hennessy
 
