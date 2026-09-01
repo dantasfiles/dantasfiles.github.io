@@ -149,6 +149,11 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *[Modern Robotics: Mechanics, Planning & Control](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)* by Lynch & Park
 - [*The Python Tutorial*](https://docs.python.org/3/tutorial/)
 
+**[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787/5777`
+- ✔️ *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
+- ✔️ *[Introducing GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* by Yanping Huang <!-- 20 -->
+- ✔️ *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* by Fidan Boylu Uz <!-- 23 -->
+
 **[Intro. to Computational Complexity](https://www.cs.cornell.edu/courses/cs4814/2026fa/)** `CS 4814/5814`
 - *Computational Complexity: A Modern Approach* by Arora & Barak
 - *Intro. to the Theory of Computation* by Michael Sipser
