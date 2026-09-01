@@ -18,8 +18,8 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 - ✔️ ***[Algorithms](https://algs4.cs.princeton.edu/home/)*** by Sedgewick & Wayne
 
 **[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `COS 302`
-- 📕✔️ [***Mathematics for Machine Learning***](https://mml-book.github.io/) by Deisenroth et al.
-- 🔗 *[Don't invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)* by John D. Cook
+- ✔️ [***Mathematics for Machine Learning***](https://mml-book.github.io/) by Deisenroth et al.
+- *[Don't invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)* by John D. Cook
 
 **Contemporary Logic Design** `COS 306`
 - *Digital Design w/ RTL Design, VHDL & Verilog* by Frank Vahid
