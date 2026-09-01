@@ -3,7 +3,7 @@ title: 🐯 Princeton unofficial reading lists, fall 2026
 layout: page
 ---
 
-I compiled these unofficial reading lists using publicly available information from the [online bookstore](https://princeton.ecampus.com/) and course webpages.<br>To keep track of my own explorations, I've marked books and papers I've read with a **bold** ✔️
+I compiled these unofficial reading lists using publicly available information from the [online bookstore](https://princeton.ecampus.com/) and course webpages.<br>My major was **[Computer Science](https://dantasfiles.com/princeton/cos)**, so I've paid particular attention to that department.<br>To keep track of my own explorations, I've marked books and papers I've read with a **bold** ✔️
 
 <!-- https://research.princeton.edu/research-princeton/research-areas -->
 
@@ -126,6 +126,8 @@ I compiled these unofficial reading lists using publicly available information f
 **[Psychology](https://dantasfiles.com/princeton/psy)**
 
 **[Science & Technology](https://dantasfiles.com/princeton/stc)**
+
+**[Statistics & Machine Learning](https://dantasfiles.com/princeton/sml)**
 
 </div>
 
