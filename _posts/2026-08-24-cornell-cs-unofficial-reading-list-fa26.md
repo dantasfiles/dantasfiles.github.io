@@ -138,6 +138,8 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - ✔️ *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `CS 4420`
+- *Computer Architecture: A Quantitative Approach* by Hennessy et al.
+- *Digital Design & Computer Architecture, RISC-V Edition* by Harris & Harris
 
 **[Foundations of Robotics](https://www.cs.cornell.edu/courses/cs5750/2026fa/)** `CS 4750/5750`
 - *Probabilistic Robotics* by Thrun et al.
