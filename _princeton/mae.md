@@ -22,6 +22,11 @@ title: 🐯 Princeton Mechanical & Aerospace Engineering unofficial reading list
 **Aircraft Flight Dynamics** `MAE 331`
 - *Flight Dynamics* by Robert F. Stengel
 
+**[Intro. to Robotics](https://irom-lab.princeton.edu/intro-to-robotics/)** `MAE 345`
+- *[Principles of Robot Autonomy](https://arxiv.org/abs/2608.03496)* by Gammelli et al.
+- *[Planning Algorithms](https://lavalle.pl/planning/)* by Steven M. LaValle
+- *Probabilistic Robotics* by Thrun et al.
+
 **Modern Control** `MAE 434`
 - *Linear Systems Theory* by João P. Hespanha 
 
