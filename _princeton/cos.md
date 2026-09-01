@@ -55,9 +55,12 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
   - [*Attacking Machine Learning w/ Adversarial Examples*](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/) by OpenAI
   - [*Dealing With Bias in Artificial Intelligence*](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html) by Craig S. Smith
   - [*A Visual Explanation of Gradient Descent Methods (Momentum, AdaGrad, RMSProp, Adam)*](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c) by Lili Jiang
-
-
-[*Federated Learning: Challenges, Methods, and Future Directions*](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/) by Tian Li <br> 🔗 [*An Overview of Gradient Descent Optimization Algorithms*](https://www.ruder.io/optimizing-gradient-descent/) by Sebastian Ruder <br> 🔗 [*Logistic Regression: Regression for Classification*](https://mlu-explain.github.io/logistic-regression/) by Bugbee Wilber <br> 🔗 [*The Bias Variance Tradeoff*](https://mlu-explain.github.io/bias-variance/) by Wilber & Werness <br> 🔗 [*The Importance of Data Splitting*](https://mlu-explain.github.io/train-test-validation/) by Wilber & Werness <br> 🔗 [*Cross Validation: Reduce, Reuse, Resample*](https://mlu-explain.github.io/cross-validation/) by Wilber & Croome 
+  - [*Federated Learning: Challenges, Methods, and Future Directions*](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/) by Tian Li
+  - [*An Overview of Gradient Descent Optimization Algorithms*](https://www.ruder.io/optimizing-gradient-descent/) by Sebastian Ruder
+  - [*The Importance of Data Splitting*](https://mlu-explain.github.io/train-test-validation/) by Wilber & Werness
+  - [*Cross Validation: Reduce, Reuse, Resample*](https://mlu-explain.github.io/cross-validation/) by Wilber & Croome
+  - [*Logistic Regression: Regression for Classification*](https://mlu-explain.github.io/logistic-regression/) by Bugbee Wilber
+  - [*The Bias Variance Tradeoff*](https://mlu-explain.github.io/bias-variance/) by Wilber & Werness
 
 **[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
 - ✔️ ***[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)*** by Michael R. Clarkson
