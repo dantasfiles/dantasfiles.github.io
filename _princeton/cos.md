@@ -15,7 +15,7 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
   -  [*The GNU Make manual*](https://www.gnu.org/software/make/manual/make.html)
 
 **[Algorithms & Data Structures](https://www.cs.princeton.edu/courses/archive/fall26/cos226/)** `COS 226`
-- 📕✔️ ***[Algorithms](https://algs4.cs.princeton.edu/home/)*** by Sedgewick & Wayne
+- ✔️ ***[Algorithms](https://algs4.cs.princeton.edu/home/)*** by Sedgewick & Wayne
 
 **[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `COS 302`
 - 📕✔️ [***Mathematics for Machine Learning***](https://mml-book.github.io/) by Deisenroth et al.
