@@ -62,7 +62,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - ✔️ ***Effective Java: Best Practices for the Java Platform*** by Joshua Bloch
 - 📄 Papers & webpages
   - ✔️ *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* by John Sargeant
-  - ✔️ *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al.
+  - ✔️ ***[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)*** by Hristova et al.
   - *[Please Don’t Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/)* by Jeff Atwood
   - ✔️ *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)* by Peter Norvig
 
@@ -135,7 +135,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - *[The Rust Performance Book](https://nnethercote.github.io/perf-book/)* by Nethercote et al.
   - *[Rust Atomics & Locks: Low-Level Concurrency in Practice](https://mara.nl/atomics/)* by Mara Bos
   - *[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)* by Ulrich Drepper
-  - ✔️ *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
+  - ✔️ ***[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)*** by John Ousterhout
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `CS 4420`
 - *Computer Architecture: A Quantitative Approach* by Hennessy et al.
@@ -150,9 +150,25 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - [*The Python Tutorial*](https://docs.python.org/3/tutorial/)
 
 **[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787/5777`
-- ✔️ *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
-- ✔️ *[Introducing GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* by Yanping Huang <!-- 20 -->
-- ✔️ *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* by Fidan Boylu Uz <!-- 23 -->
+- 📕 Books
+  - *[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)* by Shalev-Shwartz & Ben-David
+  - [*Deep Learning*](https://www.deeplearningbook.org/) by Goodfellow, Bengio & Courville
+  - *Programming Massively Parallel Processors: A Hands-on Approach* by Hwu et al.
+  - *Computer Architecture: A Quantitative Approach* by Hennessy et al.
+- 📄 Papers & webpages
+  - *[Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838)* by Bottou et al.
+  - *[Convex Optimization: Algorithms & Complexity](http://sbubeck.com/book.html)* by Sébastien Bubeck
+  - *[Adaptive Subgradient Methods for Online Learning & Stochastic Optimization](https://dl.acm.org/doi/10.5555/1953048.2021068)* by Duchi et al.
+  - *[Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)* by Kingma & Ba
+  - *[Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)* by Kaplan et al.
+  - *[Mixed-Precision Training of Deep Neural Networks](https://developer.nvidia.com/blog/mixed-precision-training-deep-neural-networks/)* by Paulius Micikevicius
+  - ✔️ *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
+  - *[Scaling Distributed Machine Learning w/ the Parameter Server](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/li_mu)* by Li et al.
+  - *[Distributed training with TensorFlow](https://www.tensorflow.org/guide/distributed_training)*
+  - ✔️ *[Introducing GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* by Yanping Huang <!-- 20 -->
+  - ✔️ *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* by Fidan Boylu Uz <!-- 23 -->
+  - *[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)* by Han et al.
+  - *[Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191)* by Wang et al.
 
 **[Intro. to Computational Complexity](https://www.cs.cornell.edu/courses/cs4814/2026fa/)** `CS 4814/5814`
 - *Computational Complexity: A Modern Approach* by Arora & Barak
