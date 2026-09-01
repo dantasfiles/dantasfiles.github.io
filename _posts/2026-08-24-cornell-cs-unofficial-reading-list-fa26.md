@@ -41,7 +41,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - 📄 Papers & Webpages
   - ✔️ *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* by John Sargeant
   - ✔️ *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al.
-  - *Please Don’t Learn to Code* by Jeff Atwood
+  - *[Please Don’t Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/)* by Jeff Atwood
   - ✔️ *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)* by Peter Norvig
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
