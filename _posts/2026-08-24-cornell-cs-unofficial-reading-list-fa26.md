@@ -24,7 +24,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
   - ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
   - ✔️ [***Principled Programming: Intro. to Coding in Any Imperative Language***](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
   - *Data Structures & Algorithms in Java: A Project-Based Approach* by Dan S. Myers
-- 🔗 *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler
+- 🔗✔️ *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler
 
 **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
 - ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
