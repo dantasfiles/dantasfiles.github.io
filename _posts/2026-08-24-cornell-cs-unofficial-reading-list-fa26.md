@@ -62,6 +62,9 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - ✔️ *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank <!-- Resources: Unix Shell -->
   - *[Makefile Tutorial](https://makefiletutorial.com/)* <!-- Resources: Makefiles -->
 
+**Foundations of AI Reasoning & Decision-Making** `CS 3700`
+- *Artificial Intelligence: A Modern Approach* by Russell & Norvig
+
 **[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
 - *[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)* by Shalev-Shwartz & Ben-David
 - ✔️ ***[Mathematics for Machine Learning](https://mml-book.github.io/)*** by Deisenroth et al.
