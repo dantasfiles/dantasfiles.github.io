@@ -84,7 +84,7 @@ title: 🐯 Princeton Computer Science unofficial reading list, fall 2026
 **[Reasoning with Data](https://humans.cs.princeton.edu/teaching/fall2026_reasoning_with_data.html)** `COS 424`
 
 **Design of VLSI Systems** `COS 462`
-- 📕 *Digital Integrated Circuits: A Design Perspective* by Rabaey et al.
+- *Digital Integrated Circuits: A Design Perspective* by Rabaey et al.
 
 **[Advanced Computer Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos418/518.html)** `COS 518`
 - *[MapReduce: Simplified Data Processing on Large Clusters](https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters)* by Dean & Ghemawat
