@@ -48,7 +48,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - *[Software Engineering at Google: Lessons Learned from Programming Over Time](https://abseil.io/resources/swe-book)* by Winters et al. <!-- Code Style Guidelines -->
   - *[Numerical Recipes: The Art of Scientific Computing](https://numerical.recipes/)* by Press et al. <!-- Code Style Guidelines -->
 - 🔗 Webpages
-  - *[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)* <!-- Code Style Guidelines -->
+<!--  - *[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)* <!-- Code Style Guidelines --> -->
   - ✔️ *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler <!-- Code Style Guidelines -->
 
 **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
@@ -64,7 +64,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - 📄 Papers & webpages
   - ✔️ *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* by John Sargeant
   - ✔️ ***[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)*** by Hristova et al.
-  - *[Please Don’t Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/)* by Jeff Atwood
+<!--  - *[Please Don’t Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/)* by Jeff Atwood -->
   - ✔️ *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)* by Peter Norvig
 
 ## Junior level
@@ -76,16 +76,16 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al. <!-- Lecture Notes: Rust -->
   - *[Pro Git](https://git-scm.com/book/)* by Chacon & Straub <!-- Resources: Git -->
 - 📄 Papers & webpages
-  - *[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://dl.acm.org/doi/10.1145/103162.103163)* by David Goldberg <!-- Lecture Notes: Floating Point -->
+<!--  - *[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://dl.acm.org/doi/10.1145/103162.103163)* by David Goldberg <!-- Lecture Notes: Floating Point -->
   - ✔️ *[A proactive approach to more secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* by Microsoft Security Response Center <!-- Lecture Notes: The Stack, The Heap, and Dynamic Memory Allocation -->
   - ✔️ *[Safe from compiler bugs?](https://blog.regehr.org/archives/539)* by John Regehr <!-- Lecture Notes: Introduction to RISC-V -->
-  - *[Distilling the Real Cost of Production Garbage Collectors](https://arxiv.org/abs/2112.07880)* by Cai et al. <!-- Lecture Notes: Rust -->
-  - *[Quantifying the Performance of Garbage Collection vs. Explicit Memory Management](https://dl.acm.org/doi/10.1145/1094811.1094836)* by Hertz & Berger <!-- Lecture Notes: Rust -->
-  - *[Back to the Building Blocks: A Path Toward Secure and Measurable Software](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)* <!-- Lecture Notes: Rust -->
-  - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)* by Google <!-- Lecture Notes: Rust -->
-  - *[Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)* <!-- Lecture Notes: Rust -->
+<!--  - *[Distilling the Real Cost of Production Garbage Collectors](https://arxiv.org/abs/2112.07880)* by Cai et al. <!-- Lecture Notes: Rust -->
+<!--  - *[Quantifying the Performance of Garbage Collection vs. Explicit Memory Management](https://dl.acm.org/doi/10.1145/1094811.1094836)* by Hertz & Berger <!-- Lecture Notes: Rust -->
+<!--  - *[Back to the Building Blocks: A Path Toward Secure and Measurable Software](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)* <!-- Lecture Notes: Rust -->
+<!--  - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)* by Google <!-- Lecture Notes: Rust -->
+<!--  - *[Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)* <!-- Lecture Notes: Rust -->
   - ✔️ *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank <!-- Resources: Unix Shell -->
-  - *[Makefile Tutorial](https://makefiletutorial.com/)* <!-- Resources: Makefiles -->
+<!--  - *[Makefile Tutorial](https://makefiletutorial.com/)* <!-- Resources: Makefiles -->
 
 **Foundations of AI Reasoning & Decision-Making** `CS 3700`
 - *Artificial Intelligence: A Modern Approach* by Russell & Norvig
@@ -125,9 +125,9 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
   - *Linkers & Loaders* by John R. Levine
 - 📄 Papers & webpages
-  - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
+<!--  - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
   - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)*
-  - *[C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)*
+  - *[C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)* -->
   - ✔️ *[How to Learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
   - *[The Rustonomicon](https://doc.rust-lang.org/nomicon/)*
   - *[Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)*
