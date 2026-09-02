@@ -64,6 +64,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Landmarks of European Identity** `EPS/ECS 302`
 - 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
 
+### History
+
 **The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
 - 📕 *Byzantium: A Very Short Intro.* by Peter Sarris
 
@@ -80,11 +82,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **The Age of Democratic Revolutions** `HIS 487`
 - 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
 
+### Politics
+
 **The Just Society** `POL/CHV 307`
 - 📄 *The Communist Manifesto* by Marx & Engels
 
 **Causes of War** `POL/SPI 388`
 - 📕 *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
+
+### Public & International Affairs
 
 **The Comparative Political Economy of Development** `SPI 561 / POL 523`
 - 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
@@ -95,6 +101,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
+### Art & Archaeology
+
 **19th-Century European Art: Painting & Literature in 19th C. France & England** `ART/ECS/COM 450 / HUM 451`
 - 📕 *The Picture of Dorian Gray* by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
 
@@ -102,6 +110,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Frankenstein* by Mary Shelley
 - 📕 *Journey to the Center of the Earth* by Jules Verne
 - 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
+
+### Classics
 
 **Classical Mythology** `CLA/HUM/GSS/HLS 212`
 - 📕 *The Odyssey* by Homer
@@ -113,11 +123,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Socrates** `CLG 105`
 - 🗣️ *Apology* by Plato
 
+### Comparative Literature
+
 **The Modern Period** `COM 318 / ECS 319 / LAS 308`
 - 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 
 **Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** `COM 351`
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
+### English
 
 **American Literature: 1930-Present** `ENG 368 / AMS 340`
 - 📕 *The Road* by Cormac McCarthy
@@ -126,6 +140,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Junior Independent Work Seminar** `ENG 397`
 - 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+
+### First-year Seminars
+
+**[Pre-read](https://president.princeton.edu/princeton-pre-read)**
+- ✔️ ***Reader, Come Home: The Reading Brain in a Digital World*** by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
 
 **Exploring the Graphic Novel** `FRS 111`
 - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
@@ -153,6 +172,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas))
 - 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick 
 
+### Humanistic Studies
+
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
 - 📕 *The Consolation of Philosophy* by Boethius
 - 📕 *The Odyssey* by Homer
@@ -164,8 +185,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
+### Religion
+
 **Religion & the Public Conversation** `REL 100`
 - 📕 *Religion: A Very Short Intro.* by Thomas A. Tweed
+
+### Slavic Languages & Literatures
 
 **Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
@@ -173,8 +198,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Dostoevsky** `SLA/RES 416`
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
+### Theater
+
 **Intro. to Theater Making** `THR/MTD 101`
 - 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
+
+<!--
 
 ### Comparative Literature Reading Selection List
 
@@ -210,8 +239,6 @@ The Comparative Literature department publishes a **[Reading Selection List](htt
 - Virginia Woolf: *A Room of One's Own* ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 
 🎞️ **Film** ([my Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/))
-
-<!-- 
 - Michelangelo Antonioni: *L'Avventura*
 - Ingmar Bergman: *The Virgin Spring* / *Winter Light*
 - Charlie Chaplin: *Gold Rush* / *Modern Times* / *The Kid* / *City Lights*
@@ -232,4 +259,5 @@ The Comparative Literature department publishes a **[Reading Selection List](htt
 - Park Chan-wook: *Oldboy*
 - Orson Welles: *Citizen Kane* / *Chimes at Midnight*
 - Wong Kar-wai: *The Grandmaster*
+
 -->
