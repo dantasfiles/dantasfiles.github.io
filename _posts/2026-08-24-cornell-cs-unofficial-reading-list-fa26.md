@@ -203,7 +203,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - *[Don't settle for eventual: scalable causal consistency for wide-area storage with COPS](https://dl.acm.org/doi/10.1145/2043556.2043593)* by Lloyd et al.
   - *[Managing update conflicts in Bayou, a weakly connected replicated storage system](https://dl.acm.org/doi/10.1145/224056.224070)* by Terry et al.
   - *[I Can’t Believe It’s Not Causal! Scalable Causal Consistency with No Slowdown Cascades](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi)* by Mehdi et al.
-  - *[Another advantage of free choice: Completely asynchronous agreement protocols](https://dl.acm.org/doi/10.1145/800221.806707)* by Michael Ben-Or
+  - ✔️ ***[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://dl.acm.org/doi/10.1145/800221.806707)*** by Michael Ben-Or
   - *[Unreliable failure detectors for reliable distributed systems](https://dl.acm.org/doi/10.1145/226643.226647)* by Chandra & Toueg
   - *[The weakest failure detector for solving consensus](https://dl.acm.org/doi/10.1145/234533.234549)* by Chandra & Hadzilacos
   - *[Detecting failures in distributed systems with the Falcon spy network](https://dl.acm.org/doi/10.1145/2043556.2043583)* by Leners et al.
@@ -212,13 +212,17 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - *[Zyzzyva: speculative byzantine fault tolerance](https://dl.acm.org/doi/10.1145/1294261.1294267)* by Kotla et al.
   - *[Byzantine Ordered Consensus without Byzantine Oligarchy](https://www.usenix.org/conference/osdi20/presentation/zhang-yunhao)* by Zhang et al.
   - *[All about Eve: Execute-Verify Replication for Multi-Core Servers](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kapritsos)* by Kapritsos et al.
-  - *[Distributed computing meets game theory: combining insights from two fields](https://dl.acm.org/doi/10.1145/1998037.1998055)* by Abraham et al.
+  - ✔️ ***[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)*** by Abraham et al.
   - *[BAR fault tolerance for cooperative services](https://dl.acm.org/doi/10.1145/1095810.1095816)* by Aiyer et al.
 
-**[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`<br>See website for full paper list -- I only list those I've read
+**[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
+
+<!-- 
+See website for full paper list -- I only list those I've read
 - ✔️ *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
 - ✔️ *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
 - ✔️ *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
+-->
 
 **[Frontiers of Computer Vision](https://www.cs.cornell.edu/courses/cs5672/2026fa/)** `CS 5672`
 - *[Computer Vision: Algorithms & Applications](https://szeliski.org/Book/)* by Richard Szeliski
