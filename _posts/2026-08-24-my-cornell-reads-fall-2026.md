@@ -12,6 +12,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Engineering →](#engineering)**
 
+**[Architecture, Art & Planning →](#architecture-art--planning)**
+
 **[Arts & Sciences →](#arts--sciences)** <!-- 6,096 -->
 
 **[Business →](#business)**
@@ -103,6 +105,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+## Architecture, Art & Planning
+
+✔️ I've previously read the following:
+
+Contemporary Italian Culture - Italian Cinema `ART/ARCH 3117`
+- 🎞️ *La Dolce Vita* by Federico Fellini
+
+---
+
 ## Arts & Sciences
 
 ✔️ I've previously read the following:
@@ -113,6 +124,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Greek Mythology** `CLASS 2604`
 - 📜 *The Odyssey* by Homer
+
+**Comparative Literature, Film & Media** `COML 2030`
+- 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee
+- 🎞️ *2001: A Space Odyssey* by Stanley Kubrick
+- 🎞️ *Arrival* by Denis Villeneuve
+- 🎞️ *Modern Times* by Charlie Chaplin
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
@@ -157,7 +174,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ✔️ I've previously read the following:
 
 **Entrepreneurial Marketing & Strategy** `AEM 3249`
-- 🎞️ *The Social Network*
+- 🎞️ *The Social Network* by David Fincher
+
+---
 
 ## Law
 
