@@ -41,25 +41,23 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 **[C++ Programming](https://www.cs.cornell.edu/courses/cs2024/2026fa/)** `CS 2024`
 
 **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS 2110`
-- 📕 Books
-  - ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
-  - ✔️ [***Principled Programming: Intro. to Coding in Any Imperative Language***](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
-  - *Data Structures & Algorithms in Java: A Project-Based Approach* by Dan S. Myers
-  - *[Software Engineering at Google: Lessons Learned from Programming Over Time](https://abseil.io/resources/swe-book)* by Winters et al. <!-- Code Style Guidelines -->
-  - *[Numerical Recipes: The Art of Scientific Computing](https://numerical.recipes/)* by Press et al. <!-- Code Style Guidelines -->
-- 🔗 Webpages <!--  - *[Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)* <!-- Code Style Guidelines --> -->
+- ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
+- ✔️ [***Principled Programming: Intro. to Coding in Any Imperative Language***](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) by Tim Teitelbaum
+- *Data Structures & Algorithms in Java: A Project-Based Approach* by Dan S. Myers
+- *[Software Engineering at Google: Lessons Learned from Programming Over Time](https://abseil.io/resources/swe-book)* by Winters et al. <!-- Code Style Guidelines -->
+- *[Numerical Recipes: The Art of Scientific Computing](https://numerical.recipes/)* by Press et al. <!-- Code Style Guidelines -->
+- 📄 Papers & webpages
   - ✔️ *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler <!-- Code Style Guidelines -->
 
 **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
-- 📕 Books
-  - ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
-  - *Data Structures & Abstractions with Java* by Carrano & Henry
-  - *Data Structures & Problem Solving Using Java* by Mark Allen Weiss
-  - *Program Development in Java: Abstraction, Specification & Object-Oriented Design* by Liskov & Guttag
-  - *Java Precisely* by Peter Sestoft
-  - ✔️ ***Design Patterns: Elements of Reusable Object-Oriented Software*** by Gamma et al.
-  - *Java in a Nutshell: A Desktop Quick Reference* by Evans et al.
-  - ✔️ ***Effective Java: Best Practices for the Java Platform*** by Joshua Bloch
+- ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
+- *Data Structures & Abstractions with Java* by Carrano & Henry
+- *Data Structures & Problem Solving Using Java* by Mark Allen Weiss
+- *Program Development in Java: Abstraction, Specification & Object-Oriented Design* by Liskov & Guttag
+- *Java Precisely* by Peter Sestoft
+- ✔️ ***Design Patterns: Elements of Reusable Object-Oriented Software*** by Gamma et al.
+- *Java in a Nutshell: A Desktop Quick Reference* by Evans et al.
+- ✔️ ***Effective Java: Best Practices for the Java Platform*** by Joshua Bloch
 - 📄 Papers & webpages
   - ✔️ *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* by John Sargeant
   - ✔️ ***[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)*** by Hristova et al. <!--  - *[Please Don’t Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/)* by Jeff Atwood -->
@@ -68,15 +66,14 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 ## Junior level
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
-- 📕 Books
-  - *[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau <!-- Lecture Notes: OS Processes -->
-  - *[Crafting Interpreters](https://craftinginterpreters.com/)* by Robert Nystrom <!-- Lecture Notes: Rust -->
-  - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al. <!-- Lecture Notes: Rust -->
-  - *[Pro Git](https://git-scm.com/book/)* by Chacon & Straub <!-- Resources: Git -->
-- 📄 Papers & webpages <!--  - *[What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://dl.acm.org/doi/10.1145/103162.103163)* by David Goldberg <!-- Lecture Notes: Floating Point -->
+- *[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau <!-- Lecture Notes: OS Processes -->
+- *[Crafting Interpreters](https://craftinginterpreters.com/)* by Robert Nystrom <!-- Lecture Notes: Rust -->
+- *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al. <!-- Lecture Notes: Rust -->
+- *[Pro Git](https://git-scm.com/book/)* by Chacon & Straub <!-- Resources: Git -->
+- 📄 Papers & webpages 
   - ✔️ *[A proactive approach to more secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* by Microsoft Security Response Center <!-- Lecture Notes: The Stack, The Heap, and Dynamic Memory Allocation -->
-  - ✔️ *[Safe from compiler bugs?](https://blog.regehr.org/archives/539)* by John Regehr <!-- Lecture Notes: Introduction to RISC-V --> <!--  - *[Distilling the Real Cost of Production Garbage Collectors](https://arxiv.org/abs/2112.07880)* by Cai et al. <!-- Lecture Notes: Rust --> <!--  - *[Quantifying the Performance of Garbage Collection vs. Explicit Memory Management](https://dl.acm.org/doi/10.1145/1094811.1094836)* by Hertz & Berger <!-- Lecture Notes: Rust --> <!--  - *[Back to the Building Blocks: A Path Toward Secure and Measurable Software](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)* <!-- Lecture Notes: Rust --> <!--  - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)* by Google <!-- Lecture Notes: Rust --> <!--  - *[Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)* <!-- Lecture Notes: Rust -->
-  - ✔️ *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank <!-- Resources: Unix Shell --> <!--  - *[Makefile Tutorial](https://makefiletutorial.com/)* <!-- Resources: Makefiles -->
+  - ✔️ *[Safe from compiler bugs?](https://blog.regehr.org/archives/539)* by John Regehr <!-- Lecture Notes: Introduction to RISC-V --> 
+  - ✔️ *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank <!-- Resources: Unix Shell --> 
 
 **Foundations of AI Reasoning & Decision-Making** `CS 3700`
 - *Artificial Intelligence: A Modern Approach* by Russell & Norvig
@@ -104,28 +101,18 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *Numerical Computing with MATLAB* by Cleve B. Moler
 
 **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414/5416`
-- 📕 Books
-  - *Computer Systems: A Programmer's Perspective* by Bryant & O'Hallaron
-  - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al.
-  - *Programming Rust: Fast, Safe Systems Development* by Blandy et al.
-  - *Rust in Action* by Tim McNamara
-  - *Rust for Rustaceans: Idiomatic Programming for Experienced Developers* by Jon Gjengset
-  - *[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau
-  - *Advanced Programming in the UNIX Environment* by Stevens & Rago
-  - *[Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/)* by Brian Hall
-  - *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
-  - *Linkers & Loaders* by John R. Levine
-- 📄 Papers & webpages <!--  - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
-  - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)*
-  - *[C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)* -->
+- *Computer Systems: A Programmer's Perspective* by Bryant & O'Hallaron
+- *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al.
+- *Programming Rust: Fast, Safe Systems Development* by Blandy et al.
+- *Rust in Action* by Tim McNamara
+- *Rust for Rustaceans: Idiomatic Programming for Experienced Developers* by Jon Gjengset
+- *[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau
+- *Advanced Programming in the UNIX Environment* by Stevens & Rago
+- *[Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/)* by Brian Hall
+- *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
+- *Linkers & Loaders* by John R. Levine
+- 📄 Papers & webpages
   - ✔️ *[How to Learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
-  - *[The Rustonomicon](https://doc.rust-lang.org/nomicon/)*
-  - *[Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)*
-  - *[Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)*
-  - *[Rust Design Patterns](https://rust-unofficial.github.io/patterns/)*
-  - *[The Rust Performance Book](https://nnethercote.github.io/perf-book/)* by Nethercote et al.
-  - *[Rust Atomics & Locks: Low-Level Concurrency in Practice](https://mara.nl/atomics/)* by Mara Bos
-  - *[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)* by Ulrich Drepper
   - ✔️ ***[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)*** by John Ousterhout
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `CS 4420`
@@ -138,28 +125,17 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *Artificial Intelligence: A Modern Approach* by Russell & Norvig
 - *Modelling & Control of Robot Manipulators* by Sciavicco & Siciliano
 - *[Modern Robotics: Mechanics, Planning & Control](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)* by Lynch & Park
-- [*The Python Tutorial*](https://docs.python.org/3/tutorial/)
 
 **[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787/5777`
-- 📕 Books
-  - *[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)* by Shalev-Shwartz & Ben-David
-  - [*Deep Learning*](https://www.deeplearningbook.org/) by Goodfellow, Bengio & Courville
-  - *Programming Massively Parallel Processors: A Hands-on Approach* by Hwu et al.
-  - *Computer Architecture: A Quantitative Approach* by Hennessy et al.
-- 📄 Papers & webpages
-  - *[Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838)* by Bottou et al.
-  - *[Convex Optimization: Algorithms & Complexity](http://sbubeck.com/book.html)* by Sébastien Bubeck
-  - *[Adaptive Subgradient Methods for Online Learning & Stochastic Optimization](https://dl.acm.org/doi/10.5555/1953048.2021068)* by Duchi et al.
-  - *[Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)* by Kingma & Ba
-  - *[Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)* by Kaplan et al.
-  - *[Mixed-Precision Training of Deep Neural Networks](https://developer.nvidia.com/blog/mixed-precision-training-deep-neural-networks/)* by Paulius Micikevicius
+- *[Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)* by Shalev-Shwartz & Ben-David
+- [*Deep Learning*](https://www.deeplearningbook.org/) by Goodfellow, Bengio & Courville
+- *Programming Massively Parallel Processors: A Hands-on Approach* by Hwu et al.
+- *Computer Architecture: A Quantitative Approach* by Hennessy et al.
+- 📄 See webpage for full paper list
   - ✔️ *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
-  - *[Scaling Distributed Machine Learning w/ the Parameter Server](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/li_mu)* by Li et al.
-  - *[Distributed training with TensorFlow](https://www.tensorflow.org/guide/distributed_training)*
   - ✔️ *[Introducing GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* by Yanping Huang <!-- 20 -->
   - ✔️ *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* by Fidan Boylu Uz <!-- 23 -->
-  - *[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)* by Han et al.
-  - *[Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191)* by Wang et al.
+
 
 **[Intro. to Computational Complexity](https://www.cs.cornell.edu/courses/cs4814/2026fa/)** `CS 4814/5814`
 - *Computational Complexity: A Modern Approach* by Arora & Barak
@@ -170,50 +146,17 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 **[Software Testing](https://www.cs.cornell.edu/courses/cs5154/2026fa/)** `CS 5154`
 
 **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
-- 📕 Books
-  - *Distributed Systems* by Sape Mullender
-  - *Concurrency Control & Recovery in Database Systems* by Philip Bernstein
-- 📄 Papers
-  - *[Teaching Rigorous Distributed Systems With Efficient Model Checking](https://dl.acm.org/doi/10.1145/3302424.3303947)* by Michael et al.
-  - *[Knowledge & Common Knowledge in a Distributed Environment](https://dl.acm.org/doi/10.1145/79147.79161)* by Halpern & Moses
-  - *[Distributed Snapshots: Determining Global States of Distributed Systems](https://dl.acm.org/doi/10.1145/214451.214456)* by Chandy & Lamport
-  - *[Chain Replication for Supporting High Throughput & Availability](https://www.usenix.org/conference/osdi-04/chain-replication-supporting-high-throughput-and-availability)* by van Renesse & Schneider
-  - *[Hypervisor-based Fault Tolerance](https://dl.acm.org/doi/10.1145/225535.225538)* by Bressoud & Schneider
-  - *[Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial](https://dl.acm.org/doi/10.1145/98163.98167)* by Fred B. Schneider
-  - *[Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/)* by Leslie Lamport
-  - *[The Part-Time Parliament](https://dl.acm.org/doi/abs/10.1145/279227.279229)* by Leslie Lamport
-  - *[A Survey of Rollback-Recovery Protocols in Message-Passing Systems](https://dl.acm.org/doi/10.1145/568522.568525)* by Elnozahy et al.
-  - *[Respec: Efficient Online Multiprocessor Replay via Speculation & External Determinism](https://dl.acm.org/doi/10.1145/1735971.1736031)* by Lee et al.
-  - *[DoublePlay: Parallelizing Sequential Logging & Replay](https://dl.acm.org/doi/epdf/10.1145/2110356.2110359)* by Veeraraghavan et al.
-  - *[Impossibility of Distributed Consensus with One Faulty Process](https://dl.acm.org/doi/10.1145/3149.214121)* by Fischer et al.
-  - *[Nonblocking commit protocols](https://dl.acm.org/doi/10.1145/582318.582339)* by Dale Skeen
-  - *[Determining the Last Process to Fail](https://research.ibm.com/publications/determining-the-last-process-to-fail)* by Dale Skeen
-  - *[Linearizability: a correctness condition for concurrent objects](https://dl.acm.org/doi/10.1145/78969.78972)* by Herlihy & Wing
-  - *[Spanner: Google's Globally-Distributed Database](https://dl.acm.org/doi/10.1145/2491245)* by Corbett et al.
-  - *[Dynamo: Amazon's highly available key-value store](https://dl.acm.org/doi/abs/10.1145/1294261.1294281)* by DeCandia et al.
-  - *[Don't settle for eventual: scalable causal consistency for wide-area storage with COPS](https://dl.acm.org/doi/10.1145/2043556.2043593)* by Lloyd et al.
-  - *[Managing update conflicts in Bayou, a weakly connected replicated storage system](https://dl.acm.org/doi/10.1145/224056.224070)* by Terry et al.
-  - *[I Can’t Believe It’s Not Causal! Scalable Causal Consistency with No Slowdown Cascades](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi)* by Mehdi et al.
+- *Distributed Systems* by Sape Mullender
+- *Concurrency Control & Recovery in Database Systems* by Philip Bernstein
+- 📄 See webpage for full paper list
   - ✔️ ***[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://dl.acm.org/doi/10.1145/800221.806707)*** by Michael Ben-Or
-  - *[Unreliable failure detectors for reliable distributed systems](https://dl.acm.org/doi/10.1145/226643.226647)* by Chandra & Toueg
-  - *[The weakest failure detector for solving consensus](https://dl.acm.org/doi/10.1145/234533.234549)* by Chandra & Hadzilacos
-  - *[Detecting failures in distributed systems with the Falcon spy network](https://dl.acm.org/doi/10.1145/2043556.2043583)* by Leners et al.
-  - *[Practical Byzantine Fault-Tolerance](https://www.usenix.org/conference/osdi-99/practical-byzantine-fault-tolerance)* by Castro & Liskov
-  - *[The Byzantine Generals Problem](https://dl.acm.org/doi/10.1145/357172.357176)* by Lamport et al.
-  - *[Zyzzyva: speculative byzantine fault tolerance](https://dl.acm.org/doi/10.1145/1294261.1294267)* by Kotla et al.
-  - *[Byzantine Ordered Consensus without Byzantine Oligarchy](https://www.usenix.org/conference/osdi20/presentation/zhang-yunhao)* by Zhang et al.
-  - *[All about Eve: Execute-Verify Replication for Multi-Core Servers](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kapritsos)* by Kapritsos et al.
   - ✔️ ***[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)*** by Abraham et al.
-  - *[BAR fault tolerance for cooperative services](https://dl.acm.org/doi/10.1145/1095810.1095816)* by Aiyer et al.
 
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
-
-<!-- 
-See website for full paper list -- I only list those I've read
-- ✔️ *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
-- ✔️ *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
-- ✔️ *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
--->
+- 📄 See webpage for full paper list
+  - ✔️ *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
+  - ✔️ *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
+  - ✔️ *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
 
 **[Frontiers of Computer Vision](https://www.cs.cornell.edu/courses/cs5672/2026fa/)** `CS 5672`
 - *[Computer Vision: Algorithms & Applications](https://szeliski.org/Book/)* by Richard Szeliski
@@ -238,13 +181,13 @@ See website for full paper list -- I only list those I've read
   - *[What is Algebraic about Algebraic Effects & Handlers?](https://arxiv.org/abs/1807.05923)* by Andrej Bauer
 
 **[Software Engineering in the Era of Machine Learning](https://www.cs.cornell.edu/courses/cs6158/2026fa/)** `CS 6158`
+- 📄 See webpage for full paper list
 
 ## Seminars
 
 **[Computer Science](https://www.cs.cornell.edu/events/computer-science-colloquium)** `CS 7090`
 
 **[Programming Languages](https://pl.cs.cornell.edu/pldg/2026fa/)** `CS 7190`
-<!-- - *[Coalgebraic Path Constraints](https://arxiv.org/abs/2603.12204)* by Todd Schmid -->
 
 **[Scientific Computing & Numerics](https://cornell-scan.github.io/index.html)** `CS 7290`
 
@@ -257,5 +200,4 @@ See website for full paper list -- I only list those I've read
 **[Robotics](https://www.cs.cornell.edu/events/robotics-seminar)** `CS 7796`
 
 **[Theory of Algorithms & Computing](https://www.cs.cornell.edu/events/theory-seminar)** `CS 7890`
-<!-- - *[Online Orthogonal Vectors Revisited](https://arxiv.org/abs/2605.04798)* by Gajulapalli et al. -->
 
