@@ -31,8 +31,21 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ### Computer Science
 
+**[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
+- 📕 Books
+  - *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
+- 🔗 Websites
+  - [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank
+  - [*A guided tour of Emacs*](https://www.gnu.org/software/emacs/tour/)
+
 **Algorithms & Data Structures** `COS 226`
 - *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
+
+**[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `COS 302 / SML 305 / ECE 305`
+- *[*Mathematics for Machine Learning*](https://mml-book.github.io/)* by Deisenroth et al.
+
+[**Intro. to Machine Learning**](https://princeton-cos324.github.io/) `COS 324`
+- *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth, Faisal & Ong
 
 **[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
 - *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
