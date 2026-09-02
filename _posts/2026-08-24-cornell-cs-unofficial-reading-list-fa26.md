@@ -157,6 +157,7 @@ I compiled this unofficial Cornell computer science reading list using publicly 
   - ✔️ ***[Attention Is All You Need](https://arxiv.org/abs/1706.03762)*** by Vaswani et al.
   - ✔️ ***[The illustrated transformer](https://jalammar.github.io/illustrated-transformer/)*** by Jay Alammar
   - ✔️ ***[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)*** by Korthikanti et al.
+  - ✔️ ***[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)*** by Williams et al.
 
 **[Frontiers of Computer Vision](https://www.cs.cornell.edu/courses/cs5672/2026fa/)** `CS 5672`
 - *[Computer Vision: Algorithms & Applications](https://szeliski.org/Book/)* by Richard Szeliski
