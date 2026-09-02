@@ -130,6 +130,7 @@ Contemporary Italian Culture - Italian Cinema `ART/ARCH 3117`
 - 🎞️ *2001: A Space Odyssey* by Stanley Kubrick
 - 🎞️ *Arrival* by Denis Villeneuve
 - 🎞️ *Modern Times* by Charlie Chaplin
+- 🎞️ *The Big Short* by Adam McKay
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
@@ -150,9 +151,15 @@ Contemporary Italian Culture - Italian Cinema `ART/ARCH 3117`
 **Making Sense of World Politics** `GOVT 1817`
 - 📕 *The Cold War: A Very Short Intro.* by Robert J. McMahon
 
+**History of Law: Great Trials** `HIST 1600`
+- 🎞️ *Judgment at Nuremberg* by Stanley Kramer
+
 **U.S. History through Literature** `HIST/AMST 1770`
 - 📕 *Hiroshima* by John Hersey
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+**From the New Deal to the Age of Reagan** `HIST/AMST/SHUM 2220`
+- 🎞️ *The Vietnam War* by Burns & Novick
 
 **Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
