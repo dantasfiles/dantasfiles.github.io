@@ -118,14 +118,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
 
 **Classical Mythology** `CLA/HUM/GSS/HLS 212`
-- 📕 *The Odyssey* by Homer
-- 📕 *Jason & the Golden Fleece* by Apollonius of Rhodes
+- 📜 *The Odyssey* by Homer
+- 📜 *Jason & the Golden Fleece* by Apollonius of Rhodes
 
 **The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
 - 📕 *The Trojan War: A Very Short Intro.* by Eric H. Cline
 
 **Socrates** `CLG 105`
-- 🗣️ *Apology* by Plato
+- 📜 *Apology* by Plato
 
 **The Modern Period** `COM 318 / ECS 319 / LAS 308`
 - 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
@@ -155,7 +155,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas?ref=rsp))
 
 **History of Freedom** `FRS 137`
-- 📄 *Letter from Birmingham Jail* by Martin Luther King Jr.
+- ✉️ *Letter from Birmingham Jail* by Martin Luther King Jr.
 
 **Gaslight! Control, Coercion, or Just Conflict?: The Cultural History of a TikTok Term** `FRS 153`
 - 📕 *1984* by George Orwell
@@ -172,11 +172,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
 - 📕 *The Consolation of Philosophy* by Boethius
-- 📕 *The Odyssey* by Homer
-- 🗣️ *Apology* by Plato
+- 📜 *The Odyssey* by Homer
+- 📜 *Apology* by Plato
 
 **East Asian Humanities I: The Classical Foundations** `HUM/EAS/COM 233`
-- 📕 *Analects* by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
+- 📜 *Analects* by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
 
 **Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
