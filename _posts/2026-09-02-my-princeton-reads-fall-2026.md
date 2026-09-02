@@ -50,6 +50,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Computer Architecture & Organization** `COS/ECE 375`
 - 📕 *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
 
+**[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
+- 📄 *How to Read a Paper* by S. Keshav
+
 ---
 
 ## Social Sciences
