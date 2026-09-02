@@ -53,6 +53,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
 - 📄 *How to Read a Paper* by S. Keshav
 
+**[Foundational Papers in Networks & Operating Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos597L/)** `COS 597L`
+- 📄 *How to Read a Paper* by S. Keshav
+
 ---
 
 ## Social Sciences
