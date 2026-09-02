@@ -54,14 +54,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🔗 *[Safe from compiler bugs?](https://blog.regehr.org/archives/539)* by John Regehr <!-- Lecture Notes: Introduction to RISC-V -->
 - 🔗 *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank <!-- Resources: Unix Shell -->
 
-**[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780/5780`
+**[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780`
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
 
-**[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414/5416`
+**[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414`
 - 🔗 *[How to learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
 - 📄 *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
 
-**[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787/5777`
+**[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787`
 - 📄 *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
 - 🔗 *[Introducing GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* by Yanping Huang <!-- 20 -->
 - 🔗 *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* by Fidan Boylu Uz <!-- 23 -->
@@ -86,13 +86,13 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
 
-**Design w/ Embedded Operating Systems** `ECE 4725/5725`
+**Design w/ Embedded Operating Systems** `ECE 4725`
 - 📕 *The C Programming Language* by Kernighan & Ritchie
 
-**[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `ECE 4750/5740 / CS 4420`
+**[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `ECE 4750 / CS 4420`
 - 📕 *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
 
-**[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002/6950`
+**[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002`
 - 🔗 *[The perceptron & all the things it can't perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
 - 📄 *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* by Dally et al.
 - 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
@@ -107,6 +107,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ## Architecture, Art & Planning
 
 ✔️ I've previously read or seen the following:
+
+**History of Architecture II** `ARCH 2802`
+- 📕 *The Wretched of the Earth* by Frantz Fanon
 
 **Contemporary Italian Culture - Italian Cinema** `ART/ARCH 3117`
 - 🎞️ *La Dolce Vita* by Federico Fellini
