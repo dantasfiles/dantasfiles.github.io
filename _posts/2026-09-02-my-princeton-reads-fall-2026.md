@@ -92,6 +92,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **The Age of Democratic Revolutions** `HIS 487`
 - *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
 
+### Native American & Indigenous Studies
+
+**Native American Literature** `NAI/AMS 322 / ENG 242`
+- *Ceremony* by Leslie Marmon Silko
+
 ### Politics
 
 **The Just Society** `POL/CHV 307`
