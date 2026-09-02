@@ -112,28 +112,30 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *Numerical Computing with MATLAB* by Cleve B. Moler
 
 **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414/5416`
-- 📕 *Computer Systems: A Programmer's Perspective* by Bryant & O'Hallaron
-- 📕 *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al.
-- 📕 *Programming Rust: Fast, Safe Systems Development* by Blandy et al.
-- 📕 *Rust in Action* by Tim McNamara
-- 📕 *Rust for Rustaceans: Idiomatic Programming for Experienced Developers* by Jon Gjengset
-- 📕 *[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau
-- 📕 *Advanced Programming in the UNIX Environment* by Stevens & Rago
-- 📕 *[Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/)* by Brian Hall
-- 📕 *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
-- 📕 *Linkers & Loaders* by John R. Levine
-- *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
-- *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)*
-- *[C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)*
-- ✔️ *[How to Learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
-- *[The Rustonomicon](https://doc.rust-lang.org/nomicon/)*
-- *[Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)*
-- *[Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)*
-- *[Rust Design Patterns](https://rust-unofficial.github.io/patterns/)*
-- *[The Rust Performance Book](https://nnethercote.github.io/perf-book/)* by Nethercote et al.
-- *[Rust Atomics & Locks: Low-Level Concurrency in Practice](https://mara.nl/atomics/)* by Mara Bos
-- *[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)* by Ulrich Drepper
-- ✔️ ***[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)*** by John Ousterhout
+- 📕 Books
+  - *Computer Systems: A Programmer's Perspective* by Bryant & O'Hallaron
+  - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al.
+  - *Programming Rust: Fast, Safe Systems Development* by Blandy et al.
+  - *Rust in Action* by Tim McNamara
+  - *Rust for Rustaceans: Idiomatic Programming for Experienced Developers* by Jon Gjengset
+  - *[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)* by Arpaci-Dusseau & Arpaci-Dusseau
+  - *Advanced Programming in the UNIX Environment* by Stevens & Rago
+  - *[Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/)* by Brian Hall
+  - *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
+  - *Linkers & Loaders* by John R. Levine
+- 📄 Papers & webpages
+  - *[Rust by Example](https://doc.rust-lang.org/rust-by-example/)*
+  - *[Comprehensive Rust](https://google.github.io/comprehensive-rust/)*
+  - *[C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/)*
+  - ✔️ *[How to Learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
+  - *[The Rustonomicon](https://doc.rust-lang.org/nomicon/)*
+  - *[Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)*
+  - *[Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)*
+  - *[Rust Design Patterns](https://rust-unofficial.github.io/patterns/)*
+  - *[The Rust Performance Book](https://nnethercote.github.io/perf-book/)* by Nethercote et al.
+  - *[Rust Atomics & Locks: Low-Level Concurrency in Practice](https://mara.nl/atomics/)* by Mara Bos
+  - *[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)* by Ulrich Drepper
+  - ✔️ ***[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)*** by John Ousterhout
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `CS 4420`
 - *Computer Architecture: A Quantitative Approach* by Hennessy et al.
