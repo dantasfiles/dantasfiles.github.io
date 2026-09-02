@@ -28,10 +28,10 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 ## Freshman level
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
-- ✔️ *[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
-- ✔️ *[How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)*
-- ✔️ *[PEP 257: Docstring Conventions](https://peps.python.org/pep-0257/)* by Goodger & van Rossum
-- *[The Python Standard Library](https://docs.python.org/3/library/)*
+- 📄 See webpage for full paper list
+  - ✔️ ***[How to Use the Terminal Command Line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)*** by Igor Degtiarenko
+  - ✔️ ***[How to Write Doc Comments for the Javadoc Tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)***
+  - ✔️ ***[PEP 257: Docstring Conventions](https://peps.python.org/pep-0257/)*** by Goodger & van Rossum
 
 **[Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
 - ✔️ ***[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)*** by Allen B. Downey
@@ -46,8 +46,8 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *Data Structures & Algorithms in Java: A Project-Based Approach* by Dan S. Myers
 - *[Software Engineering at Google: Lessons Learned from Programming Over Time](https://abseil.io/resources/swe-book)* by Winters et al. <!-- Code Style Guidelines -->
 - *[Numerical Recipes: The Art of Scientific Computing](https://numerical.recipes/)* by Press et al. <!-- Code Style Guidelines -->
-- 📄 Papers & webpages
-  - ✔️ *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler <!-- Code Style Guidelines -->
+- 📄 See webpage for full paper list
+  - ✔️ ***[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)*** by Martin Fowler <!-- Code Style Guidelines -->
 
 **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
 - ✔️ [***Object-Oriented Design & Data Structures***](https://andrewcmyers.github.io/oodds/) by Myers & Kozen
@@ -58,10 +58,10 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - ✔️ ***Design Patterns: Elements of Reusable Object-Oriented Software*** by Gamma et al.
 - *Java in a Nutshell: A Desktop Quick Reference* by Evans et al.
 - ✔️ ***Effective Java: Best Practices for the Java Platform*** by Joshua Bloch
-- 📄 Papers & webpages
-  - ✔️ *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* by John Sargeant
+- 📄 See webpage for full paper list
+  - ✔️ ***[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)*** by John Sargeant
   - ✔️ ***[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)*** by Hristova et al. <!--  - *[Please Don’t Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/)* by Jeff Atwood -->
-  - ✔️ *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)* by Peter Norvig
+  - ✔️ ***[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)*** by Peter Norvig
 
 ## Junior level
 
@@ -70,10 +70,10 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *[Crafting Interpreters](https://craftinginterpreters.com/)* by Robert Nystrom <!-- Lecture Notes: Rust -->
 - *[The Rust Programming Language](https://doc.rust-lang.org/book/)* by Klabnik et al. <!-- Lecture Notes: Rust -->
 - *[Pro Git](https://git-scm.com/book/)* by Chacon & Straub <!-- Resources: Git -->
-- 📄 Papers & webpages 
-  - ✔️ *[A proactive approach to more secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* by Microsoft Security Response Center <!-- Lecture Notes: The Stack, The Heap, and Dynamic Memory Allocation -->
-  - ✔️ *[Safe from compiler bugs?](https://blog.regehr.org/archives/539)* by John Regehr <!-- Lecture Notes: Introduction to RISC-V --> 
-  - ✔️ *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* by Michael Stonebank <!-- Resources: Unix Shell --> 
+- 📄 See webpage for full paper list
+  - ✔️ ***[A proactive approach to more secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)*** by Microsoft Security Response Center <!-- Lecture Notes: The Stack, The Heap, and Dynamic Memory Allocation -->
+  - ✔️ ***[Safe from compiler bugs?](https://blog.regehr.org/archives/539)*** by John Regehr <!-- Lecture Notes: Introduction to RISC-V --> 
+  - ✔️ ***[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)*** by Michael Stonebank <!-- Resources: Unix Shell --> 
 
 **Foundations of AI Reasoning & Decision-Making** `CS 3700`
 - *Artificial Intelligence: A Modern Approach* by Russell & Norvig
@@ -111,8 +111,8 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *[Beej's Guide to Network Programming: Using Internet Sockets](https://beej.us/guide/bgnet/html/)* by Brian Hall
 - *[The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/html/)* by Eric Raymond
 - *Linkers & Loaders* by John R. Levine
-- 📄 Papers & webpages
-  - ✔️ *[How to Learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
+- 📄 See webpage for full paper list
+  - ✔️ ***[How to learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)*** by Vitaly Bragilevsky
   - ✔️ ***[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)*** by John Ousterhout
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `CS 4420`
@@ -132,9 +132,9 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 - *Programming Massively Parallel Processors: A Hands-on Approach* by Hwu et al.
 - *Computer Architecture: A Quantitative Approach* by Hennessy et al.
 - 📄 See webpage for full paper list
-  - ✔️ *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
-  - ✔️ *[Introducing GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* by Yanping Huang <!-- 20 -->
-  - ✔️ *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* by Fidan Boylu Uz <!-- 23 -->
+  - ✔️ ***[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)*** by Dean et al. <!-- 20 -->
+  - ✔️ ***[Introducing GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)*** by Yanping Huang <!-- 20 -->
+  - ✔️ ***[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)*** by Fidan Boylu Uz <!-- 23 -->
 
 
 **[Intro. to Computational Complexity](https://www.cs.cornell.edu/courses/cs4814/2026fa/)** `CS 4814/5814`
@@ -154,9 +154,9 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
 - 📄 See webpage for full paper list
-  - ✔️ *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
-  - ✔️ *[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
-  - ✔️ *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
+  - ✔️ ***[Attention Is All You Need](https://arxiv.org/abs/1706.03762)*** by Vaswani et al.
+  - ✔️ ***[The illustrated transformer](https://jalammar.github.io/illustrated-transformer/)*** by Jay Alammar
+  - ✔️ ***[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)*** by Korthikanti et al.
 
 **[Frontiers of Computer Vision](https://www.cs.cornell.edu/courses/cs5672/2026fa/)** `CS 5672`
 - *[Computer Vision: Algorithms & Applications](https://szeliski.org/Book/)* by Richard Szeliski
