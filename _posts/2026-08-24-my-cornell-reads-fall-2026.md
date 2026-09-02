@@ -26,7 +26,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Engineering
 
-✔️ I've previously read the following:
+✔️ I've previously read or seen the following:
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[How to use the terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko
@@ -107,7 +107,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Architecture, Art & Planning
 
-✔️ I've previously read the following:
+✔️ I've previously read or seen the following:
 
 Contemporary Italian Culture - Italian Cinema `ART/ARCH 3117`
 - 🎞️ *La Dolce Vita* by Federico Fellini
@@ -116,7 +116,7 @@ Contemporary Italian Culture - Italian Cinema `ART/ARCH 3117`
 
 ## Arts & Sciences
 
-✔️ I've previously read the following:
+✔️ I've previously read or seen the following:
 
 **Classics & Comics** `CLASS 1812`
 - 📔 *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas))
@@ -171,7 +171,7 @@ Contemporary Italian Culture - Italian Cinema `ART/ARCH 3117`
 
 ## Business
 
-✔️ I've previously read the following:
+✔️ I've previously read or seen the following:
 
 **Entrepreneurial Marketing & Strategy** `AEM 3249`
 - 🎞️ *The Social Network* by David Fincher
@@ -180,7 +180,7 @@ Contemporary Italian Culture - Italian Cinema `ART/ARCH 3117`
 
 ## Law
 
-✔️ I've previously read the following:
+✔️ I've previously read or seen the following:
 
 **[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
 - 📄 *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
