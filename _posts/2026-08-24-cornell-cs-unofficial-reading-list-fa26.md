@@ -179,20 +179,32 @@ I compiled this unofficial Cornell computer science reading list using publicly 
 **[Software Testing](https://www.cs.cornell.edu/courses/cs5154/2026fa/)** `CS 5154`
 
 **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
-Distributed Systems (2nd Edition)
-by Sape Mullender 
-- *[Teaching Rigorous Distributed Systems With Efficient Model Checking](https://dl.acm.org/doi/10.1145/3302424.3303947)* by Michael et al.
-- *[Knowledge & Common Knowledge in a Distributed Environment](https://dl.acm.org/doi/10.1145/79147.79161)* by Halpern & Moses
-- *[Distributed Snapshots: Determining Global States of Distributed Systems](https://dl.acm.org/doi/10.1145/214451.214456)* by Chandy & Lamport
-- *[Chain Replication for Supporting High Throughput & Availability](https://www.usenix.org/conference/osdi-04/chain-replication-supporting-high-throughput-and-availability)* by van Renesse & Schneider
-- *[Hypervisor-based Fault Tolerance](https://dl.acm.org/doi/10.1145/225535.225538)* by Bressoud & Schneider
-- *[Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial](https://dl.acm.org/doi/10.1145/98163.98167)* by Fred B. Schneider
-- *[Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/)* by Leslie Lamport
-- *[The Part-Time Parliament](https://dl.acm.org/doi/abs/10.1145/279227.279229)* by Leslie Lamport
-- *[A Survey of Rollback-Recovery Protocols in Message-Passing Systems](https://dl.acm.org/doi/10.1145/568522.568525)* by Elnozahy et al.
-- *[Respec: Efficient Online Multiprocessor Replay via Speculation & External Determinism](https://dl.acm.org/doi/10.1145/1735971.1736031)* by Lee et al.
-- *[DoublePlay: Parallelizing Sequential Logging & Replay](https://dl.acm.org/doi/epdf/10.1145/2110356.2110359)* by Veeraraghavan et al.
-- *Impossibility of Distributed Consensus with One Faulty Process* by Fischer et al. -->
+- 📕 Books
+  - *Distributed Systems* by Sape Mullender
+  - *Concurrency Control & Recovery in Database Systems* by Philip Bernstein
+- 📄 Papers
+  - *[Teaching Rigorous Distributed Systems With Efficient Model Checking](https://dl.acm.org/doi/10.1145/3302424.3303947)* by Michael et al.
+  - *[Knowledge & Common Knowledge in a Distributed Environment](https://dl.acm.org/doi/10.1145/79147.79161)* by Halpern & Moses
+  - *[Distributed Snapshots: Determining Global States of Distributed Systems](https://dl.acm.org/doi/10.1145/214451.214456)* by Chandy & Lamport
+  - *[Chain Replication for Supporting High Throughput & Availability](https://www.usenix.org/conference/osdi-04/chain-replication-supporting-high-throughput-and-availability)* by van Renesse & Schneider
+  - *[Hypervisor-based Fault Tolerance](https://dl.acm.org/doi/10.1145/225535.225538)* by Bressoud & Schneider
+  - *[Implementing Fault-Tolerant Services Using the State Machine Approach: A Tutorial](https://dl.acm.org/doi/10.1145/98163.98167)* by Fred B. Schneider
+  - *[Paxos Made Simple](https://www.microsoft.com/en-us/research/publication/paxos-made-simple/)* by Leslie Lamport
+  - *[The Part-Time Parliament](https://dl.acm.org/doi/abs/10.1145/279227.279229)* by Leslie Lamport
+  - *[A Survey of Rollback-Recovery Protocols in Message-Passing Systems](https://dl.acm.org/doi/10.1145/568522.568525)* by Elnozahy et al.
+  - *[Respec: Efficient Online Multiprocessor Replay via Speculation & External Determinism](https://dl.acm.org/doi/10.1145/1735971.1736031)* by Lee et al.
+  - *[DoublePlay: Parallelizing Sequential Logging & Replay](https://dl.acm.org/doi/epdf/10.1145/2110356.2110359)* by Veeraraghavan et al.
+  - *[Impossibility of Distributed Consensus with One Faulty Process](https://dl.acm.org/doi/10.1145/3149.214121)* by Fischer et al.
+  - *[Nonblocking commit protocols](https://dl.acm.org/doi/10.1145/582318.582339)* by Dale Skeen
+  - *[Determining the Last Process to Fail](https://research.ibm.com/publications/determining-the-last-process-to-fail)* by Dale Skeen
+  - *[Linearizability: a correctness condition for concurrent objects](https://dl.acm.org/doi/10.1145/78969.78972)* by Herlihy & Wing
+  - *[Spanner: Google's Globally-Distributed Database](https://dl.acm.org/doi/10.1145/2491245)* by Corbett et al.
+  - *[Dynamo: Amazon's highly available key-value store](https://dl.acm.org/doi/abs/10.1145/1294261.1294281)* by DeCandia et al.
+  - *[Don't settle for eventual: scalable causal consistency for wide-area storage with COPS](https://dl.acm.org/doi/10.1145/2043556.2043593)* by Lloyd et al.
+  - *[Managing update conflicts in Bayou, a weakly connected replicated storage system](https://dl.acm.org/doi/10.1145/224056.224070)* by Terry et al.
+  - *[I Can’t Believe It’s Not Causal! Scalable Causal Consistency with No Slowdown Cascades](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/mehdi)* by Mehdi et al.
+  - *[Another advantage of free choice: Completely asynchronous agreement protocols](https://dl.acm.org/doi/10.1145/800221.806707)* by Michael Ben-Or
+  - 
 
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`<br>See website for full paper list -- I only list those I've read
 - ✔️ *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
