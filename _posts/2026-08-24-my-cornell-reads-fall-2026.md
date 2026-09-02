@@ -170,7 +170,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *Thirteen Days* by Roger Donaldson
 
 **Monuments, Museums & Memory: An Introduction to Public History** `HIST/AMST/SHUM 2792`
-- 🎞️ *Night and Fog* by Alain Resnais
+- 🎞️ *Night & Fog* by Alain Resnais
 
 **Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
