@@ -169,7 +169,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *The Post* by Steven Spielberg
 - 🎞️ *Thirteen Days* by Roger Donaldson
 
-**Monuments, Museums & Memory: An Introduction to Public History** `HIST/AMST/SHUM 2792`
+**Monuments, Museums & Memory: An Intro. to Public History** `HIST/AMST/SHUM 2792`
 - 🎞️ *Night & Fog* by Alain Resnais
 
 **Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
