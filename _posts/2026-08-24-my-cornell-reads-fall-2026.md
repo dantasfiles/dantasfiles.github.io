@@ -109,7 +109,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've previously read or seen the following:
 
-Contemporary Italian Culture - Italian Cinema `ART/ARCH 3117`
+**Contemporary Italian Culture - Italian Cinema** `ART/ARCH 3117`
 - 🎞️ *La Dolce Vita* by Federico Fellini
 
 ---
@@ -160,6 +160,17 @@ Contemporary Italian Culture - Italian Cinema `ART/ARCH 3117`
 
 **From the New Deal to the Age of Reagan** `HIST/AMST/SHUM 2220`
 - 🎞️ *The Vietnam War* by Burns & Novick
+
+**Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** `HIST 2680 / AMST 2682`
+- 🎞️ *All the President's Men* by Alan J. Pakula
+- 🎞️ *Apocalypse Now* by Francis Ford Coppola
+- 🎞️ *Dirty Harry* by Don Siegel
+- 🎞️ *Selma* by Ava DuVernay
+- 🎞️ *The Post* by Steven Spielberg
+- 🎞️ *Thirteen Days* by Roger Donaldson
+
+**Monuments, Museums & Memory: An Introduction to Public History** `HIST/AMST/SHUM 2792`
+- 🎞️ *Night and Fog* by Alain Resnais
 
 **Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
