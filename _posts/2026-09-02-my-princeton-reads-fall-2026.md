@@ -29,7 +29,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
 - 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
-- 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank
+- 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank <!-- 2001-10-19 -->
 - 🔗 [*A guided tour of Emacs*](https://www.gnu.org/software/emacs/tour/)
 
 **Algorithms & Data Structures** `COS 226`
@@ -63,8 +63,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ✔️ I've read the following:
 
 **African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
-- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
+- - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
 
 **The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS 231 / ENG 245 / URB 231`
 - 📕 *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
@@ -91,8 +91,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
 
 **World After Empire** `HIS 411 / AAS 416`
-- 📕 *The Wretched of the Earth* by Frantz Fanon
-- 📕 *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+- 📕 *The Wretched of the Earth* by Frantz Fanon <!-- 1961 -->
+- 📕 *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas)) <!-- 1920 -->
 
 **The Age of Democratic Revolutions** `HIS 487`
 - 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
@@ -119,13 +119,13 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *The Picture of Dorian Gray* by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
 
 **Modern Art: Science & Its Fictions in the Long 19th Century** `ART/HUM 577`
-- 📕 *Frankenstein* by Mary Shelley
-- 📕 *Journey to the Center of the Earth* by Jules Verne
-- 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas))
+- 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) <!-- 1896 -->
+- 📕 *Journey to the Center of the Earth* by Jules Verne <!-- 1864 -->
+- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
 
 **Classical Mythology** `CLA/HUM/GSS/HLS 212`
+- 📕 *Jason & the Golden Fleece* by Apollonius of Rhodes
 - 📜 *The Odyssey* by Homer
-- 📜 *Jason & the Golden Fleece* by Apollonius of Rhodes
 
 **The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
 - 📕 *The Trojan War: A Very Short Intro.* by Eric H. Cline
@@ -140,9 +140,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
 **American Literature: 1930-Present** `ENG 368 / AMS 340`
-- 📕 *The Road* by Cormac McCarthy
-- 📔 *Maus: A Survivor's Tale* by Art Spiegelman
-- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+- 📕 *The Road* by Cormac McCarthy <!-- 2006 -->
+- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
+- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
 
 **Junior Independent Work Seminar** `ENG 397`
 - 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
@@ -151,14 +151,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
 
 **Exploring the Graphic Novel** `FRS 111`
-- 📔 *Maus: A Survivor's Tale* by Art Spiegelman
-- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
-- 📔 *American Born Chinese* by Gene Luen Yang
-- 📔 *Watchmen* by Moore & Gibbons
+- 📔 *American Born Chinese* by Gene Luen Yang <!-- 2006-09-05 -->
+- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel <!-- 2006-06-08 -->
+- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
+- 📔 *Watchmen* by Moore & Gibbons <!-- 1987 -->
 
 **What Makes for a Meaningful Life? A Search** `FRS 121`
-- 📕 *Winnie-the-Pooh* by A.A. Milne
-- 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas?ref=rsp))
+- 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas?ref=rsp)) <!-- 1946 -->
+- 📕 *Winnie-the-Pooh* by A.A. Milne <!-- 1926 -->
 
 **History of Freedom** `FRS 137`
 - ✉️ *Letter from Birmingham Jail* by Martin Luther King Jr.
@@ -170,16 +170,16 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *The Communist Manifesto* by Marx & Engels
 
 **American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
-- 📕 *The Time Machine* by H.G. Wells
-- 📕 *Brave New World* by Aldous Huxley
-- 📕 *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas))
-- 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas))
-- 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick 
+- 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas)) <!-- 1972 -->
+- 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick <!-- 1968 -->
+- 📕 *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas)) <!-- 1950 -->
+- 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
+- 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
 - 📕 *The Consolation of Philosophy* by Boethius
-- 📜 *The Odyssey* by Homer
 - 📜 *Apology* by Plato
+- 📜 *The Odyssey* by Homer
 
 **East Asian Humanities I: The Classical Foundations** `HUM/EAS/COM 233`
 - 📜 *Analects* by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
@@ -199,61 +199,5 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Intro. to Theater Making** `THR/MTD 101`
 - 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
 
-<!--
 
-### Comparative Literature Reading Selection List
 
-The Comparative Literature department publishes a **[Reading Selection List](https://complit.princeton.edu/undergraduate-program/current-majors/reading-selection-list)**
-
-✔️ I've read the following from that list:
-
-📕 **Fiction**
-
-- Chinua Achebe: *Things Fall Apart*
-- Jane Austen: *Sense & Sensibility*
-- Umberto Eco: *The Name of the Rose*
-- F. Scott Fitzgerald: *The Great Gatsby* ([my highlights](https://www.goodreads.com/notes/73662330-the-great-gatsby-mint-editions/185327722-daniel-dantas)) / *The Beautiful & the Damned*
-- Kazuo Ishiguro: *Klara & the Sun*
-- Henry James: *The Outcry*
-- Min Jin Lee: *Pachinko*
-- Toni Morrison: *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
-- Vladimir Nabokov: *Pale Fire*
-- Mary Shelley: *Frankenstein*
-- Mark Twain: *Tom Sawyer* / *Huck Finn*
-
-🎭 **Drama**
-- William Shakespeare:
-  - Comedies: *A Midsummer Night's Dream* / *Much Ado About Nothing* / *The Tempest* / *The Winter's Tale*
-  - Tragedies: *Coriolanus*
-  - Histories:  *Henry V* / *Henry VIII* 
-
-📕 **Nonfiction**
-- Frantz Fanon: *The Wretched of the Earth*
-- *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
-- Nelson Mandela: *Long Walk to Freedom*
-- Karl Marx: *The Communist Manifesto*
-- Virginia Woolf: *A Room of One's Own* ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
-
-🎞️ **Film** ([my Letterboxd list](https://letterboxd.com/dantasfiles/list/princeton-comparative-literature-film-selection/))
-- Michelangelo Antonioni: *L'Avventura*
-- Ingmar Bergman: *The Virgin Spring* / *Winter Light*
-- Charlie Chaplin: *Gold Rush* / *Modern Times* / *The Kid* / *City Lights*
-- Bernardo Bertolucci: *The Last Emperor* 
-- Francis Ford Coppola: *Apocalypse Now*
-- Federico Fellini: *La Dolce Vita*
-- Werner Herzog: *Grizzly Man* / *Cave of Forgotten Dreams* / *Into the Inferno*
-- Alfred Hitchcock: *Dial M for Murder* / *North by Northwest* / *The Birds*
-- Peter Jackson: *The Lord of the Rings*
-- Buster Keaton: *The General* / *Sherlock Jr.*
-- Fritz Lang: *Metropolis*
-- Spike Lee: *4 Little Girls* / *Inside Man*
-- George Lucas: *Star Wars*
-- Chris Marker: *La jetée*
-- Georges Méliès: *A Trip to the Moon* / *The Impossible Voyage*
-- Hayao Miyazaki: *Spirited Away*
-- Christopher Nolan: *The Dark Knight*
-- Park Chan-wook: *Oldboy*
-- Orson Welles: *Citizen Kane* / *Chimes at Midnight*
-- Wong Kar-wai: *The Grandmaster*
-
--->
