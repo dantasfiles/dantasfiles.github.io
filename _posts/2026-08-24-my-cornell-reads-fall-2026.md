@@ -191,6 +191,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - **Speech & the Undead** `102`
   - 🎞️ *Warm Bodies* by Jonathan Levine <!-- 2013 -->
   - 🎞️ *Night of the Living Dead* by George A. Romero <!-- 1968 -->
+  - 🎞️ *Dracula* by Tod Browning <!-- 1931 -->
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695/6695`
 - 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
