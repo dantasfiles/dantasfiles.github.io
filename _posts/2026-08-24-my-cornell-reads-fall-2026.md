@@ -185,9 +185,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *Casablanca* by Michael Curtiz <!-- 1942 -->
 - 🎞️ *Annie Hall* by Woody Allen <!-- 1977 -->
 
-
-**Language, Thought & Reality: Words & Pictures** `LING 1100-001`
-- 📔 *Maus: A Survivor's Tale* by Art Spiegelman
+**Language, Thought & Reality** `LING 1100`
+- **Words & Pictures** `101`
+  - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
+- **Speech & the Undead** `102`
+  - 🎞️ *Night of the Living Dead* by George A. Romero <!-- 1968 -->
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695/6695`
 - 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
@@ -219,3 +221,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🔗 *[Planet Telex](https://laboratorium.net/archive/2011/07/24/planet_telex)* by James Grimmelmann
 - 📕 *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
 - 🔗 *[When law is code](https://cyber.jotwell.com/when-law-is-code/)* by James Grimmelmann
+
+**Psychology for Practicing Transactional Lawyers** `LAW 7749`
+- 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas))
