@@ -190,6 +190,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
   - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
 - **Speech & the Undead** `102`
   - 🎞️ *Night of the Living Dead* by George A. Romero <!-- 1968 -->
+  - 🎞️ *Warm Bodies* by Jonathan Levine <!-- 2013 -->
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695/6695`
 - 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
