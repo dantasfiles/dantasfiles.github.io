@@ -206,6 +206,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Demons & Witches in Russian Literature & Film** `RUSSL 2500`
 - 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
 
+**American Society through Film** `SOC 1290`
+- 🎞️ *The Godfather* by Francis Ford Coppola <!-- 1972 -->
+
 ---
 
 ## Business
