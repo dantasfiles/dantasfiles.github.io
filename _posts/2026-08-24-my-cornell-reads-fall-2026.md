@@ -37,17 +37,17 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
 
 **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS/ENGRD 2110`
-- 📕 *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen
+- 📕 *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen <!-- 2026-08-26 -->
 - 📕 *[Principled Programming: Intro. to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html)* by Tim Teitelbaum
 - 🔗 *[Google Java style guide](https://google.github.io/styleguide/javaguide.html)* <!-- 2026-04-09 -->
 - 🔗 *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler <!-- 2009-07-14 -->
 
 **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
-- 📕 *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen
-- 📕 *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma et al.
-- 📕 *Effective Java: Best Practices for the Java Platform* by Joshua Bloch
+- 📕 *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen <!-- 2026-08-26 -->
+- 📕 *Effective Java: Best Practices for the Java Platform* by Joshua Bloch <!-- 2017  -->
+- 📕 *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma et al. <!-- 1994 -->
+- 📄 *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al. <!-- 2003-01-11 -->
 - 🔗 *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* by John Sargeant
-- 📄 *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al.
 - 🔗 *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)* by Peter Norvig
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
