@@ -46,6 +46,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen <!-- 2026-08-26 -->
 - 📕 *Effective Java: Best Practices for the Java Platform* by Joshua Bloch <!-- 2017  -->
 - 📕 *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma et al. <!-- 1994 -->
+- 🔗 *[Please Don't Learn to Code](https://blog.codinghorror.com/please-dont-learn-to-code/)* by Jeff Atwood <!-- 14 May 2012-05-14 -->
 - 📄 *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al. <!-- 2003-01-11 -->
 - 🔗 *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* by John Sargeant
 - 🔗 *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)* by Peter Norvig
