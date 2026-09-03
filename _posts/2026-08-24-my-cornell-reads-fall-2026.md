@@ -225,12 +225,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Entrepreneurial Marketing & Strategy** `AEM 3249`
 - 🎞️ *The Social Network* by David Fincher
 
+**Digital Platform Strategy** `AEM 4615 / NBA 5615`
+- 📰 *GM to Use Tesla Charging Network, Joining Ford in Leveraging the EV Leader's Tech* by Michael Wayland <!-- 2023-06-08 -->
+
 **Power & Influence in Organizations** `NBA 6540`
 - 🎞️ *12 Angry Men* by Sidney Lumet <!-- 1957 -->
 
 **Leading Teams** `NCC 5040`
 - 🎞️ *12 Angry Men* by Sidney Lumet <!-- 1957 -->
-
 
 ---
 
