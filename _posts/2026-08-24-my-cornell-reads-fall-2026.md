@@ -164,12 +164,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *The Vietnam War* by Burns & Novick
 
 **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** `HIST 2680 / AMST 2682`
-- 🎞️ *All the President's Men* by Alan J. Pakula
-- 🎞️ *Apocalypse Now* by Francis Ford Coppola
-- 🎞️ *Dirty Harry* by Don Siegel
-- 🎞️ *Selma* by Ava DuVernay
-- 🎞️ *The Post* by Steven Spielberg
-- 🎞️ *Thirteen Days* by Roger Donaldson
+- 🎞️ *Dirty Harry* by Don Siegel <!-- 1971 -->
+- 🎞️ *All the President's Men* by Alan J. Pakula <!-- 1976 -->
+- 🎞️ *Apocalypse Now* by Francis Ford Coppola <!-- 1979 -->
+- 🎞️ *Thirteen Days* by Roger Donaldson <!-- 2000 -->
+- 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
+- 🎞️ *The Post* by Steven Spielberg <!-- 2017 -->
 
 **Monuments, Museums & Memory: An Intro. to Public History** `HIST/AMST/SHUM 2792`
 - 🎞️ *Night & Fog* by Alain Resnais
@@ -180,6 +180,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750`
 - 📕 *Frankenstein* by Mary Shelley
 - 📕 *The Adventures of Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas))
+
+**Jews on Film: Visible & Invisible** `JWST 1987` 
+- 🎞️ *Casablanca* by Michael Curtiz <!-- 1942 -->
+- 🎞️ *Annie Hall* by Woody Allen <!-- 1977 -->
+
 
 **Language, Thought & Reality: Words & Pictures** `LING 1100-001`
 - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
