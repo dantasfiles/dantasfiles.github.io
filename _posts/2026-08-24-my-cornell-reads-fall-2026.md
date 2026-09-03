@@ -206,8 +206,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Demons & Witches in Russian Literature & Film** `RUSSL 2500`
 - 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
 
-**American Society through Film** `SOC 1290`
+**American Society through Film** `SOC/AMST 1290`
 - 🎞️ *The Godfather* by Francis Ford Coppola <!-- 1972 -->
+
+**Classical Sociological Theory** `SOC 3750`
+- 🎞️ *Modern Times* by Charlie Chaplin <!-- 1936 -->
+
+**Fascism, Nationalism & Populism** `SOC 4540`
+- 📕 *On Tyranny: 20 Lessons from the 20th Century* by Timothy Snyder ([my highlights](https://www.goodreads.com/notes/34083908-on-tyranny/185327722-daniel-dantas))
 
 ---
 
