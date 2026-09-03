@@ -226,7 +226,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *The Social Network* by David Fincher
 
 **Digital Platform Strategy** `AEM 4615 / NBA 5615`
-- 📰 *GM to Use Tesla Charging Network, Joining Ford in Leveraging the EV Leader's Tech* by Michael Wayland <!-- 2023-06-08 -->
+- 📰 *[Reddit goes dark](https://www.platformer.news/reddit-goes-dark/)* by Casey Newton <!-- 2023-06-12 -->
+- 📰 *[GM to Use Tesla Charging Network, Joining Ford in Leveraging the EV Leader's Tech](https://www.nbcnewyork.com/news/business/money-report/gm-to-use-tesla-charging-network-joining-ford-in-leveraging-the-ev-leaders-tech/4406522/)* by Michael Wayland <!-- 2023-06-08 -->
 
 **Power & Influence in Organizations** `NBA 6540`
 - 🎞️ *12 Angry Men* by Sidney Lumet <!-- 1957 -->
