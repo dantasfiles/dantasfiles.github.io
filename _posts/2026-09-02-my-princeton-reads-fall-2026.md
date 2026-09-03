@@ -65,7 +65,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
 - 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
-- - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
 
 **The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS 231 / ENG 245 / URB 231`
 - 📕 *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
