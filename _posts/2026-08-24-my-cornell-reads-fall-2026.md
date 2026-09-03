@@ -178,6 +178,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Monuments, Museums & Memory: An Intro. to Public History** `HIST/AMST/SHUM 2792`
 - 🎞️ *Night & Fog* by Alain Resnais
 
+**Contesting Votes: Democracy & Citizenship Throughout U.S. History** `HIST/AMST 4203`
+- 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
+
 **Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
