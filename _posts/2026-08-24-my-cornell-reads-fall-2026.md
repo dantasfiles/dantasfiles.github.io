@@ -26,7 +26,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Engineering
 
-✔️ I've previously read or seen the following:
+✔️ I've read or seen the following:
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[How to use the terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko <!-- 2024 -->
@@ -107,7 +107,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Architecture, Art & Planning
 
-✔️ I've previously read or seen the following:
+✔️ I've read or seen the following:
 
 **History of Architecture II** `ARCH 2802`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
@@ -119,7 +119,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Arts & Sciences
 
-✔️ I've previously read or seen the following:
+✔️ I've read or seen the following:
 
 **Classics & Comics** `CLASS 1812`
 - 📔 *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower <!-- 2001 -->
@@ -222,7 +222,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Business
 
-✔️ I've previously read or seen the following:
+✔️ I've read or seen the following:
 
 **Entrepreneurial Marketing & Strategy** `AEM 3249`
 - 🎞️ *The Social Network* by David Fincher
@@ -243,7 +243,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Law
 
-✔️ I've previously read or seen the following:
+✔️ I've read or seen the following:
 
 **[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
 - 📄 *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
