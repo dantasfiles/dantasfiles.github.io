@@ -26,7 +26,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Engineering
 
-✔️ I've read or seen the following:
+✔️ I've read the following:
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[How to use the terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko <!-- 2024 -->
