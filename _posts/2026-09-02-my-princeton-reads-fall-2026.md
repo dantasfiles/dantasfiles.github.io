@@ -41,7 +41,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 [**Intro. to Machine Learning**](https://princeton-cos324.github.io/) `COS 324`
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth, Faisal & Ong
-- 📰 *[Dealing With Bias in Artificial Intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* by Craig S. Smith <!-- w2 -->
+- 📰 *[Dealing w/ bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* by Craig S. Smith <!-- w2 -->
+- 📰 *[In the hallways of Princeton, a fascination with the human mind unlocked the power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* by Julia Schwarz <!-- w9 -->
 
 **[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
 - 📕 *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
