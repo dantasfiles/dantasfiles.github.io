@@ -10,6 +10,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <div style="column-count: 2;" markdown="1">
 
+**[Computing & Information Science →](#computing--information-science)**
+
 **[Engineering →](#engineering)**
 
 **[Architecture, Art & Planning →](#architecture-art--planning)**
@@ -24,9 +26,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## Engineering
+## Computing & Information Science
 
-✔️ I've read or seen the following:
+✔️ I've read the following:
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[How to use the terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* by Igor Degtiarenko <!-- 2024 -->
@@ -84,6 +86,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `CS/INFO 6850`
 - 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al.
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
+
+## Engineering
+
+✔️ I've read the following:
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
