@@ -179,7 +179,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750`
 - 📕 *Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas)) <!-- 1883 -->
-- 📕 *Frankenstein* by Mary Shelley <1-- 1818 -->
+- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
 
 **Jews on Film: Visible & Invisible** `JWST 1987` 
 - 🎞️ *Annie Hall* by Woody Allen <!-- 1977 -->
