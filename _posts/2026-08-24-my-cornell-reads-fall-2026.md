@@ -208,6 +208,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Power & Influence in Organizations** `NBA 6540`
 - 🎞️ *12 Angry Men* by Sidney Lumet <!-- 1957 -->
 
+**Leading Teams** `NCC 5040`
+- 🎞️ *12 Angry Men* by Sidney Lumet <!-- 1957 -->
+
+
 ---
 
 ## Law
