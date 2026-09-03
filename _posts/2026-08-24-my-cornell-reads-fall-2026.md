@@ -205,6 +205,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Entrepreneurial Marketing & Strategy** `AEM 3249`
 - 🎞️ *The Social Network* by David Fincher
 
+**Power & Influence in Organizations** `NBA 6540`
+- 🎞️ *12 Angry Men* by Sidney Lumet <!-- 1957 -->
+
 ---
 
 ## Law
