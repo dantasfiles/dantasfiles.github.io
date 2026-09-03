@@ -129,10 +129,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Comparative Literature, Film & Media** `COML 2030`
 - 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee
-- 🎞️ *2001: A Space Odyssey* by Stanley Kubrick
-- 🎞️ *Arrival* by Denis Villeneuve
-- 🎞️ *Modern Times* by Charlie Chaplin
-- 🎞️ *The Big Short* by Adam McKay
+- 🎞️ *Modern Times* by Charlie Chaplin <!-- 1936 -->
+- 🎞️ *2001: A Space Odyssey* by Stanley Kubrick <!-- 1968 -->
+- 🎞️ *The Big Short* by Adam McKay <!-- 2015 -->
+- 🎞️ *Arrival* by Denis Villeneuve <!-- 2016 -->
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
@@ -178,8 +178,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750`
-- 📕 *Frankenstein* by Mary Shelley
-- 📕 *The Adventures of Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas))
+- 📕 *Frankenstein* by Mary Shelley <1-- 1818 -->
+- 📕 *Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas)) <!-- 1883 -->
 
 **Jews on Film: Visible & Invisible** `JWST 1987` 
 - 🎞️ *Casablanca* by Michael Curtiz <!-- 1942 -->
