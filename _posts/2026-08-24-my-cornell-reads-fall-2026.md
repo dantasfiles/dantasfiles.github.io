@@ -193,8 +193,18 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
   - 🎞️ *Night of the Living Dead* by George A. Romero <!-- 1968 -->
   - 🎞️ *Dracula* by Tod Browning <!-- 1931 -->
 
-**Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695/6695`
+**Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
+- 🎞️ *Nope* by Jordan Peele <!-- 2022 -->
+- 🎞️ *La Jetée* by Chris Marker <!-- 1962 -->
+- 🎞️ *Singin' in the Rain* by Donen &Kelly <!-- 1952 -->
+- 🎞️ *Modern Times* by Charlie Chaplin <!-- 1936 -->
+- 🎞️ *Sherlock Jr.* by Buster Keaton <!-- 1924 -->
+
+**Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
 - 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
+
+**Demons & Witches in Russian Literature & Film** `RUSSL 2500`
+- 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
 
 ---
 
