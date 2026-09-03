@@ -121,8 +121,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ✔️ I've previously read or seen the following:
 
 **Classics & Comics** `CLASS 1812`
-- 📔 *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas))
-- 📔 *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower
+- 📔 *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower <!-- 2001 -->
+- 📔 *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas)) <!-- 1979 -->
 
 **Greek Mythology** `CLASS 2604`
 - 📜 *The Odyssey* by Homer
