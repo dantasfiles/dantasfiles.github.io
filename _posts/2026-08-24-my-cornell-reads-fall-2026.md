@@ -214,6 +214,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
 
 **American Society through Film** `SOC/AMST 1290`
+- 🎞️ *Good Will Hunting* by Gus Van Sant <!-- 1997 -->
 - 🎞️ *The Godfather* by Francis Ford Coppola <!-- 1972 -->
 
 **Classical Sociological Theory** `SOC 3750`
