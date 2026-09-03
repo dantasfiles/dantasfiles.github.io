@@ -152,7 +152,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Making Sense of World Politics** `GOVT 1817`
 - 📕 *The Cold War: A Very Short Intro.* by Robert J. McMahon
-- 📰 *I'm Watching the Sacrifice of College's Soul* by Frank Bruni <!-- 25-LAB-R3 -->
+- 📰 *[I'm Watching the Sacrifice of College's Soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* by Frank Bruni <!-- 25-LAB-R3 -->
 
 **History of Law: Great Trials** `HIST 1600`
 - 🎞️ *Judgment at Nuremberg* by Stanley Kramer
