@@ -167,6 +167,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *The Vietnam War* by Burns & Novick
 
 **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** `HIST 2680 / AMST 2682`
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 - 🎞️ *The Post* by Steven Spielberg <!-- 2017 -->
 - 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
 - 🎞️ *Thirteen Days* by Roger Donaldson <!-- 2000 -->
