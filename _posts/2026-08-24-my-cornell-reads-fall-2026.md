@@ -196,7 +196,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
 - 🎞️ *Nope* by Jordan Peele <!-- 2022 -->
 - 🎞️ *La Jetée* by Chris Marker <!-- 1962 -->
-- 🎞️ *Singin' in the Rain* by Donen &Kelly <!-- 1952 -->
+- 🎞️ *Singin' in the Rain* by Donen & Kelly <!-- 1952 -->
 - 🎞️ *Modern Times* by Charlie Chaplin <!-- 1936 -->
 - 🎞️ *Sherlock Jr.* by Buster Keaton <!-- 1924 -->
 
