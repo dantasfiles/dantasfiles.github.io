@@ -29,7 +29,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
 - 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
-- 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank <!-- 2001-10-19 -->
+- 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank
 - 🔗 [*A guided tour of Emacs*](https://www.gnu.org/software/emacs/tour/)
 
 **Algorithms & Data Structures** `COS 226`
@@ -37,6 +37,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `COS 302 / SML/ECE 305`
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
+- 🔗 *Don’t invert that matrix* by John D. Cook <!-- w2 -->
 
 [**Intro. to Machine Learning**](https://princeton-cos324.github.io/) `COS 324`
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth, Faisal & Ong
