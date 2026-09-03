@@ -128,15 +128,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📜 *The Odyssey* by Homer
 
 **Comparative Literature, Film & Media** `COML 2030`
-- 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee
-- 🎞️ *Modern Times* by Charlie Chaplin <!-- 1936 -->
-- 🎞️ *2001: A Space Odyssey* by Stanley Kubrick <!-- 1968 -->
-- 🎞️ *The Big Short* by Adam McKay <!-- 2015 -->
+- 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee <!-- 2018 -->
 - 🎞️ *Arrival* by Denis Villeneuve <!-- 2016 -->
+- 🎞️ *The Big Short* by Adam McKay <!-- 2015 -->
+- 🎞️ *2001: A Space Odyssey* by Stanley Kubrick <!-- 1968 -->
+- 🎞️ *Modern Times* by Charlie Chaplin <!-- 1936 -->
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
-- 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas))
-- 📕 *Frankenstein* by Mary Shelley
+- 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
+- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
 
 **Writing the Environment: Enchanting Nature** `ENGL 1130-101`
 - 🎭 *A Midsummer Night's Dream* by William Shakespeare
@@ -157,19 +157,19 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *Judgment at Nuremberg* by Stanley Kramer
 
 **U.S. History through Literature** `HIST/AMST 1770`
-- 📕 *Hiroshima* by John Hersey
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
+- 📕 *Hiroshima* by John Hersey <!-- 1946 -->
 
 **From the New Deal to the Age of Reagan** `HIST/AMST/SHUM 2220`
 - 🎞️ *The Vietnam War* by Burns & Novick
 
 **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** `HIST 2680 / AMST 2682`
-- 🎞️ *Dirty Harry* by Don Siegel <!-- 1971 -->
-- 🎞️ *All the President's Men* by Alan J. Pakula <!-- 1976 -->
-- 🎞️ *Apocalypse Now* by Francis Ford Coppola <!-- 1979 -->
-- 🎞️ *Thirteen Days* by Roger Donaldson <!-- 2000 -->
-- 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
 - 🎞️ *The Post* by Steven Spielberg <!-- 2017 -->
+- 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
+- 🎞️ *Thirteen Days* by Roger Donaldson <!-- 2000 -->
+- 🎞️ *Apocalypse Now* by Francis Ford Coppola <!-- 1979 -->
+- 🎞️ *All the President's Men* by Alan J. Pakula <!-- 1976 -->
+- 🎞️ *Dirty Harry* by Don Siegel <!-- 1971 -->
 
 **Monuments, Museums & Memory: An Intro. to Public History** `HIST/AMST/SHUM 2792`
 - 🎞️ *Night & Fog* by Alain Resnais
@@ -178,19 +178,19 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750`
-- 📕 *Frankenstein* by Mary Shelley <1-- 1818 -->
 - 📕 *Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas)) <!-- 1883 -->
+- 📕 *Frankenstein* by Mary Shelley <1-- 1818 -->
 
 **Jews on Film: Visible & Invisible** `JWST 1987` 
-- 🎞️ *Casablanca* by Michael Curtiz <!-- 1942 -->
 - 🎞️ *Annie Hall* by Woody Allen <!-- 1977 -->
+- 🎞️ *Casablanca* by Michael Curtiz <!-- 1942 -->
 
 **Language, Thought & Reality** `LING 1100`
 - **Words & Pictures** `101`
   - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
 - **Speech & the Undead** `102`
-  - 🎞️ *Night of the Living Dead* by George A. Romero <!-- 1968 -->
   - 🎞️ *Warm Bodies* by Jonathan Levine <!-- 2013 -->
+  - 🎞️ *Night of the Living Dead* by George A. Romero <!-- 1968 -->
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695/6695`
 - 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
