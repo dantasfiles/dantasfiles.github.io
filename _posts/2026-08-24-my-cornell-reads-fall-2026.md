@@ -213,7 +213,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *Modern Times* by Charlie Chaplin <!-- 1936 -->
 
 **Fascism, Nationalism & Populism** `SOC 4540`
-- 📕 *On Tyranny: 20 Lessons from the 20th Century* by Timothy Snyder ([my highlights](https://www.goodreads.com/notes/34083908-on-tyranny/185327722-daniel-dantas))
+- 📕 *How Democracies Die* by Levitsky & Ziblatt ([my highlights](https://www.goodreads.com/notes/55132935-how-democracies-die/185327722-daniel-dantas?ref=rsp)) <!-- 2018 -->
+- 📕 *On Tyranny: 20 Lessons from the 20th Century* by Timothy Snyder ([my highlights](https://www.goodreads.com/notes/34083908-on-tyranny/185327722-daniel-dantas)) <!-- 2017 -->
 
 ---
 
