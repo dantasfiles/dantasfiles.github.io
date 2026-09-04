@@ -235,17 +235,17 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ✔️ I've read or seen the following:
 
 **[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
-- Introduction: *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
-- Software patents: *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
-- Software copyright: *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
-- AI & authorship: *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
-- Software & the 1st amendment: *Encryption Source Code & the 1st Amendment* by Robert Post
-- Legal citation: *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen
-- Algorithmic speech: *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann
-- AI defamation: *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
-- Layering: *[Planet Telex](https://laboratorium.net/archive/2011/07/24/planet_telex)* by James Grimmelmann
-- Abstract writing: *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
-- Law as code: *[When law is code](https://cyber.jotwell.com/when-law-is-code/)* by James Grimmelmann
+- 📄 *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
+- 🏛️ *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
+- 📄 *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
+- 📄 *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
+- 📄 *Encryption Source Code & the 1st Amendment* by Robert Post
+- 📄 *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen
+- 📄 *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann
+- 📄 *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin
+- 🔗 *[Planet Telex](https://laboratorium.net/archive/2011/07/24/planet_telex)* by James Grimmelmann
+- 📕 *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
+- 🔗 *[When law is code](https://cyber.jotwell.com/when-law-is-code/)* by James Grimmelmann
 
 **Psychology for Practicing Transactional Lawyers** `LAW 7749`
 - 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas))
