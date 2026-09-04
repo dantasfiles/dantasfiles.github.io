@@ -64,6 +64,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Foundational Papers in Networks & Operating Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos597L/)** `COS 597L`
 - 📄 *How to Read a Paper* by S. Keshav
+- 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra
 
 ---
 
