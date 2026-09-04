@@ -29,8 +29,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
 - 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
-- 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) by Michael Stonebank
-- 🔗 [*A guided tour of Emacs*](https://www.gnu.org/software/emacs/tour/)
+- 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) • [*A guided tour of Emacs*](https://www.gnu.org/software/emacs/tour/)
 
 **Algorithms & Data Structures** `COS 226`
 - 📕 *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
@@ -41,7 +40,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 [**Intro. to Machine Learning**](https://princeton-cos324.github.io/) `COS 324`
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth, Faisal & Ong
-- 🔗 MLU-Explain: *[Linear regression](https://mlu-explain.github.io/linear-regression/)* / *[The importance of data splitting](https://mlu-explain.github.io/train-test-validation/)* <!-- w2 ... -->
+- 🔗 MLU-Explain: *[Linear regression](https://mlu-explain.github.io/linear-regression/)* • *[The importance of data splitting](https://mlu-explain.github.io/train-test-validation/)* <!-- w2 ... -->
 - 🔗 *[Attacking machine learning with adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)* by Goodfellow et al. <!-- w2 -->
 - 📰 *[Dealing w/ bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* by Craig S. Smith <!-- w2 -->
 - 📰 *[In the hallways of Princeton, a fascination with the human mind unlocked the power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* by Julia Schwarz <!-- w9 -->
