@@ -100,7 +100,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
 - 📄 *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
 
-**Ethics of Computing & Artificial Intelligence Technologies** `ENGRG 3605 / PHIL 2473 / STS 3605`
+**Ethics of Computing & Artificial Intelligence Technologies** `ENGRG/STS 3605 / PHIL 2473`
 - 📕 *[Stand Out of Our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams 
 
 ---
