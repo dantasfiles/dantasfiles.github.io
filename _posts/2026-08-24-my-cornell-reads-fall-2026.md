@@ -131,10 +131,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Comparative Literature, Film & Media** `COML 2030`
 - 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee <!-- 2018 -->
-- 🎞️ *Arrival* by Denis Villeneuve <!-- 2016 -->
-- 🎞️ *The Big Short* by Adam McKay <!-- 2015 -->
-- 🎞️ *2001: A Space Odyssey* by Stanley Kubrick <!-- 1968 -->
-- 🎞️ *Modern Times* by Charlie Chaplin <!-- 1936 -->
+- 🎞️ *Arrival* <!-- 2016 --> • *The Big Short* <!-- 2015 --> • *2001: A Space Odyssey* <!-- 1968 --> • *Modern Times* <!-- 1936 -->
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
@@ -168,7 +165,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** `HIST 2680 / AMST 2682`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
-- 🎞️ Films: *The Post* <!-- 2017 --> • *Selma* <!-- 2014 --> • *13 Days* <!-- 2000 --> • *Apocalypse Now* <!-- 1979 --> • *All the President's Men* <!-- 1976 --> • *Dirty Harry* <!-- 1971 -->
+- 🎞️ *The Post* <!-- 2017 --> • *Selma* <!-- 2014 --> • *13 Days* <!-- 2000 --> • *Apocalypse Now* <!-- 1979 --> • *All the President's Men* <!-- 1976 --> • *Dirty Harry* <!-- 1971 -->
 
 **Monuments, Museums & Memory: An Intro. to Public History** `HIST/AMST/SHUM 2792`
 - 🎞️ *Night & Fog* by Alain Resnais
@@ -184,23 +181,16 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
 
 **Jews on Film: Visible & Invisible** `JWST 1987` 
-- 🎞️ *Annie Hall* by Woody Allen <!-- 1977 -->
-- 🎞️ *Casablanca* by Michael Curtiz <!-- 1942 -->
+- 🎞️ *Annie Hall* <!-- 1977 --> • *Casablanca* by Michael Curtiz <!-- 1942 -->
 
 **Language, Thought & Reality** `LING 1100`
 - **Words & Pictures** `101`
   - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
 - **Speech & the Undead** `102`
-  - 🎞️ *Warm Bodies* by Jonathan Levine <!-- 2013 -->
-  - 🎞️ *Night of the Living Dead* by George A. Romero <!-- 1968 -->
-  - 🎞️ *Dracula* by Tod Browning <!-- 1931 -->
+  - 🎞️ *Warm Bodies* <!-- 2013 --> • *Night of the Living Dead* <!-- 1968 --> • *Dracula* <!-- 1931 -->
 
 **Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
-- 🎞️ *Nope* by Jordan Peele <!-- 2022 -->
-- 🎞️ *La Jetée* by Chris Marker <!-- 1962 -->
-- 🎞️ *Singin' in the Rain* by Donen & Kelly <!-- 1952 -->
-- 🎞️ *Modern Times* by Charlie Chaplin <!-- 1936 -->
-- 🎞️ *Sherlock Jr.* by Buster Keaton <!-- 1924 -->
+- 🎞️ *Nope* <!-- 2022 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Modern Times* <!-- 1936 --> • *Sherlock Jr.* <!-- 1924 -->
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
 - 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
@@ -209,8 +199,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
 
 **American Society through Film** `SOC/AMST 1290`
-- 🎞️ *Good Will Hunting* by Gus Van Sant <!-- 1997 -->
-- 🎞️ *The Godfather* by Francis Ford Coppola <!-- 1972 -->
+- 🎞️ *Good Will Hunting* <!-- 1997 --> • *The Godfather* <!-- 1972 -->
 
 **Classical Sociological Theory** `SOC 3750`
 - 🎞️ *Modern Times* by Charlie Chaplin <!-- 1936 -->
