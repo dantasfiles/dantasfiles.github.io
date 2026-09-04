@@ -39,8 +39,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS/ENGRD 2110`
 - 📕 *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen <!-- 2026-08-26 -->
 - 📕 *[Principled Programming: Intro. to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html)* by Tim Teitelbaum
-- 🔗 *[Google Java style guide](https://google.github.io/styleguide/javaguide.html)* <!-- 2026-04-09 -->
-- 🔗 *[Two hard things](https://martinfowler.com/bliki/TwoHardThings.html)* by Martin Fowler <!-- 2009-07-14 -->
+- 🔗 *[Google Java style guide](https://google.github.io/styleguide/javaguide.html)* <!-- 2026-04-09 --> • *[2 hard things](https://martinfowler.com/bliki/TwoHardThings.html)* <!-- 2009-07-14 -->
 
 **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
 - 📕 *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen <!-- 2026-08-26 -->
