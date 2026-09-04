@@ -169,6 +169,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** `HIST 2680 / AMST 2682`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 - 🎞️ Films: *The Post* <!-- 2017 --> / *Selma* <!-- 2014 --> / *13 Days* <!-- 2000 --> / *Apocalypse Now* <!-- 1979 --> / *All the President's Men* <!-- 1976 --> / *Dirty Harry* <!-- 1971 -->
+- 🎞️ Films: *The Post* <!-- 2017 --> ▪ *Selma* <!-- 2014 --> ▪ *13 Days* <!-- 2000 --> ▪ *Apocalypse Now* <!-- 1979 --> ▪ *All the President's Men* <!-- 1976 --> ▪ *Dirty Harry* <!-- 1971 -->
+- 🎞️ Films: *The Post* <!-- 2017 --> 🔹 *Selma* <!-- 2014 --> 🔹 *13 Days* <!-- 2000 --> 🔹 *Apocalypse Now* <!-- 1979 --> 🔹 *All the President's Men* <!-- 1976 --> 🔹 *Dirty Harry* <!-- 1971 -->
 
 **Monuments, Museums & Memory: An Intro. to Public History** `HIST/AMST/SHUM 2792`
 - 🎞️ *Night & Fog* by Alain Resnais
