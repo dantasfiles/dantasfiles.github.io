@@ -44,7 +44,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🔗 *[Attacking machine learning with adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)* by Goodfellow et al. <!-- w2 2017-02-24 -->
 - 📰 *[Dealing w/ bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* by Craig S. Smith <!-- w2 2019-11-19 -->
 - 📰 *[In the hallways of Princeton, a fascination with the human mind unlocked the power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* by Julia Schwarz <!-- w9 2025-10-03-->
-- *[A Visual Explanation of Gradient Descent Methods](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c/)* by Lili Jiang <!-- w3 2020-06-07 -->
+- 🔗 *[A Visual Explanation of Gradient Descent Methods](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c/)* by Lili Jiang <!-- w3 2020-06-07 -->
 
 **[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
 - 📕 *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
