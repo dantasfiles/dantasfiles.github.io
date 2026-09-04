@@ -40,12 +40,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 [**Intro. to Machine Learning**](https://princeton-cos324.github.io/) `COS 324`
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth, Faisal & Ong
-- 🔗 MLU-Explain: *[Linear regression](https://mlu-explain.github.io/linear-regression/)* • *[Data splitting](https://mlu-explain.github.io/train-test-validation/)* • *[Cross validation](https://mlu-explain.github.io/cross-validation/)* • *[Logistic regression](https://mlu-explain.github.io/logistic-regression/)* • *[Bias variance tradeoff](https://mlu-explain.github.io/bias-variance/)* <!-- w2 ... -->
-- 🔗 *[Attacking machine learning w/ adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)* by Goodfellow et al. <!-- w2 2017-02-24 -->
+- 🔗 MLU-Explain: *[Linear regression](https://mlu-explain.github.io/linear-regression/)* • *[Data splitting](https://mlu-explain.github.io/train-test-validation/)* • *[Cross validation](https://mlu-explain.github.io/cross-validation/)* • *[Logistic regression](https://mlu-explain.github.io/logistic-regression/)* • *[Bias variance tradeoff](https://mlu-explain.github.io/bias-variance/)* <!-- w2 2022-09 -->
 - 🔗 *[A visual explanation of gradient descent methods](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c/)* by Lili Jiang <!-- w3 2020-06-07 -->
-- 🔗 *[Federated learning](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)* by Tian Li <!-- w3 -->
-- 📰 *[Dealing w/ bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* by Craig S. Smith <!-- w2 2019-11-19 -->
+- 🔗 *[Attacking machine learning w/ adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)* by Goodfellow et al. <!-- w2 2017-02-24 -->
+- 🔗 *[Federated learning](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)* by Tian Li <!-- w3 2019-11-12 -->
 - 📰 *[In the hallways of Princeton, a fascination with the human mind unlocked the power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* by Julia Schwarz <!-- w9 2025-10-03-->
+- 📰 *[Dealing w/ bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* by Craig S. Smith <!-- w2 2019-11-19 -->
 
 **[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
 - 📕 *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
