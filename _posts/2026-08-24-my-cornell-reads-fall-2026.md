@@ -97,6 +97,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🔗 *[The perceptron & all the things it can't perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
 - 📄 *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* by Dally et al.
 - 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
+- Hardware specialization: *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* • *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* 
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
 - 📄 *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
 
