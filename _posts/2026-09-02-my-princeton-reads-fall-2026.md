@@ -71,10 +71,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
 
 **The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS 231 / ENG 245 / URB 231`
-- 📕 *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+- 📕 *Darkwater: Voices from Within the Veil* ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 
 **Toni Morrison & Her Circle** `AAS/ENG 320`
-- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+- 📕 *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
 
 **Art, Apartheid & South Africa** `AAS 411 / ART 471 / AFS 411`
 - 📕 *Disgrace* by J. M. Coetzee
