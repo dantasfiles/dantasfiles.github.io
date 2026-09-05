@@ -26,7 +26,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-**Technical Leadership in Engineering** `CBE/EGR 531`
+**Technical Leadership in Engineering** `Chemical & Biological Engineering CBE/EGR 531`
 - 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
 
 **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
