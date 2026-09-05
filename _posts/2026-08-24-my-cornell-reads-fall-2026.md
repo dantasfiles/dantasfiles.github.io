@@ -192,7 +192,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
   - 🎞️ *Warm Bodies* <!-- 2013 --> • *Night of the Living Dead* <!-- 1968 --> • *Dracula* <!-- 1931 -->
 
 **Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
-- 🎞️ *Nope* <!-- 2022 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Modern Times* <!-- 1936 --> • *Sherlock Jr.* <!-- 1924 --> • *Life of an American Fireman* <!-- 1903 -->
+- 🎞️ *Nope* <!-- 2022 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Modern Times* <!-- 1936 --> • *Sherlock Jr.* <!-- 1924 --> • *Felix in Hollywood* <!-- 1923 --> • *Life of an American Fireman* <!-- 1903 -->
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
 - 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
