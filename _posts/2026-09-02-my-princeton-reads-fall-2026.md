@@ -12,6 +12,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Engineering →](#engineering)**
 
+**[Natural Sciences →](#natural-sciences)**
+
 **[Social Sciences →](#social-sciences)**
 
 **[Humanities & the Arts →](#humanities--the-arts)**
@@ -66,6 +68,13 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *How to Read a Paper* by S. Keshav
 - 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- w2 --> 
 - 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- w9 -->
+
+---
+
+## Natural Sciences
+
+**Computational Models of Cognition** `PSY/COS 360`
+- 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
 
 ---
 
