@@ -26,10 +26,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-**Technical Leadership in Engineering** `Chem. & Bio. Eng. CBE/EGR 531`
+**Technical Leadership in Engineering** `Chem & Bio Eng CBE/EGR 531`
 - 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
 
-**[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `Comp. Sci. COS 217`
+**[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `Comp Sci COS 217`
 - 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
 - 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) • [*A guided tour of Emacs*](https://www.gnu.org/software/emacs/tour/)
 
