@@ -73,7 +73,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Natural Sciences
 
-**Computational Models of Cognition** `PSY/COS 360`
+**[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
 
 ---
