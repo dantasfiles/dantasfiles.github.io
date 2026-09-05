@@ -26,7 +26,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-**Technical Leadership in Engineering** `CBE / EGR 531`
+**Technical Leadership in Engineering** `CBE/EGR 531`
 - 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
 
 **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
@@ -36,7 +36,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Algorithms & Data Structures** `COS 226`
 - 📕 *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
 
-**[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `COS 302 / SML / ECE 305`
+**[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `COS 302 / SML/ECE 305`
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
 - 🔗 *[Don't invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)* by John D. Cook <!-- w2 -->
 
@@ -58,7 +58,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Computer Architecture & Organization** `COS/ECE 375`
 - 📕 *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
 
-**[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/index.html)** `COS / ECE 516`
+**[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/index.html)** `COS/ECE 516`
 - 📄 *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare <!-- 10/26 -->
 
 **[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
@@ -73,7 +73,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ## Natural Sciences
 
-**[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY / COS 360`
+**[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 9 -->
 - 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 17 -->
 
@@ -87,19 +87,19 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
 
-**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS / URB 231 / ENG 245`
+**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS/URB 231 / ENG 245`
 - 📕 *Darkwater: Voices from Within the Veil* ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
 
-**Toni Morrison & Her Circle** `AAS / ENG 320`
+**Toni Morrison & Her Circle** `AAS/ENG 320`
 - 📕 *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
 
-**Art, Apartheid & South Africa** `AAS / AFS 411 / ART 471`
+**Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
 - 📕 *Disgrace* by J. M. Coetzee
 
-**Violence** `ANT / HUM 264`
+**Violence** `ANT/HUM 264`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
 
-**Landmarks of European Identity** `EPS / ECS 302`
+**Landmarks of European Identity** `EPS/ECS 302`
 - 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
 
 **The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
