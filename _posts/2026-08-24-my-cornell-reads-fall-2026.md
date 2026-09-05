@@ -183,7 +183,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
 
 **Jews on Film: Visible & Invisible** `JWST 1987` 
-- 🎞️ *Annie Hall* <!-- 1977 --> • *Casablanca* <!-- 1942 -->
+- 🎞️ *Annie Hall* <!-- 1977 --> • *Casablanca* <!-- 1942 --> • *A Plantation Act* <!-- 1923 -->
 
 **Language, Thought & Reality** `LING 1100`
 - **Words & Pictures** `101`
