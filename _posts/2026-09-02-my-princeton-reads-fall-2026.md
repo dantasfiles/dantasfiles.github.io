@@ -217,6 +217,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Religion & the Public Conversation** `REL 100`
 - 📕 *Religion: A Very Short Intro.* by Thomas A. Tweed
 
+**Religion, Race & Politics in the U.S.** `REL 372 / AAS 367`
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
 **Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
