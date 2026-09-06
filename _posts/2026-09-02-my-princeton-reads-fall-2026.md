@@ -226,5 +226,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Intro. to Theater Making** `THR/MTD 101`
 - 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
 
+**Imagining Childhood** `WRI 118`
+- 📕 *The Giving Tree* by Shel Silverstein <!-- 1964 -->
+- 📕 *Horton Hears a Who!* by Dr. Seuss <!-- 1954 -->
+
+
+
+
 
 
