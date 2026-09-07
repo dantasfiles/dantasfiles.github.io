@@ -26,12 +26,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray;">Chemical & Biological Engineering</p>
+<p style="color: gray;">Chemical & biological engineering:</p>
 
 **Technical Leadership in Engineering** `CBE/EGR 531`
 - 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
 
-<p style="color: gray;">Computer Science</p>
+<p style="color: gray;">Computer Science:</p>
 
 **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
 - 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
@@ -79,7 +79,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-`Psychology PSY`
+<p style="color: gray;">Psychology:</p>
 
 **[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
 - Neural networks: *[Deep Learning](https://www.cs.toronto.edu/~hinton/pages/publications.html)* • *[ImageNet Classification w/ Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)* • *[Adapting Deep Network Features to Capture Psychological Representations](https://arxiv.org/abs/1608.02164)* <!-- 5-8 -->
@@ -94,6 +94,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ## Social Sciences
 
 ✔️ I've read the following:
+
+<p style="color: gray;">African American Studies:</p>
 
 **African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
 - 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
