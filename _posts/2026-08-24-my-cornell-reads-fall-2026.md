@@ -97,6 +97,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
 
 **[Modern Datacenter Architecture](https://www.csl.cornell.edu/courses/ece6765/)** `ECE 6765`
+- 📄 *Computing's Energy Problem (and What We Can Do About It)* by Mark Horowitz
 - 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
 
 **Ethics of Computing & Artificial Intelligence Technologies** `ENGRG/STS 3605 / PHIL 2473`
