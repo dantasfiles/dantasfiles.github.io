@@ -26,12 +26,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: darkgray;">Chemical & Biological Engineering</p>
+<p style="color: gray;">Chemical & Biological Engineering</p>
 
 **Technical Leadership in Engineering** `CBE/EGR 531`
 - 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
 
-<p style="color: darkgray;">Computer Science</p>
+<p style="color: gray;">Computer Science</p>
 
 **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
 - 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
