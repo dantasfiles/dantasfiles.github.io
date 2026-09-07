@@ -82,7 +82,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - 📕 *Practical Foundations for Programming Languages* by Robert Harper
 
-<p style="color: gray;">Electrical Engineering</p>
+<p style="color: gray;">Electrical & Computer Engineering</p>
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
