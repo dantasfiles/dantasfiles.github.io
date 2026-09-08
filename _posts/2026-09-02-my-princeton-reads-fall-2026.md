@@ -91,8 +91,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
   - 📄 *[How to Grow a Mind: Statistics, Structure & Abstraction](https://cocosci.princeton.edu/publications.php?author=Kemp,%20C.)* by Tenenbaum et al. <!-- 12 -->
   - 📄 *[The Discovery of Structural Form](https://www.pnas.org/doi/10.1073/pnas.0802631105)* by Kemp & Tenenbaum <!-- 14 -->
   - 📄 *[Human-level Concept Learning through Probabilistic Program Induction](https://www.cs.princeton.edu/~bl8144/#2015)* by Lake et al. <!-- 15 -->
-- Symbols & rules; historical foundations
-  - 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 17 -->
+- 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 17 -->
 
 ---
 
