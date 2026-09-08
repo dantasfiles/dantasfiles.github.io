@@ -84,8 +84,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
 - Neural network models <!-- 5-10 -->
   - 📄 *[Deep Learning](https://www.cs.toronto.edu/~hinton/pages/publications.html)* by LeCun et al. <!-- 5 -->
-  - *[ImageNet Classification w/ Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)* by Krizhevsky et al. <!-- 8 -->
-  - *[Adapting Deep Network Features to Capture Psychological Representations](https://arxiv.org/abs/1608.02164)* by Peterson et al. <!-- 8 -->
+  - 📄 *[ImageNet Classification w/ Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)* by Krizhevsky et al. <!-- 8 -->
+  - 📄 *[Adapting Deep Network Features to Capture Psychological Representations](https://arxiv.org/abs/1608.02164)* by Peterson et al. <!-- 8 -->
   - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 9 -->
 - Bayesian models <!-- 11-16 -->
   - 📄 *[How to Grow a Mind: Statistics, Structure & Abstraction](https://cocosci.princeton.edu/publications.php?author=Kemp,%20C.)* by Tenenbaum et al. <!-- 12 -->
