@@ -270,8 +270,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 <p style="color: gray;">Writing</p>
 
 **Imagining Childhood** `WRI 118`
-- 📕 *The Giving Tree* by Shel Silverstein <!-- 1964 -->
-- 📕 *Horton Hears a Who!* by Dr. Seuss <!-- 1954 -->
+- 📔 *A Pocket for Corduroy* <!-- 1978 --> • *Corduroy* <!-- 1968 --> • *The Giving Tree* <!-- 1964 --> • *Where the Wild Things Are* <!-- 1963 --> • *Horton Hears a Who!* <!-- 1954 -->
 
 
 
