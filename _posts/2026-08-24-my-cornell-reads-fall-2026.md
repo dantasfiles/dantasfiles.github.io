@@ -4,7 +4,7 @@ title: 🐻 My Cornell reads, fall 2026
 author: Daniel Dantas
 ---
 
-I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Cornell classes<br>I connected publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
+I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Cornell classes. I was a **Computer Science** major in the **College of Engineering** so I placed those readings first<br>I connected publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
 
 <!-- https://irp.cornell.edu/university-factbook/student-enrollment -->
 
@@ -30,7 +30,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray;">Computer Science</p>
+### Computer Science 
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[Doc comments for the Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[The terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[PEP 257: Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
