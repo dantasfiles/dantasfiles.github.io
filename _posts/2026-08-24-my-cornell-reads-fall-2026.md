@@ -196,6 +196,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Monuments, Museums & Memory: An Intro. to Public History** `HIST/AMST/SHUM 2792`
 - 🎞️ *Night & Fog* by Alain Resnais
 
+**Monsoon Kingdoms: Pre-Modern Southeast Asian History** `HIST 3950 / ASIAN 3397`
+- 🎞️ *Kingdom of Heaven* by Ridley Scott
+
 **Contesting Votes: Democracy & Citizenship Throughout U.S. History** `HIST/AMST 4203`
 - 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
 
