@@ -4,7 +4,7 @@ title: 🐻 My Cornell reads, fall 2026
 author: Daniel Dantas
 ---
 
-I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Cornell classes. I was a **Computer Science** major and **Electrical & Computer Engineering** minor in the **College of Engineering** so I placed those readings first<br>I connected publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
+I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Cornell classes.<br>I was a **Computer Science** major and **Electrical & Computer Engineering** minor in the **College of Engineering** so I placed those readings first.<br>I connected publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
 
 <!-- https://irp.cornell.edu/university-factbook/student-enrollment -->
 
