@@ -4,13 +4,13 @@ title: 🐻 My Cornell reads, fall 2026
 author: Daniel Dantas
 ---
 
-I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Cornell classes.<br>I was a **Computer Science** major and **Electrical & Computer Engineering** minor in the **College of Engineering** so I placed those readings first.<br>I connected publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
+I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Cornell classes.<br>I connected publicly available information from the [online bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
 
 <!-- https://irp.cornell.edu/university-factbook/student-enrollment -->
 
 <div style="column-count: 2;" markdown="1">
 
-**[My major →](#engineering)**
+**[Engineering →](#engineering)**
 
 **[Architecture, Art & Planning →](#architecture-art--planning)**
 
@@ -30,7 +30,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray;">Computer Science</p>
+<p style="color: gray;">Computer Science (my major)</p>
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[Doc comments for the Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[The terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[PEP 257: Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
@@ -78,7 +78,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - 📕 *Practical Foundations for Programming Languages* by Robert Harper
 
-<p style="color: gray;">Electrical & Computer Engineering</p>
+<p style="color: gray;">Electrical & Computer Engineering (my minor)</p>
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
