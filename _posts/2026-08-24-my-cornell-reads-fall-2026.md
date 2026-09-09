@@ -57,8 +57,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
 
 **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414`
-- 🔗 *[How to learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky
 - 📄 *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
+- 🔗 *[How to learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky <!-- 2024-09-20 -->
 
 **[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787`
 - 📄 *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
