@@ -30,7 +30,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray;">Computer Science (my major)</p>
+<p style="color: gray;">Computer Science</p>
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[Doc comments for the Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[The terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[PEP 257: Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
@@ -78,7 +78,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - 📕 *Practical Foundations for Programming Languages* by Robert Harper
 
-<p style="color: gray;">Electrical & Computer Engineering (my minor)</p>
+<p style="color: gray;">Electrical & Computer Engineering</p>
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
