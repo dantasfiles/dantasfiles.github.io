@@ -14,6 +14,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Architecture, Art & Planning →](#architecture-art--planning)**
 
+**[Agriculture & Life Sciences →](#agriculture--life-sciences)**
+
 **[Arts & Sciences →](#arts--sciences)** <!-- 6,096 -->
 
 **[Business →](#business)**
@@ -109,15 +111,20 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read or seen the following:
 
-<p style="color: gray;">Architecture</p>
-
 **History of Architecture II** `ARCH 2802`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
 
-<p style="color: gray;">Art</p>
-
 **Contemporary Italian Culture - Italian Cinema** `ART/ARCH 3117`
 - 🎞️ *La Dolce Vita* by Federico Fellini
+
+---
+
+## Agriculture & Life Sciences
+
+✔️ I've seen the following:
+
+**Foundations in Leadership: Skills for Personal and Professional Effectiveness** `GDEV/LEAD 3100`
+- 🎞️ *Remember the Titans* by Boaz Yakin
 
 ---
 
