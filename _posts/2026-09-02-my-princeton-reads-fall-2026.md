@@ -10,15 +10,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <div style="column-count: 2;" markdown="1">
 
-**[💻 Engineering →](#engineering)**
+**[💻 Engineering →](#-engineering)**
 
-**[🏛️ Humanities & the Arts →](#humanities--the-arts)**
+**[🏛️ Humanities & the Arts →](#-humanities--the-arts)**
 
-**[📊 Social Sciences →](#social-sciences)**
+**[📊 Social Sciences →](#-social-sciences)**
 
-**[🐯 General →](#general)**
+**[🐯 General →](#-general)**
 
-**[🔬 Natural Sciences →](#natural-sciences)**
+**[🔬 Natural Sciences →](#-natural-sciences)**
 
 </div>
 
