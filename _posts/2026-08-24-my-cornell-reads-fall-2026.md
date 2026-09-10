@@ -174,10 +174,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Making Sense of World Politics** `GOVT 1817`
 - 📕 *The Cold War: A Very Short Intro.* by Robert J. McMahon
-- 📰 *[I'm watching the sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[I'm a Conservative Professor Who Opposed Safe Spaces. I Was Wrong](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
+- 📰 *[I'm watching the sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[I'm a conservative professor who opposed safe spaces. I was wrong](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
 
 **America, Business & International Political Economy** `GOVT/AEM/GDEV/ILRGL 3547`
-- 📰 *[America has become a dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[I'm watching the sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[I'm a Conservative Professor Who Opposed Safe Spaces. I Was Wrong](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
+- 📰 *[America has become a dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[I'm watching the sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[I'm a conservative professor who opposed safe spaces. I was wrong](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
 
 <p style="color: gray;">History</p>
 
