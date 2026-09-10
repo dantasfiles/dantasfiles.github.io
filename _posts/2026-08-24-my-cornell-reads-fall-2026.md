@@ -311,7 +311,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 💻 Public Policy
+## &#128506;&#65039; Public Policy
 <!-- 1 -->
 
 **Social Problems in the U.S.** `PUBPOL 2250`
