@@ -177,7 +177,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📰 *[I'm Watching the Sacrifice of College's Soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* by Frank Bruni <!-- 25-LAB-R3 -->
 
 **America, Business & International Political Economy** `GOVT/AEM/GDEV/ILRGL 3547`
-- 📰 *[I'm Watching the Sacrifice of College's Soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* by Frank Bruni <!-- LAB R-3 -->
+- 📰 *[America has become a dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[I'm watching the sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 -->
 
 <p style="color: gray;">History</p>
 
@@ -192,7 +192,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *The Vietnam War* by Burns & Novick
 
 **The American Revolutionary Era** `HIST/AMST 2665`
-- 📰 *[The Battle for 1776](https://www.nytimes.com/2021/07/02/arts/1776-2026-A-DIFFERENT-STORY.html)* by Jennifer Schuessler
+- 📰 *[The battle for 1776](https://www.nytimes.com/2021/07/02/arts/1776-2026-A-DIFFERENT-STORY.html)* by Jennifer Schuessler
 
 **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** `HIST 2680 / AMST 2682`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
