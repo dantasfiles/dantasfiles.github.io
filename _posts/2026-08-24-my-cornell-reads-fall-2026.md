@@ -10,9 +10,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <div style="column-count: 2;" markdown="1">
 
-**[💻 Engineering →](#-engineering-)**
+**[💻 Engineering →](#engineering)**
 
-**[🏛️ Arts & Sciences →](#-arts--sciences-)**
+**[🏛️ Arts & Sciences →](#arts-sciences)**
 
 **[⚖️ Law →](#-law-)**
 
@@ -29,7 +29,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 💻 Engineering <!-- 34 -->
+## 💻 Engineering {#engineering} <!-- 34 -->
 
 ✔️ I've read the following:
 
@@ -110,7 +110,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 🏛️ Arts & Sciences <!-- 40 -->
+## 🏛️ Arts & Sciences {#arts-sciences} <!-- 40 -->
 
 ✔️ I've read or seen the following:
 
