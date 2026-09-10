@@ -10,9 +10,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <div style="column-count: 2;" markdown="1">
 
-**[🏛️ Humanities & the Arts →](#humanities--the-arts)**
-
 **[💻 Engineering →](#engineering)**
+
+**[🏛️ Humanities & the Arts →](#humanities--the-arts)**
 
 **[📊 Social Sciences →](#social-sciences)**
 
@@ -21,6 +21,55 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[🔬 Natural Sciences →](#natural-sciences)**
 
 </div>
+
+--- 
+
+## 💻 Engineering <!-- 17 -->
+
+✔️ I've read the following:
+
+<p style="color: gray;">Chemical & Biological Engineering</p>
+
+**Technical Leadership in Engineering** `CBE/EGR 531`
+- 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
+
+<p style="color: gray;">Computer Science</p>
+
+**[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
+- 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
+- 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) • [*A guided tour of Emacs*](https://www.gnu.org/software/emacs/tour/)
+
+**Algorithms & Data Structures** `COS 226`
+- 📕 *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
+
+**[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `COS 302 / SML/ECE 305`
+- 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
+- 🔗 *[Don't invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)* by John D. Cook <!-- w2 -->
+
+[**Intro. to Machine Learning**](https://princeton-cos324.github.io/) `COS 324`
+- 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth, Faisal & Ong
+- 🔗 *[Linear regression](https://mlu-explain.github.io/linear-regression/)* <!-- 2022-09 --> • *[Logistic regression](https://mlu-explain.github.io/logistic-regression/)* <!-- 2022-08 --> • *[Cross validation](https://mlu-explain.github.io/cross-validation/)* <!-- 2022-05 --> • *[Train, test & validation sets](https://mlu-explain.github.io/train-test-validation/)* <!-- earlier than <!-- 2022-05 --> • *[Bias variance tradeoff](https://mlu-explain.github.io/bias-variance/)* <!-- 2021-01 --> • *[Gradient descent methods](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c/)* <!-- w3 2020-06-07 --> • *[Federated learning](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)* <!-- w3 2019-11-12 --> • *[Attacking machine learning w/ adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)* <!-- w2 2017-02-24 --> • *[K-means clustering](https://k-means-explorable.vercel.app/)* <!-- 7 --> 
+- 📰 *[In the hallways of Princeton, a fascination with the human mind unlocked the power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* <!-- w9 2025-10-03--> • *[Dealing w/ bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* <!-- w2 2019-11-19 -->
+
+**[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
+- 📕 *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
+
+**[Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/fall26/cos333/)** `COS 333`
+- 📕 *The Practice of Programming* by Kernighan & Pike
+
+**Computer Architecture & Organization** `COS/ECE 375`
+- 📕 *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
+
+**[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/index.html)** `COS/ECE 516`
+- 📄 *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare <!-- 10/26 -->
+
+**[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
+- 📄 *How to Read a Paper* by S. Keshav
+
+**[Foundational Papers in Networks & Operating Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos597L/)** `COS 597L`
+- 📄 *How to Read a Paper* by S. Keshav
+- 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- w2 --> 
+- 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- w9 -->
 
 ---
 
@@ -101,55 +150,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Intro. to Theater Making** `THR/MTD 101`
 - 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
-
---- 
-
-## 💻 Engineering <!-- 17 -->
-
-✔️ I've read the following:
-
-<p style="color: gray;">Chemical & Biological Engineering</p>
-
-**Technical Leadership in Engineering** `CBE/EGR 531`
-- 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
-
-<p style="color: gray;">Computer Science</p>
-
-**[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
-- 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
-- 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) • [*A guided tour of Emacs*](https://www.gnu.org/software/emacs/tour/)
-
-**Algorithms & Data Structures** `COS 226`
-- 📕 *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
-
-**[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `COS 302 / SML/ECE 305`
-- 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
-- 🔗 *[Don't invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)* by John D. Cook <!-- w2 -->
-
-[**Intro. to Machine Learning**](https://princeton-cos324.github.io/) `COS 324`
-- 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth, Faisal & Ong
-- 🔗 *[Linear regression](https://mlu-explain.github.io/linear-regression/)* <!-- 2022-09 --> • *[Logistic regression](https://mlu-explain.github.io/logistic-regression/)* <!-- 2022-08 --> • *[Cross validation](https://mlu-explain.github.io/cross-validation/)* <!-- 2022-05 --> • *[Train, test & validation sets](https://mlu-explain.github.io/train-test-validation/)* <!-- earlier than <!-- 2022-05 --> • *[Bias variance tradeoff](https://mlu-explain.github.io/bias-variance/)* <!-- 2021-01 --> • *[Gradient descent methods](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c/)* <!-- w3 2020-06-07 --> • *[Federated learning](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)* <!-- w3 2019-11-12 --> • *[Attacking machine learning w/ adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)* <!-- w2 2017-02-24 --> • *[K-means clustering](https://k-means-explorable.vercel.app/)* <!-- 7 --> 
-- 📰 *[In the hallways of Princeton, a fascination with the human mind unlocked the power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* <!-- w9 2025-10-03--> • *[Dealing w/ bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* <!-- w2 2019-11-19 -->
-
-**[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
-- 📕 *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
-
-**[Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/fall26/cos333/)** `COS 333`
-- 📕 *The Practice of Programming* by Kernighan & Pike
-
-**Computer Architecture & Organization** `COS/ECE 375`
-- 📕 *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
-
-**[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/index.html)** `COS/ECE 516`
-- 📄 *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare <!-- 10/26 -->
-
-**[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
-- 📄 *How to Read a Paper* by S. Keshav
-
-**[Foundational Papers in Networks & Operating Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos597L/)** `COS 597L`
-- 📄 *How to Read a Paper* by S. Keshav
-- 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- w2 --> 
-- 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- w9 -->
 
 ---
 
