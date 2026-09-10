@@ -29,7 +29,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 💻 Engineering {#engineering} <!-- 34 -->
+## 💻 Engineering
+<!-- 34 -->
 
 ✔️ I've read the following:
 
@@ -110,7 +111,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 🏛️ Arts & Sciences {#arts-sciences} <!-- 40 -->
+## 🏛️ Arts & Sciences
+<!-- 40 -->
 
 ✔️ I've read or seen the following:
 
@@ -240,7 +242,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## ⚖️ Law <!-- 11 -->
+## ⚖️ Law
+<!-- 11 -->
 
 ✔️ I've read or seen the following:
 
@@ -262,7 +265,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 💼 Business <!-- 4 -->
+## 💼 Business
+<!-- 4 -->
 
 ✔️ I've read or seen the following:
 
@@ -280,7 +284,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 🏢 Architecture, Art & Planning <!-- 2 -->
+## 🏢 Architecture, Art & Planning
+<!-- 2 -->
 
 ✔️ I've read or seen the following:
 
@@ -296,7 +301,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 🌽 Agriculture & Life Sciences <!-- 1 -->
+## 🌽 Agriculture & Life Sciences
+<!-- 1 -->
 
 ✔️ I've seen the following:
 
@@ -305,7 +311,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 🗺️ Public Policy <!-- 1 -->
+## 🗺️ Public Policy
+<!-- 1 -->
 
 **Social Problems in the U.S.** `PUBPOL 2250`
 - 📚 *Julián Is a Mermaid* • *Ada Twist, Scientist* <!-- 2016 --> • *Red: A Crayon's Story* <!-- 2015 -->
