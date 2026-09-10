@@ -10,153 +10,17 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <div style="column-count: 2;" markdown="1">
 
-**[💻 Engineering →](#engineering)**
+**[🏛️ Humanities & the Arts →](#humanities--the-arts)**
 
-**[🔬 Natural Sciences →](#natural-sciences)**
+**[💻 Engineering →](#engineering)**
 
 **[📊 Social Sciences →](#social-sciences)**
 
-**[🏛️ Humanities & the Arts →](#humanities--the-arts)**
-
 **[🐯 General →](#general)**
 
+**[🔬 Natural Sciences →](#natural-sciences)**
+
 </div>
-
----
-
-## 💻 Engineering <!-- 17 -->
-
-✔️ I've read the following:
-
-<p style="color: gray;">Chemical & Biological Engineering</p>
-
-**Technical Leadership in Engineering** `CBE/EGR 531`
-- 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
-
-<p style="color: gray;">Computer Science</p>
-
-**[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
-- 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
-- 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) • [*A guided tour of Emacs*](https://www.gnu.org/software/emacs/tour/)
-
-**Algorithms & Data Structures** `COS 226`
-- 📕 *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
-
-**[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `COS 302 / SML/ECE 305`
-- 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
-- 🔗 *[Don't invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)* by John D. Cook <!-- w2 -->
-
-[**Intro. to Machine Learning**](https://princeton-cos324.github.io/) `COS 324`
-- 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth, Faisal & Ong
-- 🔗 *[Linear regression](https://mlu-explain.github.io/linear-regression/)* <!-- 2022-09 --> • *[Logistic regression](https://mlu-explain.github.io/logistic-regression/)* <!-- 2022-08 --> • *[Cross validation](https://mlu-explain.github.io/cross-validation/)* <!-- 2022-05 --> • *[Train, test & validation sets](https://mlu-explain.github.io/train-test-validation/)* <!-- earlier than <!-- 2022-05 --> • *[Bias variance tradeoff](https://mlu-explain.github.io/bias-variance/)* <!-- 2021-01 --> • *[Gradient descent methods](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c/)* <!-- w3 2020-06-07 --> • *[Federated learning](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)* <!-- w3 2019-11-12 --> • *[Attacking machine learning w/ adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)* <!-- w2 2017-02-24 --> • *[K-means clustering](https://k-means-explorable.vercel.app/)* <!-- 7 --> 
-- 📰 *[In the hallways of Princeton, a fascination with the human mind unlocked the power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* <!-- w9 2025-10-03--> • *[Dealing w/ bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* <!-- w2 2019-11-19 -->
-
-**[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
-- 📕 *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
-
-**[Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/fall26/cos333/)** `COS 333`
-- 📕 *The Practice of Programming* by Kernighan & Pike
-
-**Computer Architecture & Organization** `COS/ECE 375`
-- 📕 *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
-
-**[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/index.html)** `COS/ECE 516`
-- 📄 *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare <!-- 10/26 -->
-
-**[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
-- 📄 *How to Read a Paper* by S. Keshav
-
-**[Foundational Papers in Networks & Operating Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos597L/)** `COS 597L`
-- 📄 *How to Read a Paper* by S. Keshav
-- 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- w2 --> 
-- 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- w9 -->
-
----
-
-## 🔬 Natural Sciences <!-- 8 -->
-
-✔️ I've read the following:
-
-<p style="color: gray;">Psychology</p>
-
-**[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
-- Neural network models <!-- 5-10 -->
-  - 📄 *[Deep Learning](https://www.cs.toronto.edu/~hinton/pages/publications.html)* by LeCun et al. <!-- 5 -->
-  - 📄 *[ImageNet Classification w/ Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)* by Krizhevsky et al. <!-- 8 -->
-  - 📄 *[Adapting Deep Network Features to Capture Psychological Representations](https://arxiv.org/abs/1608.02164)* by Peterson et al. <!-- 8 -->
-  - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 9 -->
-- Bayesian models <!-- 11-16 -->
-  - 📄 *[How to Grow a Mind: Statistics, Structure & Abstraction](https://cocosci.princeton.edu/publications.php?author=Kemp,%20C.)* by Tenenbaum et al. <!-- 12 -->
-  - 📄 *[The Discovery of Structural Form](https://www.pnas.org/doi/10.1073/pnas.0802631105)* by Kemp & Tenenbaum <!-- 14 -->
-  - 📄 *[Human-level Concept Learning through Probabilistic Program Induction](https://www.cs.princeton.edu/~bl8144/#2015)* by Lake et al. <!-- 15 -->
-- 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 17 -->
-
----
-
-## 📊 Social Sciences <!-- 17 -->
-
-✔️ I've read the following:
-
-<p style="color: gray;">African American Studies</p>
-
-**African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
-- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
-
-**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS/URB 231 / ENG 245`
-- 📕 *Darkwater: Voices from Within the Veil* ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
-
-**Toni Morrison & Her Circle** `AAS/ENG 320`
-- 📕 *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
-
-**Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
-- 📕 *Disgrace* by J. M. Coetzee
-
-<p style="color: gray;">Anthropology</p>
-
-**Violence** `ANT/HUM 264`
-- 📕 *The Wretched of the Earth* by Frantz Fanon
-
-<p style="color: gray;">Contemporary European Politics & Society</p>
-
-**Landmarks of European Identity** `EPS/ECS 302`
-- 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
-
-<p style="color: gray;">History</p>
-
-**The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
-- 📕 *Byzantium: A Very Short Intro.* by Peter Sarris
-
-**Europe from Antiquity to 1700** `HIS/MED 211`
-- 📕 *The Prince* by Niccolò Machiavelli ([my highlights](https://www.goodreads.com/notes/9571349-the-prince/185327722-daniel-dantas))
-
-**American Origins: The Colonization of North America** `HIS 371`
-- 📕 *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
-
-**World After Empire** `HIS 411 / AAS 416`
-- 📕 *The Wretched of the Earth* by Frantz Fanon <!-- 1961 -->
-- 📕 *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas)) <!-- 1920 -->
-
-**The Age of Democratic Revolutions** `HIS 487`
-- 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
-
-<p style="color: gray;">Native American & Indigenous Studies</p>
-
-**Native American Literature** `NAI/AMS 322 / ENG 242`
-- 📕 *Ceremony* by Leslie Marmon Silko
-
-<p style="color: gray;">Politics</p>
-
-**The Just Society** `POL/CHV 307`
-- 📄 *The Communist Manifesto* by Marx & Engels
-
-**Causes of War** `POL/SPI 388`
-- 📕 *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
-
-<p style="color: gray;">Public & International Affairs</p>
-
-**The Comparative Political Economy of Development** `SPI 561 / POL 523`
-- 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
 
 ---
 
@@ -240,6 +104,122 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 --- 
 
+## 💻 Engineering <!-- 17 -->
+
+✔️ I've read the following:
+
+<p style="color: gray;">Chemical & Biological Engineering</p>
+
+**Technical Leadership in Engineering** `CBE/EGR 531`
+- 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
+
+<p style="color: gray;">Computer Science</p>
+
+**[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
+- 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
+- 🔗 [*Unix tutorial*](https://www2.cs.sfu.ca/~ggbaker/reference/unix/) • [*A guided tour of Emacs*](https://www.gnu.org/software/emacs/tour/)
+
+**Algorithms & Data Structures** `COS 226`
+- 📕 *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
+
+**[Mathematics for Numerical Computing & Machine Learning](https://www.cs.princeton.edu/courses/archive/fall26/cos302/)** `COS 302 / SML/ECE 305`
+- 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
+- 🔗 *[Don't invert that matrix](https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/)* by John D. Cook <!-- w2 -->
+
+[**Intro. to Machine Learning**](https://princeton-cos324.github.io/) `COS 324`
+- 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth, Faisal & Ong
+- 🔗 *[Linear regression](https://mlu-explain.github.io/linear-regression/)* <!-- 2022-09 --> • *[Logistic regression](https://mlu-explain.github.io/logistic-regression/)* <!-- 2022-08 --> • *[Cross validation](https://mlu-explain.github.io/cross-validation/)* <!-- 2022-05 --> • *[Train, test & validation sets](https://mlu-explain.github.io/train-test-validation/)* <!-- earlier than <!-- 2022-05 --> • *[Bias variance tradeoff](https://mlu-explain.github.io/bias-variance/)* <!-- 2021-01 --> • *[Gradient descent methods](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c/)* <!-- w3 2020-06-07 --> • *[Federated learning](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)* <!-- w3 2019-11-12 --> • *[Attacking machine learning w/ adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)* <!-- w2 2017-02-24 --> • *[K-means clustering](https://k-means-explorable.vercel.app/)* <!-- 7 --> 
+- 📰 *[In the hallways of Princeton, a fascination with the human mind unlocked the power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* <!-- w9 2025-10-03--> • *[Dealing w/ bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* <!-- w2 2019-11-19 -->
+
+**[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
+- 📕 *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
+
+**[Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/fall26/cos333/)** `COS 333`
+- 📕 *The Practice of Programming* by Kernighan & Pike
+
+**Computer Architecture & Organization** `COS/ECE 375`
+- 📕 *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
+
+**[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/index.html)** `COS/ECE 516`
+- 📄 *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare <!-- 10/26 -->
+
+**[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
+- 📄 *How to Read a Paper* by S. Keshav
+
+**[Foundational Papers in Networks & Operating Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos597L/)** `COS 597L`
+- 📄 *How to Read a Paper* by S. Keshav
+- 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- w2 --> 
+- 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- w9 -->
+
+---
+
+## 📊 Social Sciences <!-- 17 -->
+
+✔️ I've read the following:
+
+<p style="color: gray;">African American Studies</p>
+
+**African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
+- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
+
+**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS/URB 231 / ENG 245`
+- 📕 *Darkwater: Voices from Within the Veil* ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+
+**Toni Morrison & Her Circle** `AAS/ENG 320`
+- 📕 *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+
+**Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
+- 📕 *Disgrace* by J. M. Coetzee
+
+<p style="color: gray;">Anthropology</p>
+
+**Violence** `ANT/HUM 264`
+- 📕 *The Wretched of the Earth* by Frantz Fanon
+
+<p style="color: gray;">Contemporary European Politics & Society</p>
+
+**Landmarks of European Identity** `EPS/ECS 302`
+- 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
+
+<p style="color: gray;">History</p>
+
+**The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
+- 📕 *Byzantium: A Very Short Intro.* by Peter Sarris
+
+**Europe from Antiquity to 1700** `HIS/MED 211`
+- 📕 *The Prince* by Niccolò Machiavelli ([my highlights](https://www.goodreads.com/notes/9571349-the-prince/185327722-daniel-dantas))
+
+**American Origins: The Colonization of North America** `HIS 371`
+- 📕 *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
+
+**World After Empire** `HIS 411 / AAS 416`
+- 📕 *The Wretched of the Earth* by Frantz Fanon <!-- 1961 -->
+- 📕 *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas)) <!-- 1920 -->
+
+**The Age of Democratic Revolutions** `HIS 487`
+- 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
+
+<p style="color: gray;">Native American & Indigenous Studies</p>
+
+**Native American Literature** `NAI/AMS 322 / ENG 242`
+- 📕 *Ceremony* by Leslie Marmon Silko
+
+<p style="color: gray;">Politics</p>
+
+**The Just Society** `POL/CHV 307`
+- 📄 *The Communist Manifesto* by Marx & Engels
+
+**Causes of War** `POL/SPI 388`
+- 📕 *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
+
+<p style="color: gray;">Public & International Affairs</p>
+
+**The Comparative Political Economy of Development** `SPI 561 / POL 523`
+- 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
+
+---
+
 ## 🐯 General <!-- 16 -->
 
 **[Pre-read](https://president.princeton.edu/princeton-pre-read)**
@@ -277,6 +257,26 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Imagining Childhood** `WRI 118`
 - 📚 *A Pocket for Corduroy* <!-- 1978 --> • *Corduroy* <!-- 1968 --> • *The Giving Tree* <!-- 1964 --> • *Where the Wild Things Are* <!-- 1963 --> • *Horton Hears a Who!* <!-- 1954 -->
+
+---
+
+## 🔬 Natural Sciences <!-- 8 -->
+
+✔️ I've read the following:
+
+<p style="color: gray;">Psychology</p>
+
+**[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
+- Neural network models <!-- 5-10 -->
+  - 📄 *[Deep Learning](https://www.cs.toronto.edu/~hinton/pages/publications.html)* by LeCun et al. <!-- 5 -->
+  - 📄 *[ImageNet Classification w/ Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)* by Krizhevsky et al. <!-- 8 -->
+  - 📄 *[Adapting Deep Network Features to Capture Psychological Representations](https://arxiv.org/abs/1608.02164)* by Peterson et al. <!-- 8 -->
+  - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 9 -->
+- Bayesian models <!-- 11-16 -->
+  - 📄 *[How to Grow a Mind: Statistics, Structure & Abstraction](https://cocosci.princeton.edu/publications.php?author=Kemp,%20C.)* by Tenenbaum et al. <!-- 12 -->
+  - 📄 *[The Discovery of Structural Form](https://www.pnas.org/doi/10.1073/pnas.0802631105)* by Kemp & Tenenbaum <!-- 14 -->
+  - 📄 *[Human-level Concept Learning through Probabilistic Program Induction](https://www.cs.princeton.edu/~bl8144/#2015)* by Lake et al. <!-- 15 -->
+- 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 17 -->
 
 
 
