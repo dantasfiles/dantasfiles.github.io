@@ -208,15 +208,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al.
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
 
-<p style="color: gray;">Italian</p>
-
-**Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
-- 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
-
-**Pinocchio: Adventures in Literature & Film** `ITAL 3750`
-- 📕 *Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas)) <!-- 1883 -->
-- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
-
 <p style="color: gray;">Jewish Studies</p>
 
 **Jews on Film: Visible & Invisible** `JWST 1987` 
@@ -237,6 +228,18 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
 - 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
+
+<p style="color: gray;">Romance Studies</p>
+
+**Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
+- 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
+
+**Pinocchio: Adventures in Literature & Film** `ITAL 3750`
+- 📕 *Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas)) <!-- 1883 -->
+- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
+
+**The Uncanny** `SPAN/COML/ROMS 4196`
+- 🎞️ The Shining by Stanley Kubrick <!-- 1980 -->
 
 <p style="color: gray;">Sociology</p>
 
