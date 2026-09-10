@@ -174,10 +174,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Making Sense of World Politics** `GOVT 1817`
 - 📕 *The Cold War: A Very Short Intro.* by Robert J. McMahon
-- 📰 *[I'm watching the sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[I'm a conservative professor who opposed safe spaces. I was wrong](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
+- 📰 *[The sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
 
 **America, Business & International Political Economy** `GOVT/AEM/GDEV/ILRGL 3547`
-- 📰 *[America has become a dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[I'm watching the sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[I'm a conservative professor who opposed safe spaces. I was wrong](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
+- 📰 *[A dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[The sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
 
 <p style="color: gray;">History</p>
 
@@ -270,7 +270,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *The Social Network* by David Fincher
 
 **Digital Platform Strategy** `AEM 4615 / NBA 5615`
-- 📰 *[How OpenAI uses network effects to protect ChatGPT's market](https://bdtechtalks.com/2023/11/10/chatgpt-network-effects/)* <!-- 2023-11-10 --> • *[Reddit goes dark](https://www.platformer.news/reddit-goes-dark/)* <!-- 2023-06-12 --> • *[GM to use Tesla charging network, joining Ford in leveraging the EV leader's tech](https://www.nbcnewyork.com/news/business/money-report/gm-to-use-tesla-charging-network-joining-ford-in-leveraging-the-ev-leaders-tech/4406522/)* <!-- 2023-06-08 --> •*[Understanding Booking.com’s shift to the merchant model & a roadmap for hotels to compete with it](https://www.mirai.com/blog/understanding-booking-coms-shift-to-the-merchant-model-and-a-roadmap-for-hotels-to-compete-with-it/)* <!-- 2022-02-06 -->
+- 📰 *[OpenAI](https://bdtechtalks.com/2023/11/10/chatgpt-network-effects/)* <!-- 2023-11-10 --> • *[Reddit](https://www.platformer.news/reddit-goes-dark/)* <!-- 2023-06-12 --> • *[GM](https://www.nbcnewyork.com/news/business/money-report/gm-to-use-tesla-charging-network-joining-ford-in-leveraging-the-ev-leaders-tech/4406522/)* <!-- 2023-06-08 --> •*[Booking.com](https://www.mirai.com/blog/understanding-booking-coms-shift-to-the-merchant-model-and-a-roadmap-for-hotels-to-compete-with-it/)* <!-- 2022-02-06 -->
 
 <p style="color: gray;">Management</p>
 
