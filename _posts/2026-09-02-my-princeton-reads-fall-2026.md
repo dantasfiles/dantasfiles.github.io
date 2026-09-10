@@ -87,7 +87,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Journey to the Center of the Earth* by Jules Verne <!-- 1864 -->
 - 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
 
-<p style="color: gray;">Classics</p>
+<p style="color: gray; text-decoration: underline;">Classics</p>
 
 **Classical Mythology** `CLA/HUM/GSS/HLS 212`
 - 📕 *Jason & the Golden Fleece* by Apollonius of Rhodes
@@ -99,7 +99,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Socrates** `CLG 105`
 - 📜 *Apology* by Plato
 
-<p style="color: gray;">Comparative Literature</p>
+<p style="color: gray; text-decoration: underline;">Comparative Literature</p>
 
 **The Modern Period** `COM 318 / ECS 319 / LAS 308`
 - 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
@@ -107,7 +107,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** `COM 351`
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
-<p style="color: gray;">English</p>
+<p style="color: gray; text-decoration: underline;">English</p>
 
 **American Literature: 1930-Present** `ENG 368 / AMS 340`
 - 📕 *The Road* by Cormac McCarthy <!-- 2006 -->
@@ -117,7 +117,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Junior Independent Work Seminar** `ENG 397`
 - 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 
-<p style="color: gray;">Humanistic Studies</p>
+<p style="color: gray; text-decoration: underline;">Humanistic Studies</p>
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
 - 📕 *The Consolation of Philosophy* by Boethius
@@ -130,7 +130,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
-<p style="color: gray;">Religion</p>
+<p style="color: gray; text-decoration: underline;">Religion</p>
 
 **Religion & the Public Conversation** `REL 100`
 - 📕 *Religion: A Very Short Intro.* by Thomas A. Tweed
@@ -138,7 +138,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Religion, Race & Politics in the U.S.** `REL 372 / AAS 367`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
-<p style="color: gray;">Slavic Languages & Literatures</p>
+<p style="color: gray; text-decoration: underline;">Slavic Languages & Literatures</p>
 
 **Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
@@ -146,7 +146,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Dostoevsky** `SLA/RES 416`
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
-<p style="color: gray;">Theater</p>
+<p style="color: gray; text-decoration: underline;">Theater</p>
 
 **Intro. to Theater Making** `THR/MTD 101`
 - 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
@@ -157,7 +157,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray;">African American Studies</p>
+<p style="color: gray; text-decoration: underline;">African American Studies</p>
 
 **African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
 - 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
@@ -172,17 +172,17 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
 - 📕 *Disgrace* by J. M. Coetzee
 
-<p style="color: gray;">Anthropology</p>
+<p style="color: gray; text-decoration: underline;">Anthropology</p>
 
 **Violence** `ANT/HUM 264`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
 
-<p style="color: gray;">Contemporary European Politics & Society</p>
+<p style="color: gray; text-decoration: underline;">Contemporary European Politics & Society</p>
 
 **Landmarks of European Identity** `EPS/ECS 302`
 - 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
 
-<p style="color: gray;">History</p>
+<p style="color: gray; text-decoration: underline;">History</p>
 
 **The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
 - 📕 *Byzantium: A Very Short Intro.* by Peter Sarris
@@ -200,12 +200,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **The Age of Democratic Revolutions** `HIS 487`
 - 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
 
-<p style="color: gray;">Native American & Indigenous Studies</p>
+<p style="color: gray; text-decoration: underline;">Native American & Indigenous Studies</p>
 
 **Native American Literature** `NAI/AMS 322 / ENG 242`
 - 📕 *Ceremony* by Leslie Marmon Silko
 
-<p style="color: gray;">Politics</p>
+<p style="color: gray; text-decoration: underline;">Politics</p>
 
 **The Just Society** `POL/CHV 307`
 - 📄 *The Communist Manifesto* by Marx & Engels
@@ -213,7 +213,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Causes of War** `POL/SPI 388`
 - 📕 *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
 
-<p style="color: gray;">Public & International Affairs</p>
+<p style="color: gray; text-decoration: underline;">Public & International Affairs</p>
 
 **The Comparative Political Economy of Development** `SPI 561 / POL 523`
 - 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
@@ -225,7 +225,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Pre-read](https://president.princeton.edu/princeton-pre-read)**
 - 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
 
-<p style="color: gray;">First-Year Seminars</p>
+<p style="color: gray; text-decoration: underline;">First-Year Seminars</p>
 
 **Exploring the Graphic Novel** `FRS 111`
 - 📔 *American Born Chinese* by Gene Luen Yang <!-- 2006-09-05 -->
@@ -253,7 +253,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
 - 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
 
-<p style="color: gray;">Writing</p>
+<p style="color: gray; text-decoration: underline;">Writing</p>
 
 **Imagining Childhood** `WRI 118`
 - 📚 *A Pocket for Corduroy* <!-- 1978 --> • *Corduroy* <!-- 1968 --> • *The Giving Tree* <!-- 1964 --> • *Where the Wild Things Are* <!-- 1963 --> • *Horton Hears a Who!* <!-- 1954 -->
@@ -264,7 +264,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray;">Psychology</p>
+<p style="color: gray; text-decoration: underline;">Psychology</p>
 
 **[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
 - Neural network models <!-- 5-10 -->
