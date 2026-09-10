@@ -289,12 +289,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read or seen the following:
 
-<p style="color: gray; text-decoration: underline;">Architecture</p>
-
 **History of Architecture II** `ARCH 2802`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
-
-<p style="color: gray; text-decoration: underline;">Art</p>
 
 **Contemporary Italian Culture - Italian Cinema** `ART/ARCH 3117`
 - 🎞️ *La Dolce Vita* by Federico Fellini
