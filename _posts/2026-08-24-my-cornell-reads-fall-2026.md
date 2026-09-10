@@ -10,29 +10,30 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <div style="column-count: 2;" markdown="1">
 
-**[Engineering →](#engineering)**
+**[💻 Engineering →](#-engineering-)**
 
-**[Architecture, Art & Planning →](#architecture-art--planning)**
+**[🏛️ Arts & Sciences →](#-arts--sciences-)**
 
-**[Agriculture & Life Sciences →](#agriculture--life-sciences)**
+**[⚖️ Law →](#-law-)**
 
-**[Arts & Sciences →](#arts--sciences)** <!-- 6,096 -->
+**[💼 Business →](#-business-)**
 
-**[Business →](#business)**
+**[🏢 Architecture, Art & Planning →](#-architecture-art--planning-)**
 
-**[Public Policy →](#public-policy)**
+**[🌽 Agriculture & Life Sciences →](#-agriculture--life-sciences-)**
 
-**[Law →](#law)**
+**[🗺️ Public Policy →](#public-policy-)**
+
 
 </div>
 
 ---
 
-## Engineering
+## 💻 Engineering <!-- 34 -->
 
 ✔️ I've read the following:
 
-<p style="color: gray;">Computer Science</p>
+<p style="color: gray; text-decoration: underline;">Computer Science</p>
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[Doc comments for the Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[The terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[PEP 257: Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
@@ -80,7 +81,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - 📕 *Practical Foundations for Programming Languages* by Robert Harper
 
-<p style="color: gray;">Electrical & Computer Engineering</p>
+<p style="color: gray; text-decoration: underline;">Electrical & Computer Engineering</p>
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
@@ -102,39 +103,18 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *Computing's Energy Problem (and What We Can Do About It)* by Mark Horowitz
 - 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
 
-<p style="color: gray;">General Engineering</p>
+<p style="color: gray; text-decoration: underline;">General Engineering</p>
 
 **Ethics of Computing & Artificial Intelligence Technologies** `ENGRG/STS 3605 / PHIL 2473`
 - 📕 *[Stand Out of Our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams 
 
 ---
 
-## Architecture, Art & Planning
+## 🏛️ Arts & Sciences <!-- 40 -->
 
 ✔️ I've read or seen the following:
 
-**History of Architecture II** `ARCH 2802`
-- 📕 *The Wretched of the Earth* by Frantz Fanon
-
-**Contemporary Italian Culture - Italian Cinema** `ART/ARCH 3117`
-- 🎞️ *La Dolce Vita* by Federico Fellini
-
----
-
-## Agriculture & Life Sciences
-
-✔️ I've seen the following:
-
-**Foundations in Leadership: Skills for Personal and Professional Effectiveness** `GDEV/LEAD 3100`
-- 🎞️ *Remember the Titans* by Boaz Yakin
-
----
-
-## Arts & Sciences
-
-✔️ I've read or seen the following:
-
-<p style="color: gray;">Classics</p>
+<p style="color: gray; text-decoration: underline;">Classics</p>
 
 **Classics & Comics** `CLASS 1812`
 - 📔 *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower <!-- 2001 -->
@@ -143,7 +123,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Greek Mythology** `CLASS 2604`
 - 📜 *The Odyssey* by Homer
 
-<p style="color: gray;">Comparative Literature</p>
+<p style="color: gray; text-decoration: underline;">Comparative Literature</p>
 
 **Comparative Literature, Film & Media** `COML 2030`
 - 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee <!-- 2018 -->
@@ -152,7 +132,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Demons & Witches in Russian Literature & Film** `RUSSL 2500`
 - 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
 
-<p style="color: gray;">English</p>
+<p style="color: gray; text-decoration: underline;">English</p>
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
@@ -170,7 +150,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Short Stories** `ENGL 1170-105`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
-<p style="color: gray;">Government</p>
+<p style="color: gray; text-decoration: underline;">Government</p>
 
 **Making Sense of World Politics** `GOVT 1817`
 - 📕 *The Cold War: A Very Short Intro.* by Robert J. McMahon
@@ -179,7 +159,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **America, Business & International Political Economy** `GOVT/AEM/GDEV/ILRGL 3547`
 - 📰 *[A dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[The sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
 
-<p style="color: gray;">History</p>
+<p style="color: gray; text-decoration: underline;">History</p>
 
 **History of Law: Great Trials** `HIST 1600`
 - 🎞️ *Judgment at Nuremberg* by Stanley Kramer
@@ -207,18 +187,18 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Contesting Votes: Democracy & Citizenship Throughout U.S. History** `HIST/AMST 4203`
 - 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
 
-<p style="color: gray;">Information Science</p>
+<p style="color: gray; text-decoration: underline;">Information Science</p>
 
 **[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `INFO/CS 6850`
 - 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al.
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
 
-<p style="color: gray;">Jewish Studies</p>
+<p style="color: gray; text-decoration: underline;">Jewish Studies</p>
 
 **Jews on Film: Visible & Invisible** `JWST 1987` 
 - 🎞️ *Annie Hall* <!-- 1977 --> • *Casablanca* <!-- 1942 --> • *A Plantation Act* <!-- 1923 -->
 
-<p style="color: gray;">Linguistics</p>
+<p style="color: gray; text-decoration: underline;">Linguistics</p>
 
 **Language, Thought & Reality** `LING 1100`
 - **Words & Pictures** `101`
@@ -226,7 +206,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - **Speech & the Undead** `102`
   - 🎞️ *Warm Bodies* <!-- 2013 --> • *Night of the Living Dead* <!-- 1968 --> • *Dracula* <!-- 1931 -->
 
-<p style="color: gray;">Performing Arts</p>
+<p style="color: gray; text-decoration: underline;">Performing Arts</p>
 
 **Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
 - 🎞️ *Nope* <!-- 2022 --> • *Eraserhead* <!-- 1977 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Meshes of the Afternoon* <!-- 1943 --> • *Modern Times* <!-- 1936 --> • *The Life & Death of 9413: A Hollywood Extra* <!-- 1928 --> • *Sherlock Jr.* <!-- 1924 --> • *Barsoum Looking for a Job* <!-- 1923-12-31 --> • *Felix in Hollywood* <!-- 1923 --> • *Cinderella* <!-- 1922 --> • *Luke's Movie Muddle* <!-- 1916 --> • *Mabel's Blunder* <!-- 1914 --> • *Suspense* <!-- 1913 --> • *Life of an American Fireman* <!-- 1903 -->
@@ -234,7 +214,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
 - 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
 
-<p style="color: gray;">Romance Studies</p>
+<p style="color: gray; text-decoration: underline;">Romance Studies</p>
 
 **Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
@@ -246,7 +226,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **The Uncanny** `SPAN/COML/ROMS 4196`
 - 🎞️ The Shining by Stanley Kubrick <!-- 1980 -->
 
-<p style="color: gray;">Sociology</p>
+<p style="color: gray; text-decoration: underline;">Sociology</p>
 
 **American Society through Film** `SOC/AMST 1290`
 - 🎞️ *Good Will Hunting* <!-- 1997 --> • *The Godfather* <!-- 1972 -->
@@ -260,42 +240,13 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## Business
-
-✔️ I've read or seen the following:
-
-<p style="color: gray;">Applied Economics & Management</p>
-
-**Entrepreneurial Marketing & Strategy** `AEM 3249`
-- 🎞️ *The Social Network* by David Fincher
-
-**Digital Platform Strategy** `AEM 4615 / NBA 5615`
-- 📰 *[OpenAI uses network effects](https://bdtechtalks.com/2023/11/10/chatgpt-network-effects/)* <!-- 2023-11-10 --> • *[Reddit goes dark](https://www.platformer.news/reddit-goes-dark/)* <!-- 2023-06-12 --> • *[Tesla charging network](https://www.nbcnewyork.com/news/business/money-report/gm-to-use-tesla-charging-network-joining-ford-in-leveraging-the-ev-leaders-tech/4406522/)* <!-- 2023-06-08 --> • *[Booking.com's shift to the merchant model](https://www.mirai.com/blog/understanding-booking-coms-shift-to-the-merchant-model-and-a-roadmap-for-hotels-to-compete-with-it/)* <!-- 2022-02-06 -->
-
-<p style="color: gray;">Management</p>
-
-**Power & Influence in Organizations** `NBA 6540`
-- 🎞️ *12 Angry Men* by Sidney Lumet <!-- 1957 -->
-
-**Leading Teams** `NCC 5040`
-- 🎞️ *12 Angry Men* by Sidney Lumet <!-- 1957 -->
-
----
-
-## Public Policy
-
-**Social Problems in the U.S.** `PUBPOL 2250`
-- 📚 *Julián Is a Mermaid* • *Ada Twist, Scientist* <!-- 2016 --> • *Red: A Crayon's Story* <!-- 2015 -->
-
----
-
-## Law
+## ⚖️ Law <!-- 11 -->
 
 ✔️ I've read or seen the following:
 
 **[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
 - 📄 *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook
-- 🏛️ *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
+- ⚖️ *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)*
 - 📄 *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson
 - 📄 *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann
 - 📄 *Encryption Source Code & the 1st Amendment* by Robert Post
@@ -308,3 +259,56 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Psychology for Practicing Transactional Lawyers** `LAW 7749`
 - 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas))
+
+---
+
+## 💼 Business <!-- 4 -->
+
+✔️ I've read or seen the following:
+
+**Entrepreneurial Marketing & Strategy** `AEM 3249`
+- 🎞️ *The Social Network* by David Fincher
+
+**Digital Platform Strategy** `AEM 4615 / NBA 5615`
+- 📰 *[OpenAI uses network effects](https://bdtechtalks.com/2023/11/10/chatgpt-network-effects/)* <!-- 2023-11-10 --> • *[Reddit goes dark](https://www.platformer.news/reddit-goes-dark/)* <!-- 2023-06-12 --> • *[Tesla charging network](https://www.nbcnewyork.com/news/business/money-report/gm-to-use-tesla-charging-network-joining-ford-in-leveraging-the-ev-leaders-tech/4406522/)* <!-- 2023-06-08 --> • *[Booking.com's shift to the merchant model](https://www.mirai.com/blog/understanding-booking-coms-shift-to-the-merchant-model-and-a-roadmap-for-hotels-to-compete-with-it/)* <!-- 2022-02-06 -->
+
+**Leading Teams** `NCC 5040`
+- 🎞️ *12 Angry Men* by Sidney Lumet <!-- 1957 -->
+
+**Power & Influence in Organizations** `NBA 6540`
+- 🎞️ *12 Angry Men* by Sidney Lumet <!-- 1957 -->
+
+---
+
+## 🏢 Architecture, Art & Planning <!-- 2 -->
+
+✔️ I've read or seen the following:
+
+<p style="color: gray; text-decoration: underline;">Architecture</p>
+
+**History of Architecture II** `ARCH 2802`
+- 📕 *The Wretched of the Earth* by Frantz Fanon
+
+<p style="color: gray; text-decoration: underline;">Art</p>
+
+**Contemporary Italian Culture - Italian Cinema** `ART/ARCH 3117`
+- 🎞️ *La Dolce Vita* by Federico Fellini
+
+---
+
+## 🌽 Agriculture & Life Sciences <!-- 1 -->
+
+✔️ I've seen the following:
+
+**Foundations in Leadership: Skills for Personal and Professional Effectiveness** `GDEV/LEAD 3100`
+- 🎞️ *Remember the Titans* by Boaz Yakin
+
+---
+
+## 🗺️ Public Policy <!-- 1 -->
+
+**Social Problems in the U.S.** `PUBPOL 2250`
+- 📚 *Julián Is a Mermaid* • *Ada Twist, Scientist* <!-- 2016 --> • *Red: A Crayon's Story* <!-- 2015 -->
+
+
+
