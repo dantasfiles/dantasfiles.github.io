@@ -242,7 +242,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## :balance_scale: Law
+## &#x2696; Law
 <!-- 11 -->
 
 ✔️ I've read or seen the following:
