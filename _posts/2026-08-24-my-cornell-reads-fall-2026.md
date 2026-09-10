@@ -22,7 +22,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[🌽 Agriculture & Life Sciences →](#-agriculture--life-sciences)**
 
-**[🗺️ Public Policy →](#-public-policy)**
+**[🗺️ Public Policy →](#public-policy)**
 
 
 </div>
@@ -311,7 +311,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 🗺️ Public Policy
+## Public Policy
 <!-- 1 -->
 
 **Social Problems in the U.S.** `PUBPOL 2250`
