@@ -111,7 +111,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 🏛️ Arts & Sciences
+## &#127963; Arts & Sciences
 <!-- 40 -->
 
 ✔️ I've read or seen the following:
