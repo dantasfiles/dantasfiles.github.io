@@ -282,7 +282,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ## Public Policy
 
 **Social Problems in the U.S.** `PUBPOL 2250`
-- 📚 *Ada Twist, Scientist* <!-- 2016 --> • *Red: A Crayon's Story* <!-- 2015 -->
+- 📚 *Julián Is a Mermaid* • *Ada Twist, Scientist* <!-- 2016 --> • *Red: A Crayon's Story* <!-- 2015 -->
 
 ---
 
