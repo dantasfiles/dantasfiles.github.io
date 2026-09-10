@@ -10,19 +10,19 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <div style="column-count: 2;" markdown="1">
 
-**[💻 Engineering →](#engineering)**
+**[💻 Engineering →](#0engineering)**
 
-**[🏛️ Arts & Sciences →](#arts-sciences)**
+**[🏛️ Arts & Sciences →](#-arts--sciences)**
 
-**[⚖️ Law →](#-law-)**
+**[⚖️ Law →](#-law)**
 
-**[💼 Business →](#-business-)**
+**[💼 Business →](#-business)**
 
-**[🏢 Architecture, Art & Planning →](#-architecture-art--planning-)**
+**[🏢 Architecture, Art & Planning →](#-architecture-art--planning)**
 
-**[🌽 Agriculture & Life Sciences →](#-agriculture--life-sciences-)**
+**[🌽 Agriculture & Life Sciences →](#-agriculture--life-sciences)**
 
-**[🗺️ Public Policy →](#public-policy-)**
+**[🗺️ Public Policy →](#-public-policy)**
 
 
 </div>
