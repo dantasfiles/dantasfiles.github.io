@@ -10,7 +10,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <div style="column-count: 2;" markdown="1">
 
-**[💻 Engineering →](#0engineering)**
+**[💻 Engineering →](#-engineering)**
 
 **[🏛️ Arts & Sciences →](#-arts--sciences)**
 
