@@ -10,15 +10,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <div style="column-count: 2;" markdown="1">
 
-**[Engineering →](#engineering)**
+**[💻 Engineering →](#engineering)**
 
-**[Natural Sciences →](#natural-sciences)**
+**[🔬 Natural Sciences →](#natural-sciences)**
 
-**[Social Sciences →](#social-sciences)**
+**[📊 Social Sciences →](#social-sciences)**
 
-**[Humanities & the Arts →](#humanities--the-arts)**
+**[🏛️ Humanities & the Arts →](#humanities--the-arts)**
 
-**[General →](#general)**
+**[🐯 General →](#general)**
 
 </div>
 
@@ -240,7 +240,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 --- 
 
-## General <!-- 16 -->
+## 🐯 General <!-- 16 -->
 
 **[Pre-read](https://president.princeton.edu/princeton-pre-read)**
 - 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
