@@ -18,11 +18,13 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Humanities & the Arts →](#humanities--the-arts)**
 
+**[General →](#general)**
+
 </div>
 
 ---
 
-## 💻 Engineering
+## 💻 Engineering <!-- 17 -->
 
 ✔️ I've read the following:
 
@@ -71,7 +73,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 🔬 Natural Sciences
+## 🔬 Natural Sciences <!-- 8 -->
 
 ✔️ I've read the following:
 
@@ -91,7 +93,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 📊 Social Sciences
+## 📊 Social Sciences <!-- 17 -->
 
 ✔️ I've read the following:
 
@@ -158,7 +160,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 🏛️ Humanities & the Arts
+## 🏛️ Humanities & the Arts <!-- 24 -->
 
 ✔️ I've read the following:
 
@@ -202,37 +204,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Junior Independent Work Seminar** `ENG 397`
 - 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 
-<p style="color: gray;">First-Year Seminars</p>
-
-**[Pre-read](https://president.princeton.edu/princeton-pre-read)**
-- 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
-
-**Exploring the Graphic Novel** `FRS 111`
-- 📔 *American Born Chinese* by Gene Luen Yang <!-- 2006-09-05 -->
-- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel <!-- 2006-06-08 -->
-- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
-- 📔 *Watchmen* by Moore & Gibbons <!-- 1987 -->
-
-**What Makes for a Meaningful Life? A Search** `FRS 121`
-- 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas?ref=rsp)) <!-- 1946 -->
-- 📕 *Winnie-the-Pooh* by A.A. Milne <!-- 1926 -->
-
-**History of Freedom** `FRS 137`
-- ✉️ *Letter from Birmingham Jail* by Martin Luther King Jr.
-
-**Gaslight! Control, Coercion, or Just Conflict?: The Cultural History of a TikTok Term** `FRS 153`
-- 📕 *1984* by George Orwell
-
-**Marx in the 21st Century** `FRS 167`
-- 📄 *The Communist Manifesto* by Marx & Engels
-
-**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
-- 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas)) <!-- 1972 -->
-- 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick <!-- 1968 -->
-- 📕 *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas)) <!-- 1950 -->
-- 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
-- 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
-
 <p style="color: gray;">Humanistic Studies</p>
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
@@ -266,6 +237,41 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Intro. to Theater Making** `THR/MTD 101`
 - 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
+
+--- 
+
+## General <!-- 16 -->
+
+**[Pre-read](https://president.princeton.edu/princeton-pre-read)**
+- 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
+
+<p style="color: gray;">First-Year Seminars</p>
+
+**Exploring the Graphic Novel** `FRS 111`
+- 📔 *American Born Chinese* by Gene Luen Yang <!-- 2006-09-05 -->
+- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel <!-- 2006-06-08 -->
+- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
+- 📔 *Watchmen* by Moore & Gibbons <!-- 1987 -->
+
+**What Makes for a Meaningful Life? A Search** `FRS 121`
+- 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas?ref=rsp)) <!-- 1946 -->
+- 📕 *Winnie-the-Pooh* by A.A. Milne <!-- 1926 -->
+
+**History of Freedom** `FRS 137`
+- ✉️ *Letter from Birmingham Jail* by Martin Luther King Jr.
+
+**Gaslight! Control, Coercion, or Just Conflict?: The Cultural History of a TikTok Term** `FRS 153`
+- 📕 *1984* by George Orwell
+
+**Marx in the 21st Century** `FRS 167`
+- 📄 *The Communist Manifesto* by Marx & Engels
+
+**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
+- 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas)) <!-- 1972 -->
+- 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick <!-- 1968 -->
+- 📕 *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas)) <!-- 1950 -->
+- 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
+- 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
 
 <p style="color: gray;">Writing</p>
 
