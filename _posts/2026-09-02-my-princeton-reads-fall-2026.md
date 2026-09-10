@@ -28,12 +28,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray;">Chemical & Biological Engineering</p>
+<p style="color: gray; text-decoration: underline;">Chemical & Biological Engineering</p>
 
 **Technical Leadership in Engineering** `CBE/EGR 531`
 - 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
 
-<p style="color: gray;">Computer Science</p>
+<p style="color: gray; text-decoration: underline;">Computer Science</p>
 
 **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
 - 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
@@ -77,7 +77,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray;">Art & Archaeology</p>
+<p style="color: gray; text-decoration: underline;">Art & Archaeology</p>
 
 **19th-Century European Art: Painting & Literature in 19th C. France & England** `ART/ECS/COM 450 / HUM 451`
 - 📕 *The Picture of Dorian Gray* by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
