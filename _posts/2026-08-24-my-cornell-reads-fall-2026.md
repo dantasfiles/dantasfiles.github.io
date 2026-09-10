@@ -270,7 +270,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *The Social Network* by David Fincher
 
 **Digital Platform Strategy** `AEM 4615 / NBA 5615`
-- 📰 *[OpenAI](https://bdtechtalks.com/2023/11/10/chatgpt-network-effects/)* <!-- 2023-11-10 --> • *[Reddit](https://www.platformer.news/reddit-goes-dark/)* <!-- 2023-06-12 --> • *[GM](https://www.nbcnewyork.com/news/business/money-report/gm-to-use-tesla-charging-network-joining-ford-in-leveraging-the-ev-leaders-tech/4406522/)* <!-- 2023-06-08 --> • *[Booking.com](https://www.mirai.com/blog/understanding-booking-coms-shift-to-the-merchant-model-and-a-roadmap-for-hotels-to-compete-with-it/)* <!-- 2022-02-06 -->
+- 📰 [OpenAI](https://bdtechtalks.com/2023/11/10/chatgpt-network-effects/) <!-- 2023-11-10 --> • [Reddit](https://www.platformer.news/reddit-goes-dark/) <!-- 2023-06-12 --> • [GM](https://www.nbcnewyork.com/news/business/money-report/gm-to-use-tesla-charging-network-joining-ford-in-leveraging-the-ev-leaders-tech/4406522/) <!-- 2023-06-08 --> • [Booking.com](https://www.mirai.com/blog/understanding-booking-coms-shift-to-the-merchant-model-and-a-roadmap-for-hotels-to-compete-with-it/) <!-- 2022-02-06 -->
 
 <p style="color: gray;">Management</p>
 
