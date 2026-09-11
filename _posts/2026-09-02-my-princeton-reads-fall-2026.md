@@ -245,7 +245,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - ✉️ *Letter from Birmingham Jail* by Martin Luther King Jr.
 
 **Gaslight! Control, Coercion, or Just Conflict?: The Cultural History of a TikTok Term** `FRS 153`
-- 📕 *1984* by George Orwell
+- 📕 *The Haunting of Hill House* by Shirley Jackson ([my highlights](https://www.goodreads.com/notes/50534595-the-haunting-of-hill-house/185327722-daniel-dantas)) <!-- 1959 -->
+- 📕 *1984* by George Orwell <!-- 1949 --> 
 
 **Marx in the 21st Century** `FRS 167`
 - 📄 *The Communist Manifesto* by Marx & Engels
