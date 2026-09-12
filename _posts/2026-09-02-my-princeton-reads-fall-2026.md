@@ -156,7 +156,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## 📊 Social Sciences
-<!-- 17 -->
+<!-- 18 -->
 
 ✔️ I've read the following:
 
@@ -175,15 +175,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
 - 📕 *Disgrace* by J. M. Coetzee
 
+<p style="color: gray; text-decoration: underline;">Study of America</p>
+
+**Native American Literature** `NAI/AMS 322 / ENG 242`
+- 📕 *Ceremony* by Leslie Marmon Silko
+
 <p style="color: gray; text-decoration: underline;">Anthropology</p>
 
 **Violence** `ANT/HUM 264`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
-
-<p style="color: gray; text-decoration: underline;">Contemporary European Politics & Society</p>
-
-**Landmarks of European Identity** `EPS/ECS 302`
-- 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
 
 <p style="color: gray; text-decoration: underline;">History</p>
 
@@ -203,10 +203,13 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **The Age of Democratic Revolutions** `HIS 487`
 - 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
 
-<p style="color: gray; text-decoration: underline;">Native American & Indigenous Studies</p>
+<p style="color: gray; text-decoration: underline;">International & Regional Studies</p>
 
-**Native American Literature** `NAI/AMS 322 / ENG 242`
-- 📕 *Ceremony* by Leslie Marmon Silko
+**Landmarks of European Identity** `EPS/ECS 302`
+- 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
+
+**Translation, Migration, Culture** `TRA/HUM 400 / COM 409`
+- 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas))
 
 <p style="color: gray; text-decoration: underline;">Politics</p>
 
