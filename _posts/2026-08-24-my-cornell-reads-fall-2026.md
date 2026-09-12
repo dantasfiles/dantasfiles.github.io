@@ -112,7 +112,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## &#127963; Arts & Sciences
-<!-- 40 -->
+<!-- 41 -->
 
 ✔️ I've read or seen the following:
 
@@ -221,6 +221,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
+**Perspectives on Spain in Spanish** `SPAN 2235`
+- 🎞️ *Un Chien Andalou* by Luis Buñuel <!-- 1929 -->
+
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750`
 - 📕 *Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas)) <!-- 1883 -->
 - 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
@@ -285,12 +288,19 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## 🏢 Architecture, Art & Planning
-<!-- 2 -->
+<!-- 3 -->
 
 ✔️ I've read or seen the following:
 
+<p style="color: gray; text-decoration: underline;">Architecture</p>
+
 **History of Architecture II** `ARCH 2802`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
+
+<p style="color: gray; text-decoration: underline;">Art</p>
+
+**Media Arts, Performance & Sound: Intersections** `ART/PMA 2701`
+- 🎞️ *Un Chien Andalou* by Luis Buñuel <!-- 1929 -->
 
 **Contemporary Italian Culture - Italian Cinema** `ART/ARCH 3117`
 - 🎞️ *La Dolce Vita* by Federico Fellini
