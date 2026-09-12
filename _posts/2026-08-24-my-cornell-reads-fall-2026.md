@@ -30,7 +30,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## 💻 Engineering
-<!-- 34 -->
+<!-- 36 -->
 
 ✔️ I've read the following:
 
@@ -82,6 +82,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - 📕 *Practical Foundations for Programming Languages* by Robert Harper
 
+**[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `CS/INFO 6850`
+- 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al.
+- 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
+
 <p style="color: gray; text-decoration: underline;">Electrical & Computer Engineering</p>
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
@@ -112,7 +116,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## &#127963; Arts & Sciences
-<!-- 41 -->
+<!-- 39 -->
 
 ✔️ I've read or seen the following:
 
@@ -188,12 +192,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Contesting Votes: Democracy & Citizenship Throughout U.S. History** `HIST/AMST 4203`
 - 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
-
-<p style="color: gray; text-decoration: underline;">Information Science</p>
-
-**[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `INFO/CS 6850`
-- 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al.
-- 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
 
 <p style="color: gray; text-decoration: underline;">Jewish Studies</p>
 
