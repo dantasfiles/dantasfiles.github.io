@@ -227,7 +227,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
 
 **The Uncanny** `SPAN/COML/ROMS 4196`
-- 🎞️ The Shining by Stanley Kubrick <!-- 1980 -->
+- 🎞️ *The Shining* by Stanley Kubrick <!-- 1980 -->
 
 <p style="color: gray; text-decoration: underline;">Sociology</p>
 
