@@ -310,7 +310,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've seen the following:
 
-**Foundations in Leadership: Skills for Personal and Professional Effectiveness** `GDEV/LEAD 3100`
+**Foundations in Leadership: Skills for Personal & Professional Effectiveness** `GDEV/LEAD 3100`
 - 🎞️ *Remember the Titans* by Boaz Yakin
 
 ---
