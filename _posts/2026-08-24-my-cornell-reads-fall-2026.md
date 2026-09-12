@@ -153,6 +153,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **American Voices: Lost in the City: The Great Migration & Imagining the Urban Space through Black Art** `ENGL 1158-102`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
+**Intersections: Race, Writing & Power** `ENGL 1160`
+- 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas))
+
 **Short Stories** `ENGL 1170-105`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
