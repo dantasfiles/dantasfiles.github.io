@@ -209,7 +209,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 <p style="color: gray; text-decoration: underline;">Performing Arts</p>
 
 **Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
-- 🎞️ *Nope* <!-- 2022 --> • *Eraserhead* <!-- 1977 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Meshes of the Afternoon* <!-- 1943 --> • *Modern Times* <!-- 1936 --> • *The Life & Death of 9413: A Hollywood Extra* <!-- 1928 --> • *Sherlock Jr.* <!-- 1924 --> • *Barsoum Looking for a Job* <!-- 1923-12-31 --> • *Felix in Hollywood* <!-- 1923 --> • *Cinderella* <!-- 1922 --> • *Luke's Movie Muddle* <!-- 1916 --> • *Mabel's Blunder* <!-- 1914 --> • *Suspense* <!-- 1913 --> • *Life of an American Fireman* <!-- 1903 -->
+- 🎞️ *Nope* <!-- 2022 --> • *Eraserhead* <!-- 1977 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Meshes of the Afternoon* <!-- 1943 --> • *Modern Times* <!-- 1936 --> • *The Life & Death of 9413: A Hollywood Extra* <!-- 1928 --> • *Entr'acte* <!-- 1924-12-04 --> • *Sherlock Jr.* <!-- 1924-04-21 --> • *Barsoum Looking for a Job* <!-- 1923-12-31 --> • *Felix in Hollywood* <!-- 1923 --> • *Cinderella* <!-- 1922 --> • *Luke's Movie Muddle* <!-- 1916 --> • *Mabel's Blunder* <!-- 1914 --> • *Suspense* <!-- 1913 --> • *Life of an American Fireman* <!-- 1903 -->
 
 **Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
 - 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
