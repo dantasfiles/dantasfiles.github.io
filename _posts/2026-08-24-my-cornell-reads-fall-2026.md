@@ -289,7 +289,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## 🏢 Architecture, Art & Planning
-<!-- 3 -->
+<!-- 4 -->
 
 ✔️ I've read or seen the following:
 
@@ -305,6 +305,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Contemporary Italian Culture - Italian Cinema** `ART/ARCH 3117`
 - 🎞️ *La Dolce Vita* by Federico Fellini
+
+<p style="color: gray; text-decoration: underline;">City & Regional Planning</p>
+
+**Economic & Community Development Workshop** `CRP 3074`
+- 📰 *[Investment Firms Acquire Trailer Parks](https://www.newyorker.com/magazine/2021/03/15/what-happens-when-investment-firms-acquire-trailer-parks)* by Sheelah Kolhatkar
 
 ---
 
