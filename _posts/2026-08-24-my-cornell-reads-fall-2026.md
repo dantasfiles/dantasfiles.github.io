@@ -116,7 +116,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## &#127963; Arts & Sciences
-<!-- 40 -->
+<!-- 41 -->
 
 ✔️ I've read or seen the following:
 
@@ -233,6 +233,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *The Shining* by Stanley Kubrick <!-- 1980 -->
 
 <p style="color: gray; text-decoration: underline;">Sociology</p>
+
+**Intro. to Sociology** `SOC 1101`
+- 📰 *[The code of the streets](https://www.theatlantic.com/magazine/archive/1994/05/the-code-of-the-streets/306601/)* by Elijah Anderson
 
 **American Society through Film** `SOC/AMST 1290`
 - 🎞️ *Good Will Hunting* <!-- 1997 --> • *The Godfather* <!-- 1972 -->
