@@ -170,34 +170,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray; text-decoration: underline;">African American Studies</p>
-<!-- 5 -->
-
-**African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
-- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
-
-**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS/URB 231 / ENG 245`
-- 📕 *Darkwater: Voices from Within the Veil* ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
-
-**Toni Morrison & Her Circle** `AAS/ENG 320`
-- 📕 *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
-
-**Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
-- 📕 *Disgrace* by J. M. Coetzee
-
-<p style="color: gray; text-decoration: underline;">Study of America</p>
-<!-- 1 -->
-
-**Native American Literature** `NAI/AMS 322 / ENG 242`
-- 📕 *Ceremony* by Leslie Marmon Silko
-
-<p style="color: gray; text-decoration: underline;">Anthropology</p>
-<!-- 1 -->
-
-**Violence** `ANT/HUM 264`
-- 📕 *The Wretched of the Earth* by Frantz Fanon
-
 <p style="color: gray; text-decoration: underline;">History</p>
 <!-- 6 -->
 
@@ -217,7 +189,24 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **The Age of Democratic Revolutions** `HIS 487`
 - 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
 
+<p style="color: gray; text-decoration: underline;">African American Studies</p>
+<!-- 5 -->
+
+**African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
+- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
+
+**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS/URB 231 / ENG 245`
+- 📕 *Darkwater: Voices from Within the Veil* ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+
+**Toni Morrison & Her Circle** `AAS/ENG 320`
+- 📕 *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+
+**Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
+- 📕 *Disgrace* by J. M. Coetzee
+
 <p style="color: gray; text-decoration: underline;">International & Regional Studies</p>
+<!-- 2 -->
 
 **Landmarks of European Identity** `EPS/ECS 302`
 - 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
@@ -226,6 +215,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas))
 
 <p style="color: gray; text-decoration: underline;">Politics</p>
+<!-- 2 -->
 
 **The Just Society** `POL/CHV 307`
 - 📄 *The Communist Manifesto* by Marx & Engels
@@ -233,7 +223,20 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Causes of War** `POL/SPI 388`
 - 📕 *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
 
+<p style="color: gray; text-decoration: underline;">Study of America</p>
+<!-- 1 -->
+
+**Native American Literature** `NAI/AMS 322 / ENG 242`
+- 📕 *Ceremony* by Leslie Marmon Silko
+
+<p style="color: gray; text-decoration: underline;">Anthropology</p>
+<!-- 1 -->
+
+**Violence** `ANT/HUM 264`
+- 📕 *The Wretched of the Earth* by Frantz Fanon
+
 <p style="color: gray; text-decoration: underline;">Public & International Affairs</p>
+<!-- 1 -->
 
 **The Comparative Political Economy of Development** `SPI 561 / POL 523`
 - 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
