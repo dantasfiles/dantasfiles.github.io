@@ -171,6 +171,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ✔️ I've read the following:
 
 <p style="color: gray; text-decoration: underline;">African American Studies</p>
+<!-- 5 -->
 
 **African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
 - 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
@@ -186,16 +187,19 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Disgrace* by J. M. Coetzee
 
 <p style="color: gray; text-decoration: underline;">Study of America</p>
+<!-- 1 -->
 
 **Native American Literature** `NAI/AMS 322 / ENG 242`
 - 📕 *Ceremony* by Leslie Marmon Silko
 
 <p style="color: gray; text-decoration: underline;">Anthropology</p>
+<!-- 1 -->
 
 **Violence** `ANT/HUM 264`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
 
 <p style="color: gray; text-decoration: underline;">History</p>
+<!-- 6 -->
 
 **The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
 - 📕 *Byzantium: A Very Short Intro.* by Peter Sarris
