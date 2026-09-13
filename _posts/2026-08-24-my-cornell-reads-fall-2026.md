@@ -87,6 +87,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
 
 <p style="color: gray; text-decoration: underline;">Electrical & Computer Engineering</p>
+<!-- 10 -->
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
@@ -120,55 +121,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read or seen the following:
 
-<p style="color: gray; text-decoration: underline;">Classics</p> <!-- 3 -->
-
-**Classics & Comics** `CLASS 1812`
-- 📔 *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower <!-- 2001 -->
-- 📔 *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas)) <!-- 1979 -->
-
-**Greek Mythology** `CLASS 2604`
-- 📜 *The Odyssey* by Homer
-
-<p style="color: gray; text-decoration: underline;">Comparative Literature</p> <!-- 3 -->
-
-**Comparative Literature, Film & Media** `COML 2030`
-- 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee <!-- 2018 -->
-- 🎞️ *Arrival* <!-- 2016 --> • *The Big Short* <!-- 2015 --> • *2001: A Space Odyssey* <!-- 1968 --> • *Modern Times* <!-- 1936 -->
-
-**Demons & Witches in Russian Literature & Film** `RUSSL 2500`
-- 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
-
-<p style="color: gray; text-decoration: underline;">English</p>
-
-**Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
-- 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
-- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
-
-**Writing the Environment: Enchanting Nature** `ENGL 1130-101`
-- 🎭 *A Midsummer Night's Dream* by William Shakespeare
-
-**True Stories** `ENGL 1134`
-- 📔 *They Called Us Enemy* by George Takei
-
-**American Voices: Lost in the City: The Great Migration & Imagining the Urban Space through Black Art** `ENGL 1158-102`
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
-
-**Intersections: Race, Writing & Power** `ENGL 1160`
-- 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas))
-
-**Short Stories** `ENGL 1170-105`
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">Government</p>
-
-**Making Sense of World Politics** `GOVT 1817`
-- 📕 *The Cold War: A Very Short Intro.* by Robert J. McMahon
-- 📰 *[The sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[The Du Bois doctrine](https://www.foreignaffairs.com/united-states/web-du-bois-doctrine-race-america-century)* <!-- 2022-09-06 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 --> • *[The vanishing nuclear taboo?](https://www.foreignaffairs.com/articles/world/2018-10-15/vanishing-nuclear-taboo)* <!-- 2018-10-15 --> • *[The clash of civilizations?](https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations)* <!-- 1993-06-01 -->
-
-**America, Business & International Political Economy** `GOVT/AEM/GDEV/ILRGL 3547`
-- 📰 *[A dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[The sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
-
 <p style="color: gray; text-decoration: underline;">History</p>
+<!-- 12 -->
 
 **History of Law: Great Trials** `HIST 1600`
 - 🎞️ *Judgment at Nuremberg* by Stanley Kramer
@@ -200,28 +154,30 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Contesting Votes: Democracy & Citizenship Throughout U.S. History** `HIST/AMST 4203`
 - 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
 
-<p style="color: gray; text-decoration: underline;">Jewish Studies</p>
+<p style="color: gray; text-decoration: underline;">English</p>
+<!-- 7 -->
 
-**Jews on Film: Visible & Invisible** `JWST 1987` 
-- 🎞️ *Annie Hall* <!-- 1977 --> • *Casablanca* <!-- 1942 --> • *A Plantation Act* <!-- 1923 -->
+**Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
+- 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
+- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
 
-<p style="color: gray; text-decoration: underline;">Linguistics</p>
+**Writing the Environment: Enchanting Nature** `ENGL 1130-101`
+- 🎭 *A Midsummer Night's Dream* by William Shakespeare
 
-**Language, Thought & Reality** `LING 1100`
-- **Words & Pictures** `101`
-  - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
-- **Speech & the Undead** `102`
-  - 🎞️ *Warm Bodies* <!-- 2013 --> • *Night of the Living Dead* <!-- 1968 --> • *Dracula* <!-- 1931 -->
+**True Stories** `ENGL 1134`
+- 📔 *They Called Us Enemy* by George Takei
 
-<p style="color: gray; text-decoration: underline;">Performing Arts</p>
+**American Voices: Lost in the City: The Great Migration & Imagining the Urban Space through Black Art** `ENGL 1158-102`
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
-**Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
-- 🎞️ *Nope* <!-- 2022 --> • *Eraserhead* <!-- 1977 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Meshes of the Afternoon* <!-- 1943 --> • *Modern Times* <!-- 1936 --> • *The Life & Death of 9413: A Hollywood Extra* <!-- 1928 --> • *Entr'acte* <!-- 1924-12-04 --> • *Sherlock Jr.* <!-- 1924-04-21 --> • *Barsoum Looking for a Job* <!-- 1923-12-31 --> • *Felix in Hollywood* <!-- 1923 --> • *Cinderella* <!-- 1922 --> • *Luke's Movie Muddle* <!-- 1916 --> • *Mabel's Blunder* <!-- 1914 --> • *Suspense* <!-- 1913 --> • *Life of an American Fireman* <!-- 1903 -->
+**Intersections: Race, Writing & Power** `ENGL 1160`
+- 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas))
 
-**Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
-- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
+**Short Stories** `ENGL 1170-105`
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
 <p style="color: gray; text-decoration: underline;">Romance Studies</p>
+<!-- 5 -->
 
 **Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
@@ -237,6 +193,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *Blue Velvet* <!-- 1986 --> • *The Shining* <!-- 1980 --> • *The Exterminating Angel* <!-- 1962 -->
 
 <p style="color: gray; text-decoration: underline;">Sociology</p>
+<!-- 5 -->
 
 **Intro. to Sociology** `SOC 1101`
 - 📰 *[China’s frustrated middle class](https://mondediplo.com/2022/11/12china)* <!-- 2022-11 --> • *[The code of the streets](https://www.theatlantic.com/magazine/archive/1994/05/the-code-of-the-streets/306601/)* <!-- 1994-05 --> • *[Trouble in Lakewood](https://www.newyorker.com/magazine/1993/07/26/joan-didion-trouble-in-lakewood-teen-gang)* <!-- 1993-07-19 -->
@@ -250,6 +207,60 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Fascism, Nationalism & Populism** `SOC 4540`
 - 📕 *How Democracies Die* by Levitsky & Ziblatt ([my highlights](https://www.goodreads.com/notes/55132935-how-democracies-die/185327722-daniel-dantas?ref=rsp)) <!-- 2018 -->
 - 📕 *On Tyranny: 20 Lessons from the 20th Century* by Timothy Snyder ([my highlights](https://www.goodreads.com/notes/34083908-on-tyranny/185327722-daniel-dantas)) <!-- 2017 -->
+
+<p style="color: gray; text-decoration: underline;">Classics</p>
+<!-- 3 -->
+
+**Classics & Comics** `CLASS 1812`
+- 📔 *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower <!-- 2001 -->
+- 📔 *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas)) <!-- 1979 -->
+
+**Greek Mythology** `CLASS 2604`
+- 📜 *The Odyssey* by Homer
+
+<p style="color: gray; text-decoration: underline;">Comparative Literature</p>
+<!-- 3 -->
+
+**Comparative Literature, Film & Media** `COML 2030`
+- 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee <!-- 2018 -->
+- 🎞️ *Arrival* <!-- 2016 --> • *The Big Short* <!-- 2015 --> • *2001: A Space Odyssey* <!-- 1968 --> • *Modern Times* <!-- 1936 -->
+
+**Demons & Witches in Russian Literature & Film** `RUSSL 2500`
+- 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
+
+<p style="color: gray; text-decoration: underline;">Government</p>
+<!-- 3 -->
+
+**Making Sense of World Politics** `GOVT 1817`
+- 📕 *The Cold War: A Very Short Intro.* by Robert J. McMahon
+- 📰 *[The sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[The Du Bois doctrine](https://www.foreignaffairs.com/united-states/web-du-bois-doctrine-race-america-century)* <!-- 2022-09-06 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 --> • *[The vanishing nuclear taboo?](https://www.foreignaffairs.com/articles/world/2018-10-15/vanishing-nuclear-taboo)* <!-- 2018-10-15 --> • *[The clash of civilizations?](https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations)* <!-- 1993-06-01 -->
+
+**America, Business & International Political Economy** `GOVT/AEM/GDEV/ILRGL 3547`
+- 📰 *[A dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[The sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
+
+<p style="color: gray; text-decoration: underline;">Linguistics</p>
+<!-- 2 -->
+
+**Language, Thought & Reality** `LING 1100`
+- **Words & Pictures** `101`
+  - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
+- **Speech & the Undead** `102`
+  - 🎞️ *Warm Bodies* <!-- 2013 --> • *Night of the Living Dead* <!-- 1968 --> • *Dracula* <!-- 1931 -->
+
+<p style="color: gray; text-decoration: underline;">Performing Arts</p>
+<!-- 2 -->
+
+**Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
+- 🎞️ *Nope* <!-- 2022 --> • *Eraserhead* <!-- 1977 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Meshes of the Afternoon* <!-- 1943 --> • *Modern Times* <!-- 1936 --> • *The Life & Death of 9413: A Hollywood Extra* <!-- 1928 --> • *Entr'acte* <!-- 1924-12-04 --> • *Sherlock Jr.* <!-- 1924-04-21 --> • *Barsoum Looking for a Job* <!-- 1923-12-31 --> • *Felix in Hollywood* <!-- 1923 --> • *Cinderella* <!-- 1922 --> • *Luke's Movie Muddle* <!-- 1916 --> • *Mabel's Blunder* <!-- 1914 --> • *Suspense* <!-- 1913 --> • *Life of an American Fireman* <!-- 1903 -->
+
+**Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
+- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
+
+<p style="color: gray; text-decoration: underline;">Jewish Studies</p>
+<!-- 1 -->
+
+**Jews on Film: Visible & Invisible** `JWST 1987` 
+- 🎞️ *Annie Hall* <!-- 1977 --> • *Casablanca* <!-- 1942 --> • *A Plantation Act* <!-- 1923 -->
 
 ---
 
