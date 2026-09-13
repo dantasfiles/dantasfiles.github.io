@@ -116,11 +116,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## &#127963; Arts & Sciences
-<!-- 42 -->
+<!-- 43 -->
 
 ✔️ I've read or seen the following:
 
-<p style="color: gray; text-decoration: underline;">Classics</p>
+<p style="color: gray; text-decoration: underline;">Classics</p> <!-- 3 -->
 
 **Classics & Comics** `CLASS 1812`
 - 📔 *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower <!-- 2001 -->
@@ -129,7 +129,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Greek Mythology** `CLASS 2604`
 - 📜 *The Odyssey* by Homer
 
-<p style="color: gray; text-decoration: underline;">Comparative Literature</p>
+<p style="color: gray; text-decoration: underline;">Comparative Literature</p> <!-- 3 -->
 
 **Comparative Literature, Film & Media** `COML 2030`
 - 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee <!-- 2018 -->
@@ -178,6 +178,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Hiroshima* by John Hersey <!-- 1946 -->
 
 **From the New Deal to the Age of Reagan** `HIST/AMST/SHUM 2220`
+- 📰 *[The revolt of the white lower middle class](https://nymag.com/news/features/46801/)* by Pete Hamill <!-- 1969-04-14 -->
 - 🎞️ *The Vietnam War* by Burns & Novick
 
 **The American Revolutionary Era** `HIST/AMST 2665`
