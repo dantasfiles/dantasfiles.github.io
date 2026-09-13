@@ -35,6 +35,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ✔️ I've read the following:
 
 <p style="color: gray; text-decoration: underline;">Computer Science</p>
+<!-- 26 -->
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[Doc comments for the Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[The terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[PEP 257: Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
@@ -236,7 +237,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📰 *[The sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[The Du Bois doctrine](https://www.foreignaffairs.com/united-states/web-du-bois-doctrine-race-america-century)* <!-- 2022-09-06 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 --> • *[The vanishing nuclear taboo?](https://www.foreignaffairs.com/articles/world/2018-10-15/vanishing-nuclear-taboo)* <!-- 2018-10-15 --> • *[The clash of civilizations?](https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations)* <!-- 1993-06-01 -->
 
 **America, Business & International Political Economy** `GOVT/AEM/GDEV/ILRGL 3547`
-- 📰 *[A dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[The sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
+- 📰 *[A dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[What kind of great power will India be?](https://www.foreignaffairs.com/responses/what-kind-great-power-will-india-be)* <!-- 2025-07-30 --> • *[The sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 -->
 
 <p style="color: gray; text-decoration: underline;">Linguistics</p>
 <!-- 2 -->
