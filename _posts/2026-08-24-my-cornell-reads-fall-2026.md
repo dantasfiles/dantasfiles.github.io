@@ -235,7 +235,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 <p style="color: gray; text-decoration: underline;">Sociology</p>
 
 **Intro. to Sociology** `SOC 1101`
-- 📰 *[The code of the streets](https://www.theatlantic.com/magazine/archive/1994/05/the-code-of-the-streets/306601/)* by Elijah Anderson <!-- 1994-05 -->
+- 📰 *[The code of the streets](https://www.theatlantic.com/magazine/archive/1994/05/the-code-of-the-streets/306601/)* <!-- 1994-05 --> • *[Trouble in Lakewood](https://www.newyorker.com/magazine/1993/07/26/joan-didion-trouble-in-lakewood-teen-gang)* <!-- 1993-07-19 -->
 
 **American Society through Film** `SOC/AMST 1290`
 - 🎞️ *Good Will Hunting* <!-- 1997 --> • *The Godfather* <!-- 1972 -->
