@@ -29,12 +29,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray; text-decoration: underline;">Chemical & Biological Engineering</p>
-
-**Technical Leadership in Engineering** `CBE/EGR 531`
-- 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
-
 <p style="color: gray; text-decoration: underline;">Computer Science</p>
+<!-- 16 -->
 
 **[Intro. to Programming Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos217/)** `COS 217`
 - 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
@@ -72,6 +68,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- w2 --> 
 - 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- w9 -->
 
+<p style="color: gray; text-decoration: underline;">Chemical & Biological Engineering</p> 
+<!-- 1 -->
+
+**Technical Leadership in Engineering** `CBE/EGR 531`
+- 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
+
 ---
 
 ## &#127963; Humanities & the Arts
@@ -79,47 +81,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ✔️ I've read the following:
 
-<p style="color: gray; text-decoration: underline;">Art & Archaeology</p>
-
-**19th-Century European Art: Painting & Literature in 19th C. France & England** `ART/ECS/COM 450 / HUM 451`
-- 📕 *The Picture of Dorian Gray* by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
-
-**Modern Art: Science & Its Fictions in the Long 19th Century** `ART/HUM 577`
-- 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) <!-- 1896 -->
-- 📕 *Journey to the Center of the Earth* by Jules Verne <!-- 1864 -->
-- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
-
-<p style="color: gray; text-decoration: underline;">Classics</p>
-
-**Classical Mythology** `CLA/HUM/GSS/HLS 212`
-- 📕 *Jason & the Golden Fleece* by Apollonius of Rhodes
-- 📜 *The Odyssey* by Homer
-
-**The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
-- 📕 *The Trojan War: A Very Short Intro.* by Eric H. Cline
-
-**Socrates** `CLG 105`
-- 📜 *Apology* by Plato
-
-<p style="color: gray; text-decoration: underline;">Comparative Literature</p>
-
-**The Modern Period** `COM 318 / ECS 319 / LAS 308`
-- 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
-
-**Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** `COM 351`
-- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">English</p>
-
-**American Literature: 1930-Present** `ENG 368 / AMS 340`
-- 📕 *The Road* by Cormac McCarthy <!-- 2006 -->
-- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
-- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
-
-**Junior Independent Work Seminar** `ENG 397`
-- 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
-
 <p style="color: gray; text-decoration: underline;">Humanistic Studies</p>
+<!-- 5 -->
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
 - 📕 *The Consolation of Philosophy* by Boethius
@@ -132,7 +95,52 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
+<p style="color: gray; text-decoration: underline;">Art & Archaeology</p>
+<!-- 4 -->
+
+**19th-Century European Art: Painting & Literature in 19th C. France & England** `ART/ECS/COM 450 / HUM 451`
+- 📕 *The Picture of Dorian Gray* by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
+
+**Modern Art: Science & Its Fictions in the Long 19th Century** `ART/HUM 577`
+- 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) <!-- 1896 -->
+- 📕 *Journey to the Center of the Earth* by Jules Verne <!-- 1864 -->
+- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
+
+<p style="color: gray; text-decoration: underline;">Classics</p>
+<!-- 4 -->
+
+**Classical Mythology** `CLA/HUM/GSS/HLS 212`
+- 📕 *Jason & the Golden Fleece* by Apollonius of Rhodes
+- 📜 *The Odyssey* by Homer
+
+**The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
+- 📕 *The Trojan War: A Very Short Intro.* by Eric H. Cline
+
+**Socrates** `CLG 105`
+- 📜 *Apology* by Plato
+
+<p style="color: gray; text-decoration: underline;">English</p>
+<!-- 4 -->
+
+**American Literature: 1930-Present** `ENG 368 / AMS 340`
+- 📕 *The Road* by Cormac McCarthy <!-- 2006 -->
+- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
+- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
+
+**Junior Independent Work Seminar** `ENG 397`
+- 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+
+<p style="color: gray; text-decoration: underline;">Comparative Literature</p>
+<!-- 2 -->
+
+**The Modern Period** `COM 318 / ECS 319 / LAS 308`
+- 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+
+**Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** `COM 351`
+- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
 <p style="color: gray; text-decoration: underline;">Religion</p>
+<!-- 2 -->
 
 **Religion & the Public Conversation** `REL 100`
 - 📕 *Religion: A Very Short Intro.* by Thomas A. Tweed
@@ -141,6 +149,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
 <p style="color: gray; text-decoration: underline;">Slavic Languages & Literatures</p>
+<!-- 2 -->
 
 **Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
@@ -149,6 +158,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
 <p style="color: gray; text-decoration: underline;">Theater</p>
+<!-- 1 -->
 
 **Intro. to Theater Making** `THR/MTD 101`
 - 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
