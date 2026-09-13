@@ -179,7 +179,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **From the New Deal to the Age of Reagan** `HIST/AMST/SHUM 2220`
 - 📰 *[The revolt of the white lower middle class](https://nymag.com/news/features/46801/)* by Pete Hamill <!-- 1969-04-14 -->
-- 🎞️ *The Vietnam War* by Burns & Novick
+- 🎞️ *[The Vietnam War](https://www.pbs.org/kenburns/the-vietnam-war/)* by Burns & Novick
 
 **The American Revolutionary Era** `HIST/AMST 2665`
 - 📰 *[The battle for 1776](https://www.nytimes.com/2021/07/02/arts/1776-2026-A-DIFFERENT-STORY.html)* by Jennifer Schuessler
