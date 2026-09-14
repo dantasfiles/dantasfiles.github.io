@@ -45,8 +45,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 [**Intro. to Machine Learning**](https://princeton-cos324.github.io/) `COS 324`
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth, Faisal & Ong
-- 🔗 *[Linear regression](https://mlu-explain.github.io/linear-regression/)* <!-- 2022-09 --> • *[Logistic regression](https://mlu-explain.github.io/logistic-regression/)* <!-- 2022-08 --> • *[Cross validation](https://mlu-explain.github.io/cross-validation/)* <!-- 2022-05 --> • *[Train, test & validation sets](https://mlu-explain.github.io/train-test-validation/)* <!-- earlier than <!-- 2022-05 --> • *[Bias variance tradeoff](https://mlu-explain.github.io/bias-variance/)* <!-- 2021-01 --> • *[Gradient descent methods](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c/)* <!-- w3 2020-06-07 --> • *[Federated learning](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)* <!-- w3 2019-11-12 --> • *[Attacking machine learning w/ adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)* <!-- w2 2017-02-24 --> • *[K-means clustering](https://k-means-explorable.vercel.app/)* <!-- 7 --> 
-- 📰 *[In the hallways of Princeton, a fascination with the human mind unlocked the power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* <!-- w9 2025-10-03--> • *[Dealing w/ bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* <!-- w2 2019-11-19 -->
+- 🔗 *[Linear regression](https://mlu-explain.github.io/linear-regression/)* <!-- 2022-09 --> • *[Logistic regression](https://mlu-explain.github.io/logistic-regression/)* <!-- 2022-08 --> • *[Cross validation](https://mlu-explain.github.io/cross-validation/)* <!-- 2022-05 --> • *[Train, test & validation sets](https://mlu-explain.github.io/train-test-validation/)* <!-- earlier than <!-- 2022-05 --> • *[Bias variance tradeoff](https://mlu-explain.github.io/bias-variance/)* <!-- 2021-01 --> • *[Gradient descent methods](https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c/)* <!-- w3 2020-06-07 --> • *[Federated learning](https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/)* <!-- w3 2019-11-12 --> • *[Adversarial examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples/)* <!-- w2 2017-02-24 --> • *[K-means clustering](https://k-means-explorable.vercel.app/)* <!-- 7 --> 
+- 📰 *[The power of deep learning](https://www.princeton.edu/news/2025/10/03/hallways-princeton-fascination-human-mind-unlocked-power-deep-learning)* <!-- w9 2025-10-03--> • *[Bias in artificial intelligence](https://www.nytimes.com/2019/11/19/technology/artificial-intelligence-bias.html)* <!-- w2 2019-11-19 -->
 
 **[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
 - 📕 *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
@@ -61,12 +61,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare <!-- 10/26 -->
 
 **[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
-- 📄 *How to Read a Paper* by S. Keshav
+- 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
 
 **[Foundational Papers in Networks & Operating Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos597L/)** `COS 597L`
-- 📄 *How to Read a Paper* by S. Keshav
-- 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- w2 --> 
-- 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- w9 -->
+- 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- 2008-03-31 -->
+- 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
+- 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- 1967-01-01 --> 
 
 <p style="color: gray; text-decoration: underline;">Chemical & Biological Engineering</p> 
 <!-- 1 -->
@@ -293,16 +293,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 <p style="color: gray; text-decoration: underline;">Psychology</p>
 
 **[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
-- Neural network models <!-- 5-10 -->
-  - 📄 *[Deep Learning](https://www.cs.toronto.edu/~hinton/pages/publications.html)* by LeCun et al. <!-- 5 -->
-  - 📄 *[ImageNet Classification w/ Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)* by Krizhevsky et al. <!-- 8 -->
-  - 📄 *[Adapting Deep Network Features to Capture Psychological Representations](https://arxiv.org/abs/1608.02164)* by Peterson et al. <!-- 8 -->
-  - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 9 -->
-- Bayesian models <!-- 11-16 -->
-  - 📄 *[How to Grow a Mind: Statistics, Structure & Abstraction](https://cocosci.princeton.edu/publications.php?author=Kemp,%20C.)* by Tenenbaum et al. <!-- 12 -->
-  - 📄 *[The Discovery of Structural Form](https://www.pnas.org/doi/10.1073/pnas.0802631105)* by Kemp & Tenenbaum <!-- 14 -->
-  - 📄 *[Human-level Concept Learning through Probabilistic Program Induction](https://www.cs.princeton.edu/~bl8144/#2015)* by Lake et al. <!-- 15 -->
-- 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 17 -->
+- 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
+- 📄 *[Adapting Deep Network Features to Capture Psychological Representations](https://arxiv.org/abs/1608.02164)* by Peterson et al. <!-- 2016-08-06 -->
+- 📄 *[Human-level Concept Learning through Probabilistic Program Induction](https://www.cs.princeton.edu/~bl8144/#2015)* by Lake et al. <!-- 2015-12-11 -->
+- 📄 *[Deep Learning](https://www.nature.com/articles/nature14539)* by LeCun et al. <!-- 2015-05-27 -->
+- 📄 *[ImageNet Classification w/ Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)* by Krizhevsky et al. <!-- 2012 -->
+- 📄 *[How to Grow a Mind: Statistics, Structure & Abstraction](https://cocosci.princeton.edu/publications.php?author=Kemp,%20C.)* by Tenenbaum et al. <!-- 2011-03-11 -->
+- 📄 *[The Discovery of Structural Form](https://www.pnas.org/doi/10.1073/pnas.0802631105)* by Kemp & Tenenbaum <!-- 2008-08-05 -->
+- 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 2000-10-05 -->
 
 
 
