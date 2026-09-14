@@ -84,7 +84,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Practical Foundations for Programming Languages* by Robert Harper
 
 **[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `CS/INFO 6850`
-- 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al. <!-- 2003-08-08 -->
+- 📄 *[An Experimental Study of Search in Global Social Networks](https://www.science.org/doi/10.1126/science.1081058)* by Dodds et al. <!-- 2003-08-08 -->
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al. <!-- 2003-02-01 -->
 
 <p style="color: gray; text-decoration: underline;">Electrical & Computer Engineering</p>
@@ -108,7 +108,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Modern Datacenter Architecture](https://www.csl.cornell.edu/courses/ece6765/)** `ECE 6765`
 - 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al. <!-- 2020-06-05 -->
-- 📄 *Computing's Energy Problem (and What We Can Do About It)* by Mark Horowitz <!-- 2014-02 -->
+- 📄 *[Computing's Energy Problem (and What We Can Do About It)](https://ieeexplore.ieee.org/document/6757323/)* by Mark Horowitz <!-- 2014-02 -->
+- 📄 *[The Tail at Scale](https://dl.acm.org/doi/10.1145/2408776.2408794)* by Dean & Barroso
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
 
 <p style="color: gray; text-decoration: underline;">General Engineering</p>
