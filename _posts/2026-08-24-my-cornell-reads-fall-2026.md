@@ -38,7 +38,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 <!-- 26 -->
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
-- 🔗 *[Doc comments for the Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[The terminal command line in macOS](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[PEP 257: Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
+- 🔗 *[The Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[The terminal command line](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
 
 **[Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
 - 📕 *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
@@ -53,39 +53,38 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Effective Java: Best Practices for the Java Platform* by Joshua Bloch <!-- 2017  -->
 - 📕 *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma et al. <!-- 1994 -->
 - 📄 *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al. <!-- 2003-01-11 -->
-- 🔗 *[Please don't learn to code](https://blog.codinghorror.com/please-dont-learn-to-code/)* <!-- 2012-05-14 --> • *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* • *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)*
+- 🔗 *[Don't learn to code](https://blog.codinghorror.com/please-dont-learn-to-code/)* <!-- 2012-05-14 --> • *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* • *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)*
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
-- 🔗 *[Makefile tutorial](https://makefiletutorial.com/)* <!-- 2025-06-01 --> • *[A proactive approach to more secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* <!-- 2019-07-16 --> • *[Safe from compiler bugs?](https://blog.regehr.org/archives/539)* <!-- 2011-06-03 --> • *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* <!-- 2001-10-19 -->
+- 🔗 *[Makefile tutorial](https://makefiletutorial.com/)* <!-- 2025-06-01 --> • *[More secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* <!-- 2019-07-16 --> • *[Safe from compiler bugs?](https://blog.regehr.org/archives/539)* <!-- 2011-06-03 --> • *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* <!-- 2001-10-19 -->
 
 **[Intro. to Machine Learning](https://www.cs.cornell.edu/courses/cs3780/2026fa/)** `CS 3780`
 - 📕 *[Mathematics for Machine Learning](https://mml-book.github.io/)* by Deisenroth et al.
 
 **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414`
 - 📄 *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
-- 🔗 *[How to learn Rust in 2026](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky <!-- 2024-09-20 -->
+- 🔗 *[Learn Rust](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky <!-- 2024-09-20 -->
 
 **[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787`
 - 📄 *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
-- 🔗 *[Introducing GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* by Yanping Huang <!-- 20 -->
-- 🔗 *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* by Fidan Boylu Uz <!-- 23 -->
+- 🔗 *[GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* <!-- 2019-03-04 --> • *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* <!-- 2018-09-11 -->
 
 **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
-- 📄 *[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://dl.acm.org/doi/10.1145/800221.806707)* by Michael Ben-Or
-- 📄 *[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)* by Abraham et al.
+- 📄 *[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)* by Abraham et al. <!-- 2011-06-10 -->
+- 📄 *[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://dl.acm.org/doi/10.1145/800221.806707)* by Michael Ben-Or <!-- 1983-08-17 -->
 
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
-- 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al.
+- 📄 *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al. <!-- 2022-05-10 -->
+- 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
+- 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
 - 🔗 *[The illustrated transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
-- 📄 *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al.
-- 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
 
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - 📕 *Practical Foundations for Programming Languages* by Robert Harper
 
 **[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `CS/INFO 6850`
-- 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al.
-- 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al.
+- 📄 *An Experimental Study of Search in Global Social Networks* by Dodds et al. <!-- 2003-08-08 -->
+- 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al. <!-- 2003-02-01 -->
 
 <p style="color: gray; text-decoration: underline;">Electrical & Computer Engineering</p>
 <!-- 10 -->
@@ -100,15 +99,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
 
 **[AI Hardware](https://www.csl.cornell.edu/courses/ece4950fa26/)** `ECE 4950-002`
-- 🔗 *[The perceptron & all the things it can't perceive](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
-- 📄 *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* by Dally et al.
-- 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
-- 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al.
-- 📄 *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al.
+- 📄 *[Domain-Specific Hardware Accelerators](https://dl.acm.org/doi/abs/10.1145/3361682)* by Dally et al. <!-- 2020-06-18 -->
+- 📄 *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al. <!-- 2020-06-18 -->
+- 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al. <!-- 2020-06-05 -->
+- 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
+- 🔗 *[The perceptron](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* by Jeremy Kun
 
 **[Modern Datacenter Architecture](https://www.csl.cornell.edu/courses/ece6765/)** `ECE 6765`
-- 📄 *Computing's Energy Problem (and What We Can Do About It)* by Mark Horowitz
-- 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al.
+- 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al. <!-- 2020-06-05 -->
+- 📄 *Computing's Energy Problem (and What We Can Do About It)* by Mark Horowitz <!-- 2014-02 -->
 
 <p style="color: gray; text-decoration: underline;">General Engineering</p>
 
