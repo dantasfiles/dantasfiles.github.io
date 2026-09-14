@@ -72,6 +72,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
 - 📄 *[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)* by Abraham et al. <!-- 2011-06-10 -->
 - 📄 *[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://dl.acm.org/doi/10.1145/800221.806707)* by Michael Ben-Or <!-- 1983-08-17 -->
+- 🔗 *[Mixed-precision training of deep neural networks](https://developer.nvidia.com/blog/mixed-precision-training-deep-neural-networks/)* by Paulius Micikevicius <!-- 2017-10-11 -->
 
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
 - 📄 *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al. <!-- 2022-05-10 -->
