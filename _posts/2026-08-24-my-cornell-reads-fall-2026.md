@@ -108,6 +108,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Modern Datacenter Architecture](https://www.csl.cornell.edu/courses/ece6765/)** `ECE 6765`
 - 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al. <!-- 2020-06-05 -->
 - 📄 *Computing's Energy Problem (and What We Can Do About It)* by Mark Horowitz <!-- 2014-02 -->
+- 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
 
 <p style="color: gray; text-decoration: underline;">General Engineering</p>
 
