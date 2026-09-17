@@ -114,7 +114,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <p style="color: gray; text-decoration: underline;">General Engineering</p>
 
-**Ethics of Computing & Artificial Intelligence Technologies** `ENGRG/STS 3605 / PHIL 2473`
+**[Ethics of Computing & Artificial Intelligence Technologies](https://www.trystangoetze.ca/uploads/1/4/5/4/145439826/engrg_3605_course_outline.pdf)** `ENGRG/STS 3605 / PHIL 2473`
 - 📕 *[Stand Out of Our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams 
 
 ---
