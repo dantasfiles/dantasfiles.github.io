@@ -71,6 +71,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
 - 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- 1967-01-01 --> 
 
+**[Machine Learning for the Natural Sciences](https://www.cs.princeton.edu/courses/archive/fall26/cos597Y/)** `COS 597Y`
+- 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
+
+
 <p style="color: gray; text-decoration: underline;">Chemical & Biological Engineering</p> 
 <!-- 1 -->
 
