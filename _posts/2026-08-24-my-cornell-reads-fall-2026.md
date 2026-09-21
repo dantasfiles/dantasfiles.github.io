@@ -121,12 +121,13 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *[Stand Out of Our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams <!-- 2018-05-31 -->
 - 📄 *[Artificial Intelligence: Approaches to Safety](https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.70039)* by D'Alessandro & Kirk-Giannini <!-- 2025-05-10 -->
 - 📄 *[ChatGPT Is Bull](https://link.springer.com/article/10.1007/s10676-024-09775-5)* by Hicks et al. <!-- 2024-06-08 -->
-- 📄 *[Dismantling the "Black Opticon": Privacy, Race, Equity, and Online Data-Protection Reform](https://yalelawjournal.org/essay/dismantling-the-black-opticon)* by Anita L. Allen <!-- 2022-02-20 --> 
+- 📄 *[Dismantling the "Black Opticon": Privacy, Race, Equity & Online Data-Protection Reform](https://yalelawjournal.org/essay/dismantling-the-black-opticon)* by Anita L. Allen <!-- 2022-02-20 --> 
 - 📄 *[How Twitter Gamifies Communication](https://philarchive.org/rec/NGUHTG)* by C. Thi Nguyen <!-- 2021-05-06 -->
+- 📄 *[The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043)* by Carroll et al. <!-- 2020-11-04 -->
 - 📄 *[Algorithms, Agency & Respect for Persons](https://philarchive.org/rec/RUBAAA-3)* by Rubel et al. <!-- 2020-07 -->
 - 📄 *[Driving to the Panopticon: A Philosophical Exploration of the Risks to Privacy Posed by the Highway Technology of the Future](https://digitalcommons.law.scu.edu/chtlj/vol11/iss1/5/)* by Jeffrey H. Reiman <!-- 1995 -->
 - 📄 *[What is Computer Ethics?](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9973.1985.tb00173.x)* by James H. Moor <!-- 1985 -->
-- 🔗 *[The GNU Manifesto](https://www.gnu.org/gnu/manifesto.html)* by Richard Stallman <!-- 1987 -->
+- 🔗 *[Chatbots of the dead](https://aeon.co/essays/are-chatbots-of-the-dead-a-brilliant-idea-or-a-terrible-one)* <!-- 2025-02-21 --> • *[The GNU Manifesto](https://www.gnu.org/gnu/manifesto.html)* by Richard Stallman <!-- 1987 -->
 
 ---
 
