@@ -113,9 +113,20 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
 
 <p style="color: gray; text-decoration: underline;">General Engineering</p>
+<!-- 9 -->
 
 **[Ethics of Computing & Artificial Intelligence Technologies](https://www.trystangoetze.ca/uploads/1/4/5/4/145439826/engrg_3605_course_outline.pdf)** `ENGRG/STS 3605 / PHIL 2473`
-- 📕 *[Stand Out of Our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams 
+- 📕 *[Deceptive Patterns: Exposing the Tricks Tech Companies Use to Control You](https://deceptive.design/)* by Harry Brignull <!-- 2026-06-15 -->
+- 📕 *The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking* by Shannon Vallor <!-- 2024-06-03 -->
+- 📕 *[Stand Out of Our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams <!-- 2018-05-31 -->
+- 📄 *[Artificial Intelligence: Approaches to Safety](https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.70039)* by D'Alessandro & Kirk-Giannini <!-- 2025-05-10 -->
+- 📄 *[ChatGPT Is Bull](https://link.springer.com/article/10.1007/s10676-024-09775-5)* by Hicks et al. <!-- 2024-06-08 -->
+- 📄 *[Dismantling the "Black Opticon": Privacy, Race, Equity, and Online Data-Protection Reform](https://yalelawjournal.org/essay/dismantling-the-black-opticon)* by Anita L. Allen <!-- 2022-02-20 --> 
+- 📄 *[How Twitter Gamifies Communication](https://philarchive.org/rec/NGUHTG)* by C. Thi Nguyen <!-- 2021-05-06 -->
+- 📄 *[Algorithms, Agency & Respect for Persons](https://philarchive.org/rec/RUBAAA-3)* by Rubel et al. <!-- 2020-07 -->
+- 📄 *[Driving to the Panopticon: A Philosophical Exploration of the Risks to Privacy Posed by the Highway Technology of the Future](https://digitalcommons.law.scu.edu/chtlj/vol11/iss1/5/)* by Jeffrey H. Reiman <!-- 1995 -->
+- 📄 *[What is Computer Ethics?](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9973.1985.tb00173.x)* by James H. Moor <!-- 1985 -->
+- 🔗 *[The GNU Manifesto](https://www.gnu.org/gnu/manifesto.html)* by Richard Stallman <!-- 1987 -->
 
 ---
 
