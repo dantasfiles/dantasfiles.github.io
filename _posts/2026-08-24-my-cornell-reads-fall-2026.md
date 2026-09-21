@@ -30,7 +30,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## 💻 Engineering
-<!-- 48 -->
+<!-- 50 -->
 
 ✔️ I've read the following:
 
@@ -87,25 +87,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[An Experimental Study of Search in Global Social Networks](https://www.science.org/doi/10.1126/science.1081058)* by Dodds et al. <!-- 2003-08-08 -->
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al. <!-- 2003-02-01 -->
 
-<p style="color: gray; text-decoration: underline;">General Engineering</p>
-<!-- 12 -->
-
-**[Ethics of Computing & Artificial Intelligence Technologies](https://www.trystangoetze.ca/uploads/1/4/5/4/145439826/engrg_3605_course_outline.pdf)** `ENGRG/STS 3605 / PHIL 2473`
-- 📕 *[Deceptive Patterns: Exposing the Tricks Tech Companies Use to Control You](https://deceptive.design/)* by Harry Brignull <!-- 2026-06-15 -->
-- 📕 *The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking* by Shannon Vallor <!-- 2024-06-03 -->
-- 📕 *[Stand Out of Our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams <!-- 2018-05-31 -->
-- 📄 *[Artificial Intelligence: Approaches to Safety](https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.70039)* by D'Alessandro & Kirk-Giannini <!-- 2025-05-10 -->
-- 📄 *[ChatGPT Is Bull](https://link.springer.com/article/10.1007/s10676-024-09775-5)* by Hicks et al. <!-- 2024-06-08 -->
-- 📄 *[Dismantling the "Black Opticon": Privacy, Race, Equity & Online Data-Protection Reform](https://yalelawjournal.org/essay/dismantling-the-black-opticon)* by Anita L. Allen <!-- 2022-02-20 --> 
-- 📄 *[How Twitter Gamifies Communication](https://philarchive.org/rec/NGUHTG)* by C. Thi Nguyen <!-- 2021-05-06 -->
-- 📄 *[The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043)* by Carroll et al. <!-- 2020-11-04 -->
-- 📄 *[Algorithms, Agency & Respect for Persons](https://philarchive.org/rec/RUBAAA-3)* by Rubel et al. <!-- 2020-07 -->
-- 📄 *[Driving to the Panopticon: A Philosophical Exploration of the Risks to Privacy Posed by the Highway Technology of the Future](https://digitalcommons.law.scu.edu/chtlj/vol11/iss1/5/)* by Jeffrey H. Reiman <!-- 1995 -->
-- 📄 *[What is Computer Ethics?](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9973.1985.tb00173.x)* by James H. Moor <!-- 1985 -->
-- 🔗 *[Chatbots of the dead](https://aeon.co/essays/are-chatbots-of-the-dead-a-brilliant-idea-or-a-terrible-one)* <!-- 2025-02-21 --> • *[GNU manifesto](https://www.gnu.org/gnu/manifesto.html)* <!-- 1987 -->
-
 <p style="color: gray; text-decoration: underline;">Electrical & Computer Engineering</p>
-<!-- 10 -->
+<!-- 12 -->
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
@@ -128,6 +111,23 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Computing's Energy Problem (and What We Can Do About It)](https://ieeexplore.ieee.org/document/6757323/)* by Mark Horowitz <!-- 2014-02 -->
 - 📄 *[The Tail at Scale](https://dl.acm.org/doi/10.1145/2408776.2408794)* by Dean & Barroso
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
+
+<p style="color: gray; text-decoration: underline;">General Engineering</p>
+<!-- 12 -->
+
+**[Ethics of Computing & Artificial Intelligence Technologies](https://www.trystangoetze.ca/uploads/1/4/5/4/145439826/engrg_3605_course_outline.pdf)** `ENGRG/STS 3605 / PHIL 2473`
+- 📕 *[Deceptive Patterns: Exposing the Tricks Tech Companies Use to Control You](https://deceptive.design/)* by Harry Brignull <!-- 2026-06-15 -->
+- 📕 *The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking* by Shannon Vallor <!-- 2024-06-03 -->
+- 📕 *[Stand Out of Our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams <!-- 2018-05-31 -->
+- 📄 *[Artificial Intelligence: Approaches to Safety](https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.70039)* by D'Alessandro & Kirk-Giannini <!-- 2025-05-10 -->
+- 📄 *[ChatGPT Is Bull](https://link.springer.com/article/10.1007/s10676-024-09775-5)* by Hicks et al. <!-- 2024-06-08 -->
+- 📄 *[Dismantling the "Black Opticon": Privacy, Race, Equity & Online Data-Protection Reform](https://yalelawjournal.org/essay/dismantling-the-black-opticon)* by Anita L. Allen <!-- 2022-02-20 --> 
+- 📄 *[How Twitter Gamifies Communication](https://philarchive.org/rec/NGUHTG)* by C. Thi Nguyen <!-- 2021-05-06 -->
+- 📄 *[The CARE Principles for Indigenous Data Governance](https://datascience.codata.org/articles/10.5334/dsj-2020-043)* by Carroll et al. <!-- 2020-11-04 -->
+- 📄 *[Algorithms, Agency & Respect for Persons](https://philarchive.org/rec/RUBAAA-3)* by Rubel et al. <!-- 2020-07 -->
+- 📄 *[Driving to the Panopticon: A Philosophical Exploration of the Risks to Privacy Posed by the Highway Technology of the Future](https://digitalcommons.law.scu.edu/chtlj/vol11/iss1/5/)* by Jeffrey H. Reiman <!-- 1995 -->
+- 📄 *[What is Computer Ethics?](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9973.1985.tb00173.x)* by James H. Moor <!-- 1985 -->
+- 🔗 *[Chatbots of the dead](https://aeon.co/essays/are-chatbots-of-the-dead-a-brilliant-idea-or-a-terrible-one)* <!-- 2025-02-21 --> • *[GNU manifesto](https://www.gnu.org/gnu/manifesto.html)* <!-- 1987 -->
 
 ---
 
