@@ -25,12 +25,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 --- 
 
 ## 💻 Engineering
-<!-- 19 -->
+<!-- 20 -->
 
 ✔️ I've read the following:
 
 <p style="color: gray; text-decoration: underline;">Computer Science</p>
-<!-- 18 -->
+<!-- 19 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -59,6 +59,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Computer Architecture & Organization** `COS/ECE 375`
 - 📕 *Computer Organization & Design: The Hardware Software Interface* by Patterson & Hennessy ([my highlights](https://www.goodreads.com/notes/56852498-computer-organization-and-design-risc-v-edition/185327722-daniel-dantas))
+
+**[Distributed Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos418/)** `COS 418`
+- 📄 *[Time, Clocks & the Ordering of Events in a Distributed System](https://dl.acm.org/doi/10.1145/359545.359563)* by Leslie Lamport <!-- 1978-07-01 -->
 
 **[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/index.html)** `COS/ECE 516`
 - 📄 *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare <!-- 10/26 -->
