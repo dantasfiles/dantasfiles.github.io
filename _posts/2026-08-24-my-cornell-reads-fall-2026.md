@@ -38,7 +38,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 <!-- 26 -->
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
-- 🔗 *[The Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[The terminal command line](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
+- 🔗 *[Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[Terminal command line](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
 
 **[Python](https://www.cs.cornell.edu/courses/cs1133/2026fa/)** `CS 1133`
 - 📕 *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
@@ -46,14 +46,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Object-Oriented Programming & Data Structures](https://www.cs.cornell.edu/courses/cs2110/2026fa/)** `CS/ENGRD 2110`
 - 📕 *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen <!-- 2026-08-26 -->
 - 📕 *[Principled Programming: Intro. to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html)* by Tim Teitelbaum
-- 🔗 *[Google Java style guide](https://google.github.io/styleguide/javaguide.html)* <!-- 2026-04-09 --> • *[2 hard things](https://martinfowler.com/bliki/TwoHardThings.html)* <!-- 2009-07-14 -->
+- 🔗 *[Google Java style guide](https://google.github.io/styleguide/javaguide.html)* <!-- 2026-04-09 --> • *[Two hard things in computer science](https://martinfowler.com/bliki/TwoHardThings.html)* <!-- 2009-07-14 -->
 
 **[Object-Oriented Design & Data Structures - Honors](https://www.cs.cornell.edu/courses/cs2112/2026fa/)** `CS 2112`
 - 📕 *[Object-Oriented Design & Data Structures](https://andrewcmyers.github.io/oodds/)* by Myers & Kozen <!-- 2026-08-26 -->
 - 📕 *Effective Java: Best Practices for the Java Platform* by Joshua Bloch <!-- 2017  -->
 - 📕 *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma et al. <!-- 1994 -->
 - 📄 *[Identifying & Correcting Java Programming Errors for Introductory Computer Science Students](https://dl.acm.org/doi/10.1145/792548.611956)* by Hristova et al. <!-- 2003-01-11 -->
-- 🔗 *[Don't learn to code](https://blog.codinghorror.com/please-dont-learn-to-code/)* <!-- 2012-05-14 --> • *[Tips for new Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* • *[Teach yourself programming in 10 years](https://www.norvig.com/21-days.html)*
+- 🔗 *[Don't learn to code](https://blog.codinghorror.com/please-dont-learn-to-code/)* <!-- 2012-05-14 --> • *[Tips for Java programmers](https://www.cs.man.ac.uk/~johns/tips.html)* • *[Programming in 10 years](https://www.norvig.com/21-days.html)*
 
 **[Computer System Organization & Programming](https://www.cs.cornell.edu/courses/cs3410/2026fa/)** `CS 3410`
 - 🔗 *[Makefile tutorial](https://makefiletutorial.com/)* <!-- 2025-06-01 --> • *[More secure code](https://www.microsoft.com/en-us/msrc/blog/2019/07/a-proactive-approach-to-more-secure-code)* <!-- 2019-07-16 --> • *[Safe from compiler bugs?](https://blog.regehr.org/archives/539)* <!-- 2011-06-03 --> • *[Unix tutorial](https://info-ee.surrey.ac.uk/Teaching/Unix/)* <!-- 2001-10-19 -->
@@ -63,11 +63,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Systems Programming](https://www.cs.cornell.edu/courses/cs4414/2026fa/)** `CS 4414`
 - 📄 *[Always Measure One Level Deeper](https://dl.acm.org/doi/abs/10.1145/3213770)* by John Ousterhout
-- 🔗 *[Learn Rust](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky <!-- 2024-09-20 -->
+- 🔗 *[Mastering Rust Programming](https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/)* by Vitaly Bragilevsky <!-- 2024-09-20 -->
 
 **[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787`
 - 📄 *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
-- 🔗 *[GPipe, an open source library for efficiently training large-scale neural network models](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* <!-- 2019-03-04 --> • *[GPUs vs. CPUs for deployment of deep learning models](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* <!-- 2018-09-11 -->
+- 🔗 *[GPipe](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* <!-- 2019-03-04 --> • *[GPUs vs. CPUs](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* <!-- 2018-09-11 -->
 
 **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
 - 📄 *[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)* by Abraham et al. <!-- 2011-06-10 -->
@@ -147,11 +147,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Hiroshima* by John Hersey <!-- 1946 -->
 
 **From the New Deal to the Age of Reagan** `HIST/AMST/SHUM 2220`
-- 📰 *[The revolt of the white lower middle class](https://nymag.com/news/features/46801/)* by Pete Hamill <!-- 1969-04-14 -->
+- 📰 *[Revolt of the white lower middle class](https://nymag.com/news/features/46801/)* by Pete Hamill <!-- 1969-04-14 -->
 - 🎞️ *[The Vietnam War](https://www.pbs.org/kenburns/the-vietnam-war/)* by Burns & Novick
 
 **The American Revolutionary Era** `HIST/AMST 2665`
-- 📰 *[The battle for 1776](https://www.nytimes.com/2021/07/02/arts/1776-2026-A-DIFFERENT-STORY.html)* by Jennifer Schuessler
+- 📰 *[Battle for 1776](https://www.nytimes.com/2021/07/02/arts/1776-2026-A-DIFFERENT-STORY.html)* by Jennifer Schuessler
 
 **Sex, Drugs & Experimenting with Democracy in 1960s & 1970s America** `HIST 2680 / AMST 2682`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
@@ -211,7 +211,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 <!-- 5 -->
 
 **Intro. to Sociology** `SOC 1101`
-- 📰 *[China’s frustrated middle class](https://mondediplo.com/2022/11/12china)* <!-- 2022-11 --> • *[The code of the streets](https://www.theatlantic.com/magazine/archive/1994/05/the-code-of-the-streets/306601/)* <!-- 1994-05 --> • *[Trouble in Lakewood](https://www.newyorker.com/magazine/1993/07/26/joan-didion-trouble-in-lakewood-teen-gang)* <!-- 1993-07-19 -->
+- 📰 *[China’s frustrated middle class](https://mondediplo.com/2022/11/12china)* <!-- 2022-11 --> • *[Code of the streets](https://www.theatlantic.com/magazine/archive/1994/05/the-code-of-the-streets/306601/)* <!-- 1994-05 --> • *[Trouble in Lakewood](https://www.newyorker.com/magazine/1993/07/26/joan-didion-trouble-in-lakewood-teen-gang)* <!-- 1993-07-19 -->
 
 **American Society through Film** `SOC/AMST 1290`
 - 🎞️ *Good Will Hunting* <!-- 1997 --> • *The Godfather* <!-- 1972 -->
