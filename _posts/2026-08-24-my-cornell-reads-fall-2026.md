@@ -30,7 +30,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## 💻 Engineering
-<!-- 50 -->
+<!-- 51 -->
 
 ✔️ I've read the following:
 
@@ -88,7 +88,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al. <!-- 2003-02-01 -->
 
 <p style="color: gray; text-decoration: underline;">Electrical & Computer Engineering</p>
-<!-- 12 -->
+<!-- 13 -->
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
@@ -111,6 +111,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Computing's Energy Problem (and What We Can Do About It)](https://ieeexplore.ieee.org/document/6757323/)* by Mark Horowitz <!-- 2014-02 -->
 - 📄 *[The Tail at Scale](https://dl.acm.org/doi/10.1145/2408776.2408794)* by Dean & Barroso
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
+- 📄 *[Web Search for a Planet: The Google Cluster Architecture](https://ieeexplore.ieee.org/document/1196112)* by Barroso et al. <!-- 2003-04-30 -->
 
 <p style="color: gray; text-decoration: underline;">General Engineering</p>
 <!-- 12 -->
