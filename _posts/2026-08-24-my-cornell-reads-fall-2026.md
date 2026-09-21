@@ -78,7 +78,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al. <!-- 2022-05-10 -->
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
-- 🔗 *[The illustrated transformer](https://jalammar.github.io/illustrated-transformer/)* by Jay Alammar
+- 🔗 *[Making deep learning go brrrr](https://horace.io/brrr_intro.html)* <!-- 2022 --> • *[Illustrated transformer](https://jalammar.github.io/illustrated-transformer/)* <!-- 2018 --> 
 
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - 📕 *Practical Foundations for Programming Languages* by Robert Harper
