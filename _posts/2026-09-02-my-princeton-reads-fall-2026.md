@@ -54,7 +54,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Functional Programming & Formal Methods](https://www.cs.princeton.edu/courses/archive/fall26/cos326/)** `COS 326`
 - 📕 *[OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)* by Michael R. Clarkson
 
-**[Advanced Programming Techniques](https://www.cs.princeton.edu/courses/archive/fall26/cos333/)** `COS 333`
+**[Adv. Programming Techniques](https://www.cs.princeton.edu/courses/archive/fall26/cos333/)** `COS 333`
 - 📕 *The Practice of Programming* by Kernighan & Pike
 
 **Computer Architecture & Organization** `COS/ECE 375`
