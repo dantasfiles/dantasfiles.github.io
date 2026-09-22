@@ -25,12 +25,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 --- 
 
 ## 💻 Engineering
-<!-- 20 -->
+<!-- 21 -->
 
 ✔️ I've read the following:
 
 <p style="color: gray; text-decoration: underline;">Computer Science</p>
-<!-- 19 -->
+<!-- 20 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -71,6 +71,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🔗 *[Supercomputer networking to accelerate large scale AI training](https://openai.com/index/mrc-supercomputer-networking/)*
 
 **[Foundational Papers in Networks & Operating Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos597L/)** `COS 597L`
+- 📄 *[seL4: Formal Verification of an Operating-System Kernel](https://dl.acm.org/doi/10.1145/1743546.1743574)* by Klein et al. <!-- 2010-06-01 -->
 - 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- 2008-03-31 -->
 - 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
 - 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- 1967-01-01 --> 
