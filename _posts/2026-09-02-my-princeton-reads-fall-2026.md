@@ -25,12 +25,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 --- 
 
 ## 💻 Engineering
-<!-- 21 -->
+<!-- 22 -->
 
 ✔️ I've read the following:
 
 <p style="color: gray; text-decoration: underline;">Computer Science</p>
-<!-- 20 -->
+<!-- 21 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -67,6 +67,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare <!-- 10/26 -->
 
 **[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
+- 📄 *[WebRTC: Real-Time Communication for the Open Web Platform](https://dl.acm.org/doi/10.1145/3453182)* by Blum et al. <!-- 2021-07-26 -->
 - 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
 - 🔗 *[Supercomputer networking to accelerate large scale AI training](https://openai.com/index/mrc-supercomputer-networking/)*
 
