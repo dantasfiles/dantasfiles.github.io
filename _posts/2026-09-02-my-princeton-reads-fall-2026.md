@@ -180,7 +180,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ## 📊 Social Sciences
-<!-- 19 -->
+<!-- 20 -->
 
 ✔️ I've read the following:
 
@@ -220,13 +220,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Disgrace* by J. M. Coetzee
 
 <p style="color: gray; text-decoration: underline;">Public & International Affairs</p>
-<!-- 2 -->
+<!-- 3 -->
+
+Center for Information Technology Policy: **[Bias in AI](https://docs.google.com/document/d/11SHvAtSkAWf44PClUi5IvAF5NMAdHXNO2Zs00FYM5P0/edit?tab=t.0#heading=h.tmvkkxmajh8j)**
+- 📄 *[Auditing LLMs for Race & Gender Disparities: Implications for AI-Based Hiring](https://journals.sagepub.com/doi/full/10.1177/23794607251320229)* by Gaebler et al. <!-- 2025-03-11 -->
+- 📄 *[Risk Scores, Label Bias & Everything but the Kitchen Sink](https://www.science.org/doi/full/10.1126/sciadv.adi8411)* by Zanger-Tishler et al. <!-- 2024-03-29 -->
 
 **The Comparative Political Economy of Development** `SPI 561 / POL 523`
 - 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
 
-Center for Information Technology Policy: **[Bias in AI](https://docs.google.com/document/d/11SHvAtSkAWf44PClUi5IvAF5NMAdHXNO2Zs00FYM5P0/edit?tab=t.0#heading=h.tmvkkxmajh8j)**
-- 📄 *[Risk Scores, Label Bias & Everything but the Kitchen Sink](https://www.science.org/doi/full/10.1126/sciadv.adi8411)* by Zanger-Tishler et al. <!-- 2024-03-29 -->
 
 <p style="color: gray; text-decoration: underline;">International & Regional Studies</p>
 <!-- 2 -->
