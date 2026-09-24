@@ -227,7 +227,7 @@ Center for Information Technology Policy: **[Bias in AI](https://docs.google.com
 - 📄 *[Risk Scores, Label Bias & Everything but the Kitchen Sink](https://www.science.org/doi/full/10.1126/sciadv.adi8411)* by Zanger-Tishler et al. <!-- 2024-03-29 -->
 
 Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu/events/past-events)**
-- 📰 *[Its own worst fear](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)* by Ted Chiang <!-- 2017-12-18 -->
+- 📰 *[Scourge of A.1.](https://www.newyorker.com/magazine/2026/09/14/the-scourge-of-a-1)* <!-- 2026-09-07 --> • *[Its own worst fear](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)* <!-- 2017-12-18 -->
 
 **The Comparative Political Economy of Development** `SPI 561 / POL 523`
 - 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
