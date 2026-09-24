@@ -263,10 +263,10 @@ Center for Information Technology Policy: **[Bias in AI](https://docs.google.com
 ## 🐯 General
 <!-- 17 -->
 
+<p style="color: gray; text-decoration: underline;">First-Year Seminars</p>
+
 **[Pre-read](https://president.princeton.edu/princeton-pre-read)**
 - 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">First-Year Seminars</p>
 
 **Exploring the Graphic Novel** `FRS 111`
 - 📔 *American Born Chinese* by Gene Luen Yang <!-- 2006-09-05 -->
