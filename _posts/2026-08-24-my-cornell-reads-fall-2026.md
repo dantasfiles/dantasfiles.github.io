@@ -171,7 +171,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
 
 <p style="color: gray; text-decoration: underline;">English</p>
-<!-- 7 -->
+<!-- 8 -->
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
@@ -191,6 +191,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Short Stories** `ENGL 1170-105`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+**Toni Morrison's Novels** `ENGL/ASRC/FGSS 4509 / AMST 4519`
+- 📕 *Home* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/12993086-home/185327722-daniel-dantas)) <!-- 2012 -->
 
 <p style="color: gray; text-decoration: underline;">Romance Studies</p>
 <!-- 5 -->
