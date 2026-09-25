@@ -235,6 +235,19 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 
 ---
 
+### Arts <!-- 3 -->
+
+**Intro. to Theater Making** `THR/MTD 101`
+- 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
+
+**Imagining Childhood** `WRI 118`
+- 📚 *A Pocket for Corduroy* <!-- 1978 --> • *Corduroy* <!-- 1968 --> • *The Giving Tree* <!-- 1964 --> • *Where the Wild Things Are* <!-- 1963 --> • *Horton Hears a Who!* <!-- 1954 -->
+
+**Extraordinary Popular Delusions & the Wisdom of Crowds** `FRS 169`
+- 📕 *The Road* by Cormac McCarthy <!-- 2006 -->
+
+---
+
 ### Religion <!-- 2 -->
 
 **Religion & the Public Conversation** `REL 100`
@@ -272,13 +285,6 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 
 ---
 
-### Theater <!-- 1 -->
-
-**Intro. to Theater Making** `THR/MTD 101`
-- 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
-
----
-
 ### Study of America <!-- 1 -->
 
 **Native American Literature** `NAI/AMS 322 / ENG 242`
@@ -290,12 +296,3 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 
 **Violence** `ANT/HUM 264`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
-
----
-
-### Writing <!-- 1 -->
-
-**Imagining Childhood** `WRI 118`
-- 📚 *A Pocket for Corduroy* <!-- 1978 --> • *Corduroy* <!-- 1968 --> • *The Giving Tree* <!-- 1964 --> • *Where the Wild Things Are* <!-- 1963 --> • *Horton Hears a Who!* <!-- 1954 -->
-
-
