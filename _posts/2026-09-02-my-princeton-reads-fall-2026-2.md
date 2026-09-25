@@ -60,6 +60,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Machine Learning for the Natural Sciences](https://www.cs.princeton.edu/courses/archive/fall26/cos597Y/)** `COS 597Y`
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
 
+---
+
 ### First-Year Seminars <!-- 16 -->
 
 **[Pre-read](https://president.princeton.edu/princeton-pre-read)**
@@ -92,6 +94,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
 - 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
 
+---
+
 #### Psychology <!-- 8 -->
 
 **[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
@@ -103,6 +107,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[How to Grow a Mind: Statistics, Structure & Abstraction](https://cocosci.princeton.edu/publications.php?author=Kemp,%20C.)* by Tenenbaum et al. <!-- 2011-03-11 -->
 - 📄 *[The Discovery of Structural Form](https://www.pnas.org/doi/10.1073/pnas.0802631105)* by Kemp & Tenenbaum <!-- 2008-08-05 -->
 - 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 2000-10-05 -->
+
+---
 
 ##### History <!-- 6 -->
 
