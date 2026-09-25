@@ -9,7 +9,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <!-- https://research.princeton.edu/research-princeton/research-areas -->
 
-### Computer Science <!-- 22 -->
+#### Computer Science <!-- 22 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -62,7 +62,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### First-Year Seminars <!-- 10 -->
+#### First-Year Seminars <!-- 10 -->
 
 **[Pre-read](https://president.princeton.edu/princeton-pre-read)**
 - 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
@@ -86,7 +86,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Psychology <!-- 8 -->
+#### Psychology <!-- 8 -->
 
 **[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
@@ -100,7 +100,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Slavic Languages & Literatures <!-- 7 -->
+#### Slavic Languages & Literatures <!-- 7 -->
 
 **American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
 - 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas)) <!-- 1972 -->
@@ -117,7 +117,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### History <!-- 6 -->
+#### History <!-- 6 -->
 
 **The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
 - 📕 *Byzantium: A Very Short Intro.* by Peter Sarris
@@ -135,7 +135,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **The Age of Democratic Revolutions** `HIS 487`
 - 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
 
-### Humanistic Studies <!-- 5 -->
+#### Humanistic Studies <!-- 5 -->
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
 - 📕 *The Consolation of Philosophy* by Boethius
@@ -148,7 +148,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
-### African American Studies <!-- 5 -->
+#### African American Studies <!-- 5 -->
 
 **African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
 - 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
@@ -163,7 +163,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
 - 📕 *Disgrace* by J. M. Coetzee
 
-### Art & Archaeology <!-- 4 -->
+#### Art & Archaeology <!-- 4 -->
 
 **19th-Century European Art: Painting & Literature in 19th C. France & England** `ART/ECS/COM 450 / HUM 451`
 - 📕 *The Picture of Dorian Gray* by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
@@ -173,7 +173,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Journey to the Center of the Earth* by Jules Verne <!-- 1864 -->
 - 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
 
-### Classics <!-- 4 -->
+#### Classics <!-- 4 -->
 
 **Classical Mythology** `CLA/HUM/GSS/HLS 212`
 - 📕 *Jason & the Golden Fleece* by Apollonius of Rhodes
@@ -185,7 +185,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Socrates** `CLG 105`
 - 📜 *Apology* by Plato
 
-### English <!-- 4 -->
+#### English <!-- 4 -->
 
 **American Literature: 1930-Present** `ENG 368 / AMS 340`
 - 📕 *The Road* by Cormac McCarthy <!-- 2006 -->
@@ -195,7 +195,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Junior Independent Work Seminar** `ENG 397`
 - 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 
-### Public & International Affairs <!-- 4 -->
+#### Public & International Affairs <!-- 4 -->
 
 Center for Information Technology Policy: **[Bias in AI](https://docs.google.com/document/d/11SHvAtSkAWf44PClUi5IvAF5NMAdHXNO2Zs00FYM5P0/edit?tab=t.0#heading=h.tmvkkxmajh8j)**
 - 📄 *[Auditing LLMs for Race & Gender Disparities: Implications for AI-Based Hiring](https://journals.sagepub.com/doi/full/10.1177/23794607251320229)* by Gaebler et al. <!-- 2025-03-11 -->
@@ -207,7 +207,7 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 **The Comparative Political Economy of Development** `SPI 561 / POL 523`
 - 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
 
-### Comparative Literature <!-- 3 -->
+#### Comparative Literature <!-- 3 -->
 
 **Marx in the 21st Century** `FRS 167`
 - 📄 *The Communist Manifesto* by Marx & Engels
@@ -218,7 +218,7 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 **Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** `COM 351`
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
-### Religion <!-- 2 -->
+#### Religion <!-- 2 -->
 
 **Religion & the Public Conversation** `REL 100`
 - 📕 *Religion: A Very Short Intro.* by Thomas A. Tweed
@@ -226,7 +226,7 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 **Religion, Race & Politics in the U.S.** `REL 372 / AAS 367`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
-### International & Regional Studies <!-- 2 -->
+#### International & Regional Studies <!-- 2 -->
 
 **Landmarks of European Identity** `EPS/ECS 302`
 - 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
@@ -234,7 +234,7 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 **Translation, Migration, Culture** `TRA/HUM 400 / COM 409`
 - 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas))
 
-### Politics <!-- 2 -->
+#### Politics <!-- 2 -->
 
 **The Just Society** `POL/CHV 307`
 - 📄 *The Communist Manifesto* by Marx & Engels
@@ -242,27 +242,27 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 **Causes of War** `POL/SPI 388`
 - 📕 *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
 
-### Chemical & Biological Engineering <!-- 1 -->
+#### Chemical & Biological Engineering <!-- 1 -->
 
 **Technical Leadership in Engineering** `CBE/EGR 531`
 - 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
 
-### Theater <!-- 1 -->
+#### Theater <!-- 1 -->
 
 **Intro. to Theater Making** `THR/MTD 101`
 - 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
 
-### Study of America <!-- 1 -->
+#### Study of America <!-- 1 -->
 
 **Native American Literature** `NAI/AMS 322 / ENG 242`
 - 📕 *Ceremony* by Leslie Marmon Silko
 
-### Anthropology <!-- 1 -->
+#### Anthropology <!-- 1 -->
 
 **Violence** `ANT/HUM 264`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
 
-### Writing <!-- 1 -->
+#### Writing <!-- 1 -->
 
 **Imagining Childhood** `WRI 118`
 - 📚 *A Pocket for Corduroy* <!-- 1978 --> • *Corduroy* <!-- 1968 --> • *The Giving Tree* <!-- 1964 --> • *Where the Wild Things Are* <!-- 1963 --> • *Horton Hears a Who!* <!-- 1954 -->
