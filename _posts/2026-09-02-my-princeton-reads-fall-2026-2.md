@@ -9,8 +9,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 <!-- https://research.princeton.edu/research-princeton/research-areas -->
 
- ## Computer Science
- <!-- 22 -->
+## Computer Science <!-- 22 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -61,8 +60,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Machine Learning for the Natural Sciences](https://www.cs.princeton.edu/courses/archive/fall26/cos597Y/)** `COS 597Y`
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
 
-### Humanistic Studies
-<!-- 5 -->
+## Humanistic Studies <!-- 5 -->
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
 - 📕 *The Consolation of Philosophy* by Boethius
