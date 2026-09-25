@@ -7,7 +7,7 @@ hidden: true
 
 I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Fall 2026 Princeton classes<br>I connected publicly available information from the [online bookstore](https://princeton.ecampus.com/) and course webpages
 
-<!-- https://research.princeton.edu/research-princeton/research-areas -->
+---
 
 ### Computer Science <!-- 22 -->
 
@@ -62,27 +62,24 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### First-Year Seminars <!-- 10 -->
-
-**[Pre-read](https://president.princeton.edu/princeton-pre-read)**
-- 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
-
-**Exploring the Graphic Novel** `FRS 111`
-- 📔 *American Born Chinese* by Gene Luen Yang <!-- 2006-09-05 -->
-- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel <!-- 2006-06-08 -->
-- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
-- 📔 *Watchmen* by Moore & Gibbons <!-- 1987 -->
+### Slavic Languages & Literatures <!-- 9 -->
 
 **What Makes for a Meaningful Life? A Search** `FRS 121`
 - 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas?ref=rsp)) <!-- 1946 -->
 - 📕 *Winnie-the-Pooh* by A.A. Milne <!-- 1926 -->
 
-**History of Freedom** `FRS 137`
-- ✉️ *Letter from Birmingham Jail* by Martin Luther King Jr.
+**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
+- 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas)) <!-- 1972 -->
+- 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick <!-- 1968 -->
+- 📕 *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas)) <!-- 1950 -->
+- 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
+- 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
 
-**Gaslight! Control, Coercion, or Just Conflict?: The Cultural History of a TikTok Term** `FRS 153`
-- 📕 *The Haunting of Hill House* by Shirley Jackson ([my highlights](https://www.goodreads.com/notes/50534595-the-haunting-of-hill-house/185327722-daniel-dantas)) <!-- 1959 -->
-- 📕 *1984* by George Orwell <!-- 1949 --> 
+**Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
+- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
+**Dostoevsky** `SLA/RES 416`
+- 📕 *Notes from Underground* ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
 ---
 
@@ -100,20 +97,20 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Slavic Languages & Literatures <!-- 7 -->
+### General <!-- 7 -->
 
-**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
-- 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas)) <!-- 1972 -->
-- 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick <!-- 1968 -->
-- 📕 *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas)) <!-- 1950 -->
-- 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
-- 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
+**[Pre-read](https://president.princeton.edu/princeton-pre-read)**
+- 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
 
-**Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
-- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+**Exploring the Graphic Novel** `FRS 111`
+- 📔 *American Born Chinese* by Gene Luen Yang <!-- 2006-09-05 -->
+- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel <!-- 2006-06-08 -->
+- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
+- 📔 *Watchmen* by Moore & Gibbons <!-- 1987 -->
 
-**Dostoevsky** `SLA/RES 416`
-- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+**Gaslight! Control, Coercion, or Just Conflict?: The Cultural History of a TikTok Term** `FRS 153`
+- 📕 *The Haunting of Hill House* by Shirley Jackson ([my highlights](https://www.goodreads.com/notes/50534595-the-haunting-of-hill-house/185327722-daniel-dantas)) <!-- 1959 -->
+- 📕 *1984* by George Orwell <!-- 1949 --> 
 
 ---
 
@@ -152,6 +149,23 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### Classics <!-- 5 -->
+
+**History of Freedom** `FRS 137`
+- ✉️ *Letter from Birmingham Jail* by Martin Luther King Jr.
+
+**Classical Mythology** `CLA/HUM/GSS/HLS 212`
+- 📕 *Jason & the Golden Fleece* by Apollonius of Rhodes
+- 📜 *The Odyssey* by Homer
+
+**The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
+- 📕 *The Trojan War: A Very Short Intro.* by Eric H. Cline
+
+**Socrates** `CLG 105`
+- 📜 *Apology* by Plato
+
+---
+
 ### African American Studies <!-- 5 -->
 
 **African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
@@ -178,20 +192,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) <!-- 1896 -->
 - 📕 *Journey to the Center of the Earth* by Jules Verne <!-- 1864 -->
 - 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
-
----
-
-### Classics <!-- 4 -->
-
-**Classical Mythology** `CLA/HUM/GSS/HLS 212`
-- 📕 *Jason & the Golden Fleece* by Apollonius of Rhodes
-- 📜 *The Odyssey* by Homer
-
-**The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
-- 📕 *The Trojan War: A Very Short Intro.* by Eric H. Cline
-
-**Socrates** `CLG 105`
-- 📜 *Apology* by Plato
 
 ---
 
