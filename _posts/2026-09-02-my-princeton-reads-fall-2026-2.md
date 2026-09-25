@@ -135,6 +135,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **The Age of Democratic Revolutions** `HIS 487`
 - 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
 
+---
+
 ### Humanistic Studies <!-- 5 -->
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
@@ -147,6 +149,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+---
 
 ### African American Studies <!-- 5 -->
 
@@ -163,6 +167,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
 - 📕 *Disgrace* by J. M. Coetzee
 
+---
+
 ### Art & Archaeology <!-- 4 -->
 
 **19th-Century European Art: Painting & Literature in 19th C. France & England** `ART/ECS/COM 450 / HUM 451`
@@ -172,6 +178,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) <!-- 1896 -->
 - 📕 *Journey to the Center of the Earth* by Jules Verne <!-- 1864 -->
 - 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
+
+---
 
 ### Classics <!-- 4 -->
 
@@ -185,6 +193,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Socrates** `CLG 105`
 - 📜 *Apology* by Plato
 
+---
+
 ### English <!-- 4 -->
 
 **American Literature: 1930-Present** `ENG 368 / AMS 340`
@@ -194,6 +204,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Junior Independent Work Seminar** `ENG 397`
 - 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+
+---
 
 ### Public & International Affairs <!-- 4 -->
 
@@ -207,6 +219,8 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 **The Comparative Political Economy of Development** `SPI 561 / POL 523`
 - 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
 
+---
+
 ### Comparative Literature <!-- 3 -->
 
 **Marx in the 21st Century** `FRS 167`
@@ -218,6 +232,8 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 **Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** `COM 351`
 - 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
+---
+
 ### Religion <!-- 2 -->
 
 **Religion & the Public Conversation** `REL 100`
@@ -225,6 +241,8 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 
 **Religion, Race & Politics in the U.S.** `REL 372 / AAS 367`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+---
 
 ### International & Regional Studies <!-- 2 -->
 
@@ -234,6 +252,8 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 **Translation, Migration, Culture** `TRA/HUM 400 / COM 409`
 - 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas))
 
+---
+
 ### Politics <!-- 2 -->
 
 **The Just Society** `POL/CHV 307`
@@ -242,25 +262,35 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 **Causes of War** `POL/SPI 388`
 - 📕 *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
 
+---
+
 ### Chemical & Biological Engineering <!-- 1 -->
 
 **Technical Leadership in Engineering** `CBE/EGR 531`
 - 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
+
+---
 
 ### Theater <!-- 1 -->
 
 **Intro. to Theater Making** `THR/MTD 101`
 - 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
 
+---
+
 ### Study of America <!-- 1 -->
 
 **Native American Literature** `NAI/AMS 322 / ENG 242`
 - 📕 *Ceremony* by Leslie Marmon Silko
 
+---
+
 ### Anthropology <!-- 1 -->
 
 **Violence** `ANT/HUM 264`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
+
+---
 
 ### Writing <!-- 1 -->
 
