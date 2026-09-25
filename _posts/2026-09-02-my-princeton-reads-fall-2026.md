@@ -2,35 +2,14 @@
 title: 🐯 My Princeton reads, fall 2026
 # description: I use this page to track books and papers I've read that are used in Fall 2026 Princeton classes
 author: Daniel Dantas
+hidden: true
 ---
 
 I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Fall 2026 Princeton classes<br>I connected publicly available information from the [online bookstore](https://princeton.ecampus.com/) and course webpages
 
 <!-- https://research.princeton.edu/research-princeton/research-areas -->
 
-<div style="column-count: 2;" markdown="1">
-
-**[💻 Engineering →](#-engineering)**
-
-**[🏛️ Humanities & the Arts →](#-humanities--the-arts)**
-
-**[📊 Social Sciences →](#-social-sciences)**
-
-**[🐯 General →](#-general)**
-
-**[🔬 Natural Sciences →](#-natural-sciences)**
-
-</div>
-
---- 
-
-## 💻 Engineering
-<!-- 23 -->
-
-✔️ I've read the following:
-
-<p style="color: gray; text-decoration: underline;">Computer Science</p>
-<!-- 22 -->
+### Computer Science <!-- 22 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -81,198 +60,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Machine Learning for the Natural Sciences](https://www.cs.princeton.edu/courses/archive/fall26/cos597Y/)** `COS 597Y`
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
 
-
-<p style="color: gray; text-decoration: underline;">Chemical & Biological Engineering</p> 
-<!-- 1 -->
-
-**Technical Leadership in Engineering** `CBE/EGR 531`
-- 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
-
 ---
 
-## &#127963; Humanities & the Arts
-<!-- 24 -->
-
-✔️ I've read the following:
-
-<p style="color: gray; text-decoration: underline;">Humanistic Studies</p>
-<!-- 5 -->
-
-**Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
-- 📕 *The Consolation of Philosophy* by Boethius
-- 📜 *Apology* by Plato
-- 📜 *The Odyssey* by Homer
-
-**East Asian Humanities I: The Classical Foundations** `HUM/EAS/COM 233`
-- 📜 *Analects* by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
-
-**Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">Art & Archaeology</p>
-<!-- 4 -->
-
-**19th-Century European Art: Painting & Literature in 19th C. France & England** `ART/ECS/COM 450 / HUM 451`
-- 📕 *The Picture of Dorian Gray* by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
-
-**Modern Art: Science & Its Fictions in the Long 19th Century** `ART/HUM 577`
-- 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) <!-- 1896 -->
-- 📕 *Journey to the Center of the Earth* by Jules Verne <!-- 1864 -->
-- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
-
-<p style="color: gray; text-decoration: underline;">Classics</p>
-<!-- 4 -->
-
-**Classical Mythology** `CLA/HUM/GSS/HLS 212`
-- 📕 *Jason & the Golden Fleece* by Apollonius of Rhodes
-- 📜 *The Odyssey* by Homer
-
-**The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
-- 📕 *The Trojan War: A Very Short Intro.* by Eric H. Cline
-
-**Socrates** `CLG 105`
-- 📜 *Apology* by Plato
-
-<p style="color: gray; text-decoration: underline;">English</p>
-<!-- 4 -->
-
-**American Literature: 1930-Present** `ENG 368 / AMS 340`
-- 📕 *The Road* by Cormac McCarthy <!-- 2006 -->
-- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
-- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
-
-**Junior Independent Work Seminar** `ENG 397`
-- 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">Comparative Literature</p>
-<!-- 2 -->
-
-**The Modern Period** `COM 318 / ECS 319 / LAS 308`
-- 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
-
-**Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** `COM 351`
-- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">Religion</p>
-<!-- 2 -->
-
-**Religion & the Public Conversation** `REL 100`
-- 📕 *Religion: A Very Short Intro.* by Thomas A. Tweed
-
-**Religion, Race & Politics in the U.S.** `REL 372 / AAS 367`
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">Slavic Languages & Literatures</p>
-<!-- 2 -->
-
-**Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
-- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
-
-**Dostoevsky** `SLA/RES 416`
-- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">Theater</p>
-<!-- 1 -->
-
-**Intro. to Theater Making** `THR/MTD 101`
-- 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
-
----
-
-## 📊 Social Sciences
-<!-- 21 -->
-
-✔️ I've read the following:
-
-<p style="color: gray; text-decoration: underline;">History</p>
-<!-- 6 -->
-
-**The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
-- 📕 *Byzantium: A Very Short Intro.* by Peter Sarris
-
-**Europe from Antiquity to 1700** `HIS/MED 211`
-- 📕 *The Prince* by Niccolò Machiavelli ([my highlights](https://www.goodreads.com/notes/9571349-the-prince/185327722-daniel-dantas))
-
-**American Origins: The Colonization of North America** `HIS 371`
-- 📕 *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
-
-**World After Empire** `HIS 411 / AAS 416`
-- 📕 *The Wretched of the Earth* by Frantz Fanon <!-- 1961 -->
-- 📕 *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas)) <!-- 1920 -->
-
-**The Age of Democratic Revolutions** `HIS 487`
-- 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">African American Studies</p>
-<!-- 5 -->
-
-**African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
-- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
-
-**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS/URB 231 / ENG 245`
-- 📕 *Darkwater: Voices from Within the Veil* ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
-
-**Toni Morrison & Her Circle** `AAS/ENG 320`
-- 📕 *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
-
-**Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
-- 📕 *Disgrace* by J. M. Coetzee
-
-<p style="color: gray; text-decoration: underline;">Public & International Affairs</p>
-<!-- 4 -->
-
-Center for Information Technology Policy: **[Bias in AI](https://docs.google.com/document/d/11SHvAtSkAWf44PClUi5IvAF5NMAdHXNO2Zs00FYM5P0/edit?tab=t.0#heading=h.tmvkkxmajh8j)**
-- 📄 *[Auditing LLMs for Race & Gender Disparities: Implications for AI-Based Hiring](https://journals.sagepub.com/doi/full/10.1177/23794607251320229)* by Gaebler et al. <!-- 2025-03-11 -->
-- 📄 *[Risk Scores, Label Bias & Everything but the Kitchen Sink](https://www.science.org/doi/full/10.1126/sciadv.adi8411)* by Zanger-Tishler et al. <!-- 2024-03-29 -->
-
-Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu/events/past-events)**
-- 📰 *[Scourge of A.1.](https://www.newyorker.com/magazine/2026/09/14/the-scourge-of-a-1)* <!-- 2026-09-07 --> • *[Its own worst fear](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)* <!-- 2017-12-18 -->
-
-**The Comparative Political Economy of Development** `SPI 561 / POL 523`
-- 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
-
-
-<p style="color: gray; text-decoration: underline;">International & Regional Studies</p>
-<!-- 2 -->
-
-**Landmarks of European Identity** `EPS/ECS 302`
-- 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
-
-**Translation, Migration, Culture** `TRA/HUM 400 / COM 409`
-- 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">Politics</p>
-<!-- 2 -->
-
-**The Just Society** `POL/CHV 307`
-- 📄 *The Communist Manifesto* by Marx & Engels
-
-**Causes of War** `POL/SPI 388`
-- 📕 *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">Study of America</p>
-<!-- 1 -->
-
-**Native American Literature** `NAI/AMS 322 / ENG 242`
-- 📕 *Ceremony* by Leslie Marmon Silko
-
-<p style="color: gray; text-decoration: underline;">Anthropology</p>
-<!-- 1 -->
-
-**Violence** `ANT/HUM 264`
-- 📕 *The Wretched of the Earth* by Frantz Fanon
-
----
-
-## 🐯 General
-<!-- 17 -->
+### First-Year Seminars <!-- 10 -->
 
 **[Pre-read](https://president.princeton.edu/princeton-pre-read)**
 - 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
-
-<p style="color: gray; text-decoration: underline;">First-Year Seminars</p>
-<!-- 15 -->
 
 **Exploring the Graphic Novel** `FRS 111`
 - 📔 *American Born Chinese* by Gene Luen Yang <!-- 2006-09-05 -->
@@ -291,29 +84,9 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 - 📕 *The Haunting of Hill House* by Shirley Jackson ([my highlights](https://www.goodreads.com/notes/50534595-the-haunting-of-hill-house/185327722-daniel-dantas)) <!-- 1959 -->
 - 📕 *1984* by George Orwell <!-- 1949 --> 
 
-**Marx in the 21st Century** `FRS 167`
-- 📄 *The Communist Manifesto* by Marx & Engels
-
-**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
-- 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas)) <!-- 1972 -->
-- 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick <!-- 1968 -->
-- 📕 *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas)) <!-- 1950 -->
-- 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
-- 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
-
-<p style="color: gray; text-decoration: underline;">Writing</p>
-
-**Imagining Childhood** `WRI 118`
-- 📚 *A Pocket for Corduroy* <!-- 1978 --> • *Corduroy* <!-- 1968 --> • *The Giving Tree* <!-- 1964 --> • *Where the Wild Things Are* <!-- 1963 --> • *Horton Hears a Who!* <!-- 1954 -->
-
 ---
 
-## 🔬 Natural Sciences
-<!-- 8 -->
-
-✔️ I've read the following:
-
-<p style="color: gray; text-decoration: underline;">Psychology</p>
+### Psychology <!-- 8 -->
 
 **[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
@@ -325,8 +98,203 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 - 📄 *[The Discovery of Structural Form](https://www.pnas.org/doi/10.1073/pnas.0802631105)* by Kemp & Tenenbaum <!-- 2008-08-05 -->
 - 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 2000-10-05 -->
 
+---
 
+### Slavic Languages & Literatures <!-- 7 -->
 
+**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
+- 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas)) <!-- 1972 -->
+- 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick <!-- 1968 -->
+- 📕 *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas)) <!-- 1950 -->
+- 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
+- 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
 
+**Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
+- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
+**Dostoevsky** `SLA/RES 416`
+- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
+---
+
+### History <!-- 6 -->
+
+**The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
+- 📕 *Byzantium: A Very Short Intro.* by Peter Sarris
+
+**Europe from Antiquity to 1700** `HIS/MED 211`
+- 📕 *The Prince* by Niccolò Machiavelli ([my highlights](https://www.goodreads.com/notes/9571349-the-prince/185327722-daniel-dantas))
+
+**American Origins: The Colonization of North America** `HIS 371`
+- 📕 *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
+
+**World After Empire** `HIS 411 / AAS 416`
+- 📕 *The Wretched of the Earth* by Frantz Fanon <!-- 1961 -->
+- 📕 *Darkwater: Voices from Within the Veil* by W.E.B. Du Bois ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas)) <!-- 1920 -->
+
+**The Age of Democratic Revolutions** `HIS 487`
+- 📕 *The Birth of the Republic, 1763–89* by Edmund S. Morgan ([my highlights](https://www.goodreads.com/notes/19106791-the-birth-of-the-republic-1763-89/185327722-daniel-dantas))
+
+---
+
+### Humanistic Studies <!-- 5 -->
+
+**Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
+- 📕 *The Consolation of Philosophy* by Boethius
+- 📜 *Apology* by Plato
+- 📜 *The Odyssey* by Homer
+
+**East Asian Humanities I: The Classical Foundations** `HUM/EAS/COM 233`
+- 📜 *Analects* by Confucius ([my highlights](https://www.goodreads.com/notes/22241546-the-analects-of-confucius/185327722-daniel-dantas))
+
+**Between Selves: Living Letters from Antiquity to the Present** `HUM 416 / CLA 415 / ENG 410`
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+---
+
+### African American Studies <!-- 5 -->
+
+**African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
+- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
+
+**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS/URB 231 / ENG 245`
+- 📕 *Darkwater: Voices from Within the Veil* ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+
+**Toni Morrison & Her Circle** `AAS/ENG 320`
+- 📕 *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+
+**Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
+- 📕 *Disgrace* by J. M. Coetzee
+
+---
+
+### Art & Archaeology <!-- 4 -->
+
+**19th-Century European Art: Painting & Literature in 19th C. France & England** `ART/ECS/COM 450 / HUM 451`
+- 📕 *The Picture of Dorian Gray* by Oscar Wilde ([my highlights](https://www.goodreads.com/notes/35113385-the-picture-of-dorian-gray/185327722-daniel-dantas))
+
+**Modern Art: Science & Its Fictions in the Long 19th Century** `ART/HUM 577`
+- 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) <!-- 1896 -->
+- 📕 *Journey to the Center of the Earth* by Jules Verne <!-- 1864 -->
+- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
+
+---
+
+### Classics <!-- 4 -->
+
+**Classical Mythology** `CLA/HUM/GSS/HLS 212`
+- 📕 *Jason & the Golden Fleece* by Apollonius of Rhodes
+- 📜 *The Odyssey* by Homer
+
+**The Trojan War: A Linguistic Intro.** `CLA 307 / TRA 306 / LIN 259`
+- 📕 *The Trojan War: A Very Short Intro.* by Eric H. Cline
+
+**Socrates** `CLG 105`
+- 📜 *Apology* by Plato
+
+---
+
+### English <!-- 4 -->
+
+**American Literature: 1930-Present** `ENG 368 / AMS 340`
+- 📕 *The Road* by Cormac McCarthy <!-- 2006 -->
+- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
+- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
+
+**Junior Independent Work Seminar** `ENG 397`
+- 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+
+---
+
+### Public & International Affairs <!-- 4 -->
+
+Center for Information Technology Policy: **[Bias in AI](https://docs.google.com/document/d/11SHvAtSkAWf44PClUi5IvAF5NMAdHXNO2Zs00FYM5P0/edit?tab=t.0#heading=h.tmvkkxmajh8j)**
+- 📄 *[Auditing LLMs for Race & Gender Disparities: Implications for AI-Based Hiring](https://journals.sagepub.com/doi/full/10.1177/23794607251320229)* by Gaebler et al. <!-- 2025-03-11 -->
+- 📄 *[Risk Scores, Label Bias & Everything but the Kitchen Sink](https://www.science.org/doi/full/10.1126/sciadv.adi8411)* by Zanger-Tishler et al. <!-- 2024-03-29 -->
+
+Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu/events/past-events)**
+- 📰 *[Scourge of A.1.](https://www.newyorker.com/magazine/2026/09/14/the-scourge-of-a-1)* <!-- 2026-09-07 --> • *[Its own worst fear](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)* <!-- 2017-12-18 -->
+
+**The Comparative Political Economy of Development** `SPI 561 / POL 523`
+- 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
+
+---
+
+### Comparative Literature <!-- 3 -->
+
+**Marx in the 21st Century** `FRS 167`
+- 📄 *The Communist Manifesto* by Marx & Engels
+
+**The Modern Period** `COM 318 / ECS 319 / LAS 308`
+- 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+
+**Anarchism, Nihilism, Utopia: Art, Literature & Radical Politics** `COM 351`
+- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
+---
+
+### Religion <!-- 2 -->
+
+**Religion & the Public Conversation** `REL 100`
+- 📕 *Religion: A Very Short Intro.* by Thomas A. Tweed
+
+**Religion, Race & Politics in the U.S.** `REL 372 / AAS 367`
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+---
+
+### International & Regional Studies <!-- 2 -->
+
+**Landmarks of European Identity** `EPS/ECS 302`
+- 📕 *Neuromancer* by William Gibson ([my highlights](https://www.goodreads.com/notes/6088007-neuromancer/185327722-daniel-dantas))
+
+**Translation, Migration, Culture** `TRA/HUM 400 / COM 409`
+- 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas))
+
+---
+
+### Politics <!-- 2 -->
+
+**The Just Society** `POL/CHV 307`
+- 📄 *The Communist Manifesto* by Marx & Engels
+
+**Causes of War** `POL/SPI 388`
+- 📕 *The Guns of August: The Outbreak of World War I* by Barbara W. Tuchman ([my highlights](https://www.goodreads.com/notes/40779082-the-guns-of-august/185327722-daniel-dantas))
+
+---
+
+### Chemical & Biological Engineering <!-- 1 -->
+
+**Technical Leadership in Engineering** `CBE/EGR 531`
+- 📕 *Designing Your Life: How to Build a Well-Lived, Joyful Life* by Burnett & Evans ([my highlights](https://www.goodreads.com/notes/62036224-designing-your-life/185327722-daniel-dantas))
+
+---
+
+### Theater <!-- 1 -->
+
+**Intro. to Theater Making** `THR/MTD 101`
+- 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas))
+
+---
+
+### Study of America <!-- 1 -->
+
+**Native American Literature** `NAI/AMS 322 / ENG 242`
+- 📕 *Ceremony* by Leslie Marmon Silko
+
+---
+
+### Anthropology <!-- 1 -->
+
+**Violence** `ANT/HUM 264`
+- 📕 *The Wretched of the Earth* by Frantz Fanon
+
+---
+
+### Writing <!-- 1 -->
+
+**Imagining Childhood** `WRI 118`
+- 📚 *A Pocket for Corduroy* <!-- 1978 --> • *Corduroy* <!-- 1968 --> • *The Giving Tree* <!-- 1964 --> • *Where the Wild Things Are* <!-- 1963 --> • *Horton Hears a Who!* <!-- 1954 -->
 
 
