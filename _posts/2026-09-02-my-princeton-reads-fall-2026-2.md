@@ -62,7 +62,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### First-Year Seminars <!-- 16 -->
+### First-Year Seminars <!-- 10 -->
 
 **[Pre-read](https://president.princeton.edu/princeton-pre-read)**
 - 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
@@ -84,16 +84,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *The Haunting of Hill House* by Shirley Jackson ([my highlights](https://www.goodreads.com/notes/50534595-the-haunting-of-hill-house/185327722-daniel-dantas)) <!-- 1959 -->
 - 📕 *1984* by George Orwell <!-- 1949 --> 
 
-**Marx in the 21st Century** `FRS 167`
-- 📄 *The Communist Manifesto* by Marx & Engels
-
-**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
-- 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas)) <!-- 1972 -->
-- 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick <!-- 1968 -->
-- 📕 *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas)) <!-- 1950 -->
-- 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
-- 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
-
 ---
 
 #### Psychology <!-- 8 -->
@@ -107,6 +97,23 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[How to Grow a Mind: Statistics, Structure & Abstraction](https://cocosci.princeton.edu/publications.php?author=Kemp,%20C.)* by Tenenbaum et al. <!-- 2011-03-11 -->
 - 📄 *[The Discovery of Structural Form](https://www.pnas.org/doi/10.1073/pnas.0802631105)* by Kemp & Tenenbaum <!-- 2008-08-05 -->
 - 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 2000-10-05 -->
+
+---
+
+## Slavic Languages & Literatures <!-- 7 -->
+
+**American & Russian Science Fiction: Story-Worlds in Dialogue** `FRS 189`
+- 📕 *Roadside Picnic* by Strugatsky & Strugatsky ([my highlights](https://www.goodreads.com/notes/17158490-roadside-picnic/185327722-daniel-dantas)) <!-- 1972 -->
+- 📕 *Do Androids Dream of Electric Sheep?* by Philip K. Dick <!-- 1968 -->
+- 📕 *I, Robot* by Isaac Asimov ([my highlights](https://www.goodreads.com/notes/55001095-i-robot/185327722-daniel-dantas)) <!-- 1950 -->
+- 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
+- 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
+
+**Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
+- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
+
+**Dostoevsky** `SLA/RES 416`
+- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
 ---
 
@@ -200,7 +207,10 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 **The Comparative Political Economy of Development** `SPI 561 / POL 523`
 - 📕 *[The State & Capitalism in China](https://www.cambridge.org/core/elements/state-and-capitalism-in-china/621573281A601FF77F085386336A991D)* by Pearson et al.
 
-## Comparative Literature <!-- 2 -->
+## Comparative Literature <!-- 3 -->
+
+**Marx in the 21st Century** `FRS 167`
+- 📄 *The Communist Manifesto* by Marx & Engels
 
 **The Modern Period** `COM 318 / ECS 319 / LAS 308`
 - 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
@@ -215,14 +225,6 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 
 **Religion, Race & Politics in the U.S.** `REL 372 / AAS 367`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
-
-## Slavic Languages & Literatures <!-- 2 -->
-
-**Pushkin, Gogol, Dostoevsky** `SLA/RES 219`
-- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
-
-**Dostoevsky** `SLA/RES 416`
-- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas))
 
 ## International & Regional Studies <!-- 2 -->
 
