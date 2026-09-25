@@ -60,7 +60,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Machine Learning for the Natural Sciences](https://www.cs.princeton.edu/courses/archive/fall26/cos597Y/)** `COS 597Y`
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
 
-## First-Year Seminars <!-- 16 -->
+### First-Year Seminars <!-- 16 -->
 
 **[Pre-read](https://president.princeton.edu/princeton-pre-read)**
 - 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
@@ -92,7 +92,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Brave New World* by Aldous Huxley <!-- 1932 -->
 - 📕 *The Time Machine* by H.G. Wells <!-- 1895 -->
 
-## Psychology <!-- 8 -->
+#### Psychology <!-- 8 -->
 
 **[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
@@ -104,7 +104,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[The Discovery of Structural Form](https://www.pnas.org/doi/10.1073/pnas.0802631105)* by Kemp & Tenenbaum <!-- 2008-08-05 -->
 - 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 2000-10-05 -->
 
-## History <!-- 6 -->
+##### History <!-- 6 -->
 
 **The Byzantine Empire** `HIS/MED 205 / HUM 204 / HLS 209`
 - 📕 *Byzantium: A Very Short Intro.* by Peter Sarris
