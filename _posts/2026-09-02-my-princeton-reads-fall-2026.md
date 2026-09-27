@@ -298,3 +298,12 @@ Center for Information Technology Policy: **[TechSoc](https://citp.princeton.edu
 
 **Violence** `ANT/HUM 264`
 - 📕 *The Wretched of the Earth* by Frantz Fanon
+
+---
+
+### Music <!-- 1 -->
+
+**Sound Design & the Moving Image: The Multi-Layered Language of Film** `FRS 135`
+- 🎞️ *M* by Fritz Lang <!-- 1931 -->
+
+
