@@ -6,36 +6,9 @@ author: Daniel Dantas
 
 I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Cornell classes.<br>I compiled publicly available information from the [campus bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
 
-<!-- https://irp.cornell.edu/university-factbook/student-enrollment -->
+--- 
 
-<div style="column-count: 2;" markdown="1">
-
-**[💻 Engineering →](#-engineering)**
-
-**[🏛️ Arts & Sciences →](#-arts--sciences)**
-
-**[⚖️ Law →](#-law)**
-
-**[💼 Business →](#-business)**
-
-**[🏢 Architecture, Art & Planning →](#-architecture-art--planning)**
-
-**[🌽 Agriculture & Life Sciences →](#-agriculture--life-sciences)**
-
-**[🗺️ Public Policy →](#-public-policy)**
-
-
-</div>
-
----
-
-## 💻 Engineering
-<!-- 51 -->
-
-✔️ I've read the following:
-
-<p style="color: gray; text-decoration: underline;">Computer Science</p>
-<!-- 26 -->
+### Computer Science <!-- 26 -->
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[Terminal command line](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
@@ -87,8 +60,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[An Experimental Study of Search in Global Social Networks](https://www.science.org/doi/10.1126/science.1081058)* by Dodds et al. <!-- 2003-08-08 -->
 - 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al. <!-- 2003-02-01 -->
 
-<p style="color: gray; text-decoration: underline;">Electrical & Computer Engineering</p>
-<!-- 13 -->
+---
+
+### Electrical & Computer Engineering <!-- 13 -->
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
@@ -113,8 +87,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
 - 📄 *[Web Search for a Planet: The Google Cluster Architecture](https://ieeexplore.ieee.org/document/1196112)* by Barroso et al. <!-- 2003-04-30 -->
 
-<p style="color: gray; text-decoration: underline;">General Engineering</p>
-<!-- 12 -->
+---
+
+### General Engineering <!-- 12 -->
 
 **[Ethics of Computing & Artificial Intelligence Technologies](https://www.trystangoetze.ca/uploads/1/4/5/4/145439826/engrg_3605_course_outline.pdf)** `ENGRG/STS 3605 / PHIL 2473`
 - 📕 *[Deceptive Patterns: Exposing the Tricks Tech Companies Use to Control You](https://deceptive.design/)* by Harry Brignull <!-- 2026-06-15 -->
@@ -132,13 +107,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## &#127963; Arts & Sciences
-<!-- 44 -->
-
-✔️ I've read or seen the following:
-
-<p style="color: gray; text-decoration: underline;">History</p>
-<!-- 12 -->
+### History <!-- 12 -->
 
 **History of Law: Great Trials** `HIST 1600`
 - 🎞️ *Judgment at Nuremberg* by Stanley Kramer
@@ -170,8 +139,28 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Contesting Votes: Democracy & Citizenship Throughout U.S. History** `HIST/AMST 4203`
 - 🎞️ *Selma* by Ava DuVernay <!-- 2014 -->
 
-<p style="color: gray; text-decoration: underline;">English</p>
-<!-- 8 -->
+---
+
+### Law <!-- 11 -->
+
+**[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
+- 📕 *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
+- 📄 *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin <!-- 2024-11-27 --> 
+- 📄 *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson <!-- 2022-11-01 --> 
+- 📄 *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann <!-- 2018-10-09 --> 
+- 📄 *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann <!-- 2016 -->
+- ⚖️ *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)* <!-- 2014-06-19 -->
+- 📄 *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen <!-- 2009-06-13 -->
+- 📄 *[Encryption Source Code & the 1st Amendment](https://openyls.law.yale.edu/entities/publication/96d6fe35-8233-4c6a-8d89-0b7422ce5114)* by Robert Post <!-- 2000 -->
+- 📄 *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook <!-- 1996 -->
+- 🔗 *[When law is code](https://cyber.jotwell.com/when-law-is-code/)* <!-- 2024-07-31 --> • *[Planet Telex](https://laboratorium.net/archive/2011/07/24/planet_telex)* <!-- 2011-07-24 -->
+
+**Psychology for Practicing Transactional Lawyers** `LAW 7749`
+- 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas))
+
+---
+
+### English <!-- 8 -->
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
@@ -195,8 +184,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Toni Morrison's Novels** `ENGL/ASRC/FGSS 4509 / AMST 4519`
 - 📕 *Home* ([my highlights](https://www.goodreads.com/notes/12993086-home/185327722-daniel-dantas)) <!-- 2012 -->
 
-<p style="color: gray; text-decoration: underline;">Romance Studies</p>
-<!-- 5 -->
+---
+
+### Romance Studies <!-- 5 -->
 
 **Writing Italy, Writing the Self: Jewish-Italian Lit & the Long 20th Century** `ITAL 1113`
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
@@ -211,8 +201,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **The Uncanny** `SPAN/COML/ROMS 4196`
 - 🎞️ *Blue Velvet* <!-- 1986 --> • *The Shining* <!-- 1980 --> • *The Exterminating Angel* <!-- 1962 -->
 
-<p style="color: gray; text-decoration: underline;">Sociology</p>
-<!-- 5 -->
+---
+
+### Sociology <!-- 5 -->
 
 **Intro. to Sociology** `SOC 1101`
 - 📰 *[China’s frustrated middle class](https://mondediplo.com/2022/11/12china)* <!-- 2022-11 --> • *[Code of the streets](https://www.theatlantic.com/magazine/archive/1994/05/the-code-of-the-streets/306601/)* <!-- 1994-05 --> • *[Trouble in Lakewood](https://www.newyorker.com/magazine/1993/07/26/joan-didion-trouble-in-lakewood-teen-gang)* <!-- 1993-07-19 -->
@@ -227,86 +218,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *How Democracies Die* by Levitsky & Ziblatt ([my highlights](https://www.goodreads.com/notes/55132935-how-democracies-die/185327722-daniel-dantas?ref=rsp)) <!-- 2018 -->
 - 📕 *On Tyranny: 20 Lessons from the 20th Century* by Timothy Snyder ([my highlights](https://www.goodreads.com/notes/34083908-on-tyranny/185327722-daniel-dantas)) <!-- 2017 -->
 
-<p style="color: gray; text-decoration: underline;">Classics</p>
-<!-- 3 -->
-
-**Classics & Comics** `CLASS 1812`
-- 📔 *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower <!-- 2001 -->
-- 📔 *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas)) <!-- 1979 -->
-
-**Greek Mythology** `CLASS 2604`
-- 📜 *The Odyssey* by Homer
-
-<p style="color: gray; text-decoration: underline;">Comparative Literature</p>
-<!-- 3 -->
-
-**Comparative Literature, Film & Media** `COML 2030`
-- 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee <!-- 2018 -->
-- 🎞️ *Arrival* <!-- 2016 --> • *The Big Short* <!-- 2015 --> • *2001: A Space Odyssey* <!-- 1968 --> • *Modern Times* <!-- 1936 -->
-
-**Demons & Witches in Russian Literature & Film** `RUSSL 2500`
-- 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
-
-<p style="color: gray; text-decoration: underline;">Government</p>
-<!-- 3 -->
-
-**Making Sense of World Politics** `GOVT 1817`
-- 📕 *The Cold War: A Very Short Intro.* by Robert J. McMahon
-- 📰 *[What Tucker Carlson means](https://www.nytimes.com/2026/04/28/opinion/tucker-carlson-israel-conspiracy-theories.html)* <!-- 2026-04-28 --> • *[How the elite behave](https://www.nytimes.com/2025/11/23/opinion/meaning-epstein-emails.html)* <!-- 2025-10-23 --> • *[Sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[Most rejected generation](https://www.nytimes.com/2025/05/15/opinion/rejection-college-youth.html)* <!-- 2025-05-15 --> • *[No one has ever defeated autocracy from the sidelines](https://www.nytimes.com/2025/05/08/opinion/trump-authoritarianism-democracy.html)* <!-- 2025-05-08 --> • *[JFK's secrets fed conspiracy culture](https://www.wsj.com/politics/how-jfks-secrets-fed-conspiracy-culture-36987cec)* <!-- 2023-11-18 --> • *[Ukraine holds the future](https://www.foreignaffairs.com/ukraine/ukraine-war-democracy-nihilism-timothy-snyder)* <!-- 2022-09-06 --> • *[Du Bois doctrine](https://www.foreignaffairs.com/united-states/web-du-bois-doctrine-race-america-century)* <!-- 2022-09-06 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 --> • *[Alumni withhold donations](https://www.wsj.com/us-news/education/alumni-withhold-donations-demand-colleges-enforce-free-speech-11638280801)* <!-- 2021-11-30 --> • *[Vanishing nuclear taboo?](https://www.foreignaffairs.com/articles/world/2018-10-15/vanishing-nuclear-taboo)* <!-- 2018-10-15 --> • *[Obituary: Stanislav Petrov](https://www.economist.com/obituary/2017/09/30/obituary-stanislav-petrov-was-declared-to-have-died-on-september-18th)* <!-- 2017-09-30 --> • *[I.S. won't become a normal state](https://www.washingtonpost.com/news/monkey-cage/wp/2015/07/09/why-the-islamic-state-wont-become-a-normal-state/)* <!-- 2015-07-09 --> • *[Jihadi threat](https://www.washingtonpost.com/news/monkey-cage/wp/2015/05/15/the-jihadi-threat-to-international-order/)* <!-- 2015-05-15 --> • *[How much of a state is the I.S.](https://www.washingtonpost.com/news/monkey-cage/wp/2015/02/05/how-much-of-a-state-is-the-islamic-state/)* <!-- 2015-02-05 --> • *[War to end all wars?](https://www.nytimes.com/2014/06/27/world/europe/world-war-i-brought-fundamental-changes-to-the-world.html)* <!-- 2014-06-26 --> • *[Cuban Missile Crisis revisited](https://www.foreignaffairs.com/responses/cuban-missile-crisis-revisited)* <!-- 2012-10-11 --> • *[Cuban Missile Crisis at 50](https://www.foreignaffairs.com/articles/cuba/2012-07-01/cuban-missile-crisis-50)* <!-- 2012-07-01 --> • *[Keeping Saddam Hussein in a box](https://www.nytimes.com/2003/02/02/opinion/keeping-saddam-hussein-in-a-box.html)* <!-- 2003-02-02 --> • *[Failure in our success](https://www.nytimes.com/1994/03/14/opinion/the-failure-in-our-success.html)* <!-- 1994-03-04 --> • *[Clash of civilizations?](https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations)* <!-- 1993-06-01 --> • *[Sources of Soviet conduct](https://www.foreignaffairs.com/russian-federation/george-kennan-sources-soviet-conduct)* <!-- 1947-07-01 -->
-
-**America, Business & International Political Economy** `GOVT/AEM/GDEV/ILRGL 3547`
-- 📰 *[What Tucker Carlson means](https://www.nytimes.com/2026/04/28/opinion/tucker-carlson-israel-conspiracy-theories.html)* <!-- 2026-04-28 --> • *[New trade order](https://www.foreignaffairs.com/united-states/new-trade-order-robert-lighthizer)* <!-- 2026-04-21 --> • *[A dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[How the elite behave](https://www.nytimes.com/2025/11/23/opinion/meaning-epstein-emails.html)* <!-- 2025-10-23 --> • *[Exorbitant pillage](https://www.foreignaffairs.com/reviews/exorbitant-pillage-lael-brainard)* <!-- 2025-10-21 --> • *[Return of the energy weapon](https://www.foreignaffairs.com/united-states/return-energy-weapon-bordoff-osullivan)* <!-- 2025-10-21 --> • *[New supply chain insecurity](https://www.foreignaffairs.com/united-states/new-supply-chain-insecurity-shannon-oneil)* <!-- 2025-10-21 --> • *[America's coming crash](https://www.foreignaffairs.com/united-states/americas-coming-crash-rogoff)* <!-- 2025-08-19 --> • *[New Delhi's grand strategy](https://www.foreignaffairs.com/responses/what-kind-great-power-will-india-be)* <!-- 2025-07-30 --> • *[Sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[India's great-power delusions](https://www.foreignaffairs.com/india/indias-great-power-delusions)* <!-- 2025-06-17 --> • *[Most rejected generation](https://www.nytimes.com/2025/05/15/opinion/rejection-college-youth.html)* <!-- 2025-05-15 --> • *[Myth of the global](https://www.foreignaffairs.com/articles/united-states/2022-06-21/myth-global-regional-ties-win)* <!-- 2022-06-21 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 --> • *[Becoming strong](https://www.foreignaffairs.com/articles/united-states/2021-06-22/becoming-strong)* <!-- 2021-06-22 --> • *[Whistling past the graveyard](https://www.bostonreview.net/articles/jonathan-kirshner-whistling-through-graveyard/)* <!-- 2019-04-09 --> • *[Strongmen strike back](https://www.washingtonpost.com/news/opinions/wp/2019/03/14/feature/the-strongmen-strike-back/)* <!-- 2019-03-14 --> • *[Globalization survived populism once before](https://www.bostonreview.net/articles/suzanne-berger-globalization-survived-populism/)* <!-- 2018-01-30 --> • *[Learning to love stagnation](https://www.foreignaffairs.com/japan/learning-love-stagnation)* <!-- 2016-02-15 --> • *[America's energy edge](https://www.foreignaffairs.com/united-states/americas-energy-edge)* <!-- 2014-02-12 --> • *[Dollar dilemma](https://www.foreignaffairs.com/articles/united-states/2009-09-01/dollar-dilemma)* <!-- 2009-09-01 --> • *[Manifest destiny warmed up?](https://www.economist.com/special-report/2003/08/14/manifest-destiny-warmed-up)* <!-- 2003-08-14 --> • *[Pivotal states & U.S. strategy](https://www.foreignaffairs.com/articles/algeria/1996-01-01/pivotal-states-and-us-strategy)* <!-- 1996-01-01 -->
-
-<p style="color: gray; text-decoration: underline;">Linguistics</p>
-<!-- 2 -->
-
-**Language, Thought & Reality** `LING 1100`
-- **Words & Pictures** `101`
-  - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
-- **Speech & the Undead** `102`
-  - 🎞️ *Warm Bodies* <!-- 2013 --> • *Night of the Living Dead* <!-- 1968 --> • *Dracula* <!-- 1931 -->
-
-<p style="color: gray; text-decoration: underline;">Performing Arts</p>
-<!-- 2 -->
-
-**Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
-- 🎞️ *Nope* <!-- 2022 --> • *Eraserhead* <!-- 1977 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Meshes of the Afternoon* <!-- 1943 --> • *Modern Times* <!-- 1936 --> • *The Life & Death of 9413: A Hollywood Extra* <!-- 1928 --> • *Entr'acte* <!-- 1924-12-04 --> • *Sherlock Jr.* <!-- 1924-04-21 --> • *Barsoum Looking for a Job* <!-- 1923-12-31 --> • *Felix in Hollywood* <!-- 1923 --> • *Cinderella* <!-- 1922 --> • *Luke's Movie Muddle* <!-- 1916 --> • *Mabel's Blunder* <!-- 1914 --> • *Suspense* <!-- 1913 --> • *Life of an American Fireman* <!-- 1903 -->
-
-**Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
-- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
-
-<p style="color: gray; text-decoration: underline;">Jewish Studies</p>
-<!-- 1 -->
-
-**Jews on Film: Visible & Invisible** `JWST 1987` 
-- 🎞️ *Annie Hall* <!-- 1977 --> • *Casablanca* <!-- 1942 --> • *A Plantation Act* <!-- 1923 -->
-
 ---
 
-## &#x2696; Law
-<!-- 11 -->
-
-✔️ I've read or seen the following:
-
-**[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
-- 📕 *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
-- 📄 *[The Law of AI is the Law of Risky Agents w/out Intentions](https://lawreview.uchicago.edu/online-archive/law-ai-law-risky-agents-without-intentions)* by Ayres & Balkin <!-- 2024-11-27 --> 
-- 📄 *[Some Misconceptions about Software in the Copyright Literature](https://dl.acm.org/doi/10.1145/3511265.3550449)* by Bloch & Samuelson <!-- 2022-11-01 --> 
-- 📄 *[Speech In, Speech Out](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3195421)* by James Grimmelmann <!-- 2018-10-09 --> 
-- 📄 *[There's No Such Thing as a Computer-Authored Work -- And It's a Good Thing, Too](https://scholarship.law.cornell.edu/facpub/1483/)* by James Grimmelmann <!-- 2016 -->
-- ⚖️ *[Alice Corp. v. CLS Bank International](https://en.wikipedia.org/wiki/Alice_Corp._v._CLS_Bank_International)* <!-- 2014-06-19 -->
-- 📄 *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen <!-- 2009-06-13 -->
-- 📄 *[Encryption Source Code & the 1st Amendment](https://openyls.law.yale.edu/entities/publication/96d6fe35-8233-4c6a-8d89-0b7422ce5114)* by Robert Post <!-- 2000 -->
-- 📄 *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook <!-- 1996 -->
-- 🔗 *[When law is code](https://cyber.jotwell.com/when-law-is-code/)* <!-- 2024-07-31 --> • *[Planet Telex](https://laboratorium.net/archive/2011/07/24/planet_telex)* <!-- 2011-07-24 -->
-
-**Psychology for Practicing Transactional Lawyers** `LAW 7749`
-- 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas))
-
----
-
-## 💼 Business
-<!-- 4 -->
+### Business <!-- 4 -->
 
 ✔️ I've read or seen the following:
 
@@ -324,43 +238,90 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-## 🏢 Architecture, Art & Planning
-<!-- 4 -->
-
-✔️ I've read or seen the following:
-
-<p style="color: gray; text-decoration: underline;">Architecture</p>
-
-**History of Architecture II** `ARCH 2802`
-- 📕 *The Wretched of the Earth* by Frantz Fanon
-
-<p style="color: gray; text-decoration: underline;">Art</p>
+### Architecture, Art & Planning <!-- 4 -->
 
 **Media Arts, Performance & Sound: Intersections** `ART/PMA 2701`
 - 🎞️ *Un Chien Andalou* by Luis Buñuel <!-- 1929 -->
 
-**Contemporary Italian Culture - Italian Cinema** `ART/ARCH 3117`
-- 🎞️ *La Dolce Vita* by Federico Fellini
-
-<p style="color: gray; text-decoration: underline;">City & Regional Planning</p>
+**History of Architecture II** `ARCH 2802`
+- 📕 *The Wretched of the Earth* by Frantz Fanon
 
 **Economic & Community Development Workshop** `CRP 3074`
 - 📰 *[Investment Firms Acquire Trailer Parks](https://www.newyorker.com/magazine/2021/03/15/what-happens-when-investment-firms-acquire-trailer-parks)* by Sheelah Kolhatkar
 
+**Contemporary Italian Culture - Italian Cinema** `ART/ARCH 3117`
+- 🎞️ *La Dolce Vita* by Federico Fellini
+
 ---
 
-## 🌽 Agriculture & Life Sciences
-<!-- 1 -->
+### Classics <!-- 3 -->
 
-✔️ I've seen the following:
+**Classics & Comics** `CLASS 1812`
+- 📔 *Age of Bronze, v.1: A Thousand Ships* by Eric Shanower <!-- 2001 -->
+- 📔 *Motel of the Mysteries* by David Macaulay ([my highlights](https://www.goodreads.com/notes/22704187-motel-of-the-mysteries/185327722-daniel-dantas)) <!-- 1979 -->
+
+**Greek Mythology** `CLASS 2604`
+- 📜 *The Odyssey* by Homer
+
+---
+
+### Comparative Literature <!-- 3 -->
+
+**Comparative Literature, Film & Media** `COML 2030`
+- 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee <!-- 2018 -->
+- 🎞️ *Arrival* <!-- 2016 --> • *The Big Short* <!-- 2015 --> • *2001: A Space Odyssey* <!-- 1968 --> • *Modern Times* <!-- 1936 -->
+
+**Demons & Witches in Russian Literature & Film** `RUSSL 2500`
+- 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
+
+---
+
+### Government <!-- 3 -->
+
+**Making Sense of World Politics** `GOVT 1817`
+- 📕 *The Cold War: A Very Short Intro.* by Robert J. McMahon
+- 📰 *[What Tucker Carlson means](https://www.nytimes.com/2026/04/28/opinion/tucker-carlson-israel-conspiracy-theories.html)* <!-- 2026-04-28 --> • *[How the elite behave](https://www.nytimes.com/2025/11/23/opinion/meaning-epstein-emails.html)* <!-- 2025-10-23 --> • *[Sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[Most rejected generation](https://www.nytimes.com/2025/05/15/opinion/rejection-college-youth.html)* <!-- 2025-05-15 --> • *[No one has ever defeated autocracy from the sidelines](https://www.nytimes.com/2025/05/08/opinion/trump-authoritarianism-democracy.html)* <!-- 2025-05-08 --> • *[JFK's secrets fed conspiracy culture](https://www.wsj.com/politics/how-jfks-secrets-fed-conspiracy-culture-36987cec)* <!-- 2023-11-18 --> • *[Ukraine holds the future](https://www.foreignaffairs.com/ukraine/ukraine-war-democracy-nihilism-timothy-snyder)* <!-- 2022-09-06 --> • *[Du Bois doctrine](https://www.foreignaffairs.com/united-states/web-du-bois-doctrine-race-america-century)* <!-- 2022-09-06 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 --> • *[Alumni withhold donations](https://www.wsj.com/us-news/education/alumni-withhold-donations-demand-colleges-enforce-free-speech-11638280801)* <!-- 2021-11-30 --> • *[Vanishing nuclear taboo?](https://www.foreignaffairs.com/articles/world/2018-10-15/vanishing-nuclear-taboo)* <!-- 2018-10-15 --> • *[Obituary: Stanislav Petrov](https://www.economist.com/obituary/2017/09/30/obituary-stanislav-petrov-was-declared-to-have-died-on-september-18th)* <!-- 2017-09-30 --> • *[I.S. won't become a normal state](https://www.washingtonpost.com/news/monkey-cage/wp/2015/07/09/why-the-islamic-state-wont-become-a-normal-state/)* <!-- 2015-07-09 --> • *[Jihadi threat](https://www.washingtonpost.com/news/monkey-cage/wp/2015/05/15/the-jihadi-threat-to-international-order/)* <!-- 2015-05-15 --> • *[How much of a state is the I.S.](https://www.washingtonpost.com/news/monkey-cage/wp/2015/02/05/how-much-of-a-state-is-the-islamic-state/)* <!-- 2015-02-05 --> • *[War to end all wars?](https://www.nytimes.com/2014/06/27/world/europe/world-war-i-brought-fundamental-changes-to-the-world.html)* <!-- 2014-06-26 --> • *[Cuban Missile Crisis revisited](https://www.foreignaffairs.com/responses/cuban-missile-crisis-revisited)* <!-- 2012-10-11 --> • *[Cuban Missile Crisis at 50](https://www.foreignaffairs.com/articles/cuba/2012-07-01/cuban-missile-crisis-50)* <!-- 2012-07-01 --> • *[Keeping Saddam Hussein in a box](https://www.nytimes.com/2003/02/02/opinion/keeping-saddam-hussein-in-a-box.html)* <!-- 2003-02-02 --> • *[Failure in our success](https://www.nytimes.com/1994/03/14/opinion/the-failure-in-our-success.html)* <!-- 1994-03-04 --> • *[Clash of civilizations?](https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations)* <!-- 1993-06-01 --> • *[Sources of Soviet conduct](https://www.foreignaffairs.com/russian-federation/george-kennan-sources-soviet-conduct)* <!-- 1947-07-01 -->
+
+**America, Business & International Political Economy** `GOVT/AEM/GDEV/ILRGL 3547`
+- 📰 *[What Tucker Carlson means](https://www.nytimes.com/2026/04/28/opinion/tucker-carlson-israel-conspiracy-theories.html)* <!-- 2026-04-28 --> • *[New trade order](https://www.foreignaffairs.com/united-states/new-trade-order-robert-lighthizer)* <!-- 2026-04-21 --> • *[A dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[How the elite behave](https://www.nytimes.com/2025/11/23/opinion/meaning-epstein-emails.html)* <!-- 2025-10-23 --> • *[Exorbitant pillage](https://www.foreignaffairs.com/reviews/exorbitant-pillage-lael-brainard)* <!-- 2025-10-21 --> • *[Return of the energy weapon](https://www.foreignaffairs.com/united-states/return-energy-weapon-bordoff-osullivan)* <!-- 2025-10-21 --> • *[New supply chain insecurity](https://www.foreignaffairs.com/united-states/new-supply-chain-insecurity-shannon-oneil)* <!-- 2025-10-21 --> • *[America's coming crash](https://www.foreignaffairs.com/united-states/americas-coming-crash-rogoff)* <!-- 2025-08-19 --> • *[New Delhi's grand strategy](https://www.foreignaffairs.com/responses/what-kind-great-power-will-india-be)* <!-- 2025-07-30 --> • *[Sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[India's great-power delusions](https://www.foreignaffairs.com/india/indias-great-power-delusions)* <!-- 2025-06-17 --> • *[Most rejected generation](https://www.nytimes.com/2025/05/15/opinion/rejection-college-youth.html)* <!-- 2025-05-15 --> • *[Myth of the global](https://www.foreignaffairs.com/articles/united-states/2022-06-21/myth-global-regional-ties-win)* <!-- 2022-06-21 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 --> • *[Becoming strong](https://www.foreignaffairs.com/articles/united-states/2021-06-22/becoming-strong)* <!-- 2021-06-22 --> • *[Whistling past the graveyard](https://www.bostonreview.net/articles/jonathan-kirshner-whistling-through-graveyard/)* <!-- 2019-04-09 --> • *[Strongmen strike back](https://www.washingtonpost.com/news/opinions/wp/2019/03/14/feature/the-strongmen-strike-back/)* <!-- 2019-03-14 --> • *[Globalization survived populism once before](https://www.bostonreview.net/articles/suzanne-berger-globalization-survived-populism/)* <!-- 2018-01-30 --> • *[Learning to love stagnation](https://www.foreignaffairs.com/japan/learning-love-stagnation)* <!-- 2016-02-15 --> • *[America's energy edge](https://www.foreignaffairs.com/united-states/americas-energy-edge)* <!-- 2014-02-12 --> • *[Dollar dilemma](https://www.foreignaffairs.com/articles/united-states/2009-09-01/dollar-dilemma)* <!-- 2009-09-01 --> • *[Manifest destiny warmed up?](https://www.economist.com/special-report/2003/08/14/manifest-destiny-warmed-up)* <!-- 2003-08-14 --> • *[Pivotal states & U.S. strategy](https://www.foreignaffairs.com/articles/algeria/1996-01-01/pivotal-states-and-us-strategy)* <!-- 1996-01-01 -->
+
+---
+
+### Linguistics <!-- 2 -->
+
+**Language, Thought & Reality** `LING 1100`
+- **Words & Pictures** `101`
+  - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
+- **Speech & the Undead** `102`
+  - 🎞️ *Warm Bodies* <!-- 2013 --> • *Night of the Living Dead* <!-- 1968 --> • *Dracula* <!-- 1931 -->
+
+---
+
+### Performing Arts <!-- 2 -->
+
+**Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
+- 🎞️ *Nope* <!-- 2022 --> • *Eraserhead* <!-- 1977 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Meshes of the Afternoon* <!-- 1943 --> • *Modern Times* <!-- 1936 --> • *The Life & Death of 9413: A Hollywood Extra* <!-- 1928 --> • *Entr'acte* <!-- 1924-12-04 --> • *Sherlock Jr.* <!-- 1924-04-21 --> • *Barsoum Looking for a Job* <!-- 1923-12-31 --> • *Felix in Hollywood* <!-- 1923 --> • *Cinderella* <!-- 1922 --> • *Luke's Movie Muddle* <!-- 1916 --> • *Mabel's Blunder* <!-- 1914 --> • *Suspense* <!-- 1913 --> • *Life of an American Fireman* <!-- 1903 -->
+
+**Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
+- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
+
+---
+
+### Jewish Studies <!-- 1 -->
+
+**Jews on Film: Visible & Invisible** `JWST 1987` 
+- 🎞️ *Annie Hall* <!-- 1977 --> • *Casablanca* <!-- 1942 --> • *A Plantation Act* <!-- 1923 -->
+
+---
+
+### Agriculture & Life Sciences <!-- 1 -->
 
 **Foundations in Leadership: Skills for Personal & Professional Effectiveness** `GDEV/LEAD 3100`
 - 🎞️ *Remember the Titans* by Boaz Yakin
 
 ---
 
-## &#128506; Public Policy
-<!-- 1 -->
+### Public Policy <!-- 1 -->
 
 **Social Problems in the U.S.** `PUBPOL 2250`
 - 📚 *Julián Is a Mermaid* • *Ada Twist, Scientist* <!-- 2016 --> • *Red: A Crayon's Story* <!-- 2015 -->
