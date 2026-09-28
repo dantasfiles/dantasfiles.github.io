@@ -160,7 +160,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### English <!-- 8 -->
+### Literatures in English <!-- 10 -->
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
@@ -176,10 +176,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
 
 **Intersections: Race, Writing & Power** `ENGL 1160`
-- 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas))
+- 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas)) <!-- 2017 -->
+- 📕 *Citizen: An American Lyric* by Claudia Rankine ([my highlights](https://www.goodreads.com/notes/23439097-citizen/185327722-daniel-dantas)) <!-- 2014 -->
 
 **Short Stories** `ENGL 1170-105`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+**Word & Image** `ENGL 1183`
+- 📕 *Citizen: An American Lyric* by Claudia Rankine ([my highlights](https://www.goodreads.com/notes/23439097-citizen/185327722-daniel-dantas)) <!-- 2014 -->
 
 **Toni Morrison's Novels** `ENGL/ASRC/FGSS 4509 / AMST 4519`
 - 📕 *Home* ([my highlights](https://www.goodreads.com/notes/12993086-home/185327722-daniel-dantas)) <!-- 2012 -->
@@ -254,6 +258,20 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### Comparative Literature <!-- 4 -->
+
+**Comparative Literature, Film & Media** `COML 2030`
+- 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee <!-- 2018 -->
+- 🎞️ *Arrival* <!-- 2016 --> • *The Big Short* <!-- 2015 --> • *2001: A Space Odyssey* <!-- 1968 --> • *Modern Times* <!-- 1936 -->
+
+**Demons & Witches in Russian Literature & Film** `RUSSL 2500`
+- 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
+
+**Poetry's Image** `COML 2251 / ENGL 2951`
+- 📕 *Citizen: An American Lyric* by Claudia Rankine ([my highlights](https://www.goodreads.com/notes/23439097-citizen/185327722-daniel-dantas)) <!-- 2014 -->
+
+---
+
 ### Classics <!-- 3 -->
 
 **Classics & Comics** `CLASS 1812`
@@ -262,17 +280,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Greek Mythology** `CLASS 2604`
 - 📜 *The Odyssey* by Homer
-
----
-
-### Comparative Literature <!-- 3 -->
-
-**Comparative Literature, Film & Media** `COML 2030`
-- 📕 *AI Superpowers: China, Silicon Valley & the New World Order* by Kai-Fu Lee <!-- 2018 -->
-- 🎞️ *Arrival* <!-- 2016 --> • *The Big Short* <!-- 2015 --> • *2001: A Space Odyssey* <!-- 1968 --> • *Modern Times* <!-- 1936 -->
-
-**Demons & Witches in Russian Literature & Film** `RUSSL 2500`
-- 🎞️ *Night Watch* by Timur Bekmambetov <!-- 2004 -->
 
 ---
 
