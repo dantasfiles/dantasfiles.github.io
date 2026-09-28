@@ -8,7 +8,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 --- 
 
-### Computer Science <!-- 26 -->
+### Computer Science <!-- 24 -->
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[Terminal command line](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
@@ -56,13 +56,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - 📕 *Practical Foundations for Programming Languages* by Robert Harper
 
-**[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `CS/INFO 6850`
-- 📄 *[An Experimental Study of Search in Global Social Networks](https://www.science.org/doi/10.1126/science.1081058)* by Dodds et al. <!-- 2003-08-08 -->
-- 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al. <!-- 2003-02-01 -->
-
 ---
 
-### Electrical & Computer Engineering <!-- 13 -->
+### Electrical & Computer Engineering <!-- 14 -->
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
@@ -78,6 +74,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[A Domain-Specific Supercomputer for Training Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3360307)* by Jouppi et al. <!-- 2020-06-18 -->
 - 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al. <!-- 2020-06-05 -->
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
+- 📄 *[Why Systolic Architectures?](https://ieeexplore.ieee.org/document/1653825)* by K.T. Jung <!-- 1982-01-01 -->
 - 🔗 *[SIMD < SIMT < SMT](https://www.yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html)* <!-- 2011-11-10 --> • *[The perceptron](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* <!-- 2011-08-11 -->
 
 **[Modern Datacenter Architecture](https://www.csl.cornell.edu/courses/ece6765/)** `ECE 6765`
@@ -91,11 +88,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ### General Engineering <!-- 12 -->
 
-**[Ethics of Computing & Artificial Intelligence Technologies](https://www.trystangoetze.ca/uploads/1/4/5/4/145439826/engrg_3605_course_outline.pdf)** `ENGRG/STS 3605 / PHIL 2473`
+**[Ethics of Computing & AI Technologies](https://www.trystangoetze.ca/uploads/1/4/5/4/145439826/engrg_3605_course_outline.pdf)** `ENGRG/STS 3605 / PHIL 2473`
 - 📕 *[Deceptive Patterns: Exposing the Tricks Tech Companies Use to Control You](https://deceptive.design/)* by Harry Brignull <!-- 2026-06-15 -->
 - 📕 *The AI Mirror: How to Reclaim Our Humanity in an Age of Machine Thinking* by Shannon Vallor <!-- 2024-06-03 -->
 - 📕 *[Stand Out of Our Light: Freedom & Resistance in the Attention Economy](https://www.cambridge.org/core/books/stand-out-of-our-light/3F8D7BA2C0FE3A7126A4D9B73A89415D)* by James Williams <!-- 2018-05-31 -->
-- 📄 *[Artificial Intelligence: Approaches to Safety](https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.70039)* by D'Alessandro & Kirk-Giannini <!-- 2025-05-10 -->
+- 📄 *[AI: Approaches to Safety](https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.70039)* by D'Alessandro & Kirk-Giannini <!-- 2025-05-10 -->
 - 📄 *[ChatGPT Is Bull](https://link.springer.com/article/10.1007/s10676-024-09775-5)* by Hicks et al. <!-- 2024-06-08 -->
 - 📄 *[Dismantling the "Black Opticon": Privacy, Race, Equity & Online Data-Protection Reform](https://yalelawjournal.org/essay/dismantling-the-black-opticon)* by Anita L. Allen <!-- 2022-02-20 --> 
 - 📄 *[How Twitter Gamifies Communication](https://philarchive.org/rec/NGUHTG)* by C. Thi Nguyen <!-- 2021-05-06 -->
@@ -291,6 +288,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **America, Business & International Political Economy** `GOVT/AEM/GDEV/ILRGL 3547`
 - 📰 *[What Tucker Carlson means](https://www.nytimes.com/2026/04/28/opinion/tucker-carlson-israel-conspiracy-theories.html)* <!-- 2026-04-28 --> • *[New trade order](https://www.foreignaffairs.com/united-states/new-trade-order-robert-lighthizer)* <!-- 2026-04-21 --> • *[A dangerous nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)* <!-- 2026-03-24 --> • *[How the elite behave](https://www.nytimes.com/2025/11/23/opinion/meaning-epstein-emails.html)* <!-- 2025-10-23 --> • *[Exorbitant pillage](https://www.foreignaffairs.com/reviews/exorbitant-pillage-lael-brainard)* <!-- 2025-10-21 --> • *[Return of the energy weapon](https://www.foreignaffairs.com/united-states/return-energy-weapon-bordoff-osullivan)* <!-- 2025-10-21 --> • *[New supply chain insecurity](https://www.foreignaffairs.com/united-states/new-supply-chain-insecurity-shannon-oneil)* <!-- 2025-10-21 --> • *[America's coming crash](https://www.foreignaffairs.com/united-states/americas-coming-crash-rogoff)* <!-- 2025-08-19 --> • *[New Delhi's grand strategy](https://www.foreignaffairs.com/responses/what-kind-great-power-will-india-be)* <!-- 2025-07-30 --> • *[Sacrifice of college's soul](https://www.nytimes.com/2025/07/14/opinion/college-soul-ai-education.html)* <!-- 2025-07-14 --> • *[India's great-power delusions](https://www.foreignaffairs.com/india/indias-great-power-delusions)* <!-- 2025-06-17 --> • *[Most rejected generation](https://www.nytimes.com/2025/05/15/opinion/rejection-college-youth.html)* <!-- 2025-05-15 --> • *[Myth of the global](https://www.foreignaffairs.com/articles/united-states/2022-06-21/myth-global-regional-ties-win)* <!-- 2022-06-21 --> • *[Safe spaces](https://www.nytimes.com/2022/04/07/opinion/conservative-safe-spaces-college.html)* <!-- 2022-04-07 --> • *[Becoming strong](https://www.foreignaffairs.com/articles/united-states/2021-06-22/becoming-strong)* <!-- 2021-06-22 --> • *[Whistling past the graveyard](https://www.bostonreview.net/articles/jonathan-kirshner-whistling-through-graveyard/)* <!-- 2019-04-09 --> • *[Strongmen strike back](https://www.washingtonpost.com/news/opinions/wp/2019/03/14/feature/the-strongmen-strike-back/)* <!-- 2019-03-14 --> • *[Globalization survived populism once before](https://www.bostonreview.net/articles/suzanne-berger-globalization-survived-populism/)* <!-- 2018-01-30 --> • *[Learning to love stagnation](https://www.foreignaffairs.com/japan/learning-love-stagnation)* <!-- 2016-02-15 --> • *[America's energy edge](https://www.foreignaffairs.com/united-states/americas-energy-edge)* <!-- 2014-02-12 --> • *[Dollar dilemma](https://www.foreignaffairs.com/articles/united-states/2009-09-01/dollar-dilemma)* <!-- 2009-09-01 --> • *[Manifest destiny warmed up?](https://www.economist.com/special-report/2003/08/14/manifest-destiny-warmed-up)* <!-- 2003-08-14 --> • *[Pivotal states & U.S. strategy](https://www.foreignaffairs.com/articles/algeria/1996-01-01/pivotal-states-and-us-strategy)* <!-- 1996-01-01 -->
+
+---
+
+### Information Science <!-- 2 -->
+
+**[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `INFO/CS 6850`
+- 📄 *[An Experimental Study of Search in Global Social Networks](https://www.science.org/doi/10.1126/science.1081058)* by Dodds et al. <!-- 2003-08-08 -->
+- 📄 *[Looking Up Data in P2P Systems](https://dl.acm.org/doi/10.1145/606272.606299)* by Balakrishnan et al. <!-- 2003-02-01 -->
 
 ---
 
