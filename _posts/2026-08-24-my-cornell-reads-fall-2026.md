@@ -82,6 +82,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Computing's Energy Problem (and What We Can Do About It)](https://ieeexplore.ieee.org/document/6757323/)* by Mark Horowitz <!-- 2014-02 -->
 - 📄 *[The Tail at Scale](https://dl.acm.org/doi/10.1145/2408776.2408794)* by Dean & Barroso
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
+- 📄 *[The Case for Energy-Proportional Computing](https://ieeexplore.ieee.org/document/4404806)* by Barroso & Hölzle <!-- 2007-12-31 --> 
 - 📄 *[Web Search for a Planet: The Google Cluster Architecture](https://ieeexplore.ieee.org/document/1196112)* by Barroso et al. <!-- 2003-04-30 -->
 
 ---
