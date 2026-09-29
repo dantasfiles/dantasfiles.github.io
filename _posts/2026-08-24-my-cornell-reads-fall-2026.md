@@ -58,7 +58,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Electrical & Computer Engineering <!-- 14 -->
+### Electrical & Computer Engineering <!-- 15 -->
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
