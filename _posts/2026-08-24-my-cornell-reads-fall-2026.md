@@ -339,5 +339,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Social Problems in the U.S.** `PUBPOL 2250`
 - 📚 *Julián Is a Mermaid* • *Ada Twist, Scientist* <!-- 2016 --> • *Red: A Crayon's Story* <!-- 2015 -->
 
+---
+
+### Anthropology <!-- 1 -->
+
+**Laboratory in Visual Anthropology** `ANTHR/PMA 3190`
+- 🎞️ *[City of Smiles](https://www.youtube.com/watch?v=Guio-TOXFoo)* by Arafat Mazhar
 
 
