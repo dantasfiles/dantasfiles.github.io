@@ -8,7 +8,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 --- 
 
-### Computer Science <!-- 22 -->
+### Computer Science <!-- 23 -->
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[Terminal command line](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
