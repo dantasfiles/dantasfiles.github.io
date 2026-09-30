@@ -193,7 +193,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Just a Girl: A True Story of World War II* by Lia Levi ([my highlights](https://www.goodreads.com/notes/60692663-just-a-girl/185327722-daniel-dantas))
 
 **Perspectives on Spain in Spanish** `SPAN 2235`
-- 🎞️ *Land Without Bread* <!-- 1933 --> • *An Andalusian Dog* <!-- 1929 -->
+- 🎞️ *Land Without Bread* <!-- 1933 --> • *Un Chien Andalou* <!-- 1929 -->
 
 **Pinocchio: Adventures in Literature & Film** `ITAL 3750`
 - 📕 *Pinocchio* by Carlo Collodi ([my highlights](https://www.goodreads.com/notes/53047616-the-adventures-of-pinocchio/185327722-daniel-dantas)) <!-- 1883 -->
