@@ -127,7 +127,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Monuments, Museums & Memory: An Intro. to Public History** `HIST/AMST/SHUM 2792`
 - 🎞️ *Night & Fog* by Alain Resnais
 
-**Latinos & the United States, 1492-1880** `HIST/LSP 3770 / AMST 3775, LSP 3770`
+**Latinos & the United States, 1492-1880** `HIST/LSP 3770 / AMST 3775`
 - 📰 *[Let Puerto Rico be free](https://www.theatlantic.com/magazine/archive/2022/11/puerto-rico-independence-not-statehood/671482/)* by Jaquira Díaz <!-- 2022-11 -->
 
 **Monsoon Kingdoms: Pre-Modern Southeast Asian History** `HIST 3950 / ASIAN 3397`
