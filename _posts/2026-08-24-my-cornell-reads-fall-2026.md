@@ -40,7 +40,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Principles of Large-Scale Machine Learning Systems](https://www.cs.cornell.edu/courses/cs4787/2026fa/)** `CS 4787`
 - 📄 *[Large Scale Distributed Deep Networks](https://papers.nips.cc/paper_files/paper/2012/hash/6aca97005c68f1206823815f66102863-Abstract.html)* by Dean et al. <!-- 20 -->
-- 🔗 *[GPipe](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* <!-- 2019-03-04 --> • *[GPUs vs. CPUs](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* <!-- 2018-09-11 --> • *[Mixed-precision training of deep neural networks](https://developer.nvidia.com/blog/mixed-precision-training-deep-neural-networks/)* <!-- 2017-10-11 -->
+- 🔗 *[GPipe](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)* <!-- 2019-03-04 --> • *[GPUs vs. CPUs](https://azure.microsoft.com/en-us/blog/gpus-vs-cpus-for-deployment-of-deep-learning-models/)* <!-- 2018-09-11 --> • *[Mixed-precision training](https://developer.nvidia.com/blog/mixed-precision-training-deep-neural-networks/)* <!-- 2017-10-11 -->
 
 **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
 - 📄 *[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)* by Abraham et al. <!-- 2011-06-10 -->
