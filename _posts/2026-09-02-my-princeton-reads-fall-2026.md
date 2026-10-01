@@ -224,7 +224,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Center for Information Technology Policy <!-- 4 -->
+### Information Technology Policy <!-- 4 -->
 
 **[Bias in AI](https://docs.google.com/document/d/11SHvAtSkAWf44PClUi5IvAF5NMAdHXNO2Zs00FYM5P0/edit?tab=t.0#heading=h.tmvkkxmajh8j)**
 - 📄 *[Auditing LLMs for Race & Gender Disparities: Implications for AI-Based Hiring](https://journals.sagepub.com/doi/full/10.1177/23794607251320229)* by Gaebler et al. <!-- 2025-03-11 -->
