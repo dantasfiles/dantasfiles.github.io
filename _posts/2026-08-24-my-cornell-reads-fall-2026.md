@@ -291,6 +291,19 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### Performing Arts <!-- 3 -->
+
+**Intro. to Acting** `PMA 2800`
+- 🎞️ *Macbeth* by Justin Kurzel <!-- 2015 -->
+
+**Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
+- 🎞️ *Nope* <!-- 2022 --> • *Eraserhead* <!-- 1977 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Meshes of the Afternoon* <!-- 1943 --> • *Modern Times* <!-- 1936 --> • *The Life & Death of 9413: A Hollywood Extra* <!-- 1928 --> • *Entr'acte* <!-- 1924-12-04 --> • *Sherlock Jr.* <!-- 1924-04-21 --> • *Barsoum Looking for a Job* <!-- 1923-12-31 --> • *Felix in Hollywood* <!-- 1923 --> • *Cinderella* <!-- 1922 --> • *Luke's Movie Muddle* <!-- 1916 --> • *Mabel's Blunder* <!-- 1914 --> • *Suspense* <!-- 1913 --> • *Life of an American Fireman* <!-- 1903 -->
+
+**Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
+- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
+
+---
+
 ### Information Science <!-- 2 -->
 
 **[The Structure of Information Networks](https://www.cs.cornell.edu/courses/cs6850/2026fa/)** `INFO/CS 6850`
@@ -306,16 +319,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
   - 📔 *Maus: A Survivor's Tale* by Art Spiegelman
 - **Speech & the Undead** `102`
   - 🎞️ *Warm Bodies* <!-- 2013 --> • *Night of the Living Dead* <!-- 1968 --> • *Dracula* <!-- 1931 -->
-
----
-
-### Performing Arts <!-- 2 -->
-
-**Global Cinema & Media** `PMA 3550 / COML 3261 / VISST 3175`
-- 🎞️ *Nope* <!-- 2022 --> • *Eraserhead* <!-- 1977 --> • *La Jetée* <!-- 1962 --> • *Singin' in the Rain* <!-- 1952 --> • *Meshes of the Afternoon* <!-- 1943 --> • *Modern Times* <!-- 1936 --> • *The Life & Death of 9413: A Hollywood Extra* <!-- 1928 --> • *Entr'acte* <!-- 1924-12-04 --> • *Sherlock Jr.* <!-- 1924-04-21 --> • *Barsoum Looking for a Job* <!-- 1923-12-31 --> • *Felix in Hollywood* <!-- 1923 --> • *Cinderella* <!-- 1922 --> • *Luke's Movie Muddle* <!-- 1916 --> • *Mabel's Blunder* <!-- 1914 --> • *Suspense* <!-- 1913 --> • *Life of an American Fireman* <!-- 1903 -->
-
-**Queer Archives & Archiving Queerness** `PMA/AMST/FGSS/LGBT/SHUM 4695`
-- 📔 *Fun Home: A Family Tragicomic* by Alison Bechdel
 
 ---
 
