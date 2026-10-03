@@ -190,7 +190,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Bias in AI](https://docs.google.com/document/d/11SHvAtSkAWf44PClUi5IvAF5NMAdHXNO2Zs00FYM5P0/edit?tab=t.0#heading=h.tmvkkxmajh8j)**
 - 📄 *[Auditing LLMs for Race & Gender Disparities: Implications for AI-Based Hiring](https://journals.sagepub.com/doi/full/10.1177/23794607251320229)* by Gaebler et al. <!-- 2025-03-11 -->
 - 📄 *[Risk Scores, Label Bias & Everything but the Kitchen Sink](https://www.science.org/doi/full/10.1126/sciadv.adi8411)* by Zanger-Tishler et al. <!-- 2024-03-29 -->
-- 📄 *Tech Ethics: Speaking Ethics to Power, or Power Speaking Ethics?* by Lily Hu <!-- 2021-09 -->
+- 📄 *[Tech Ethics: Speaking Ethics to Power, or Power Speaking Ethics?](https://www.sciopen.com/article/10.23919/JSC.2021.0033)* by Lily Hu <!-- 2021-09 -->
 - 📄 *[One Label, One Billion Faces: Usage & Consistency of Racial Categories in Computer Vision](https://dl.acm.org/doi/abs/10.1145/3442188.3445920)* by Khan & Fu <!-- 2021-03-01 --> 
 
 **[TechSoc](https://citp.princeton.edu/events/past-events)**
