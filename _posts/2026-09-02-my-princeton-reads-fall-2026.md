@@ -139,6 +139,20 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### Information Technology Policy <!-- 6 -->
+
+**[Bias in AI](https://docs.google.com/document/d/11SHvAtSkAWf44PClUi5IvAF5NMAdHXNO2Zs00FYM5P0/edit?tab=t.0#heading=h.tmvkkxmajh8j)**
+- 📄 *[Auditing LLMs for Race & Gender Disparities: Implications for AI-Based Hiring](https://journals.sagepub.com/doi/full/10.1177/23794607251320229)* by Gaebler et al. <!-- 2025-03-11 -->
+- 📄 *[Amazing Things Come From Having Many Good Models](https://arxiv.org/abs/2407.04846)* by Rudin et al. <!-- 2024-07-10 -->
+- 📄 *[Risk Scores, Label Bias & Everything but the Kitchen Sink](https://www.science.org/doi/full/10.1126/sciadv.adi8411)* by Zanger-Tishler et al. <!-- 2024-03-29 -->
+- 📄 *[Tech Ethics: Speaking Ethics to Power, or Power Speaking Ethics?](https://www.sciopen.com/article/10.23919/JSC.2021.0033)* by Lily Hu <!-- 2021-09 -->
+- 📄 *[One Label, One Billion Faces: Usage & Consistency of Racial Categories in Computer Vision](https://dl.acm.org/doi/abs/10.1145/3442188.3445920)* by Khan & Fu <!-- 2021-03-01 --> 
+
+**[TechSoc](https://citp.princeton.edu/events/past-events)**
+- 📰 *[Scourge of A.1.](https://www.newyorker.com/magazine/2026/09/14/the-scourge-of-a-1)* <!-- 2026-09-07 --> • *[Its own worst fear](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)* <!-- 2017-12-18 --> • *[Work rant](https://strikemag.org/bullshit-jobs/)* <!-- 2013-08 -->
+
+---
+
 ### Humanistic Studies <!-- 5 -->
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
@@ -185,19 +199,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
 - 📕 *Disgrace* by J. M. Coetzee
-
----
-
-### Information Technology Policy <!-- 5 -->
-
-**[Bias in AI](https://docs.google.com/document/d/11SHvAtSkAWf44PClUi5IvAF5NMAdHXNO2Zs00FYM5P0/edit?tab=t.0#heading=h.tmvkkxmajh8j)**
-- 📄 *[Auditing LLMs for Race & Gender Disparities: Implications for AI-Based Hiring](https://journals.sagepub.com/doi/full/10.1177/23794607251320229)* by Gaebler et al. <!-- 2025-03-11 -->
-- 📄 *[Risk Scores, Label Bias & Everything but the Kitchen Sink](https://www.science.org/doi/full/10.1126/sciadv.adi8411)* by Zanger-Tishler et al. <!-- 2024-03-29 -->
-- 📄 *[Tech Ethics: Speaking Ethics to Power, or Power Speaking Ethics?](https://www.sciopen.com/article/10.23919/JSC.2021.0033)* by Lily Hu <!-- 2021-09 -->
-- 📄 *[One Label, One Billion Faces: Usage & Consistency of Racial Categories in Computer Vision](https://dl.acm.org/doi/abs/10.1145/3442188.3445920)* by Khan & Fu <!-- 2021-03-01 --> 
-
-**[TechSoc](https://citp.princeton.edu/events/past-events)**
-- 📰 *[Scourge of A.1.](https://www.newyorker.com/magazine/2026/09/14/the-scourge-of-a-1)* <!-- 2026-09-07 --> • *[Its own worst fear](https://www.buzzfeednews.com/article/tedchiang/the-real-danger-to-civilization-isnt-ai-its-runaway)* <!-- 2017-12-18 --> • *[Work rant](https://strikemag.org/bullshit-jobs/)* <!-- 2013-08 -->
 
 ---
 
