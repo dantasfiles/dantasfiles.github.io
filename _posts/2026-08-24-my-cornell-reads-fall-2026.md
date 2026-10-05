@@ -322,6 +322,16 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### Anthropology <!-- 2 -->
+
+**Laboratory in Visual Anthropology** `ANTHR/PMA 3190`
+- 🎞️ *[City of Smiles](https://www.youtube.com/watch?v=Guio-TOXFoo)* by Arafat Mazhar
+
+**Creative Epistemologies: Experiments in Knowledge Production** `ANTHR 4438`
+- 📕 *The Argonauts* by Maggie Nelson ([my highlights](https://www.goodreads.com/notes/24853981-the-argonauts/185327722-daniel-dantas))
+
+---
+
 ### Jewish Studies <!-- 1 -->
 
 **Jews on Film: Visible & Invisible** `JWST 1987` 
@@ -341,11 +351,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Social Problems in the U.S.** `PUBPOL 2250`
 - 📚 *Julián Is a Mermaid* • *Ada Twist, Scientist* <!-- 2016 --> • *Red: A Crayon's Story* <!-- 2015 -->
 
----
 
-### Anthropology <!-- 1 -->
 
-**Laboratory in Visual Anthropology** `ANTHR/PMA 3190`
-- 🎞️ *[City of Smiles](https://www.youtube.com/watch?v=Guio-TOXFoo)* by Arafat Mazhar
 
 
