@@ -6,7 +6,7 @@ author: Daniel Dantas
 
 I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Cornell classes.<br>I compiled publicly available information from the [campus bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
 
---- 
+---  
 
 ### Computer Science <!-- 23 -->
 
