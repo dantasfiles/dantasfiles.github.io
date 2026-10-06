@@ -8,7 +8,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---  
 
-### Computer Science <!-- 23 -->
+### Computer Science <!-- 24 -->
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[Terminal command line](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
@@ -45,6 +45,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Distributed Computing Principles](https://www.cs.cornell.edu/courses/cs5414/2026fa/)** `CS 5414`
 - 📄 *[Distributed Computing Meets Game Theory: Combining Insights from 2 Fields](https://dl.acm.org/doi/10.1145/1998037.1998055)* by Abraham et al. <!-- 2011-06-10 -->
 - 📄 *[Another Advantage of Free Choice: Completely Asynchronous Agreement Protocols](https://dl.acm.org/doi/10.1145/800221.806707)* by Michael Ben-Or <!-- 1983-08-17 -->
+- 📄 *[Nonblocking Commit Protocols](https://dl.acm.org/doi/10.1145/582318.582339)* by Dale Skeen <!-- 1981-04-29 -->
 
 **[Systems for Large-Scale ML](https://www.racheesingh.com/sysml/)** `CS 5470`
 - 📄 *[Reducing Activation Recomputation in Large Transformer Models](https://arxiv.org/abs/2205.05198)* by Korthikanti et al. <!-- 2022-05-10 -->
