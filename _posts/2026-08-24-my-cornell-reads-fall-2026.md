@@ -75,7 +75,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al. <!-- 2020-06-05 -->
 - 📄 *[Roofline: An Insightful Visual Performance Model for Multicore Architectures](https://dl.acm.org/doi/10.1145/1498765.1498785)* by Williams et al. <!-- 2009-04-01 -->
 - 📄 *[Why Systolic Architectures?](https://ieeexplore.ieee.org/document/1653825)* by K.T. Jung <!-- 1982-01-01 -->
-- 🔗 *[SIMD < SIMT < SMT](https://www.yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html)* <!-- 2011-11-10 --> • *[The perceptron](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* <!-- 2011-08-11 -->
+- 🔗 *[Fast multidimensional matrix multiplication](https://siboehm.com/articles/22/Fast-MMM-on-CPU)* <!-- 2022-08 --> • *[SIMD < SIMT < SMT](https://www.yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html)* <!-- 2011-11-10 --> • *[The perceptron](https://www.jeremykun.com/2011/08/11/the-perceptron-and-all-the-things-it-cant-perceive/)* <!-- 2011-08-11 -->
 
 **[Modern Datacenter Architecture](https://www.csl.cornell.edu/courses/ece6765/)** `ECE 6765`
 - 📄 *[There's Plenty of Room at the Top: What will Drive Computer Performance after Moore's Law?](https://www.science.org/doi/full/10.1126/science.aam9744)* by Leiserson et al. <!-- 2020-06-05 -->
