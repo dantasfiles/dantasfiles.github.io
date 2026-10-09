@@ -9,7 +9,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Computer Science <!-- 26 -->
+### Computer Science <!-- 27 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -41,6 +41,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Distributed Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos418/)** `COS 418`
 - 📄 *[Chord: A Scalable Peer-to-Peer Lookup Service for Internet Applications](https://dl.acm.org/doi/10.1145/964723.383071)* by Stoica et al. <!-- 2001-08-27 -->
+- 📄 *[Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](https://dl.acm.org/doi/10.1145/224056.224070)* by Terry et al. <!-- 1995-12-03 -->
 - 📄 *[Time, Clocks & the Ordering of Events in a Distributed System](https://dl.acm.org/doi/10.1145/359545.359563)* by Leslie Lamport <!-- 1978-07-01 -->
 
 **[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/index.html)** `COS/ECE 516`
