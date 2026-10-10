@@ -9,7 +9,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Computer Science <!-- 28 -->
+### Computer Science <!-- 29 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -46,6 +46,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall26/cos516/index.html)** `COS/ECE 516`
 - 📄 *[An Axiomatic Basis for Computer Programming](https://dl.acm.org/doi/10.1145/363235.363259)* by C.A.R. Hoare <!-- 10/26 -->
+
+**Adv. Computer Systems** `COS 518`
+- 📄 *[Copysets: Reducing the Frequency of Data Loss in Cloud Storage](https://www.usenix.org/conference/atc13/technical-sessions/presentation/cidon)* by Cidon et al. <!-- 2013-06 -->
 
 **[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
 - 📄 *[WebRTC: Real-Time Communication for the Open Web Platform](https://dl.acm.org/doi/10.1145/3453182)* by Blum et al. <!-- 2021-07-26 -->
