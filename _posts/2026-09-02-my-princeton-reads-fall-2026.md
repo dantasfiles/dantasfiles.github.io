@@ -9,7 +9,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Computer Science <!-- 27 -->
+### Computer Science <!-- 28 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -59,6 +59,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Foundational Papers in Networks & Operating Systems](https://www.cs.princeton.edu/courses/archive/fall26/cos597L/)** `COS 597L`
 - 📄 *[seL4: Formal Verification of an Operating-System Kernel](https://dl.acm.org/doi/10.1145/1743546.1743574)* by Klein et al. <!-- 2010-06-01 -->
+- 📄 *[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper)* by Satoshi Nakamoto <!-- 2008-10-31 -->
 - 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- 2008-03-31 -->
 - 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
 - 📄 *[The UNIX Time-Sharing System](https://dl.acm.org/doi/10.1145/361011.361061)* by Ritchie & Thompson <!-- 1974-07-01 -->
