@@ -91,7 +91,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Psychology <!-- 9 -->
+### Psychology <!-- 10 -->
 
 **[Computational Models of Cognition](https://brendenlake.github.io/CMC2026/)** `PSY/COS 360`
 - 📄 *[Attention Is All You Need](https://arxiv.org/abs/1706.03762)* by Vaswani et al. <!-- 2017-06-12 -->
@@ -101,6 +101,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[ImageNet Classification w/ Deep Convolutional Neural Networks](https://papers.nips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)* by Krizhevsky et al. <!-- 2012 -->
 - 📄 *[How to Grow a Mind: Statistics, Structure & Abstraction](https://cocosci.princeton.edu/publications.php?author=Kemp,%20C.)* by Tenenbaum et al. <!-- 2011-03-11 -->
 - 📄 *[The Discovery of Structural Form](https://www.pnas.org/doi/10.1073/pnas.0802631105)* by Kemp & Tenenbaum <!-- 2008-08-05 -->
+- 📄 *[The Parallel Distributed Processing Approach to Semantic Cognition](https://www.nature.com/articles/nrn1076)* by McClelland & Rogers <!-- 2003-04-01 -->
 - 📄 *[Generalization, Similarity & Bayesian Inference](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/generalization-similarityand-bayesian-inference/595CAA321C9C56270C624057021DE77A)* by Tenenbaum & Griffiths <!-- 2001-08 -->
 - 📄 *[Minimization of Boolean Complexity in Human Concept Learning](https://ruccs.rutgers.edu/jacob)* by Jacob Feldman <!-- 2000-10-05 -->
 
