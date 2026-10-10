@@ -8,7 +8,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---  
 
-### Computer Science <!-- 24 -->
+### Computer Science <!-- 25 -->
 
 **[Intro. to Computing: A Design & Development Perspective](https://www.cs.cornell.edu/courses/cs1110/2026fa/)** `CS 1110`
 - 🔗 *[Javadoc tool](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html)* <!-- 2026 --> • *[Terminal command line](https://macpaw.com/how-to/use-terminal-on-mac)* <!-- 2024 --> • *[Docstring conventions](https://peps.python.org/pep-0257/)* <!-- 2001 -->
@@ -55,6 +55,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **[Category Theory for Computer Scientists](https://www.cs.cornell.edu/courses/cs6117/2026fa/)** `CS 6117`
 - 📕 *Practical Foundations for Programming Languages* by Robert Harper
+
+**[Deep Learning for Robotics](https://www.cs.cornell.edu/courses/cs6758/2026fa/)** `CS 6758`
+- 📄 *[Self-Supervised Exploration via Disagreement](https://arxiv.org/abs/1906.04161)* by Pathak et al. <!-- 2019-06-10 -->
 
 ---
 
