@@ -142,7 +142,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Law <!-- 11 -->
+### Law <!-- 12 -->
 
 **[The Law of Software](https://james.grimmelmann.net/courses/software2026F/)** `LAW 7688` 
 - 📕 *Thing Explainer: Complicated Stuff in Simple Words* by Randall Munroe
@@ -154,6 +154,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Something Old, Something New, Something Borrowed, Something Blue](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1418709)* by James Ming Chen <!-- 2009-06-13 -->
 - 📄 *[Encryption Source Code & the 1st Amendment](https://openyls.law.yale.edu/entities/publication/96d6fe35-8233-4c6a-8d89-0b7422ce5114)* by Robert Post <!-- 2000 -->
 - 📄 *[Cyberspace & the Law of the Horse](https://chicagounbound.uchicago.edu/journal_articles/1148/)* by Frank H. Easterbrook <!-- 1996 -->
+- 📄 *[End-to-End Arguments in System Design](https://dl.acm.org/doi/10.1145/357401.357402)* by Saltzer et al. <!-- 1984-11-01 -->
 - 🔗 *[When law is code](https://cyber.jotwell.com/when-law-is-code/)* <!-- 2024-07-31 --> • *[Planet Telex](https://laboratorium.net/archive/2011/07/24/planet_telex)* <!-- 2011-07-24 -->
 
 **Psychology for Practicing Transactional Lawyers** `LAW 7749`
