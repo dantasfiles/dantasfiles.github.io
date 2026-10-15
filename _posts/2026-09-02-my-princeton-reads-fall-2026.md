@@ -9,7 +9,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Computer Science <!-- 31 -->
+### Computer Science <!-- 33 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -56,6 +56,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
 - 📄 *[Architectural Considerations for a New Generation of Protocols](https://dl.acm.org/doi/abs/10.1145/99517.99553)* by Clark & Tennenhouse <!-- 01 August 1990-08-01 -->
 - 📄 *[The Design Philosophy of the DARPA Internet Protocols](https://dl.acm.org/doi/10.1145/205447.205458)* by David D. Clark <!-- 1988-08 -->
+- 📄 *[End-to-End Arguments in System Design](https://dl.acm.org/doi/10.1145/357401.357402)* by Saltzer et al. <!-- 1984-11-01 -->
 - 📄 *[A Protocol for Packet Network Intercommunication](https://ieeexplore.ieee.org/document/1092259)* by Cerf & Kahn <!-- 1974-05-31 -->
 - 🔗 *[Supercomputer networking to accelerate large scale AI training](https://openai.com/index/mrc-supercomputer-networking/)*
 
@@ -67,6 +68,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper)* by Satoshi Nakamoto <!-- 2008-10-31 -->
 - 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- 2008-03-31 -->
 - 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
+- 📄 *[End-to-End Arguments in System Design](https://dl.acm.org/doi/10.1145/357401.357402)* by Saltzer et al. <!-- 1984-11-01 -->
 - 📄 *[The UNIX Time-Sharing System](https://dl.acm.org/doi/10.1145/361011.361061)* by Ritchie & Thompson <!-- 1974-07-01 -->
 - 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- 1967-01-01 --> 
 
