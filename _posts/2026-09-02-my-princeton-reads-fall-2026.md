@@ -9,7 +9,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Computer Science <!-- 33 -->
+### Computer Science <!-- 34 -->
 
 **[Computer Science: An Interdisciplinary Approach](https://www.cs.princeton.edu/courses/archive/fall26/cos126/)** `COS/EGR 126`
 - 🔗 *[Machine learning paradigms](https://www.wolfram.com/language/introduction-machine-learning/machine-learning-paradigms/)* by Etienne Bernard <!-- 2021-12-20 --> 
@@ -53,6 +53,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **[Adv. Computer Networks](https://www.cs.princeton.edu/courses/archive/fall26/cos561/)** `COS 561`
 - 📄 *[WebRTC: Real-Time Communication for the Open Web Platform](https://dl.acm.org/doi/10.1145/3453182)* by Blum et al. <!-- 2021-07-26 -->
 - 📄 *[A Buffer-Based Approach to Rate Adaptation: Evidence from a Large Video Streaming Service](https://dl.acm.org/doi/10.1145/2619239.2626296)* by Huang et al. <!-- 2014-08-17 -->
+- 📄 *[Data Center TCP (DCTCP)](https://dl.acm.org/doi/10.1145/1851275.1851192)* by Alizadeh et al. <!-- 2010-08-30 -->
 - 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
 - 📄 *[Architectural Considerations for a New Generation of Protocols](https://dl.acm.org/doi/abs/10.1145/99517.99553)* by Clark & Tennenhouse <!-- 01 August 1990-08-01 -->
 - 📄 *[The Design Philosophy of the DARPA Internet Protocols](https://dl.acm.org/doi/10.1145/205447.205458)* by David D. Clark <!-- 1988-08 -->
