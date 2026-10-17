@@ -54,7 +54,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[WebRTC: Real-Time Communication for the Open Web Platform](https://dl.acm.org/doi/10.1145/3453182)* by Blum et al. <!-- 2021-07-26 -->
 - 📄 *[A Buffer-Based Approach to Rate Adaptation: Evidence from a Large Video Streaming Service](https://dl.acm.org/doi/10.1145/2619239.2626296)* by Huang et al. <!-- 2014-08-17 -->
 - 📄 *[Data Center TCP (DCTCP)](https://dl.acm.org/doi/10.1145/1851275.1851192)* by Alizadeh et al. <!-- 2010-08-30 -->
-- 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
+- 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by Srinivasan Keshav <!-- 2007-07-20 -->
 - 📄 *[Architectural Considerations for a New Generation of Protocols](https://dl.acm.org/doi/abs/10.1145/99517.99553)* by Clark & Tennenhouse <!-- 01 August 1990-08-01 -->
 - 📄 *[The Design Philosophy of the DARPA Internet Protocols](https://dl.acm.org/doi/10.1145/205447.205458)* by David D. Clark <!-- 1988-08 -->
 - 📄 *[End-to-End Arguments in System Design](https://dl.acm.org/doi/10.1145/357401.357402)* by Saltzer et al. <!-- 1984-11-01 -->
@@ -68,7 +68,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📄 *[seL4: Formal Verification of an Operating-System Kernel](https://dl.acm.org/doi/10.1145/1743546.1743574)* by Klein et al. <!-- 2010-06-01 -->
 - 📄 *[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper)* by Satoshi Nakamoto <!-- 2008-10-31 -->
 - 📄 *[OpenFlow: Enabling Innovation in Campus Networks](https://dl.acm.org/doi/10.1145/1355734.1355746)* by McKeown et al. <!-- 2008-03-31 -->
-- 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by S. Keshav <!-- 2007-07-20 -->
+- 📄 *[How to Read a Paper](https://dl.acm.org/doi/10.1145/1273445.1273458)* by Srinivasan Keshav <!-- 2007-07-20 -->
 - 📄 *[End-to-End Arguments in System Design](https://dl.acm.org/doi/10.1145/357401.357402)* by Saltzer et al. <!-- 1984-11-01 -->
 - 📄 *[The UNIX Time-Sharing System](https://dl.acm.org/doi/10.1145/361011.361061)* by Ritchie & Thompson <!-- 1974-07-01 -->
 - 📄 *[The Structure of the THE Multiprogramming System](https://dl.acm.org/doi/10.1145/800001.811672)* by Edsger W. Dijkstra <!-- 1967-01-01 --> 
