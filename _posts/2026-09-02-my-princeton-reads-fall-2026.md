@@ -216,6 +216,19 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### English <!-- 5 -->
+
+**American Literature: 1930-Present** `ENG 368 / AMS 340`
+- 📕 *The Road* by Cormac McCarthy <!-- 2006 -->
+- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
+- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
+- 📕 *The Crying of Lot 49* by Thomas Pynchon ([my highlights](https://www.goodreads.com/notes/11062401-the-crying-of-lot-49/185327722-daniel-dantas)) <!-- 1966 -->
+
+**Junior Independent Work Seminar** `ENG 397`
+- 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
+
+---
+
 ### Arts <!-- 4 -->
 
 <!-- **Intro. to Theater Making** `THR/MTD 101`
@@ -240,18 +253,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *The Island of Doctor Moreau* by H.G. Wells ([my highlights](https://www.goodreads.com/notes/45062348-the-island-of-dr-moreau/185327722-daniel-dantas)) <!-- 1896 -->
 - 📕 *Journey to the Center of the Earth* by Jules Verne <!-- 1864 -->
 - 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
-
----
-
-### English <!-- 4 -->
-
-**American Literature: 1930-Present** `ENG 368 / AMS 340`
-- 📕 *The Road* by Cormac McCarthy <!-- 2006 -->
-- 📔 *Maus: A Survivor's Tale* by Art Spiegelman <!-- 1991 -->
-- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
-
-**Junior Independent Work Seminar** `ENG 397`
-- 📕 *A Room of One's Own* by Virginia Woolf ([my highlights](https://www.goodreads.com/notes/19478792-a-room-of-one-s-own/185327722-daniel-dantas))
 
 ---
 
