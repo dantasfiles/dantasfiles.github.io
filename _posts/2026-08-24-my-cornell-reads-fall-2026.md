@@ -162,7 +162,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Literatures in English <!-- 10 -->
+### Literatures in English <!-- 11 -->
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
@@ -188,6 +188,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 📕 *Citizen: An American Lyric* by Claudia Rankine ([my highlights](https://www.goodreads.com/notes/23439097-citizen/185327722-daniel-dantas)) <!-- 2014 -->
 
 **Toni Morrison's Novels** `ENGL/ASRC/FGSS 4509 / AMST 4519`
+- 📕 *God Help the Child* <!-- 2015 -->
 - 📕 *Home* ([my highlights](https://www.goodreads.com/notes/12993086-home/185327722-daniel-dantas)) <!-- 2012 -->
 
 ---
