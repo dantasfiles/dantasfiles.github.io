@@ -229,8 +229,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ### Business <!-- 4 -->
 
-✔️ I've read or seen the following:
-
 **Entrepreneurial Marketing & Strategy** `AEM 3249`
 - 🎞️ *The Social Network* by David Fincher
 
