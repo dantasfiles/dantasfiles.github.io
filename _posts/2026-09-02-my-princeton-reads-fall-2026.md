@@ -167,6 +167,26 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### African American Studies <!-- 6 -->
+
+**African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
+- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
+
+**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS/URB 231 / ENG 245`
+- 📕 *Darkwater: Voices from Within the Veil* ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
+
+**Black Women & Spiritual Narrative** `AAS/REL 318 / GSS 375`
+- 📕 *Their Eyes Were Watching God* by Zora Neale Hurston ([my highlights](https://www.goodreads.com/notes/53950959-their-eyes-were-watching-god/185327722-daniel-dantas)) <!-- 1937 -->
+
+**Toni Morrison & Her Circle** `AAS/ENG 320`
+- 📕 *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
+
+**Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
+- 📕 *Disgrace* by J. M. Coetzee
+
+---
+
 ### Humanistic Studies <!-- 5 -->
 
 **Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
@@ -196,23 +216,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Socrates** `CLG 105`
 - 📜 *Apology* by Plato
-
----
-
-### African American Studies <!-- 5 -->
-
-**African American Studies & the Philosophy of Race** `AAS 201 / PHI 291`
-- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas)) <!-- 1963 -->
-
-**The Souls of Black Folk -- Reading W.E.B. Du Bois** `AAS/URB 231 / ENG 245`
-- 📕 *Darkwater: Voices from Within the Veil* ([my highlights](https://www.goodreads.com/notes/58088237-darkwater/185327722-daniel-dantas))
-
-**Toni Morrison & Her Circle** `AAS/ENG 320`
-- 📕 *Beloved* ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas))
-
-**Art, Apartheid & South Africa** `AAS/AFS 411 / ART 471`
-- 📕 *Disgrace* by J. M. Coetzee
 
 ---
 
