@@ -90,6 +90,43 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### Literatures in English <!-- 13 -->
+
+**Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
+- 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
+- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
+
+**Writing the Environment: Enchanting Nature** `ENGL 1130-101`
+- 🎭 *A Midsummer Night's Dream* by William Shakespeare
+
+**True Stories** `ENGL 1134`
+- 📔 *They Called Us Enemy* by George Takei
+
+**American Voices: Lost in the City: The Great Migration & Imagining the Urban Space through Black Art** `ENGL 1158-102`
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+**Intersections: Race, Writing & Power** `ENGL 1160`
+- 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas)) <!-- 2017 -->
+- 📕 *Citizen: An American Lyric* by Claudia Rankine ([my highlights](https://www.goodreads.com/notes/23439097-citizen/185327722-daniel-dantas)) <!-- 2014 -->
+
+**Short Stories** `ENGL 1170-105`
+- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
+
+**Word & Image** `ENGL 1183`
+- 📕 *Citizen: An American Lyric* by Claudia Rankine ([my highlights](https://www.goodreads.com/notes/23439097-citizen/185327722-daniel-dantas)) <!-- 2014 -->
+
+**Zora Neale Hurston & Langston Hughes** `ENGL 3505 / AMST 3503 / ASRC 3705` 
+- 📕 *Their Eyes Were Watching God* ([my highlights](https://www.goodreads.com/notes/53950959-their-eyes-were-watching-god/185327722-daniel-dantas)) <!-- 1937 -->
+
+**The Harlem Renaissance, 1919-1937** `ENGL 4505 / AMST 4506`
+- 📕 *Their Eyes Were Watching God* by Zora Neale Hurston ([my highlights](https://www.goodreads.com/notes/53950959-their-eyes-were-watching-god/185327722-daniel-dantas)) <!-- 1937 -->
+
+**Toni Morrison's Novels** `ENGL/ASRC/FGSS 4509 / AMST 4519`
+- 📕 *God Help the Child* <!-- 2015 -->
+- 📕 *Home* ([my highlights](https://www.goodreads.com/notes/12993086-home/185327722-daniel-dantas)) <!-- 2012 -->
+
+---
+
 ### General Engineering <!-- 12 -->
 
 **[Ethics of Computing & AI Technologies](https://www.trystangoetze.ca/uploads/1/4/5/4/145439826/engrg_3605_course_outline.pdf)** `ENGRG/STS 3605 / PHIL 2473`
@@ -159,37 +196,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Psychology for Practicing Transactional Lawyers** `LAW 7749`
 - 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas))
-
----
-
-### Literatures in English <!-- 11 -->
-
-**Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
-- 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
-- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
-
-**Writing the Environment: Enchanting Nature** `ENGL 1130-101`
-- 🎭 *A Midsummer Night's Dream* by William Shakespeare
-
-**True Stories** `ENGL 1134`
-- 📔 *They Called Us Enemy* by George Takei
-
-**American Voices: Lost in the City: The Great Migration & Imagining the Urban Space through Black Art** `ENGL 1158-102`
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
-
-**Intersections: Race, Writing & Power** `ENGL 1160`
-- 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas)) <!-- 2017 -->
-- 📕 *Citizen: An American Lyric* by Claudia Rankine ([my highlights](https://www.goodreads.com/notes/23439097-citizen/185327722-daniel-dantas)) <!-- 2014 -->
-
-**Short Stories** `ENGL 1170-105`
-- 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
-
-**Word & Image** `ENGL 1183`
-- 📕 *Citizen: An American Lyric* by Claudia Rankine ([my highlights](https://www.goodreads.com/notes/23439097-citizen/185327722-daniel-dantas)) <!-- 2014 -->
-
-**Toni Morrison's Novels** `ENGL/ASRC/FGSS 4509 / AMST 4519`
-- 📕 *God Help the Child* <!-- 2015 -->
-- 📕 *Home* ([my highlights](https://www.goodreads.com/notes/12993086-home/185327722-daniel-dantas)) <!-- 2012 -->
 
 ---
 
