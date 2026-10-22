@@ -90,7 +90,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Literatures in English <!-- 13 -->
+### Literatures in English <!-- 14 -->
 
 **Writing Across Cultures: Modern Fantasy Media** `ENGL 1111-104`
 - 📕 *The Hobbit* by J.R.R. Tolkien ([my highlights](https://www.goodreads.com/notes/38819529-the-hobbit/185327722-daniel-dantas)) <!-- 1937 -->
@@ -108,6 +108,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Intersections: Race, Writing & Power** `ENGL 1160`
 - 📕 *Tell Me How It Ends: An Essay in 40 Questions* by Valeria Luiselli ([my highlights](https://www.goodreads.com/notes/171124286-tell-me-how-it-ends/185327722-daniel-dantas)) <!-- 2017 -->
 - 📕 *Citizen: An American Lyric* by Claudia Rankine ([my highlights](https://www.goodreads.com/notes/23439097-citizen/185327722-daniel-dantas)) <!-- 2014 -->
+- 📕 *Ways of Seeing* by John Berger <!-- 1972 -->
 
 **Short Stories** `ENGL 1170-105`
 - 📕 *The Fire Next Time* by James Baldwin ([my highlights](https://www.goodreads.com/notes/19073499-the-fire-next-time/185327722-daniel-dantas))
