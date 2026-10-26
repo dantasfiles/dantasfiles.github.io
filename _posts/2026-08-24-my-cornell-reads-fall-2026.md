@@ -61,13 +61,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Electrical & Computer Engineering <!-- 15 -->
+### Electrical & Computer Engineering <!-- 16 -->
 
 **[Digital Logic & Computer Organization](https://www.csl.cornell.edu/courses/ece2300/resources.html)** `ECE/ENGRD 2300`
 - 📄 *[The IEEE Verilog 1364-2001 Standard: What's New & Why You Need It](https://sutherland-hdl.com/papers.html)* by Stuart Sutherland
 
 **Design w/ Embedded Operating Systems** `ECE 4725`
 - 📕 *The C Programming Language* by Kernighan & Ritchie
+- 📕 *The Ultimate Hitchhiker's Guide to the Galaxy* by Douglas Adams ([my highlights](https://www.goodreads.com/notes/37768423-the-ultimate-hitchhiker-s-guide-to-the-galaxy/185327722-daniel-dantas))
 
 **[Computer Architecture](https://www.csl.cornell.edu/courses/ece4750/)** `ECE 4750 / CS 4420`
 - 📕 *[Think Python: How to Think Like a Computer Scientist](https://allendowney.github.io/ThinkPython/)* by Allen B. Downey
