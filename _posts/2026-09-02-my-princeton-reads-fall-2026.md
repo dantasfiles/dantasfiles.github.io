@@ -335,4 +335,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Sound Design & the Moving Image: The Multi-Layered Language of Film** `FRS 135`
 - 🎞️ *M* by Fritz Lang <!-- 1931 -->
 
+---
 
+### East Asian Studies <!-- 1 -->
+
+**Postwar Japanese Narrative: Modern to Postmodern** `EAS/COM 344`
+- 📕 *Kafka on the Shore* by Haruki Murakami ([my highlights](https://www.goodreads.com/notes/6564051-kafka-on-the-shore/185327722-daniel-dantas))
