@@ -2,6 +2,7 @@
 title: "Fitbit data JSON to .csv file converter"
 description: "Patched an existing tool, iccir919.github.io/fitbit-json-to-csv, to fix three issues"
 author: Daniel Dantas
+hidden: true
 ---
 
 A friend asked for help converting fitbit `json` files to `csv` format.
