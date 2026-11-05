@@ -19,7 +19,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ### Politics <!-- 1 -->
 
 **Human Rights** `POL 380 / SPI 319`
-- 📕 *Night* by Elie Wiesel ([my highlights](https://www.goodreads.com/notes/13458984-night/185327722-daniel-dantas))
+- 📕 *Night* by Elie Wiesel ([my highlights](https://www.goodreads.com/notes/13458984-night/185327722-daniel-dantas)) <!-- 1956 -->
 
 
 
