@@ -14,4 +14,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **What is a Classic?** `CLA/TRA 203 / COM 217 / HLS 201`
 - 𒀭 *Epic of Gilgamesh* ([my highlights](https://www.goodreads.com/notes/59467960-gilgamesh/185327722-daniel-dantas)) 
 
+---
+
+### Politics <!-- 1 -->
+
+**Human Rights** `POL 380 / SPI 319`
+- 📕 *Night* by Elie Wiesel ([my highlights](https://www.goodreads.com/notes/13458984-night/185327722-daniel-dantas))
+
+
 
