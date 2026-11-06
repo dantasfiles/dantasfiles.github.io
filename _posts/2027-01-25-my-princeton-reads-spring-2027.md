@@ -39,3 +39,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **School Design 101** `FRS 194`
 - 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
 
+---
+
+### Computer Science <!-- 1 -->
+
+**Algorithms & Data Structures** `COS 226`
+- 📕 *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
