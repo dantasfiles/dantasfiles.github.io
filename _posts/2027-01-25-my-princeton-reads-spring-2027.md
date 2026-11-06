@@ -19,10 +19,23 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### Religion <!-- 2 -->
+
+**Imprisoned Minds: Religion & Philosophy from Jail** `FRS 112`
+- 📕 *Night* by Elie Wiesel ([my highlights](https://www.goodreads.com/notes/13458984-night/185327722-daniel-dantas)) <!-- 1956 -->
+- 📕 *The Consolation of Philosophy* by Boethius
+
+---
+
 ### Classics <!-- 1 -->
 
 **What is a Classic?** `CLA/TRA 203 / COM 217 / HLS 201`
 - 𒀭 *Epic of Gilgamesh* ([my highlights](https://www.goodreads.com/notes/59467960-gilgamesh/185327722-daniel-dantas)) 
 
+---
 
+### Psychology <!-- 1 -->
+
+**School Design 101** `FRS 194`
+- 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
 
