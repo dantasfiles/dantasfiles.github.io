@@ -45,3 +45,13 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Algorithms & Data Structures** `COS 226`
 - 📕 *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
+
+---
+
+### East Asian Studies <!-- 1 -->
+
+**Adv. Japanese II** `JPN 302`
+- 🎞️ *Spirited Away* by Hayao Miyazaki
+
+
+
