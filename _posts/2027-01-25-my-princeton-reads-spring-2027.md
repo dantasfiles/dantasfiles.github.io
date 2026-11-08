@@ -53,5 +53,11 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Adv. Japanese II** `JPN 302`
 - 🎞️ *Spirited Away* by Hayao Miyazaki
 
+---
+
+### German <!-- 1 -->
+
+**Advanced German** `GER 107`
+- 📕 *All Quiet on the Western Front* by Erich Maria Remarque ([my highlights](https://www.goodreads.com/notes/63343829-all-quiet-on-the-western-front/185327722-daniel-dantas))
 
 
