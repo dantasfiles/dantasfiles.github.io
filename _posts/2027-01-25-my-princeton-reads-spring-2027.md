@@ -60,4 +60,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Advanced German** `GER 107`
 - 📕 *All Quiet on the Western Front* by Erich Maria Remarque ([my highlights](https://www.goodreads.com/notes/63343829-all-quiet-on-the-western-front/185327722-daniel-dantas))
 
+### Writing <!-- 1 -->
 
+**Curiosity** `WRI 153`
+- 📕 *Curious George* by H.A. Rey
