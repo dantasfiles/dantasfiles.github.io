@@ -12,7 +12,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ### English <!-- 6 -->
 
 **Children's Literature** `ENG 304`
-- 📕 *Feed( by M.T. Anderson ([my highlights](https://www.goodreads.com/notes/8757346-feed/185327722-daniel-dantas)) <!-- 2002 -->
+- 📕 *Feed* by M.T. Anderson ([my highlights](https://www.goodreads.com/notes/8757346-feed/185327722-daniel-dantas)) <!-- 2002 -->
 - 📕 *The Snowy Day* by Ezra Jack Keats <!-- 1962 -->
 - 📕 *Are You My Mother?* by P.D. Eastman <!-- 1960 -->
 - 📕 *Goodnight Moon* by Brown & Hurd <!-- 1947 -->
