@@ -9,6 +9,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### English <!-- 3 -->
+
+**Children's Literature** `ENG 304`
+- 📕 *Are You My Mother?* by P.D. Eastman <!-- 1960 -->
+- 📕 *Goodnight Moon* by Brown & Hurd <!-- 1947 -->
+- 📕 *Alice's Adventures in Wonderland* & *Through the Looking-Glass* by Lewis Carroll ([my highlights](https://www.goodreads.com/notes/24610642-alice-s-adventures-in-wonderland-and-through-the-looking-glass/185327722-daniel-dantas)) <!-- 1871 -->
+
+---
+
 ### Politics <!-- 2 -->
 
 **Political Theory** `POL/CHV 210`
@@ -31,14 +40,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Curiosity** `WRI 153`
 - 📕 *Curious George* by H.A. Rey <!-- 1941 -->
-- 📕 *Alice's Adventures in Wonderland* & *Through the Looking-Glass* by Lewis Carroll ([my highlights](https://www.goodreads.com/notes/24610642-alice-s-adventures-in-wonderland-and-through-the-looking-glass/185327722-daniel-dantas)) <!-- 1871 -->
-
----
-
-### English <!-- 2 -->
-
-**Children's Literature** `ENG 304`
-- 📕 *Are You My Mother?* by P.D. Eastman <!-- 1960 -->
 - 📕 *Alice's Adventures in Wonderland* & *Through the Looking-Glass* by Lewis Carroll ([my highlights](https://www.goodreads.com/notes/24610642-alice-s-adventures-in-wonderland-and-through-the-looking-glass/185327722-daniel-dantas)) <!-- 1871 -->
 
 ---
