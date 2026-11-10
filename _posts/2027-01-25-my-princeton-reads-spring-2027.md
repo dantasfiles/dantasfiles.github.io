@@ -9,9 +9,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### English <!-- 3 -->
+### English <!-- 4 -->
 
 **Children's Literature** `ENG 304`
+- 📕 *The Snowy Day* by Ezra Jack Keats <!-- 1962 -->
 - 📕 *Are You My Mother?* by P.D. Eastman <!-- 1960 -->
 - 📕 *Goodnight Moon* by Brown & Hurd <!-- 1947 -->
 - 📕 *Alice's Adventures in Wonderland* & *Through the Looking-Glass* by Lewis Carroll ([my highlights](https://www.goodreads.com/notes/24610642-alice-s-adventures-in-wonderland-and-through-the-looking-glass/185327722-daniel-dantas)) <!-- 1871 -->
