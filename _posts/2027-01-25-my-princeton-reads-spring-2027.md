@@ -50,6 +50,16 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### Computer Science <!-- 2 -->
+
+**Intro. to Programming Systems** `COS 217`
+- 📕 *The Practice of Programming* by Kernighan & Pike <!-- 9780201615869 -->
+
+**Algorithms & Data Structures** `COS 226`
+- 📕 *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
+
+---
+
 ### Classics <!-- 1 -->
 
 **What is a Classic?** `CLA/TRA 203 / COM 217 / HLS 201`
@@ -61,13 +71,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **School Design 101** `FRS 194`
 - 📕 *Reader, Come Home: The Reading Brain in a Digital World* by Maryanne Wolf ([my highlights](https://www.goodreads.com/notes/48979487-reader-come-home/185327722-daniel-dantas))
-
----
-
-### Computer Science <!-- 1 -->
-
-**Algorithms & Data Structures** `COS 226`
-- 📕 *[Algorithms](https://algs4.cs.princeton.edu/home/)* by Sedgewick & Wayne
 
 ---
 
