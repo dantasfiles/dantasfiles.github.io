@@ -9,7 +9,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### English <!-- 6 -->
+### English <!-- 7 -->
 
 **Children's Literature** `ENG 304`
 - 📕 *Feed* by M.T. Anderson ([my highlights](https://www.goodreads.com/notes/8757346-feed/185327722-daniel-dantas)) <!-- 2002 -->
@@ -20,6 +20,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **The Later Romantics** `ENG 331 / ECS 382`
 - 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
+
+**Forms of Literature: From Page to Screen: Film Adaptation** `ENG 402`
+- 📕 *Heart of Darkness* by Joseph Conrad ([my highlights](https://www.goodreads.com/notes/19943690-heart-of-darkness/185327722-daniel-dantas)) <!-- 1899 -->
 
 ---
 
