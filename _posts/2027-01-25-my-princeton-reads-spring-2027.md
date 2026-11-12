@@ -69,6 +69,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### Art & Archaeology <!-- 2 -->
+
+**Monsters Beware! Otherness & Order in Premodern Art & Literature** `ART 387 / ITA 330`
+- 🎭 *The Tempest* by William Shakespeare
+- 𒀭 *Epic of Gilgamesh* ([my highlights](https://www.goodreads.com/notes/59467960-gilgamesh/185327722-daniel-dantas)) 
+
+---
+
 ### Classics <!-- 1 -->
 
 **What is a Classic?** `CLA/TRA 203 / COM 217 / HLS 201`
@@ -101,6 +109,9 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **African American Intellectual Tradition** `AAS 500`
 - 📕 *The Wretched of the Earth* by Frantz Fanon <!-- 1961 -->
+
+
+
 
 
 
