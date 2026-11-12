@@ -64,7 +64,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ### General <!-- 2 -->
 
 **The Confidence Game: Self-Invention & Imposture in America** `FRS 118`
-- 📕 *The Great Gatsby* by F. Scott Fitzgerald ([my highlight](https://www.goodreads.com/notes/73662330-the-great-gatsby-mint-editions/185327722-daniel-dantas))
+- 📕 *The Great Gatsby* by F. Scott Fitzgerald ([my highlights](https://www.goodreads.com/notes/73662330-the-great-gatsby-mint-editions/185327722-daniel-dantas))
 - 📕 *The Autobiography of Benjamin Franklin* ([my highlights](https://www.goodreads.com/notes/35666660-the-autobiography-of-benjamin-franklin/185327722-daniel-dantas))
 
 ---
