@@ -77,9 +77,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Classics <!-- 1 -->
+### Classics <!-- 2 -->
 
 **What is a Classic?** `CLA/TRA 203 / COM 217 / HLS 201`
+- 📜 *The Odyssey* by Homer
 - 𒀭 *Epic of Gilgamesh* ([my highlights](https://www.goodreads.com/notes/59467960-gilgamesh/185327722-daniel-dantas)) 
 
 ---
