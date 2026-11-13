@@ -85,6 +85,16 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### African American Studies <!-- 2 -->
+
+**Black Mirror: Race, Technology & Justice** `AAS/EGR/CDH 339`
+- 📕 *Algorithms of Oppression: How Search Engines Reinforce Racism* by Safiya Umoja Noble <!-- 2018 -->
+
+**African American Intellectual Tradition** `AAS 500`
+- 📕 *The Wretched of the Earth* by Frantz Fanon <!-- 1961 -->
+
+---
+
 ### Psychology <!-- 1 -->
 
 **School Design 101** `FRS 194`
@@ -103,13 +113,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 **Adv. German** `GER 107`
 - 📕 *All Quiet on the Western Front* by Erich Maria Remarque ([my highlights](https://www.goodreads.com/notes/63343829-all-quiet-on-the-western-front/185327722-daniel-dantas))
-
----
-
-### African American Studies <!-- 1 -->
-
-**African American Intellectual Tradition** `AAS 500`
-- 📕 *The Wretched of the Earth* by Frantz Fanon <!-- 1961 -->
 
 
 
