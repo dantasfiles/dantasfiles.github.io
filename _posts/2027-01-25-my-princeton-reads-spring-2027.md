@@ -114,7 +114,12 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Adv. German** `GER 107`
 - 📕 *All Quiet on the Western Front* by Erich Maria Remarque ([my highlights](https://www.goodreads.com/notes/63343829-all-quiet-on-the-western-front/185327722-daniel-dantas))
 
+---
 
+### Engineering <!-- 1 -->
+
+**Creating Value: Intro. to Entrepreneurship** `EGR/ENT 201`
+- 📕 *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* by Eric Ries <!-- 2011 -->
 
 
 
