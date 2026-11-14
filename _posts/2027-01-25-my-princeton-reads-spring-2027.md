@@ -95,6 +95,14 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
+### Engineering <!-- 2 -->
+
+**Creating Value: Intro. to Entrepreneurship** `EGR/ENT 201`
+- 📕 *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* by Eric Ries <!-- 2011 -->
+- 📕 *Mindset: The New Psychology of Success* by Carol S. Dweck ([my highlights](https://www.goodreads.com/notes/5494321-mindset/185327722-daniel-dantas)) <!-- 2006 -->
+
+---
+
 ### Psychology <!-- 1 -->
 
 **School Design 101** `FRS 194`
@@ -114,12 +122,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Adv. German** `GER 107`
 - 📕 *All Quiet on the Western Front* by Erich Maria Remarque ([my highlights](https://www.goodreads.com/notes/63343829-all-quiet-on-the-western-front/185327722-daniel-dantas))
 
----
 
-### Engineering <!-- 1 -->
-
-**Creating Value: Intro. to Entrepreneurship** `EGR/ENT 201`
-- 📕 *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses* by Eric Ries <!-- 2011 -->
 
 
 
