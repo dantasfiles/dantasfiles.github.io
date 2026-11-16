@@ -23,6 +23,15 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Forms of Literature: From Page to Screen: Film Adaptation** `ENG 402`
 - 📕 *Heart of Darkness* by Joseph Conrad ([my highlights](https://www.goodreads.com/notes/19943690-heart-of-darkness/185327722-daniel-dantas)) <!-- 1899 -->
 
+### Humanities <!-- 5 -->
+
+**Interdisciplinary Approaches to Western Culture II: Literature & the Arts** `HUM 218`
+- 📕 *Beloved* by Toni Morrison ([my highlights](https://www.goodreads.com/notes/5025780-beloved/185327722-daniel-dantas)) <!-- 1987 -->
+- 📕 *Notes from Underground* by Fyodor Dostoevsky ([my highlights](https://www.goodreads.com/notes/6568440-notes-from-underground/185327722-daniel-dantas)) <!-- 1864 -->
+- 📕 *Frankenstein* by Mary Shelley <!-- 1818 -->
+- 🎭 *The Tempest* by William Shakespeare <!-- 1611 -->
+- 📕 *The Prince* by Niccolò Machiavelli ([my highlights](https://www.goodreads.com/notes/9571349-the-prince/185327722-daniel-dantas)) <!-- 1532 -->
+
 ---
 
 ### Politics <!-- 3 -->
