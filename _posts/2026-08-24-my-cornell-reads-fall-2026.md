@@ -2,6 +2,7 @@
 title: 🐻 My Cornell reads, fall 2026
 # description: I use this page to track books and papers I've read that are used in Fall 2026 Cornell classes
 author: Daniel Dantas
+hidden: true
 ---
 
 I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Cornell classes.<br>I compiled publicly available information from the [campus bookstore](https://cornellstore.com/), [library reserves](https://www.library.cornell.edu/study/course-reserves/), and course webpages
