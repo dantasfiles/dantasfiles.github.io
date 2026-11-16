@@ -23,6 +23,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Forms of Literature: From Page to Screen: Film Adaptation** `ENG 402`
 - 📕 *Heart of Darkness* by Joseph Conrad ([my highlights](https://www.goodreads.com/notes/19943690-heart-of-darkness/185327722-daniel-dantas)) <!-- 1899 -->
 
+---
+
 ### Humanities <!-- 5 -->
 
 **Interdisciplinary Approaches to Western Culture II: Literature & the Arts** `HUM 218`
