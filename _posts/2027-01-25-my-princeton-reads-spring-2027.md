@@ -31,7 +31,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 - 🎭 *Antigone* by Sophocles
 
 **Human Rights** `POL 380 / SPI 319`
-- 📕 *Judgment at Tokyo: World War II on Trial and the Making of Modern Asia* by Gary J. Bass ([my highlights](https://www.goodreads.com/notes/75596597-judgment-at-tokyo/185327722-daniel-dantas)) <!-- 2023 -->
+- 📕 *Judgment at Tokyo: World War II on Trial & the Making of Modern Asia* by Gary J. Bass ([my highlights](https://www.goodreads.com/notes/75596597-judgment-at-tokyo/185327722-daniel-dantas)) <!-- 2023 -->
 - 📕 *Night* by Elie Wiesel ([my highlights](https://www.goodreads.com/notes/13458984-night/185327722-daniel-dantas)) <!-- 1956 -->
 
 ---
