@@ -2,7 +2,7 @@
 title: 🐯 My Princeton reads, fall 2026
 # description: I use this page to track books and papers I've read that are used in Fall 2026 Princeton classes
 author: Daniel Dantas
-hidden: true
+# hidden: true
 ---
 
 I use this page to track [books and papers I've read](https://www.goodreads.com/user/show/185327722-daniel-dantas) that are used in Fall 2026 Princeton classes<br>I connected publicly available information from the [online bookstore](https://princeton.ecampus.com/) and course webpages
@@ -78,9 +78,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ---
 
-### Slavic Languages & Literatures <!-- 10 -->
+### Slavic Languages & Literatures <!-- 11 -->
 
 **What Makes for a Meaningful Life? A Search** `FRS 121`
+- 📕 *The Tao of Pooh* by Benjamin Hoff ([my highlights](https://www.goodreads.com/notes/248283899-the-tao-of-pooh/185327722-daniel-dantas)) <!-- 1982 -->
 - 📕 *Man's Search for Meaning* by Viktor E. Frankl ([my highlights](https://www.goodreads.com/notes/26234976-man-s-search-for-meaning/185327722-daniel-dantas?ref=rsp)) <!-- 1946 -->
 - 📕 *Winnie-the-Pooh* by A.A. Milne <!-- 1926 -->
 - 🎞️ *Forrest Gump* <!-- 1994 --> • *Casablanca* <!-- 1942 -->
@@ -189,7 +190,7 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ### Humanistic Studies <!-- 5 -->
 
-**Interdisciplinary Approaches to Western Culture I: Literature & the Arts** `HUM 216`
+**Western Culture I: Literature & the Arts** `HUM 216`
 - 📕 *The Consolation of Philosophy* by Boethius
 - 📜 *Apology* by Plato
 - 📜 *The Odyssey* by Homer
@@ -233,9 +234,6 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ### Arts <!-- 4 -->
-
-<!-- **Intro. to Theater Making** `THR/MTD 101`
-- 🎭 *Waiting for Godot* by Samuel Beckett ([my highlights](https://www.goodreads.com/notes/18882173-waiting-for-godot/185327722-daniel-dantas)) -->
 
 **Imagining Childhood** `WRI 118`
 - 📚 *A Pocket for Corduroy* <!-- 1978 --> • *Corduroy* <!-- 1968 --> • *The Giving Tree* <!-- 1964 --> • *Where the Wild Things Are* <!-- 1963 --> • *Horton Hears a Who!* <!-- 1954 -->
@@ -346,3 +344,10 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 
 ### Astrophysical Sciences <!-- 1 -->
 - 📕 *How I Killed Pluto & Why It Had It Coming* by Mike Brown ([my highlights](https://www.goodreads.com/notes/10076538-how-i-killed-pluto-and-why-it-had-it-coming/185327722-daniel-dantas))
+
+---
+
+### Near Eastern Studies <!-- 1 -->
+
+**The World of the Cairo Geniza** `NES/CDH 369 / HIS 251 / JDS 351` <!-- fa26 -->
+- 📕 *Sacred Trash: The Lost & Found World of the Cairo Geniza* by Hoffman & Cole ([my highlights](https://www.goodreads.com/notes/11849726-sacred-trash/185327722-daniel-dantas))
