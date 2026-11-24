@@ -343,6 +343,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 ---
 
 ### Astrophysical Sciences <!-- 1 -->
+
+**Planets in the Universe** `AST 205` <!-- fa26 -->
 - 📕 *How I Killed Pluto & Why It Had It Coming* by Mike Brown ([my highlights](https://www.goodreads.com/notes/10076538-how-i-killed-pluto-and-why-it-had-it-coming/185327722-daniel-dantas))
 
 ---
