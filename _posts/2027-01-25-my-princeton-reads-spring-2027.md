@@ -163,3 +163,8 @@ I use this page to track [books and papers I've read](https://www.goodreads.com/
 **Adv. German** `GER 107` <!-- sp27 -->
 - 📕 *All Quiet on the Western Front* by Erich Maria Remarque ([my highlights](https://www.goodreads.com/notes/63343829-all-quiet-on-the-western-front/185327722-daniel-dantas))
 
+### French & Italian <!-- 1 -->
+
+**Beyond Planet of the Apes: The Animal in French Science Fiction** `FRE 337`
+- 📕 *Planet of the Apes* by Pierre Boulle ([my highlights](https://www.goodreads.com/notes/11607290-planet-of-the-apes/185327722-daniel-dantas)) <!-- 1963 -->
+
